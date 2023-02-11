@@ -1,0 +1,38 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/20/All/7/5/7/-2/+1/0/Small/None///5P 2P 6P 6K 6H Special Super
+5K/24/All/7/3/12/-3/0/1/Small/None/80%//6P 5K 2K 6K 6H 5D 2D Jump Special Super
+c.S/15×2/All/7/3, 3/13/+1/+13/3/Mid/None/100%//6P 6K f.S 2S 5H 2H 6H 5D 2D Jump Special Super
+f.S/30/All/9/2/19/-7/-4/2/Mid/27-30F Head/90%//5H 2H Special Super
+5H/42/All/12/4/23/-8/-5/4/Large/None/100%//Special Super
+5D/40/High/20/3/26/-15/0/2/Mid/None/80%//
+5[D]/50/High/28/3/26/-10/KD/4/Mid/None/100%//Homing Jump
+6P/26/All/9/9/16/-11/-8/2/Mid/1-2F Upper Body 3-11F Above Knee/90%//Sp
+6K/35/High/28/2/14/-2/+2/2/Small/13-29F Below Knee/Initial 80%//Special Super
+6H/2040/All/17/5(13)4/23/-8/-5/4/Large×2/9-21F Airborne/100%//Special Super
+2P/18/All/4/2/10/-2/+1/0/Small/None/80%//5P 2P 6P 6K 6H Special Super
+2K/18/Low/6/3/12/-3/0/1/Small/None/70%//6P 6K 6H 5D 2D Special Super
+2S/28/Low/11/2/18/-6/-3/2/Mid/None/90%//5H 2H Special Super
+2H/45/All/14/7/17/-7/KD/3/Large/None/100%//Special Super
+2D/30/Low/12/3/22/-11/HKD/2/Large/None/Forced 90%//Special Super
+j.P/16/High/5/4/12/-/-/0/Small/None/80%//j.P Special
+j.K/20/High/6/4/12/-/-/1/Small/None/80%//j.D Jump Air Forward & Back Dash Special
+j.S/32/High/7/4/14/-/-/2/Mid/None/80%//j.H j.D Jump Air Forward & Back Dash Special
+j.H/35/High/8/10/25/-/-/2/Mid/None/80%//j.D Jump Air Forward & Back Dash Special
+j.D/35/High/9/7/27/-/-/2/Mid/None/80%//Jump Air Forward & Back Dash Special
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration//
+236S/35/All/12/14/Total 45/-14/KD/2/Very Small/9-41F Airborne 42-45F Below Knee/80%/S Tandem Top/
+236H/32×2/All/73/286/Total 51/-/KD/2/Very Small/18F onwards Airborne/80%/H Tandem Top/
+214S/7×3~9/All/17/1[(3)1]×2~8/16/-5, -7, -9/-2, -4, KD/1/Very Small/None/100%/Lust Shaker/
+214P/43/Low/20/till corner/17 + 10L/-12/HKD/3/Mid/10F onwards Airborne/90%/Iron Savior/
+j.236P/5×N, 31/High/11/Until Ground/20 + 12L/-21/KD/2/Very Small/None/80%/Bad Moon/
+j.236K/-/-/14/-/9L/-/-/-//None//Turbo Fall/
+214K/-/-/-/-/Total 28/-/-/-//1-3F Upper Body 4-24F Above Knee//Mirazh/
+j.236H/40/All/13/3/12/-1 at lowest height/KD/1/Very Small/1-12F Lower Body/80%/Kapel/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+236236S/20×2,60/All/4+5/till corner/Total 43/+8/HKD/224/Very Small/9-26F Airborne/100%/Septem Voices/
+632146H/20×5,60/All/8+1/10(9)15/40/-32/HKD/4/Mid/1-8F Full 7-40F Airborne/100%/Winger/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+/070/Ground Throw/2/3/38/-/HKD +33/-//None/Forced 50%/Ground Throw/
+/04030/Air Throw/2/3/Until land+10/-/HKD/-//None/Forced 50%/Air Throw/
+/////Total 24///////Dash Cancel/
+/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/

@@ -1,0 +1,54 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/52/All/7/6/19/-11/-8/3/Small/max range/80%//6P 6K c.6K f.6K 6H Special Super
+c.5P/40/All/7/6/19/-11/-8/2/Small//80%/close range/6P 6K c.6K f.6K 6H Special Super
+f.5P/52/All/7/6/19/-11/-8/3/Small/max range/80%//6P 6K c.6K f.6K 6H Special Super
+5K/30/All/6/3/11/-2/+1/1/Small//90%//6P 6K c.6K f.6K 6H 5D 2D Jump Special Super
+c.S/40/All/8/6/12/-1/+2/3/Mid//100%//6P 6K c.6K f.6K f.S 2S 5H 2H 6H 5D 2D Jump Special Super
+f.S/34/All/10/3/19/-8/-5/2/Mid//90%//5H 2H Special Super
+5H/48/All/16/4/19/-4/-1/4/Large//100%//Special Super
+2P/39/Low/10/4/21/-13/-10/1/Small/max range/80%//6P 6K c.6K f.6K 6H Special Super
+c.2P/30/Low/10/4/21/-13/-10/1/Small/close range/80%//6P 6K c.6K f.6K 6H Special Super
+f.2P/39/Low/10/4/21/-13/-10/1/Small/max range/80%//6P 6K c.6K f.6K 6H Special Super
+2K/26/Low/5/5/11/-4/+1/1/Small//70%//6P 6K c.6K f.6K 6H 5D 2D Special Super
+2S/45/All/9/10/23/-16/-13/4/Mid/max range/80%//5H 2H Special Super
+c.2S/35/All/9/10/23/-16/-13/3/Mid/close range/80%//5H 2H Special Super
+f.2S/45/All/9/10/23/-16/-13/4/Mid/max range/80%//5H 2H Special Super
+2H/58/Low/11/9/26/-18/-15/4/Large/max range/90%//Special Super
+c.2H/45/Low/11/9/26/-18/-15/3/Large/close range/90%//Special Super
+f.2H/58/Low/11/9/26/-18/-15/4/Large/max range/90%//Special Super
+j.P/41/High/9/4/23///2/Small/max range/80%//Special Super
+c.j.P/32/High/9/4/23///1/Small/close range/80%//Special Super
+f.j.P/41/High/9/4/23///2/Small//80%/max range/Special Super
+j.K/28/High/8/3/16///1/Small//80%//j.D Jump Forward Air Dash Special Super
+j.S/41/High/14/4/18///3/Mid/max range/80%//j.H j.D Jump Forward Air Dash Special Super
+c.j.S/32/High/14/4/18///2/Mid/close range/80%//j.H c.j.H f.j.H j.D Jump Forward Air Dash Special Super
+f.j.S/41/High/14/4/18///3/Mid/max range/80%//j.H c.j.H f.j.H j.D Jump Forward Air Dash Special Super
+j.H/52/High/12/6/25///3/Mid/max range/80%//j.D Jump Forward Air Dash Special Super
+c.j.H/40/High/12/6/25///2/Mid/close range/80%//j.D Jump Forward Air Dash Special Super
+f.j.H/52/High/12/6/25///3/Mid/max range/80%//j.D Jump Forward Air Dash Special Super
+j.D/44/High/10/3/22///3/Mid//80%//Jump Forward Air Dash Special Super
+6P/30/All/12/5/18/-13/+2/2/Mid/1~4F Upper Body 5~12F Above Knees/90%//Special Super
+6K/52/All/11/5/25/-13/-10/4/Mid/max range/90%//Special Super
+c.6K/40/All/11/5/25/-13/-10/3/Mid/close range/90%//Special Super
+f.6K/52/All/11/5/25/-13/-10/4/Mid/max range/90%//Special Super
+6H/54/High/27/9/13/-3/0/4/Large//80%//
+2D/34/Low/10/6/17/-9/HKD/2/Large//90%//Special Super
+5D/45/High/20/6/23/-15/0/2/Mid//80%//
+5[D]/56/High/28/6/23/-10/KD/4/Mid//100%//
+[4]6S/45/All/24/15/29/-9/KD/3/Very Small/max range/80%/Sickle Flash/[4]6S8 f.[4]6S [4]6S8 [4]6S2 [4]6S[2] [4]6SS [4]6SS [4]6S-dl.S
+c.[4]6S/45/All/24/15/29/-19/KD/3/Very Small/close range/80%/Sickle Flash(close)/[4]6S8 c.[4]6S [4]6S8 [4]6S2 [4]6S[2] [4]6SS [4]6SS [4]6S-dl.S
+f.[4]6S/45/All/24/15/29/-9/KD/3/Very Small/max range/80%/Sickle Flash(far)/[4]6S8 f.[4]6S [4]6S8 [4]6S2 [4]6S[2] [4]6SS [4]6SS [4]6S-dl.S
+[4]6S8/30/All/8/16/34/-11/HKD/3/Mid//80%/Soaring Chain Strike/
+[4]6S2/75/Low/7/36/19/-6/HKD/2/Mid//90%/Spinning Chain Strike/
+[4]6S[2]/75/Low/7/75/19/-6/HKD/2/Mid//90%/Spinning Chain Strike(held)/
+[4]6SS/40/All/18/10/24/-3/KD/3/Very Small/no delay/80%/Winter Cherry/
+[4]6S-dl.S/60/All/22/10/24/+10/KD/4/Very Small/delayed/80%/Winter Cherry(delayed)/
+41236H/62/throw/28/20/34//HKD///does 1 less damage at close range/50%/Winter Mantis/
+214S/40/All/24/3/21/+3/KD/3/Mid//90%/Rainwater/
+214H/45/All/14/12/29/-24/KD/3/Mid//100%/Snail/
+j.214H/45/All/14/9/Until L+10/-19/KD/3/Mid//100%/Air Snail/
+j.236H/80/All/9/10/Until L+7/-22/HKD/4/Large//100%/Axl Bomber/
+236236H/160/All/12/45/26/-2/HKD/4/Mid/1~15F All, 11+4f startup, 6f gap in active frames/100%/Sickle Storm/
+
+
+

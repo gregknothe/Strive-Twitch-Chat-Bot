@@ -1,0 +1,46 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/26/All/7/3/6/+3/+6/1/Small//80%//6P 6H Special Super
+5K/33/Low/10/9/12/-7/-4/2/Small//70%//6P 6H 5D 2D Jump Forward Dash Special Super
+c.S/39/All/7/6/12/+1/+4/4/Mid////6P f.S 2S 5H 2H 6H 5D 2D Jump Forward Dash Special Super
+f.S/31/All/10/3/18/-7/-4/2/Mid//90%//5H 2H Special Super
+5H/41/All/19/6/15/-2/+1/4/Large//100%//Special Super
+5D/50/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/62/High/28/3/26/-10/KD/4/Mid//~//
+6P/39/All/12/6/27/-19/-16/2/Mid/1~2 Upper Body 3~17 Above Knees/90%//Special Super
+6H/65/All/25/3/30/-14/-11/4/Large////Special Super
+2P/23/All/5/3/6/+3/+6/1/Small//80%//6P 6H Special Super
+2K/26/Low/8/3/11/-3/0/1/Small//70%//6P 6H 5D 2D Special Super
+2S/29/All/13/3/20/-9/-6/2/Mid//90%//5H 2H Special Super
+2H/43/All/20/4/30/-15/KD/4/Large////Special Super
+2D/34/Low/14/3/24/-10/KD/3/Large//90%//Special Super
+j.P/25/High/6/3/12///0/Small//80%//Special
+j.K/29/High/9/4/17///1/Small//80%//j.D Forward Air Dash Special
+j.S/37/High/11/11/13///2/Mid//80%//j.H j.D Forward Air Dash Special
+j.H/43/High/15/4////2/Mid//80%//j.D Forward Air Dash Special
+j.D/47/High/14/10////3/Mid//80%//Forward Air Dash Special
+41236H/70/All (Guard Crush)/26/20/18/+12/KD/4/Mid/(Normally: 12f startup)/100%/Behemoth Typhoon (426)/
+j.41236H/70/All/12/20///KD/4/Mid/(Normally: 12f startup)/100%/Air Behemoth Typhoon (426)/
+63214H/70/All (Guard Crush)/12/20/21/-5/KD/4/Mid//100%/Behemoth Typhoon (624)/
+j.63214H/70/All/12/20///KD/4/Mid//100%/Air Behemoth Typhoon (624)/
+23698H/70/All (Guard Crush)/15/15/18/+6/KD/4/Mid/(Normally: 12f startup)/100%/Behemoth Typhoon (268)/
+j.23698H/70/All/12/15///KD/4/Mid//100%/Air Behemoth Typhoon (268)/
+21478H/70/Low (Guard Crush)/12/15/18/+3/KD/4/Mid//90%/Behemoth Typhoon (248)/
+j.21478H/70/All/12/15///KD/4/Mid//100%/Air Behemoth Typhoon (248)/
+69874H/70/All* (Guard Crush)/12/20/21/-5/KD/4/Mid//100%/Behemoth Typhoon (684)/
+j.69874H/70/All/12/20///KD/4/Mid//100%/Air Behemoth Typhoon (684)/
+47896H/70/High (Guard Crush)/28/20/18/14/KD/4/Mid//80%/Behemoth Typhoon (486)/
+47896H(st)/70/High (Guard Crush)/28/20/18/14/KD/4/Mid//80%/Behemoth Typhoon (486)(st)/
+47896H(cr.or.short)/70/High (Guard Crush)/29/20/18/15/KD/4/Mid//80%/Behemoth Typhoon (486)(cr)/
+j.47896H/70/All/12/20///KD/4/Mid//100%/Air Behemoth Typhoon (486)/
+87412H/70/Low (Guard Crush)/25/15/18/+16/KD/4/Mid//90%/Behemoth Typhoon (842)/
+j.87412H/70/All/12/15///KD/4/Mid//100%/Air Behemoth Typhoon (842)/
+89632H/70/High (Guard Crush)/21/15/18/+12/KD/4/Mid//80%/Behemoth Typhoon (862)/
+89632H(st)/70/High (Guard Crush)/21/15/18/+12/KD/4/Mid//80%/Behemoth Typhoon (862)(st)/
+89632H(cr)/70/High (Guard Crush)/23/15/18/+12/KD/4/Mid//80%/Behemoth Typhoon (862)(cr)/
+j.89632H/70/All/12/20///KD/4/Mid//100%/Air Behemoth Typhoon (862)/
+214S/40/All/57/24/42///2/Very Small/has 3 levels based on security meter, 214S.1-3/80%/Thunderbird (Level 1)/
+236S/50/All/35//84/-13/-10/0/Very Small/has 3 levels based on security meter: 236S.1-3/80%/Skyfish (Level 1)/
+632146P/160/All/10/5/46/-33//3/Mid/1~14 All, non-clean hit, 6+4f startup/100%/Down With The System/
+720P/175/All/15/5/46/-33//3/Mid/1~19 All, non-clean hit, 11+4f startup/100%/Down With The System (720)/
+1080P/190/All/20/5/46/-33//3/Mid/1~24 All, non-clean hit, 16+4f startup/100%/Down With The System (1080)/
+236236K/40/All/92/32/27///2/Small/13+84f startup, has 3 levels based on security meter, 236236K.1-3//Burn It Down/

@@ -1,0 +1,32 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/26/All/6/3/7/0//0/Small//80%//5P 2P 6P 6H 6K Special Super
+5K/29/All/7/3/12/-3//1/Small//90%//6P 6H 6K 5D 2D Jump Forward Dash Special Super
+c.S/41/All/7/6/10/+1//3/Mid//100%//6P f.S 2S 5H 2H 6H 6K 5D 2D Jump Forward Dash Special Super
+f.S/34/All/13/3/19/-8//2/Mid//90%//5H 2H Special Super
+5H/25, 25/All/16/3(12)3/18/-4//3/Large//100%//Special Super
+5D/45/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/56/High/28/4/25/-10/KD/4/Mid//100%//
+2P/21/All/5/3/9/-2//0/Small//80%//5P 2P 6P 6H 6K Special Super
+2K/25/Low/6/3/11/-2//1/Small//70%//6P 6H 6K 5D 2D Special Super
+2S/32/All/12/6/13/-5//2/Mid//90%//5H 2H Special Super
+2H/15, 25/Low, All/14/3(12)6/27/-16//3/Large//90%, 100%//Special Super
+2D/33/Low/10/6/15/-7//2/Large//90%//Special Super
+6P/34/All/11/6/20/-12//2/Mid//90%//Special Super
+6K/36/Low/21/4/10/+3/KD/3/Mid//90%//
+6H/48/All/15/4/17/-7//3/Large//100%//Special Super
+j.P/19/High/6/3/9///0/Small//80%//j.P Special Super
+j.K/26/High/7/3/15///1/Small//80%//j.D Jump Forward Air Dash Special Super
+j.S/33/High/9/4/21///2/Mid//80%//j.H j.D Jump Forward Air Dash Special Super
+j.H/44/High/11/4/26///2/Mid//80%//j.D Jump Forward Air Dash Special Super
+j.D/41/High/28/Until Landing/16/-3 at most//2/Mid//80%//Jump Forward Air Dash Special Super
+236H/35/All/16/6/22/-14//2/Mid//90%/Beak Driver/236H-H
+236H-H/47/All/13/11/9/-3//3/Mid//90%//
+623S/20, 30/All/9/6(23)4/36/-26//2/Large, Very Small/1-15 Strike/60%/Hawk Baker/623S-S
+623S-S/43/All/12/3/33/-19//3/Mid/1-14 Strike/60%//
+214S/17, 17/High/21/3(?)3/22/-11//2/Mid//80%/Hoof Stomp/214S-S
+214S-S/41/All/13/3/22/-8//3/Mid//100%//
+236K/33/Low/24/7/15/-8//2/Mid/Low profile/90%/Elk Hunt/236K-K
+236K-K/41/All (Guard Crush)/13/3/20/+7//3/Mid//100%//
+632146H/30×2, 60/All/15/////2/Mid/All/100%/R.T.L./
+236236P///11////4/4/Mid/None/100%/Tyrant Barrel/
+

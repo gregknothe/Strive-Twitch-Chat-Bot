@@ -1,0 +1,30 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/23/All/5/4/8/-2/+1/0/Small//80%//5P 2P 6P 6H 6H(1) Special Super
+5K/27/All/7/6/10/-4/-1/1/Small//90%//6P 6H 6H(1) 5D 2D Jump Special Super
+c.S/39/All/7/6/10/+1/+4/3/Mid//100%//6P f.S 2S 5H 2H 6H 6H(1) 5D 2D Jump Special Super
+f.S/32/All/11/6/17/-9/-6/2/Mid//90%//5H 2H Special Super
+5H/48/All/10/8/23/-6/KD/4/Large//100%//Special Super
+2P/21/All/5/4/9/-3/0/0/Small//80%//5P 2P 6P 6H 6H(1) Special Super
+2K/24/Low/6/3/12/-3/+0/1/Small/F6~20 Low-profile/70%//6P 6H 6H(1) 5D 2D Special Super
+2S/31/All/9/7/22/-15/-12/2/Mid//90%//5H 2H Special Super
+2H/41/All/15/6/18/-5/KD/4/Large//100%//Special Super
+j.P/19/High/6/4/6///0/Small//80%//j.P Special
+j.K/23/High/7/6/12///1/Small//80%//j.D Forward Air Dash Jump Special
+j.S/28/High/11/5/21///2/Mid/iAD>j.S: +3f(OB), +6f(OH)/80%//j.H j.D Forward Air Dash Jump Special
+j.H/35/High/11/33/32///2/Mid/iAD>j.H: +5f(OB), +8f(OH)/80%//j.D Forward Air Dash Jump Special
+j.D/30/All/21//44///1/Very Small//80%//
+6P/28/All/10/6/20/-12/KD/2/Mid/1~1 Upper Body 2~12 Above Knees/90%//Special Super
+6H/60/All/8/22/14/-6/-3/4/Large//100%//Special Super
+6H(1)/20/All/8/2/14/-6/-3/3/Large/first hit/100%//Special Super
+6H(2)/40/All/19/11/14/-6/-3/4/Large/second hit/100%//Special Super
+2D/29/Low/10/15/18/-19/HKD/2/Large/F10~33 Low-profile/90%//Special Super
+5D/45/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/56/High/28/3/26/-10/KD/2/Mid//100%//
+214K/50/All/12/6/23/+15/KD/2/Very Small//80%/Attack Command/
+214S/33//4/34/24//+31////80%/Defend Command/
+(Hold>Throw)/30/All/12//27/+5/+8/0/Very Small//70%/Throw Servant/
+(Hold>Defend)/33//4/28/24//+31////80%/Held Defend Command/
+214H/80/All/209/19/24//KD/3/Very Small//80%/Countdown/
+236K/31/All/15/4/25/-12/KD/3/Mid//100%/Servant Shoot/
+(Servant>Launch)/45/All/6///-6/-3/0/Very Small//80%/Servant/
+632146P/179/Throw/11/2/58//HKD///All 1~12F, Throw 1~55F, 10+1f startup/100%/Forever Elysion Driver/

@@ -1,0 +1,37 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/22/All/5/4/9/-3/0/0/Small//80%//5P 2P 6P 6H 6H(1) Special Super
+5K/28/All/7/3/11/-2/+1/1/Small//90%//6P 6H 6H(1) 5D 2D Jump Special Super
+c.S/39/All/7/4/12/+1/+4/3/Mid//100%//6P f.S 2S 5H 2H 6H 6H(1) 5D 2D Jump Special Super
+f.S/31/All/13/8/18/-13/-10/2/Mid//90%//5H 2H Special Super
+5H/41/All/15/4/23/-8/-5/4/Large//100%//Special Super
+2P/20/All/5/2/10/-2/+1/0/Small//80%//5P 2P 6P 6H 6H(1) Special Super
+2K/23/Low/6/2/12/-2/+1/1/Small//70%//6P 6H 6H(1) 5D 2D Special Super
+2S/28/All/10/2/23/-11/-8/2/Mid//90%//5H 2H Special Super
+2H/42/All/11/8/14/-5/-2/3/Large//100%//Special Super
+j.P/18/High/5/4/12///0/Small//80%//j.P Forward Air Dash Special Super
+j.K/24/High/7/12/14///1/Small//80%//j.D Jump Forward Air Dash Special Super
+j.S/29/High/8/4/20///2/Mid//80%//j.H j.D Jump Forward Air Dash Special Super
+j.H/41/High/12/5/22///2/Mid//80%//j.D Jump Forward Air Dash Special Super
+j.D/35/High/16/5/20///2/Mid//90%//Jump Forward Air Dash Special Super
+6P/34/All/9/5/18/-9/-6/2/Mid/1-2 Upper Body 3-13 Above Knees/90%//Special Super
+6H/65/All/7/22/19/-8/KD/4/Large//100%//Special Super
+6H(1)/20/All/7/2/19/-8/KD/3/Large//100%//Special Super
+6H(2)/45/All/7/8/19/-8/KD/4/Large//100%//Special Super
+2D/33/Low/12/3/18/-7/HKD/2/Large//90%//Special Super
+5D/45/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/56/High/28/3/26/-11/KD/4/Mid//100%//
+236S/36/Low/16/6/15/-7//2/Mid/5~15F Low ProfileWhen a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short./90%/S Stroke the Big Tree/
+236H/42/Low/28/5/16/-2//4/Mid/9~27F Low ProfileWhen a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short./90%/H Stroke the Big Tree/
+j.236K/35/All/10/Until Landing/Until Landing + 18/-1//2/Very Small/-2f(OB) on pop up/100%/K Sultry Performance/
+j.236[K]/50/All/10/Until Landing/Until Landing + 18/+2//4/Very Small/+2f(OB) on pop up/100%/K Sultry Performance(held)/
+j.236S/35/All/10/Until Landing/Until Landing + 18/-2//2/Very Small/-4f(OB) on pop up/100%/S Sultry Performance/
+j.236[S]/50/All/10/Until Landing/Until Landing + 18/+1//4/Very Small/+1f(OB) on pop up/100%/S Sultry Performance(held)/
+j.236H/40/All/9/32/Until Landing + 6///2/Very Small/-7f(OB) on pop up/100%/H Sultry Performance/
+j.236[H]/60/All/9/32/Until Landing + 6///4/Very Small/-2f(OB) on pop up/100%/H Sultry Performance(held)/
+214P/38/All/29//51/-16//0/Very Small//80%/Antidepressant Scale/
+j.214P/48/All/28//Until Landing + 6/-16//0/Very Small//80%/Air Antidepressant Scale/
+214K/45/All/11/14/22/-2//4/Very Small//80%/Chemical Love/
+j.214K/45/All/11/14/Until Landing + 7///4/Very Small//80%/Air Chemical Love/
+632146H/234/Throw, All/11///-18//2//187dmg on throw whiff/100%/Megalomania/
+632146S/180/All (Guard Crush)/9/55/13/+26//4//Full F1~11, 7+2f startup, ~21f gap after the first hit/100%/Ultimate Fortissimo/
+j.632146S/140/All (Guard Crush)/8///+37////5+3f startup/100%/Air Ultimate Fortissimo/

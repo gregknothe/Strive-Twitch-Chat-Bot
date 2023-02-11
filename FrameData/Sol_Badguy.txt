@@ -1,0 +1,48 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/28/All/4/5/9/-2/+1/1/Small//80%//5P 2P 6P 6S 6H Special Super
+5K/42/All/3/3/25/-16/-13/1/Small//80%//6P 6S 6H 5D 2D Jump Forward Dash Special Super
+5K(1)/14/All/3/1/25/-16/-13/0/Small//80%//6P 6S 6H 5D 2D Jump Forward Dash Special Super
+5K(2)/28/All/4/3/25/-16/-13/1/Small//80%//6P 6S 6H 5D 2D Jump Forward Dash Special Super
+c.S/44/All/7/6/10/+3/+13/4/Mid//100%//6P f.S 2S 6S 5H 2H 6H 5D 2D Jump Forward Dash Special Super
+f.S/29/All/10/2/13/+2/+5/3/Mid//90%//5H 2H Special Super
+5H/52/All/11/4/20/-5/-2/4/Large//100%//Special Super
+2P/22/All/5/4/8/-2/+1/0/Small//80%//5P 2P 6P 6S 6H Special Super
+2K/28/Low/6/3/11/-2/+1/1/Small//70%//6P 6S 6H 5D 2D Special Super
+2S/34/All/10/6/15/-7/-4/2/Mid//90%//5H 2H Special Super
+2H/46/All/11/5/31/-17/-2/4/Large//100%//Special Super
+j.P/24/High/5/3/8///0/Small//80%//j.P Special
+j.K/30/High/6/3/20///1/Small//80%//j.D Jump Forward Air Dash Special
+j.S/36/High/10/3/23///2/Mid/iAD>j.S: +2f(OB), +5f(OH)/80%//j.H j.D Jump Forward Air Dash Special
+j.H/48/High/11/12/0///2/Mid//80%//j.D Jump Forward Air Dash Special
+j.D/45/High/9/3/17//KD/3/Mid//80%//Jump Forward Air Dash Special
+6P/36/All/9/5/20/-11/+24/2/Mid/1~2F Upper Body 3~13F Above Knees/90%//Special Super
+6S/45/All/15/6/20/-9/-4/4/Mid//90%//Special Super
+6H/60/All/9/3/43/-27/+9/4/Large//100%//
+2D/36/Low/10/3/18/-4/+49/3/Large/5~24F Low Profile/90%//Special Super
+5D/50/High/20/3/26/-15/±0/2/Mid//80%//
+5[D]/62/High/28/3/26/-10/+36/2/Mid//100%//
+236P/40/All/20/10/54/-8/+39/2/Very Small//80%/Gun Flame/
+236P(1)/40/All/18/10/54/-8/+39/2/Very Small/can be up to +1f(OB)/80%/Gun Flame(1)/
+236P(2)/35/All/18/10/54/+2/+39/2/Very Small/can be up to +11f(OB)/80%/Gun Flame(2)/
+236P(3)/30/All/18/10/54/+12/+39/2/Very Small/can be up to +21f(OB)/80%/Gun Flame(3)/
+236P(4)/30/All/18/10/54/+22/+39/2/Very Small/can be up to +26f(OB)/80%/Gun Flame(4)/
+214P/////25///////Gun Flame (Feint)/
+623S/40/All/9/14/18+10 after landing/-28/+17/2/Mid/1~11F Strike/60%/S Volcanic Viper/
+623H/75/All/13/16/29/-26/+18/2/Large, Very Small/1~14F Strike, non-clean hit/60%/H Volcanic Viper/
+j.623S/40/All/9/9/Until landing+10//KD/2/Mid/1~10F Strike/60%/Air S Volcanic Viper/
+j.623H/75/All/13/16/Until landing+10//KD/2/Large, Very Small/1~14F Strike, non-clean hit/60%/Air H Volcanic Viper/
+236K/20/All/12/6/9+6 after landing/-7/-4/2/Mid//90%/Bandit Revolver (1)/236KK
+236KK/25/All/6/2/Until landing+17/-11/+21/2/Mid//90%/Bandit Revolver (2)/
+j.236K/20/All/10/6/Until landing+6///2/Mid//90%/Air Bandit Revolver (1)/j.236KK
+j.236KK/25/All/6/2/Until landing+17//KD/2/Mid//90%/Air Bandit Revolver (2)/
+214K/50/High/30/7/12 after landing/-2/+45/3/Mid//80%/Bandit Bringer/
+j.214K/40/High/22/Until landing/Until landing+18//HKD/3/Mid//80%/Air Bandit Bringer/
+j.214[K]/40/High/30/Until landing/Until landing+18//HKD/3/Mid//80%/Air Bandit Bringer/
+623K/120/throw/6/2/41//+15///1~7F Throw/Forced 50%/Wild Throw/
+214S/45/All/15/2/32/-17/+66/3/Large/7F til 1F before active Low Profile/90%/Night Raid Vortex/
+214[S]/55/All/32/8/26/-17/+72/3/Large/7F til 1F before active Low Profile/90%/Night Raid Vortex/
+41236H/65/All (Guard Crush)/24/3/16/+11/+76/4/Mid//90%/Fafnir/
+632146H/170/All/9/3(20)20/41/-44/+19/3/Mid, Very Small/1~8F Full, 7+2f startup/100%/Tyrant Rave/
+632146H/200/All/9/3(20)20/41/-44/+49/3/Mid, Very Small/1~8F Full, 7+2f startup/100%/Tyrant Rave/
+214214H/201/throw/20/16/49//+27///14~35F Throw, Guardpoint, 13+7f startup/100%/Heavy Mob Cemetery/
+

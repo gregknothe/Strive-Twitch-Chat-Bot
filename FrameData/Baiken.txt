@@ -1,0 +1,33 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/24/All/4/2/10/-2/+1/0/Small//80%//5P 2P 6P 6K 6H Special Super
+5K/29/All/7/5/10/-3/0/1/Small////6P 6K 6H 5D 2D Jump Special Super 2369S 8236S 9236S
+c.S/43/All/7/6/13/+1/+4/3/Mid//100%//6P 6K f.S 2S 5H 2H 6H 5D 2D Jump Special Super 2369S 8236S 9236S
+f.S/33/All/9/6/15/-7/-4/2/Mid//90%//5H 2H Special Super
+5H/47/All/13/2/25/-8/-5/4/Large//100%//Special Super
+2P/21/All/6/3/9/-2/+1/0/Small//80%//5P 2P 6P 6K 6H Special Super
+2K/27/Low/6/5/10/-3/0/1/Small//70%//6P 6K 6H 5D 2D Special Super
+2S/31/All/11/3/19/-8/-5/2/Mid//90%//5H 2H Special Super
+2H/44/Low/17/6/26/-13/+21/4/Large//90%//Special Super
+j.P/23/High/5/3/13///0/Small//80%//j.P Special Super
+j.K/29/High/7/8/12///1/Small//80%//j.D Jump Forward Air Dash Special Super
+j.S/33/High/8/7/19///2/Mid//80%//j.H j.D Jump Forward Air Dash Special Super
+j.H/41/High/15/Until Landing/Landing+3///2/Mid//80%//j.D Jump Forward Air Dash Special Super
+j.D/53/High/12/3/26///3/Mid//90%//Jump Forward Air Dash Special Super
+6P/32/All/9/5/19/-10/-7/2/Mid/1-3f Upper Body 4-13f Above Knees/90%//Special Super
+6K/33/All/12/9/10/-5/-2/2/Mid//100%//Special Super
+6H/52/All/20/8/24/-13/-10/4/Large//100%//Special Super
+2D/36/Low/10/63/21/-10/+49/2/Large//70%//Special Super
+5D/45/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/56/High/28/3/26/-10/Launch/4/Mid//100%//
+236K/70/All/15/29/5/-3/+42/3/Mid, Very Small//90%/Tatami Gaeshi/
+j.236K/40/All/20/Until Landing/Landing+7///2/Very Small//80%/Air Tatami Gaeshi/
+41236S/30/All/31/11/16/+2/+5/4/Mid//100%/S Kabari/
+41236H/30/All/18/11/19/-3/0/4/Mid//100%/H Kabari/41236HH 41236H[H]
+41236HH/48/All/11/3/14/-7/+58/3/Mid/close range/100%/Kabari Followup/
+41236H[H]/48/All/23/3/14/-7/+58/3/Mid/close range/100%/Kabari Followup/
+j.236S/50/High/9/12/Landing+7/-14/+6/2/Mid/using 2369S TK method/80%/Youzansen/
+[2]369S/50/High/17/12/Landing+7/-12/+8/2/Mid//80%//
+236236S/190/All/9/65/48/-32/+42/4/Mid/1~10 Full, 8+1f startup, 20f gap before the final strike/100%/Tsurane Sanzu-watashi/
+214214P/110/All (Guard Crush)/11///+5/HKD/4/Small/8+3f startup//Kenjyu/
+j.214214P/110/All (Guard Crush)/14////HKD/4/Small/11+3f startup//Air Kenjyu/
+

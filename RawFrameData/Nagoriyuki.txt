@@ -1,0 +1,70 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/26/Mid/5/3/9/0/+3/1/Small//80%//5P 2P 6P 6K 6H Special Super
+5K/34/Mid/7/2/12/0/+3/2/Small//90%//6P 6K 6H 5D 2D Jump Special Super
+c.S/40/Mid/7/6/10/+3/KD/4/Mid////6P 6K f.S 2S 5H 2H 6H 5D 2D Special Super
+f.SLevel1/25/Mid/16/3/28/-17/-14/2/Mid//90%//
+f.SLevel2/30/Mid/14/3/28/-17/-14/2/Mid//90%//
+f.SLevel3/35/Mid/12/3/28/-17/-14/2/Mid//90%//
+f.SLevelBR/45/Mid/12/3/28/-17/-14/2/Mid//90%//
+f.SSLevel1/25/Mid/13/3/19/-8/-5/2/Mid////
+f.SSLevel2/30/Mid/13/3/19/-8/-5/2/Mid////
+f.SSLevel3/35/Mid/13/3/19/-8/-5/2/Mid////
+f.SSLevelBR/45/Mid/13/3/19/-8/-5/2/Mid////
+f.SSSLevel1/25/Mid/14/6/38/-25/HKD/4/Mid////
+f.SSSLevel2/30/Mid/14/6/38/-25/HKD/4/Mid////
+f.SSSLevel3/35/Mid/14/6/38/-25/HKD/4/Mid////
+f.SSSLevelBR/80/Mid/14/6/38/-25/HKD/4/Mid////
+5HLevel1/60/Mid/20/6/27/-14/KD/4/Large////
+5HLevel2/65/Mid/18/6/27/-14/KD/4/Large////
+5HLevel3/70/Mid/16/6/27/-14/KD/4/Large////
+5HLevelBR/91/Mid/16/6/27/-14/KD/4/Large////
+2P/22/Mid/6/3/11/-2/+1/1/Small//80%//5P 2P 6P 6K 6H Special Super
+2K/26/Low/7/5/8/-1/+2/1/Small//70%//6P 6K 6H 5D 2D Special Super
+2SLevel1/32/Low/12/4/15/-5/-2/2/Mid//90%//
+2SLevel2/37/Low/11/4/15/-5/-2/2/Mid//90%//
+2SLevel3/42/Low/10/4/15/-5/-2/2/Mid//90%//
+2SLevelBR/54/Low/10/4/15/-5/-2/2/Mid//90%//
+2HLevel1/50/Mid/19/7/29/-17/KD/4/Large////
+2HLevel2/55/Mid/17/7/29/-17/KD/4/Large////
+2HLevel3/60/Mid/15/7/29/-17/KD/4/Large////
+2HLevelBR/78/Mid/15/7/29/-17/KD/4/Large////
+j.P/20/High/7/3/12///0/Small//80%//j.P
+j.K/26/High/7/3/19///1/Small//80%//j.D
+j.SLevel1/35/High/13/3/20///2/Mid//80%//
+j.SLevel2/37/High/12/3/20///2/Mid//80%//
+j.SLevel3/39/High/11/3/20///2/Mid//80%//
+j.SLevelBR/50/High/11/3/20///2/Mid//80%//
+j.HLevel1/41/High/16/4/23///3/Mid//80%//
+j.HLevel2/43/High/15/4/23///3/Mid//80%//
+j.HLevel3/45/High/14/4/23///3/Mid//80%//
+j.HLevelBR/58/High/14/4/23///3/Mid//80%//
+j.DLevel1/55/High/15/3/20///3/Mid//80%//
+j.DLevel2/60/High/13/3/20///3/Mid//80%//
+j.DLevel3/65/High/11/3/20///3/Mid//80%//
+j.DLevelBR/84/High/11/3/20///3/Mid//80%//
+6P/34/Mid/12/5/15/-6/-3/2/Mid/1~3F Upper body 4~17F Above Knee/90%//Special Super
+6K/35/Low/15/3/15/-4/-1/2/Mid//90%//Special Super
+6HLevel1/70/Mid/17/6/30/-17/KD/4/Large////
+6HLevel2/80/Mid/16/6/30/-17/KD/4/Large////
+6HLevel3/90/Mid/15/6/30/-17/KD/4/Large////
+6HLevelBR/117/Mid/15/6/30/-17/KD/4/Large////
+2D/30/Low/12/3/18/-7/HKD/2/Large//90%//Special Super
+5D/50/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/62/High/28/3/26/-10/KD/4/Mid//100%//
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration//
+236S/45/Mid/18/9/Total 39/+5/+8/2/Very Small//80%/Zarameyuki/
+236K///-//Total 25/////1~25F Above Chest//Forward Fukyo/
+214K///-//Total 16/////1~16F Above Chest//Backward Fukyo/
+214H/50/Mid/14/5/17/-3/HKD/4/Large//90%/Kamuriyuki/
+623H/45/Mid/11/3/21/-7/HKD/3/Large/1-13F Upper Body//Shizuriyuki (1)/
+623HH/55/Mid/10/6/29/-16/HKD/4/Large///Shizuriyuki (2)/
+623P/"80/90/100"/Ground Throw/7/2/48//HKD///1~8F Throw/50%/Bloodsucking Universe/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+632146S/70, 3×17, 60/Mid/7+(173 Flash)+2/2/54/-37/HKD +73/3/Mid/1~10F Full//Wasureyuki/
+632146H/200/Mid/11+(58 Flash)+10/6/80/-66/HKD +15/4/Very Small/1~26F Full//Zansetsu/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+//Guard Crush/4+38+3/10/70/-12/HKD///1~15f Full after freeze//BR Activation/
+///1+59//0/////1F Full//BR Deactivation/
+/90/120/2/3/38//HKD +41////50%/Ground Throw/
+/90/200/2/3/Until landing+10//HKD////50%/Air Throw/
+/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/

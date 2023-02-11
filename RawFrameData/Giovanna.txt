@@ -1,0 +1,36 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/26/All/4/3/9/-2/+1/0/Small//80%//5P 2P 6P 6H Special Super
+5K/30/All/6/4/10/-2/+1/1/Small//90%//6P 6H 5D 2D Jump Forward Dash Special Super
+c.S/40/All/7/6/10/+3/+13/4/Mid//100%//6P f.S 2S 5H 2H 6H 5D 2D Jump Forward Dash Special Super
+f.S/10, 10, 16/All/9/2(6)2(6)2/16/-4/-1/2/Mid//90%//5H 2H Special Super
+5H/45/All/10/3/19/-5/-2/3/Large//100%//Special Super
+2P/22/All/5/2/10/-2/+1/0/Small//80%//5P 2P 6P 6H Special Super
+2K/28/Low/6/3/11/-2/+1/1/Small//70%//6P 6H 5D 2D Special Super
+2S/16, 18/Low/9/3(5)3/15/-6/-3/2/Mid//90%//5H 2H Special Super
+2H/40/All/11/6/21/-8/-5/4/Large//100%//Special Super
+j.P/20/High/6/5/9///0/Small//80%//j.P Special Super
+j.K/25/High/6/3/19///1/Small//80%//j.D Jump Forward Dash Special Super
+j.S/30/High/7/3/24///2/Mid//80%//j.H j.D Jump Forward Dash Special Super
+j.H/35/High/8/5/18/+4 (IAD)/+7 (IAD)/2/Mid//80%//j.D Jump Forward Dash Special Super
+j.D/20, 20/High/7/3(7)3/18///2, 3/Mid//80%//Jump Forward Dash Sp
+6P/32/All/12/8/15/-9/KD/2/Mid/1~4 Upper Body 5~19 Above Knees/90%//Special Super
+6H/32/All/17/9/15/-10/KD/2/Large/14~28F Airborne/100%//6HH Special Super
+6HH/32/All/11///-11/KD/2/Large//100%//6HHH Special Super
+6HHH/40/All/13///-16/HKD/3/Large//100%//
+2D/40/Low/17/10/12/-8/HKD/2/Large//90%//Special Super
+5D/45/High/20/4/25/-15/-0/2/Mid//80%//
+5[D]/56/High/28/4/25/-10/KD/4/Mid//100%//
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration//
+236K/48/All/27/10/15/+4/+7/4/Mid//90%/Trovao/
+214K/38/All/13/3/20/-4/HKD/4/Mid//90%/Sepultura/
+623S/40/All/7/8/21/-15/KD/4/Mid/upper body invuln 1~6 above the knees 7~9/90%/Sol Nascente/
+214S/40, 30/All, High/[4] 27/6(20)3/21/-5/HKD, KD/3, 4/Very Small/7~37F Airborne/100%, 80%/Sol Poente/
+j.214S/20, 30/All, High/[4] 27/6(20)3/Until L+12//HKD, KD/3, 4/Very Small//100%, 80%/Air Sol Poente/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+632146H/21×4, 84/All/5+4/4(4)4(4)4(4)4(4)7/49/-37/HKD/4/Mid/1~10F Full/100%/Ventania/
+j.236236H/42, 10×5, 21, 31/All/3+1/Until L//0 ~ +6/HKD/3/Mid//100%/Tempestade/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+/80/Throw/2/3/38//HKD +38////50%/Ground Throw/
+/80/Throw/2/3/Until L+10//KD////50%/Air Throw/
+/////Total 22///////Dash Cancel/
+/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/

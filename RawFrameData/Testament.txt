@@ -1,0 +1,41 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/24/All/6/3/9/-2/+1/0/Small//80%//5P 2P 6P 6H Special Super
+5K/28/All/7/4/11/-3/0/1/Small//90%//6P 6H 5D 2D Jump Special Super
+c.S/39/All/8/6/10/+1/+4/3/Mid//100%//6P f.S 2S 5H 2H 6H 5D 2D Jump Special Super
+f.S/33/All/12/3/18/-7/-4/2/Mid//90%//5H 2H Special Super
+5H/46/All/13/2/25/-8/KD/4/Large//100%//Special Super
+5D/45/High/20~28/3/26/-15/±0/2/Mid//80%//
+5[D]/56/High/28/3/26/-10/KD (+36)/2/Mid//100%//
+6P/31/All/11/6/15/-7/KD/2/Mid/1~3 Upper Body 4~17 Above knees/90%//Special Super
+6H/61/All/23/6/32/-19/KD/4/Large//100%//Special Super
+2P/22/All/5/3/10/-3/0/0/Small//80%//5P 2P 6P 6H Special Super
+2K/28/Low/6/2/13/-3/0/1/Small//70%//6P 6H 5D 2D Special Super
+2S/30/Low/10/3/18/-7/-4/2/Mid//90%//5H 2H Special Super
+2H/49/All/23/9/12/-2/KD/4/Large//100%//Special Super
+2D/32/Low/14/3/22/-8/KD/3/Large//90%//Special Super
+j.P/19/High/6/4/10///0/Small//80%//j.P Special Super
+j.K/25/High/8/2/12///1/Small//80%//j.D Jump Forward Air Dash Special Super
+j.S/31/High/9/3/19///2/Mid//80%//j.H j.D Jump Forward Air Dash Special Super
+j.H/40/High/13/5/16/+5 (IAD)/+8 (IAD)/2/Mid//80%//j.D Jump Forward Air Dash Special Super
+j.D/46/High/12/6/22///2/Mid//80%//
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration//
+Stain/40/All//////3/Very Small//80%/Stain/
+236S/43, 31/All/16~22/4, (5), 30/27/-4/KD/3, 1/Mid, Very Small//90%, 80%/S Grave Reaper/
+236H/43, 31/All/13~19/4, (5), 30/21/+2/KD/3, 1/Mid, Very Small//90%, 80%/H Grave Reaper/
+236{S}/48, 36/All/23~29/4, (5), 70/22/+3/KD/3, 2/Mid, Very Small//90%, 80%/S Grave Reaper/
+236{H}/48, 36/All/20~26/4, (5), 70/16/+9/KD/3, 2/Mid, Very Small//90%, 80%/H Grave Reaper/
+236[S]/53, 41/All/30~36/4, (5), 110/19/+10/KD/3, 3/Mid, Very Small//90%, 80%/S Grave Reaper/
+236[H]/53, 41/All/27~33/4, (5), 110/13/+16/KD/3, 3/Mid, Very Small//90%, 80%/H Grave Reaper/
+214P/23/All/21//Total 39/+1/+4/2/Very Small//80%/Unholy Diver/
+214K///16//Total 34/////All 16~25F//Possession/
+214S/63/Low/24/3/35/-12/KD/3/Very Small//90%/S Arbiter Sign/
+214H/63/High/28/3/35/-12/KD/3/Very Small//80%/H Arbiter Sign/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+236236P/20×2, 57/All/11+19/2, (24), 2, (28), 4/Total 53/+63/HKD/3/Very Small//100%/Nostrovia/
+236236K/143/All/11+4/5/67/-67/HKD/4/Very Small/1~19F Full/100%/Calamity One/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+/80/Ground Throw//3/38//HKD (+??)////Forced 50%/Ground Throw/
+/80/Air Throw/2/3/Until landing+10//HKD////Forced 50%/Air Throw/
+/80//////HKD (+23)/4////Finish Blow/
+/////Total 26///////Dash Cancel/
+/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/

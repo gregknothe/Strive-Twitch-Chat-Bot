@@ -1,0 +1,40 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/21/All/5/4/7/-1/+2/0/Small//80%//6P 6K 6S Special Super
+5K/25/All/6/3/12/-3/0/1/Small//90%//6P 6K 6S 5D 2D Jump Special Super
+c.S/38/All/7/6/10/+1/+4/3/Mid//100%//6P 6K f.S 2S 6S 5D2D Jump Special Super
+f.S/30/All/10/7/21/-14/-11/2/Mid//90%//Special Super
+5D/40/High/20/3/26/-15/0/2/Mid//80%//
+5[D]/50/High/28/3/26/-10/KD/4/Mid//100%//
+2P/18/All/5/2/10/-2/+1/0/Small//80%//6P 6K 6S Special Super
+2K/21/Low/7/4/12/-4/-1/1/Small//70%//6P 6K 6S 5D 2D Special Super
+2S/29/Low/11/3/18/-7/-4/2/Mid//90%//Special Super
+2D/33/Low/10/3/19/-8/KD/2/Large//90%//Special Super
+6P/26/All/9/5/25/-16/-13/2/Mid/1~3 Upper Body 4~13 Above Knees/90%//Special Super
+6K/28/Low/14/5/16/-7/-4/2/Mid//90%//Special Super
+6S/45/All/12/7/24/-14/KD/3/Mid//90%//Special Super
+j.P/17/High/5/2/18/-/-/0/Small//80%//j.P j.2K
+j.K/21/High/7/3/18/-/-/1/Small//80%//j.2K j.D Jump Forward Air Dash
+j.S/33/High/10/4/23/-/-/2/Mid//80%//j.D Jump Forward Air Dash
+j.D/37/High/11/4/21/-/-/2/Mid//80%//Jump Forward Air Dash
+j.2K/44/High/10/5/16 [11]/-/-/2/Small//80%//
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration//
+H/-/-/0///-/-/-////At the Ready/
+236S/42/All/9/3/13/+3/KD/4/Large//90%/At the Ready/
+236SH/30 [20]/All/1/2//+23/+26/1/Very Small//80%/Fire/
+214S/-/-/18///-/-/-////Steady Aim/
+214SH/55 [35]/Guard Crush (43f) [All]/1/2/43/More info/KD/3/Very Small//80%/Fire/
+236S2H/-/-/-/-/-/-/-/-////Cancel Aim/
+214S214S/-/-/-/-/16 total/-/-/-////Cancel Aim/
+22P/-/-/23/-/23~77 total/-/-/-////Reload/
+214P/-/-/-/-/46 total/-/-/-////Focus/
+214K/-/-/-/-/35 total/-/-/-//4~15 Upper Body//Roll/
+236K/-/-/10/180 [45]/43 total/-/-/-//10~30F Airborne//Scapegoat/
+236P/-/-/-/-/29 total/-/-/-////Curse/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+632146S/20, 1×17, 100/All/13+(193 Flash)+7///-25/KD/2×18, 4/Small//100%/Deus Ex Machina/
+214214P/-/-/5/(52 Flash)/6/-/-/-////Super Focus/
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/
+/80/Ground Throw/2/3/38/-/HKD +43/-///50%/Ground Throw/
+/80/Air Throw/2/3/Until landing+10/-/HKD/-///50%/Air Throw/
+/////Total 26///////Dash Cancel/
+/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/

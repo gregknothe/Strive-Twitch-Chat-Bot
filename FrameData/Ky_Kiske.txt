@@ -1,0 +1,65 @@
+Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
+5P/26/All/5/4/7/-1/+2/0/Small/none/80%//5P 2P 6P 6K 6H Special Super
+5K/30/Low/7/8/6/-2/+1/1/Small/none/70%//6P 6K 6H 5D 2D Jump Forward Dash Special Super
+c.S/42/All/7/6/10/+1/+4/3/Mid/none/100%//6P 6K f.S 2S 5H 2H 2H(1) 6H 5D 2D Jump Forward Dash Special Super
+f.S/34/All/12/6/13/-5/-2/2/Mid/none/90%//5H 2H 2H(1) Special Super
+5H/48/All/14/6/21/-8/-5/4/Large/none/100%//Special Super
+2P/22/All/5/4/8/-2/+1/0/Small/none/80%//5P 2P 6P 6K 6H Special Super
+2K/26/Low/6/4/10/-2/+1/1/Small/none/70%//6P 6K 6H 5D 2D Special Super
+2S/32/Low/10/2/20/-8/-5/2/Mid/none/90%//5H 2H 2H(1) Special Super
+2H/54/All/11/5/28/-13/+2/4/Large/none/100%//Special Super
+2H(1)/14/All/11/1/28/-13/+2/3/Large/first hit/100%//Special Super
+2H(2)/40/All/12/4/28/-13/+2/4/Large/second hit/100%//Special Super
+j.P/20/High/6/3/9///0/Small/none/80%//j.P Special Super
+j.K/26/High/7/4/8///1/Small/none/80%//j.D Jump Forward Air Dash Special Super
+j.S/32/High/7/3/21///2/Mid/none/80%//j.H j.D Jump Forward Air Dash Special Super
+j.H/44/High/13/4/23///2/Mid/none/80%//j.D Jump Forward Air Dash Special Super
+j.D/32/All/13/6/15///2/Very Small/none/80%//Jump Forward Air Dash Special Super
+6P/34/All/9/5/17/-8/-5/2/Mid/1-3f Upper Body 4-13f Above Knees/90%//Special Super
+6K/40/All/25/2/11/+4/+7/3/Mid/none/100%//Special Super
+6H/52/All/15/4/20/-7/KD (+29)/3/Large/none/100%//Special Super
+2D/34/Low/10/6/18/-10/HKD (+48)/2/Large/none/90%//Special Super
+5D/45/High/20/4/25/-15/0/2/Mid/none/80%//
+5[D]/56/High/28/4/25/-10/KD/2/Mid/none/100%//
+236S/30/All/13/Until Hit/Total 46/-15/-12/2/Very Small/non-shockstate/80%/Stun Edge/
+DI.236S/60/All/13/Until Hit/Total 46/-11/-8/2/Very Small/none/80%/DI Stun Edge/
+236H/60/All/39/Until Hit/Total 62/+22/+25/4/Very Small/none/80%/Charged Stun Edge/
+SS.236H/66/All/39/Until Hit/Total 62/+25/+28/4/Very Small/none/80%/ShockState Charged Stun Edge/
+DI.236H/85/All/39/Until Hit/Total 62/+45/+48/4/Very Small/none/80%/DI Charged Stun Edge/
+j.236S/30/All/21/Until Hit/Until Landing+10///2/Very Small/none/80%/Aerial S Stun Edge/
+DI.j.236S/60/All/21/Until Hit/Until Landing+10///2/Very Small/none/80%/DI Aerial S Stun Edge/
+j.236H/30/All/21/Until Hit/Until Landing+10///2/Very Small/none/80%/Aerial H Stun Edge/
+DI.j.236H/60/All/21/Until Hit/Until Landing+10///2/Very Small/none/80%/DI Aerial H Stun Edge/
+623S/48/All/11/4/43/-33/+22/2/Mid/1-14f Strike/60%/S Vapor Thrust/
+DI.623S/60/All/11/4/43/-26/+26/4/Mid/1-14f Strike/60%/DI S Vapor Thrust/
+623H/60/All/13/8/44/-38/+21/2/Mid/1-16f Strike/60%/H Vapor Thrust/
+DI.623H/75/All/13/6/39/-22/+37/4/Large/1-18f Strike/60%/DI H Vapor Thrust/
+j.623S/48/All/11/4/Until Landing+12//KD/2/Mid/1-14f Strike/60%/Air S Vapor Thrust/
+DI.j.623S/60/All/11/4/Until Landing+12//KD/4/Large/1-14f Strike/60%/DI Air S Vapor Thrust/
+j.623H/60/All/13/8/Until Landing+12//KD/2/Mid/1-16f Strike/60%/Air H Vapor Thrust/
+DI.j.623H/75/All/13/6/Until Landing+12//KD/4/Large/1-18f Strike/60%/DI Air H Vapor Thrust/
+236K/40/Low, All/5/22/26/-15/+14/2/Very Small/1-4f Upper Body 5-16f Above Knees/90%/Stun Dipper/
+SS.236K/42/Low, All/5/22/26/-10/+14/4/Very Small/1-4f Upper Body 5-16f Above Knees/90%/ShockState Stun Dipper/
+DI.236K/72/Low, All/5/22/26/-10/+41/4/Very Small/1-4f Upper Body 5-16f Above Knees/90%/DI Stun Dipper/
+214K/40/All/24/11/6/-2/+2/1/Mid/10-11f Foot 12-28f Below Waist, +6f on standing block, +9f on standing hit/90%/Foudre Arc/
+214K(Standing)/40/All/27/11/6/-2/+2/1/Mid/10-11f Foot 12-28f Below Waist, +6f on standing block, +9f on standing hit/90%/(Stand Block) Foudre Arc/
+214K(Crouching)/40/All/29/11/6/+6/+9/1/Mid/10-11f Foot 12-28f Below Waist, +6f on standing block, +9f on standing hit/90%/(Crouch Block) Foudre Arc/
+SS.214K/44/All/24/11/6/+4/+9/4/Mid/10-11f Foot 12-28f Below Waist, +12f on standing block, +14f on standing hit/90%/ShockState Foudre Arc/
+SS.214K(Standing)/44/All/27/11/6/+4/+9/4/Mid/10-11f Foot 12-28f Below Waist, +12f on standing block, +14f on standing hit/90%/(Stand Block) ShockState Foudre Arc/
+SS.214K(Crouching)/44/All/29/11/6/+12/+14/4/Mid/10-11f Foot 12-28f Below Waist, +12f on standing block, +14f on standing hit/90%/(Crouch Block) ShockState Foudre Arc/
+DI.214K/64/All/24/326/6/+7/+11/4/Large/10-11f Foot 12-28f Below Waist, +12f on standing block, +16f on standing hit/100%/DI Foudre Arc/
+DI.214K(Standing)/64/All/27/326/6/+7/+11/4/Large/10-11f Foot 12-28f Below Waist, +12f on standing block, +16f on standing hit/100%/(Stand Blocking) DI Foudre Arc/
+DI.214K(Crouching)/64/All/29/326/6/+12/+16/4/Large/10-11f Foot 12-28f Below Waist, +12f on standing block, +16f on standing hit/100%/(Crouch Blocking) DI Foudre Arc/
+214S/40/All/14/3/25/-8/+51/3/Mid/none/100%/Dire Eclat/
+SS.214S/44/All/14/3/25/-6/+51/4/Mid/none/100%/ShockState Dire Eclat/
+DI.214S/60/All/14/3/25/-6/+51/4/Large/none/100%/DI Dire Eclat/
+632146H/134/All/9/34/99/-82/+20/4/Mid/1-10f All, 8+1f startup, 7f gap before the final hit/100%/Ride the Lightning/
+DI.632146H/170/All/9/42/99/-79/+26/4/Mid/1-15f All, 8+1f startup, 7f gap before the final hit/100%/DI Ride the Lightning/
+j.632146H/134/All/9/34/99//HKD/4/Mid/1-10f All, 8+1f startup, 7f gap before the final hit/100%/Air Ride the Lightning/
+DI.j.632146H/170/All/9/42/99//HKD/4/Mid/1-15f All, 8+1f startup, 7f gap before the final hit/100%/DI Air Ride the Lightning/
+236236P/110/All/7/Until Hit/32/+10/+13/4/Very Small/4+3f startup/100%/Sacred Edge/
+SS.236236P/130/All/7/Until Hit/32/+15/+26/4/Very Small/4+3f startup/100%/ShockState Sacred Edge/
+DI.236236P/160/All/7/Until Hit/32/+21/+32/4/Very Small/4+3f startup/100%/DI Sacred Edge/
+214214H/80/All/12/5/25/+4/+63//Very Small/11+1f startup/100%/Dragon Install/
+
+
