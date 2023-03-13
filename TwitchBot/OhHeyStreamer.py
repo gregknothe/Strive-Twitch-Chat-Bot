@@ -63,7 +63,6 @@ def ohHeyStreamer():
     title = str(values["title"].values).replace("[","").replace("]","")
     date = str(values["date"].values).replace("[","").replace("]","").replace("'","")
     console = str(values["console"].values).replace("[","").replace("]","").replace("'","")
-    #df.drop(index=values.index.values, axis=0)
     dropValues.append(values.index.values)
     return "Oh hey, it's my favorite " + title[1:-1] + " (" + console + " " + date + ") streamer."
 
@@ -77,3 +76,14 @@ def saveGameList():
     df.to_csv("MiscData/gameList.csv",index=False)
     print("Game Removal Finsihed")
     return
+
+'''
+lyrics = pd.read_csv("MiseryLyrics.txt", sep="/")
+lyrics = lyrics["Song"].values.tolist()
+lyricLine = 0
+def ohTheMisery(count):
+    line =  lyrics[count]
+    return line
+'''
+
+#print(ohHeyStreamer())

@@ -1,0 +1,383 @@
+player1,player2,score1,score2,round,tourneyName,eventName,date
+Dende,Chetoo,3,1,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,iDom,3,2,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+hayatei,Testyourluck,3,0,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PrinceJobber,Lolo,3,1,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+pedrito,SQ,0,3,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hotashi,Ant,3,0,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Yoyomaster,MFCR,0,3,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CPU,Rat,1,3,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OneTrueSnorlax,Minish,3,0,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mike_Saftig,MacMens,1,3,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Solstice,Herbz,3,2,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PORK LAZER,Foxy Tune,3,2,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MjKurase,Memokarp,3,2,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lurry,Flare_g,1,3,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Zintai,Kshuewhatdamoo,1,3,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+daze,Dwarl Warberry,3,1,Losers Round 6,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,Lurry,3,2,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+daze,PrinceJobber,0,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dende,Skull_Duggers,3,1,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+hayatei,BEPaw,3,0,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Testyourluck,Levity,3,1,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+iDom,Flare_g,3,0,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kshuewhatdamoo,Chetoo,2,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Llama3Lord,Lolo,0,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Solstice,Yoyomaster,0,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hotashi,PORK LAZER,3,2,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Voltiyon,CPU,2,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Eddventure,pedrito,1,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SQ,Minish,3,0,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MFCR,Herbz,3,0,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ant,Foxy Tune,3,1,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rat,MacMens,3,0,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Solstice,Darren,3,0,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PORK LAZER,amoeba,3,0,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Eddventure,OneTrueSnorlax,0,3,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Voltiyon,mike_Saftig,1,3,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MacMens,Tensorial,3,2,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Herbz,Crescendo,3,1,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Minish,40%Flashkick,3,1,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Foxy Tune,Link,3,1,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+BEPaw,MjKurase,0,3,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lurry,1mperfectiON,0,-1,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Skull_Duggers,Zintai,2,3,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+daze,Papple,3,2,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kshuewhatdamoo,Kreator,3,1,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Levity,Memokarp,0,3,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Flare_g,Nom,3,2,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Llama3Lord,Dwarl Warberry,1,3,Losers Round 5,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hourglass_of_rain,Darren,0,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mike_Saftig,Young_Gouki,3,2,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+amoeba,UnbreakableDoof,3,1,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SudaHead,OneTrueSnorlax,1,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Link,Saint,3,0,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tensorial,Marvelo,3,1,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aeduo,40%Flashkick,2,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Boomano,Crescendo,2,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+1mperfectiON,SquidgeLuke,3,0,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Shambles,Zintai,0,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Cheeba,MjKurase,0,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Papple,LeafBlade,3,0,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OD78891,Memokarp,2,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Envy,Kreator,0,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OddToaster,Nom,0,3,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dwarl Warberry,Genericnamebrand,3,2,Losers Round 4,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dende,RainUchiha,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,Trevor Tsu,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+daze,RiotFGC,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+KidDracula,hayatei,0,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MrChupy01,PrinceJobber,2,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kaz,Skull_Duggers,0,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Apotheosis,BEPaw,0,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tensorial,Lurry,1,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+iDom,Infinitelaws,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OneTrueSnorlax,Kshuewhatdamoo,2,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Llama3Lord,SonAceKeem,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Testyourluck,Rin,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hourglass_of_rain,Lolo,2,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Chetoo,SudaHead,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Collom,Levity,1,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mike_Saftig,Flare_g,2,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Solstice,Genericnamebrand,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Eddventure,Arba,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Nom,Voltiyon,2,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hotashi,Memokarp,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PORK LAZER,OD78891,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+onar,Yoyomaster,0,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Envy,pedrito,1,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CPU,OddToaster,3,2,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SQ,Zintai,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rat,SquidgeLuke,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MFCR,Vega,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MjKurase,Ant,1,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Shambles,Minish,0,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Foxy Tune,PRBigButtJackson,3,1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MacMens,Kreeg,3,0,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+ITH,Herbz,1,3,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,Dende,3,0,Grand Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SudaHead,EliTheCurry,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mike_Saftig,Zenkai,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Collom,amoeba,2,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hourglass_of_rain,Vegeks_,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SonAceKeem,Darren,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rin,UnbreakableDoof,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Infinitelaws,Young_Gouki,0,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OneTrueSnorlax,CStream,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Apotheosis,Link,2,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kaz,Aeduo,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tensorial,Sam Shawn,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MrChupy01,Boomano,2,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Trevor Tsu,Marvelo,0,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+RainUchiha,40%Flashkick,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+KidDracula,Saint,2,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+RiotFGC,Crescendo,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PRBigButtJackson,Cheeba,0,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Shambles,Mystery Solver,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+ITH,Papple,2,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kreeg,1mperfectiON,-1,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Vega,LeafBlade,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MjKurase,Guato,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SquidgeLuke,BurgerDaddy,3,2,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Zintai,Grandino,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Envy,Young_Lz_23,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OD78891,Kiri,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OddToaster,Medici,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+onar,Dwarl Warberry,1,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Genericnamebrand,Tapion,3,0,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Arba,Kreator,0,3,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Memokarp,Lamayo,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Nom,galaxybutter,3,2,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+amoeba,StunningTable,0,-1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Vegeks_,Cinamon,3,1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+TurtleAndBeyond,Zenkai,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+EliTheCurry,Kyo_Kanon_KSG,3,0,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CStream,K20T00,3,0,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+UnbreakableDoof,SkylarOVA,3,1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Darren,Skar,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Wincho,Young_Gouki,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+angxiii,Link,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Boomano,Bwead,3,1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mkj,Sam Shawn,2,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aeduo,Akeno,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+40%Flashkick,Twillie,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aviator,Saint,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Crescendo,ButtonMasher,3,0,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CreakyAxe,Marvelo,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+1mperfectiON,BlackSamuraiX,3,0,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Cheeba,Petrafied,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+The Autman,Mystery Solver,2,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+thiccblades,Papple,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+LeafBlade,G.Socks,0,-1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+BurgerDaddy,Ronincat,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NewbieSani,Grandino,1,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Almourex,Guato,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Sho,Young_Lz_23,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Penny Eleanor,Medici,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Freege,Kiri,0,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dwarl Warberry,THE GUIDE,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kreator,TTV BxKeyz,3,0,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tapion,Tilted,3,0,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lamayo,UMISHO,0,-1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+galaxybutter,AoiKypher,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CPU,Sam Shawn,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Bwead,onar,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Akeno,Envy,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PORK LAZER,Link,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Yoyomaster,Boomano,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OddToaster,mkj,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OD78891,angxiii,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+pedrito,Aeduo,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rat,Young_Gouki,3,2,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SQ,K20T00,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MFCR,Skar,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MjKurase,SkylarOVA,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SquidgeLuke,Rusty,0,-1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ciyef,Vega,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Zintai,CStream,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ant,UnbreakableDoof,3,2,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+KudoGio,Foxy Tune,-1,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Bigbootyman445,Shambles,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MacMens,StrippedChicken,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+ITH,Cinamon,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Vegeks_,Herbz,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kreeg,TurtleAndBeyond,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PRBigButtJackson,amoeba,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Minish,EliTheCurry,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,hayatei,3,0,Winners Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+daze,Tilted,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dende,TTV BxKeyz,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+UMISHO,KidDracula,-1,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,AoiKypher,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+RiotFGC,Tapion,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Trevor Tsu,galaxybutter,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kreator,RainUchiha,1,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lamayo,hayatei,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Young_Lz_23,Kaz,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MrChupy01,THE GUIDE,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Apotheosis,Microwave,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tensorial,Medici,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lurry,Penny Eleanor,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Skull_Duggers,Sho,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dwarl Warberry,PrinceJobber,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+BEPaw,Freege,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Testyourluck,Guato,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dusty,Llama3Lord,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+iDom,Ronincat,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+OneTrueSnorlax,Grandino,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+BurgerDaddy,Infinitelaws,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Meeks,Kshuewhatdamoo,1,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rin,Almourex,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SonAceKeem,LeafBlade,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Petrafied,Collom,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mike_Saftig,BlackSamuraiX,3,2,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Papple,Hourglass_of_rain,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Chetoo,Mystery Solver,3,1,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SudaHead,The Autman,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Cheeba,Levity,1,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+1mperfectiON,Flare_g,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lolo,Robert,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Eddventure,Twillie,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Solstice,ButtonMasher,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Marvelo,Nom,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hotashi,CozyNines,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Memokarp,Aviator,3,0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CreakyAxe,Voltiyon,0,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+40%Flashkick,Arba,2,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Crescendo,Genericnamebrand,1,3,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+amoeba,.1,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Vegeks_,Zuta,3,2,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+TurtleAndBeyond,Mr.Noodles,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+EliTheCurry,izzy,0,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Cinamon,FunkyBoy,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Bigbootyman445,Kyo_Kanon_KSG,-1,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+StrippedChicken,Zenkai,1,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+KudoGio,StunningTable,-1,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rusty,Wincho,-1,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CStream,Battlepants,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+UnbreakableDoof,Josh Payne,0,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ciyef,Darren,0,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+K20T00,NeuralArch,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SkylarOVA,K0ba,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Skar,Sola,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Young_Gouki,Gavin_XI,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Boomano,Destinite,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+angxiii,Pixilated_max,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mkj,JahDrop,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aeduo,Molo,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Bwead,Gold pilot,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Akeno,Destryk,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Link,GTek,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Sam Shawn,Chaos90,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+40%Flashkick,HEX,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aviator,royalty,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CreakyAxe,RTG,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Crescendo,GKrunk,3,2,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+ButtonMasher,DecafLeon,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CozyNines,Saint,2,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Marvelo,Scouter_Duck,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Twillie,riyeawa,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+1mperfectiON,CammyEXE,3,2,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Robert,thiccblades,0,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Cheeba,Edgy Hedgy,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+The Autman,lil hotdog,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Petrafied,CrimZon,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+BlackSamuraiX,MaliKitE.,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Papple,Noisette,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Mystery Solver,Shadowthear,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+LeafBlade,"Margarita, Love & Destroy",3,2,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Almourex,Dodecahedron,0,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+BurgerDaddy,Lovespark,3,2,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Meeks,NewbieSani,1,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dusty,G.Socks,-1,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ronincat,ZmurfOG,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Grandino,Kuni Kuzushi,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Guato,Aboii,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Sho,cmb,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dwarl Warberry,heen,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Freege,Vera Caelestis,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Penny Eleanor,Porkulon,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Medici,Knoll,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Young_Lz_23,Vik,0,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+THE GUIDE,JCho,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Microwave,Kiri,2,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kreator,Avid,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lamayo,Siege_Almighty,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+galaxybutter,PINK,0,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tapion,PotatoJones,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+UMISHO,trashyLAMF,-1,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tilted,Chiz,3,2,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+TTV BxKeyz,Facefunkest,3,0,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+AoiKypher,Cerea1ki11er29,0,-1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+hayatei,Dende,0,3,Losers Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dende,SQ,3,0,Losers Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+TTV BxKeyz,izzy,0,-1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,Rat,3,1,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NBNHMR,SQ,3,1,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Mr.Noodles,AoiKypher,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+.1,KidDracula,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Tilted,Zuta,3,1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+FunkyBoy,Tapion,-1,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+RainUchiha,Kyo_Kanon_KSG,3,1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+hayatei,StunningTable,0,-1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Zenkai,galaxybutter,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dende,SQ,1,3,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+hayatei,PrinceJobber,3,0,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Josh Payne,Microwave,-1,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Wincho,Medici,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Battlepants,Kaz,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+hayatei,Hotashi,3,1,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Darren,THE GUIDE,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+K0ba,Freege,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Penny Eleanor,Gavin_XI,3,2,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PrinceJobber,Sola,3,2,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NeuralArch,Sho,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PrinceJobber,MFCR,3,2,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Llama3Lord,Destinite,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Grandino,Molo,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Guato,Pixilated_max,3,2,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ronincat,JahDrop,3,1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+LeafBlade,Gold pilot,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+GTek,Almourex,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Infinitelaws,Chaos90,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kshuewhatdamoo,Destryk,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+RTG,BlackSamuraiX,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Mystery Solver,HEX,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Collom,royalty,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hourglass_of_rain,GKrunk,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Flare_g,Scouter_Duck,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Saint,Levity,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+The Autman,riyeawa,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Robert,DecafLeon,3,2,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Nom,CammyEXE,3,1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Twillie,lil hotdog,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+ButtonMasher,thiccblades,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CozyNines,Edgy Hedgy,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Voltiyon,MaliKitE.,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Arba,Shadowthear,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CrimZon,Aviator,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Genericnamebrand,Noisette,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+NewbieSani,Envy,2,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dodecahedron,Link,-1,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+onar,"Margarita, Love & Destroy",3,1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lovespark,Sam Shawn,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aboii,angxiii,2,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Boomano,G.Socks,0,-1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Aeduo,Kuni Kuzushi,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+mkj,ZmurfOG,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+cmb,K20T00,2,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Porkulon,Young_Gouki,0,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+heen,Skar,1,3,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SkylarOVA,Vera Caelestis,3,1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Vega,JCho,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+UnbreakableDoof,Kiri,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rusty,Knoll,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CStream,Vik,0,-1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+StrippedChicken,PINK,0,-1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Foxy Tune,Siege_Almighty,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Cinamon,PotatoJones,3,2,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Shambles,Avid,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+amoeba,trashyLAMF,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+EliTheCurry,Facefunkest,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Herbz,Chiz,3,0,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+TurtleAndBeyond,Cerea1ki11er29,0,-1,Winners Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+PrinceJobber,Dende,1,3,Losers Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+SQ,MFCR,3,1,Losers Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Dende,Yoyomaster,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rat,Kshuewhatdamoo,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MFCR,PORK LAZER,3,2,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hotashi,CPU,3,1,Losers Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Rat,Dende,2,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Hotashi,MFCR,1,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Yoyomaster,MacMens,3,1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Kshuewhatdamoo,OneTrueSnorlax,3,1,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+MjKurase,PORK LAZER,2,3,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CPU,Solstice,3,2,Losers Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Yoyomaster,Flare_g,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Testyourluck,MacMens,1,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Ant,Kshuewhatdamoo,0,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Lolo,OneTrueSnorlax,1,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+pedrito,MjKurase,0,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+iDom,PORK LAZER,1,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+CPU,daze,3,1,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990
+Chetoo,Solstice,2,3,Losers Round 1,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,1.1.1990

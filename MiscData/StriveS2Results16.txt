@@ -34,14 +34,6 @@ Razzo EVO2022 13 Leo
 Stealthy EVO2022 13 Axl
 Remi_Celeste EVO2022 13 Axl
 Nitro EVO2022 13 Jacko
-SonicFox EVO2022 17 Leo
-Jonathan_Tene EVO2022 17 Zato
-LostSoul EVO2022 17 Happy
-Shine EVO2022 17 Pot
-TestYourLuck EVO2022 17 Nago
-Kazam EVO2022 17 Millia
-Marvelo EVO2022 17 Chipp
-Darkrai EVO2022 17 Gold
 Skyll VSFighting2022 1 Sol
 Skyll VSFighting2022 1 Ky
 Zando VSFighting2022 2 Ram
@@ -174,12 +166,3 @@ Nitro FrostyFaustings2023 13 Jacko
 Bean FrostyFaustings2023 13 Chipp
 Razzo FrostyFaustings2023 13 Leo
 Rox FrostyFaustings2023 13 Bridget
-OoeyGooeyChewySnickers FrostyFaustings2023 17 Anji
-Hotashi FrostyFaustings2023 17 Nago
-Hotashi FrostyFaustings2023 17 Bridget
-SQ FrostyFaustings2023 17 Ram
-Aneema FrostyFaustings2023 17 Ram
-Zedediah FrostyFaustings2023 17 Millia
-Rat FrostyFaustings2023 17 Millia
-PipGaming FrostyFaustings2023 17 Faust
-Zando FrostyFaustings2023 17 Ram

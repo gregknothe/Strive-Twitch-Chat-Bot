@@ -1,11 +1,11 @@
 Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/Name/gatlingOptions
-5P/28/All/4/3/8/-1/+2/0/Small//80%//5P 2P 6P 3K 6K 6H 6H(AN,FA,POT) 6H(notAN,FA,PO) Special Super
-5K/30/All/8/6/11/-5/-2/1/Small//90%//6P 3K 6K 6H 6H(AN,FA,POT) 6H(notAN,FA,PO) 5D 2D Jump Special Super Forward Dash
-c.S/44/All/7/6/8/+3/+6/3/Mid//100%//6P 3K 6K f.S 2S 5H 2H 6H 6H(AN,FA,POT) 6H(notAN,FA,PO) 5D 2D Jump Special Super Forward Dash
+5P/28/All/4/3/8/-1/+2/0/Small//80%//5P 2P 6P 3K 6K 6H 6H(AN,FA,POT) 6H(not.tall) Special Super
+5K/30/All/8/6/11/-5/-2/1/Small//90%//6P 3K 6K 6H 6H(AN,FA,POT) 6H(not.tall) 5D 2D Jump Special Super Forward Dash
+c.S/44/All/7/6/8/+3/+6/3/Mid//100%//6P 3K 6K f.S 2S 5H 2H 6H 6H(AN,FA,POT) 6H(not.tall) 5D 2D Jump Special Super Forward Dash
 f.S/38/All/12/3/19/-8/-5/2/Mid//90%//5H 2H Special Super
 5H/55/All/13/8/15/-4/-1/4/Large//100%//Special Super
-2P/24/All/5/4/8/-2/+1/0/Small//80%//5P 2P 6P 3K 6K 6H 6H(AN,FA,POT) 6H(notAN,FA,PO) Special Super
-2K/28/Low/6/4/10/-2/+1/1/Small//70%//6P 3K 6K 6H 6H(AN,FA,POT) 6H(notAN,FA,PO) 5D 2D Special Super
+2P/24/All/5/4/8/-2/+1/0/Small//80%//5P 2P 6P 3K 6K 6H 6H(AN,FA,POT) 6H(not.tall) Special Super
+2K/28/Low/6/4/10/-2/+1/1/Small//70%//6P 3K 6K 6H 6H(AN,FA,POT) 6H(not.tall) 5D 2D Special Super
 2S/35/All/10/3/18/-7/-4/2/Mid//90%//5H 2H Special Super
 2H/60/All/11/13/26/-20/KD/4/Large//100%//Special Super
 j.P/22/High/5/3/12///0/Small//80%//j.P Special Super

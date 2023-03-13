@@ -6,7 +6,22 @@ import RawDataScrape as rds
 import SinFoodRoll as sfr
 import random
 import os
-#gsdfsd
+import sys
+sys.path.insert(0, 'TournamentData')
+import StartGGDataScraper as sgg
+
+#sys.path.append("/TournamentData/")
+#from StartGGDataScraper import *
+
+
+'''
+import imp
+module = imp.load_module('TournamentData.StartGGDataScraper.py')
+module.function()
+'''
+
+
+
 modList = ["lastcody","greedx___","asome26","kyluneena","abusywizard"]
 
 bot = commands.Bot(
@@ -14,7 +29,7 @@ bot = commands.Bot(
     client_id=os.environ['CLIENT_ID'],
     nick=os.environ['BOT_NICK'],
     prefix=os.environ['BOT_PREFIX'],
-    initial_channels=[os.environ['CHANNEL']]
+    initial_channels=["lastcody", "vera_caelestis"]
 )
         
 @bot.command(name="ft")
@@ -49,7 +64,7 @@ async def hey(ctx):
         print(str(ctx.author.name) + " attempted an extra !hey.")
     else:
         if ctx.author.name == "life_jam":
-            await ctx.send(ohs.ohHeyStreamer().replace("Oh hey,","Hey alright,"))
+           await ctx.send(ohs.ohHeyStreamer().replace("Oh hey,","Hey alright,"))
         heyUserList.append(ctx.author.name)
         print(heyUserList)
         await ctx.send(ohs.ohHeyStreamer())
@@ -101,8 +116,21 @@ async def kliff(ctx):
     else:
         return
 
-#Enable for new char launches 
+@bot.command(name="playerdata")
+async def playerdata(ctx, *, text):
+    await ctx.send(sgg.playerRecordBotCommand(text, "TournamentData/TNS/TNSSets.txt"))
+
 '''
+lineCount = [0]
+@bot.command(name="misery")
+async def misery(ctx):
+    line = ohs.ohTheMisery(lineCount[0])
+    lineCount.append(lineCount[0]+1)
+    lineCount.remove(lineCount[0])
+    await ctx.send(line)
+
+#Enable for new char launches 
+
 @bot.command(name="sin")
 async def dustloop(ctx, *, text):
     try:

@@ -1,9 +1,10 @@
 import pandas as pd
-import RawDataScrape as rds
 import numpy as np
 import re
 from datetime import date
-
+import sys
+sys.path.insert(0,"TwitchBot/")
+import RawDataScrape as rds
 
 
 chars = ["SO","KY","MA","AX","CH","PO","FA","MI","ZA","RA","LE","NA","GI","AN","IN","GO","JC","HA","BA","TE","BI","SI"]

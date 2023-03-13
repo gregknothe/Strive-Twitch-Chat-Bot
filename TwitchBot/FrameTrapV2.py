@@ -132,5 +132,5 @@ def charMoveList(charName):
 #print(frameTrapCalc("axl", "c.S", "2369H"))
 
 #print(charMoveList("gold"))
-#print(frameTrapCalc("may", "5K", "6H"))
-#print(charMoveList("gold"))
+print(frameTrapCalc("may", "5K", "6H"))
+#$print(charMoveList("gold"))

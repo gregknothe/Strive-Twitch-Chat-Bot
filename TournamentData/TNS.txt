@@ -1,0 +1,325 @@
+player1,player2,score1,score2,round,tourneyName,eventName,date
+Lamayo,Papple,0,3,Winners Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Marvelo,MacMens,3,1,Winners Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Miguel,Dusty,3,2,Winners Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+EloDad,Jdjones,2,3,Winners Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Smuggles,Lurry,3,1,Losers Round 6,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Osmosis,Coach Steve,3,2,Losers Round 6,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zippy,Sola,3,0,Losers Round 6,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+SquidgeLuke,Risetto,0,3,Losers Round 6,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Marvelo,Zippy,3,1,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lamayo,SonAceKeem,3,1,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dahviess,MacMens,2,3,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papple,Risetto,3,1,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Miguel,Osmosis,3,1,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+EloDad,Smuggles,3,2,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Coach Steve,Dusty,1,3,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papa Leo,Jdjones,0,3,Winners Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Osmosis,Petrafied,3,1,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Smuggles,CreakyAxe,3,0,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papa Leo,Lurry,0,3,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Coach Steve,Zintai,3,0,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zippy,Nitro,3,0,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+SonAceKeem,SquidgeLuke,1,3,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Risetto,Zaran,3,1,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dahviess,Sola,2,3,Losers Round 5,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Petrafied,Aidenspro,3,1,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BlueHek997,CreakyAxe,-1,0,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zintai,PORK LAZER,3,1,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BeefyManatee,Lurry,0,3,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+WATER-1,SquidgeLuke,1,3,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Nitro,DarthPhallus,3,1,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zaran,Loona,3,0,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Supreme Honkifex,Sola,0,3,Losers Round 4,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papa Leo,ElCreeblue,3,1,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Coach Steve,WyCry,3,0,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Nitro,Jdjones,1,3,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dusty,WATER-1,3,1,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Jdjones,Miguel,3,2,Grand Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Asar,Lamayo,0,3,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Marvelo,Lurry,3,0,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zintai,SonAceKeem,0,3,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BeefyManatee,Zippy,0,3,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dahviess,Mundank,3,1,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papple,Aidenspro,3,1,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Petrafied,Risetto,2,3,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+MacMens,BlueHek997,3,2,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+EloDad,Sola,3,0,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Miguel,Loona,3,1,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+azormx,Smuggles,0,3,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Osmosis,Zaran,3,0,Winners Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Petrafied,Tarik,3,0,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BlueHek997,HEARTS,3,0,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Mundank,CreakyAxe,1,3,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Aidenspro,ArticPeach,3,0,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BeefyManatee,KidFrost,3,2,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zintai,Lavender_B,3,2,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Asar,PORK LAZER,0,3,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lurry,A.B.Y,3,2,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+WATER-1,Fresh,3,1,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Nitro,Somnium,3,0,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+WyCry,SquidgeLuke,0,3,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+ElCreeblue,DarthPhallus,1,3,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+azormx,Supreme Honkifex,0,3,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zaran,haruo30,3,1,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Sola,Twillie,3,0,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Loona,Solstice,0,-1,Losers Round 3,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Queenie,Tarik,1,3,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Kunbuns,HEARTS,0,3,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+CreakyAxe,Ronincat,3,1,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Tenack,ArticPeach,-1,0,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+KidFrost,KudoGio,0,-1,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lavender_B,Mio,3,0,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+A.B.Y,mike_Saftig,0,-1,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+CPU,PORK LAZER,-1,0,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Somnium,Z_Guy,3,1,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Fresh,JayC,3,0,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+SquidgeLuke,Turkwise,3,2,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+DarthPhallus,HowDoIBlock?,0,-1,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Supreme Honkifex,Pixilated_max,3,2,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Apotheosis,haruo30,-1,0,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Twillie,saturnnz,3,2,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+WC 44 ONLY,Solstice,-1,0,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Miguel,Jdjones,2,3,Winners Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Solstice,Asar,-1,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Marvelo,saturnnz,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+WC 44 ONLY,Lamayo,-1,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lurry,Twillie,3,1,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zintai,haruo30,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BeefyManatee,Pixilated_max,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Zippy,Supreme Honkifex,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Apotheosis,SonAceKeem,0,3,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papple,Turkwise,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+HowDoIBlock?,Dahviess,-1,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Aidenspro,SquidgeLuke,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Mundank,DarthPhallus,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+MacMens,Z_Guy,3,1,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Petrafied,JayC,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Risetto,Mike Nada,3,1,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+BlueHek997,Somnium,3,1,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Miguel,PORK LAZER,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+mike_Saftig,EloDad,-1,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+A.B.Y,Sola,2,3,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Loona,CPU,3,2,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Osmosis,Mio,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+KudoGio,azormx,-1,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Smuggles,KidFrost,3,1,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lavender_B,Zaran,0,3,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Coach Steve,ArticPeach,3,1,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papa Leo,Ronincat,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Tenack,WyCry,-1,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+CreakyAxe,ElCreeblue,2,3,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dusty,Tarik,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Nitro,HEARTS,3,2,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+WATER-1,Queenie,3,0,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Jdjones,Kunbuns,3,2,Winners Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Kunbuns,Goldiblockz,0,-1,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Queenie,PizzaSlut,3,0,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lavender_B,Nao,3,0,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+KidFrost,Llamas123,3,0,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Mike Nada,Fresh,1,3,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Somnium,Light Strider,3,0,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Apotheosis,LunarxTee,0,-1,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Supreme Honkifex,Shouma,3,0,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Miguel,Marvelo,3,1,Losers Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papple,Marvelo,2,3,Losers Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papple,Miguel,0,3,Winners Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+PizzaSlut,Asar,0,3,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+saturnnz,Goldiblockz,0,-1,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Llamas123,Dahviess,1,3,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Nao,Turkwise,0,3,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Marvelo,Jdjones,0,3,Winners Semi-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+PORK LAZER,Fresh,3,1,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Light Strider,EloDad,0,3,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+ArticPeach,LunarxTee,0,-1,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Ronincat,Shouma,3,0,Winners Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Papple,MacMens,3,0,Losers Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Marvelo,Dusty,3,2,Losers Quarter-Final,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Risetto,MacMens,0,3,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dusty,Smuggles,3,1,Losers Round 2,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+EloDad,Risetto,0,3,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+MacMens,Osmosis,3,1,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Dusty,Zippy,3,2,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Lamayo,Smuggles,0,3,Losers Round 1,tns-guilty-gear-strive-45-pc,guilty-gear-strive-pc,7.11.22
+Remi Celeste,WATER-1,3,0,Winners Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Stealthy,3,2,Winners Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jdjones,Medic,3,2,Winners Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Testyourluck,Miguel,0,3,Winners Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JayRain,Trevwerd,3,0,Losers Round 6,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lookewarm,Osmosis,2,3,Losers Round 6,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mop,PORK LAZER,2,3,Losers Round 6,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BlueHek997,Lamayo,3,0,Losers Round 6,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Remi Celeste,RideFGC,3,0,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Smuggles,-1,-1,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+WATER-1,Young_Gouki,3,0,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Stealthy,Lamayo,3,0,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jdjones,JayRain,3,2,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Testyourluck,Jodi Bleek,3,1,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Miguel,Dusty,3,1,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Medic,PrinceJobber,3,0,Winners Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JayRain,HowDoIBlock?,3,0,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jodi Bleek,Lookewarm,2,3,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Dusty,Osmosis,1,3,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+PrinceJobber,Trevwerd,2,3,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+RideFGC,Mop,0,3,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Smuggles,BlueHek997,1,3,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Young_Gouki,PORK LAZER,2,3,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lamayo,Tensorial,3,2,Losers Round 5,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lookewarm,GillGC,3,0,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+HowDoIBlock?,Vinny G,3,2,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Trevwerd,KidFrost,3,2,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Osmosis,Zintai,3,0,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mop,Loona,3,0,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BlueHek997,NERO,3,2,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+NeuralArch,PORK LAZER,0,3,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CrownThunder,Tensorial,1,3,Losers Round 4,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Zintai,3,0,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Remi Celeste,defnotdylo,3,0,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Smuggles,Wonton,3,1,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Trevwerd,RideFGC,0,3,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Vinny G,WATER-1,2,3,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Stealthy,Musashi,3,0,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+azormx,Lamayo,0,3,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+HowDoIBlock?,Young_Gouki,2,3,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jdjones,BeefyManatee,3,1,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Testyourluck,Teemo,3,0,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+SquidgeLuke,JayRain,0,3,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jodi Bleek,CrownThunder,3,2,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Miguel,NERO,3,0,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Medic,Loona,3,0,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Bonj,PrinceJobber,2,3,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Dusty,Superboy_,3,1,Winners Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Miguel,Remi Celeste,3,2,Grand Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+azormx,Lookewarm,0,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+HowDoIBlock?,Mango4Tango,3,1,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Musashi,GillGC,0,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Vinny G,Ichi,3,0,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Trevwerd,JJnews,3,0,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Wonton,Osmosis,0,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+defnotdylo,KidFrost,1,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Zintai,DeathTheGamer,3,2,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Superboy_,BlueHek997,1,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Bonj,Mop,1,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+NERO,Gavin_XI,3,1,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Loona,CPU,3,1,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CrownThunder,DarthPhallus,3,1,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+SquidgeLuke,NeuralArch,0,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Teemo,Tensorial,1,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BeefyManatee,PORK LAZER,2,3,Losers Round 3,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Hardcoreplains,Lookewarm,1,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mango4Tango,KudoGio,0,-1,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+GillGC,JH_Maxninja,3,0,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+ElectroKinetic,Ichi,0,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Meat,Osmosis,2,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+SonAceKeem,JJnews,1,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+DeathTheGamer,XyberPX,3,0,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Emperor,KidFrost,1,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mop,Sunny,3,2,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BlueHek997,Kreator,0,-1,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CPU,HEARTS,3,0,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+MyGameDragon,Gavin_XI,1,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+40%Flashkick,NeuralArch,1,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Tilted,DarthPhallus,2,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+XmanguyFGC,PORK LAZER,0,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Tensorial,Slithraa,3,2,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Medic,Ichi,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Miguel,JH_Maxninja,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Loona,Logan,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+NERO,GillGC,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+KudoGio,Bonj,-1,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Dusty,Lookewarm,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+A.B.Y,Superboy_,2,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+PrinceJobber,Mango4Tango,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Miguel,Remi Celeste,3,2,Winners Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Remi Celeste,nobody,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Slithraa,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+defnotdylo,WC 44 ONLY,0,-1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Zintai,Tensorial,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+NeuralArch,Trevwerd,1,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Smuggles,DarthPhallus,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+40%Flashkick,RideFGC,1,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Wonton,Tilted,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Vinny G,HEARTS,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Stealthy,Gavin_XI,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+WATER-1,CPU,3,1,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lavender,Musashi,-1,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+HowDoIBlock?,Sunny,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Kreator,azormx,-1,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mop,Young_Gouki,1,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BlueHek997,Lamayo,0,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jdjones,NuclearMonje,3,2,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Testyourluck,XyberPX,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CreakyAxe,Teemo,0,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BeefyManatee,Emperor,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JJnews,SquidgeLuke,0,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Osmosis,Jodi Bleek,1,3,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CrownThunder,Meat,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JayRain,SonAceKeem,3,0,Winners Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+A.B.Y,Hardcoreplains,1,3,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mango4Tango,GitGudOrDieYoung,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Logan,ElectroKinetic,-1,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+GillGC,Z_Guy,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Ichi,HoekyPoeky,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JH_Maxninja,RadioRedMage,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Meat,CCURLY,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+SonAceKeem,Dragknown,3,1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Osmosis,Twillie,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JJnews,MadAzureLad,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CreakyAxe,DeathTheGamer,1,3,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Emperor,senpo,3,2,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+XyberPX,Muttu,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+NuclearMonje,KidFrost,1,3,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BlueHek997,CrimZon,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mop,Arba,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lavender,MyGameDragon,-1,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CPU,Dhaleem,3,1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+HEARTS,DontCareBear,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Gavin_XI,Mike Nada,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+40%Flashkick,Mio,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Tilted,Omega Fiend,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+DarthPhallus,Cookies,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+NeuralArch,kitana,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+WC 44 ONLY,XmanguyFGC,-1,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Tensorial,night breed 9,0,-1,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Slithraa,Ven,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+nobody,PORK LAZER,0,3,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Remi Celeste,Stealthy,3,0,Losers Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Stealthy,2,3,Losers Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Miguel,0,3,Winners Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+nobody,GitGudOrDieYoung,3,2,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Slithraa,Hardcoreplains,3,1,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+DarthPhallus,Z_Guy,0,-1,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Remi Celeste,Jdjones,3,1,Winners Semi-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Trevwerd,ElectroKinetic,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+RadioRedMage,Tilted,-1,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+RideFGC,HoekyPoeky,0,-1,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CCURLY,Gavin_XI,0,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+HEARTS,Dragknown,3,2,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Twillie,Musashi,1,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CPU,MadAzureLad,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+senpo,Sunny,1,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+azormx,DeathTheGamer,3,2,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lamayo,Muttu,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Young_Gouki,KidFrost,3,2,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+CrimZon,XyberPX,0,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Arba,NuclearMonje,2,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jodi Bleek,MyGameDragon,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+SquidgeLuke,Dhaleem,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mike Nada,Meat,0,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+SonAceKeem,DontCareBear,3,1,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+JH_Maxninja,Omega Fiend,0,-1,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mio,Ichi,0,3,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Logan,kitana,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+GillGC,Cookies,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Bonj,XmanguyFGC,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Lookewarm,night breed 9,0,-1,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Mango4Tango,PORK LAZER,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Superboy_,Ven,3,0,Winners Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Marvelo,Osmosis,3,0,Losers Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Jdjones,Stealthy,1,3,Losers Quarter-Final,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+BlueHek997,Osmosis,0,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Testyourluck,Stealthy,2,3,Losers Round 2,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Medic,BlueHek997,1,3,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+WATER-1,Osmosis,1,3,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Testyourluck,PORK LAZER,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22
+Stealthy,JayRain,3,0,Losers Round 1,tns-guilty-gear-strive-46-pc,guilty-gear-strive-pc,7.18.22

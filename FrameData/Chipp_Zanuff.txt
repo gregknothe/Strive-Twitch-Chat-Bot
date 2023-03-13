@@ -6,7 +6,7 @@ f.S/30/All/9/2/20/-8/-5/2/Mid//90%//5H 2H Special Super
 5H/42/All/11/7/16/-4/-1/4/Large//100%//Special Super
 2P/18/All/5/2/10/-2/+1/0/Small//80%//5P2P 6P 6K 6H Special Super
 2K/18/Low/5/4/8/-2/+1/0/Small//70%//6P 6K 6H 5D 2D Special Super
-2S/28/All/10/4/17/-7/-4/2/Mid//90%//5H 2H[+] Special Super
+2S/28/All/10/4/17/-7/-4/2/Mid//90%//5H 2H Special Super
 2H/36/All/12/9/24/-14/KD/4/Large//100%//Special Super
 j.P/16/High/5/4/8///0/Small//80%//j.P j.2K Special Super
 j.K/32/High/6/7/8///1/Small//80%//j.2K j.D Dash Air Forward Dash Special Super

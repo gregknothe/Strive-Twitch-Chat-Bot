@@ -5,10 +5,10 @@ from tabulate import tabulate
 def importData(tourney=""):
     #Tourney can be a single tournament (str), arc world tour events ("AWT"), A list of tourney (list)
     if tourney == "":
-        return pd.read_csv("MiscData/StriveS2Results.txt", sep=" ")
+        return pd.read_csv("MiscData/StriveS2Results16.txt", sep=" ")
     elif tourney == "AWT":
-        tourney = ["EVO2022", "VSFighting2022", "RevMajor2022", "CEOtaku2022", "Mixup2022", "FighersSpirit2022", "ARCREVOJapan2022", "FrostyFaustings2022"]
-        data = pd.read_csv("MiscData/StriveS2Results.txt", sep=" ")
+        tourney = ["EVO2022", "VSFighting2022", "RevMajor2022", "CEOtaku2022", "Mixup2022", "FighersSpirit2022", "ARCREVOJapan2022", "FrostyFaustings2023"]
+        data = pd.read_csv("MiscData/StriveS2Results16.txt", sep=" ")
         dataNew = data.loc[data["tournament"] == tourney[0]]
         for x in tourney:
             if x != tourney[0]:
@@ -17,11 +17,11 @@ def importData(tourney=""):
         return dataNew
     elif isinstance(tourney, str):
         print("String")
-        data = pd.read_csv("MiscData/StriveS2Results.txt", sep=" ")
+        data = pd.read_csv("MiscData/StriveS2Results16.txt", sep=" ")
         return data.loc[data["tournament"] == tourney]
     elif isinstance(tourney, list):
         print("List")
-        data = pd.read_csv("MiscData/StriveS2Results.txt", sep=" ")
+        data = pd.read_csv("MiscData/StriveS2Results16.txt", sep=" ")
         dataNew = data.loc[data["tournament"] == tourney[0]]
         for x in tourney:
             if x != tourney[0]:
@@ -60,7 +60,7 @@ def charDataframe(char, tourney=""):
     data = importData(tourney)
     return data.loc[data["char"]==char]
 
-#print(charDataTable())
+print(charDataTable())
 #print(charDataTable("AWT"))
 #print(tournamentWinners())
 #print(charDataframe("Happy","AWT"))
@@ -68,4 +68,3 @@ def charDataframe(char, tourney=""):
 #Character Player list 
 #print(charDataTable(importData()).loc["Zato"]["Top 8 Players"])
 
-print(charDataTable())

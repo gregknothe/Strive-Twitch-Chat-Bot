@@ -1,7 +1,10 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import sys
+sys.path.insert(0,"TwitchBot/")
 import RawDataScrape as rds
+
 
 df = pd.read_csv("MiscData/dashSpeed.csv")
 df = df.set_index("char")

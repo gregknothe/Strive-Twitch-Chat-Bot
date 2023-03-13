@@ -1,0 +1,33 @@
+import sys
+import os
+sys.path.append("TournamentData/")
+from StartGGDataScraper import *
+
+#startSets("TNS","tns-guilty-gear-strive-45-pc","guilty-gear-strive-pc","7.11.22")
+#addSets("TNS","tns-guilty-gear-strive-46-pc","guilty-gear-strive-pc","7.18.22")
+#addSets("TNS","tns-guilty-gear-strive-47-pc","guilty-gear-strive-pc","7.25.22")
+#addSets("TNS","tns-guilty-gear-strive-48-pc","guilty-gear-strive-pc","8.15.22")
+#addSets("TNS","tns-guilty-gear-strive-49-pc","guilty-gear-strive-pc","8.22.22")
+#addSets("TNS","tns-guilty-gear-strive-50","guilty-gear-strive-pc","8.29.22")
+#addSets("TNS","tns-guilty-gear-strive-51-pc","guilty-gear-strive-pc","9.5.22")
+#addSets("TNS","tns-guilty-gear-strive-52-pc","guilty-gear-strive-pc","9.12.22")
+#addSets("TNS","tns-guilty-gear-strive-53-pc","guilty-gear-strive-pc","9.19.22")
+#addSets("TNS","tns-guilty-gear-strive-54-pc","guilty-gear-strive-pc","10.3.22")
+#addSets("TNS","tns-guilty-gear-strive-55-pc","guilty-gear-strive-pc","10.17.22")
+#addSets("TNS","tns-guilty-gear-strive-56-pc","guilty-gear-strive-pc","10.24.22")
+#addSets("TNS","tns-guilty-gear-strive-57-pc","guilty-gear-strive-pc","11.7.22")
+#addSets("TNS","tns-guilty-gear-strive-58-pc","guilty-gear-strive-pc","11.14.22")
+#addSets("TNS","tns-guilty-gear-strive-59-pc","guilty-gear-strive-pc","11.28.22")
+#addSets("TNS","tns-guilty-gear-strive-60-pc","guilty-gear-strive-pc","12.5.22")
+#addSets("TNS","tns-guilty-gear-strive-61-pc","guilty-gear-strive-pc","12.12.22")
+#addSets("TNS","tns-guilty-gear-strive-62-crossplay","guilty-gear-strive-crossplay","12.19.22")
+#addSets("TNS","tns-guilty-gear-strive-63-crossplay","guilty-gear-strive-crossplay","1.2.23")
+#addSets("TNS","tns-guilty-gear-strive-64-crossplay","guilty-gear-strive-crossplay","1.2.23")
+#addSets("TNS","tns-guilty-gear-strive-65-crossplay","guilty-gear-strive-crossplay","1.16.23")
+#addSets("TNS","tns-guilty-gear-strive-66-crossplay","guilty-gear-strive-crossplay","1.23.23")
+#addSets("TNS","tns-guilty-gear-strive-67-crossplay","guilty-gear-strive-crossplay","1.30.23")
+#addSets("TNS","tns-guilty-gear-strive-69-crossplay","guilty-gear-strive-crossplay","2.20.23")
+#addSets("TNS","tns-guilty-gear-strive-70-crossplay","guilty-gear-strive-crossplay","2.27.23")
+
+print(playerMatchHistory("Vera Caelestis","TournamentData/TNS/TNSSets.txt"))
+print(playerRecords("Vera Caelestis","TournamentData/TNS/TNSSets.txt"))
