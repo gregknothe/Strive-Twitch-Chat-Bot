@@ -132,5 +132,14 @@ def charMoveList(charName):
 #print(frameTrapCalc("axl", "c.S", "2369H"))
 
 #print(charMoveList("gold"))
-print(frameTrapCalc("may", "5K", "6H"))
+#print(frameTrapCalc("may", "5K", "6H"))
 #$print(charMoveList("gold"))
+'''
+x = pd.read_csv("FrameData/Anji_Mito.txt",sep="/")
+x = x.to_html()
+
+text_file = open("C:/Users/Greg Knothe/Desktop/data.txt", "w")
+n = text_file.write(x)
+text_file.close()
+'''
+print(frameTrapCalc("bridget","2K","6H"))

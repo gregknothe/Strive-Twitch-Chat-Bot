@@ -8052,3 +8052,847 @@ Mth,JahDrop,2,3,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-striv
 WIDOW,Fordris,3,0,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,2.16.23
 DVD,Apho,2,3,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,2.16.23
 8&,BarnacleBooty,2,3,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,2.16.23
+UMISHO,Solstice,3,0,Grand Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+UMISHO,Romolla,3,2,Winners Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Romolla,Solstice,2,3,Losers Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,Solstice,1,3,Losers Semi-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+UMISHO,MFCR,3,0,Winners Semi-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Romolla,0,3,Winners Semi-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Shin_Phil,2,3,Losers Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Solstice,-1,0,Losers Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Shin_Phil,2,3,Losers Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Snixy,Solstice,0,3,Losers Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+UMISHO,Rat,3,0,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,MFCR,1,3,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Snixy,Minish,1,3,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Romolla,Solstice,3,1,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,Lookewarm,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Marvelo,Pch,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,mailman1716,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rossa,Takenoko,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Marvelo,PINK,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rossa,Lavender,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Bluelinkys,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Womba,BlackYoshi,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Wonton,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MrArgentix,Lord Knight,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Noisette,PINK,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Neat...,Dahurps,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SkylarOVA,Coffee,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,Jello,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+K-Boomafoo,yoman5,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,iDom,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,Master Raven,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Paingwen,Terb,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rossa,PineappleHour,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,Safe,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,Jojo,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Box Shpee,Xerker,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,Jello,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+K-Boomafoo,yoman5,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,iDom,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,Master Raven,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Paingwen,Terb,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rossa,PineappleHour,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,Safe,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,Jojo,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Box Shpee,Xerker,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+drdinosaur12,Master Raven,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lord Knight,Awhile,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Neat...,yoman5,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Fantome,Boomguy2,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TurtleAndBeyond,Killswitch,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JTR,ErdanNailo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+pedrito,SquidgeLuke,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,K-Boomafoo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Apotheosis,ColdBurn,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terb,hayatei,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ABLTLDME,BlackYoshi,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,Riddly,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PINK,Rossa,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Coffee,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+iDom,Koby,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Neat...,Takenoko,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terehy,DAF,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,Razzo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,Gutz,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,K-Boomafoo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,Romolla,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,JTR,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gutz,Gresdak,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Master Raven,Razzo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,noobreker9000,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,BlackYoshi,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,Safe,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Diamondrouter,UMISHO,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JoyBoy,Gresdak,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,NewbieSani,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Fantome,Aoki,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MrArgentix,BlackYoshi,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,SkylarOVA,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,Lavender,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,Claira,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,XIII,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PINK,junodrive,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+South,noobreker9000,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,Lookewarm,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jojo,i already laust,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Apotheosis,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+King Rex,Dahurps,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,Lurry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ShockZ,Enve,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,SquidgeLuke,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PINK,junodrive,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+South,noobreker9000,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,Lookewarm,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jojo,i already laust,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Apotheosis,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+King Rex,Dahurps,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,Lurry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ShockZ,Enve,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,SquidgeLuke,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+K-Boomafoo,voidstar,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Falkor,Fantome,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hachiman,South,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jello,XIII,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,Box Shpee,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,Lavender,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+NewbieSani,caitySnow,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,Freege,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,TempleNUT!,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,Solstice,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,drdinosaur12,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SkylarOVA,Master Raven,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Fantome,ErdanNailo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+noobreker9000,TempleNUT!,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,Minimefuzzy,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,Jojo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Box Shpee,lil hotdog,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,voidstar,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Jojo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Nub,junodrive,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Burstdragon1,Womba,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shine,Solstice,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StadiumBeats,SquidgeLuke,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Punk,Aoki,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+daze,Shaqdaddy,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Dwarl Warberry,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+amoeba,Jello,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jojo,yoman5,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,JTR,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Neat...,PINK,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Young_Lz_23,pedrito,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+drdinosaur12,Shin_Phil,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Aoki,Neat...,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enigmatic265,iDom,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StadiumBeats,StrippedChicken,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,Rat,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Schwertdame,Takenoko,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Falkor,Skull_Duggers,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Young_Lz_23,yoman5,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lurry,Freege,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Aoki,Rippchord,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Paingwen,CPU,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ColdBurn,Enve,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,Koby,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,ChairmanFan,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,Hectorhammett,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Box Shpee,Young_Lz_23,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Claira,Eidoloclast,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gutz,CPU,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Burstdragon1,Lebryant,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lord Knight,Apotheosis,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Solstice,PINK,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+bt,Dahurps,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Xerker,aBudgetBox,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,Schwertdame,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Punk,Bluelinkys,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Skull_Duggers,SkylarOVA,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rippchord,Koby,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Walter,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TurtleAndBeyond,Gresdak,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+DAF,Neat...,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lebryant,Pch,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terb,voidstar,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ABLTLDME,XIII,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SquidgeLuke,Minish,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+UMISHO,Lurry,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gutz,junodrive,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,greed_,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Boomguy2,Takenoko,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hachiman,Young_Lz_23,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,Enigmatic265,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SkylarOVA,Rossa,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,Pch,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hectorhammett,Schwertdame,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+DAF,voidstar,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+XIII,Farfellelo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Takenoko,Gresdak,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+HyperDogeGaming,Freege,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+South,Dwarl Warberry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,junodrive,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+daze,Gutz,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enigmatic265,TempleNUT!,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Claira,Xerker,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,Trevwerd,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+CPU,Falkor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gummie,yoman5,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shine,Fantome,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+South,Rippchord,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,MrArgentix,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Marvelo,liamishere,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,Schwertdame,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TurtleAndBeyond,drdinosaur12,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Nub,ErdanNailo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JTR,Skull_Duggers,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,aBudgetBox,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,CPU,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Box Shpee,junodrive,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hachiman,Master Raven,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SquidgeLuke,Dwarl Warberry,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Young_Lz_23,angxiii,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MrArgentix,Takenoko,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,Awhile,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,voidstar,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,StrippedChicken,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terehy,yoman5,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+HyperDogeGaming,K-Boomafoo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,TurtleAndBeyond,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+fka bread,Enigmatic265,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Eidoloclast,ColdBurn,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Hachiman,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rippchord,i already laust,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Freege,Fantome,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Xerker,Bluelinkys,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,pedrito,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ABLTLDME,voidstar,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Falkor,Awhile,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Boomguy2,MrArgentix,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,JTR,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JoyBoy,XIII,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,DAF,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,Gummie,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+angxiii,Eidoloclast,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,SquidgeLuke,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Walter,Xerker,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Fantome,Hotashi,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,NewbieSani,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,PINK,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lord Knight,Falkor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lurry,iDom,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Master Raven,XIII,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Solstice,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,CPU,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+saxdi,amoeba,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Apotheosis,Wonton,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,LonesomeLurker,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+CPU,Lurry,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,Terb,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hectorhammett,Farfellelo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terb,MrArgentix,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Freege,SoFisht,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Falkor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Punk,daze,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,Razzo,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jello,junodrive,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Diamondrouter,Terehy,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Solstice,Terb,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+XIII,SquidgeLuke,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+amoeba,daze,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,drdinosaur12,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+greed_,Romolla,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,StrippedChicken,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Boomguy2,Diamondrouter,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+XIII,Terehy,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Coffee,SquidgeLuke,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dwarl Warberry,hayatei,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ColdBurn,Noisette,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,angxiii,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,Shin_Phil,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+K-Boomafoo,Enigmatic265,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,HyperDogeGaming,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+daze,Romolla,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JTR,Terehy,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,Aoki,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,monte,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+CPU,aBudgetBox,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Solstice,Cheryo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Apotheosis,Safe,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shine,iDom,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,Shin_Phil,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Burstdragon1,Terehy,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Master Raven,Jojo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,caitySnow,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,noobreker9000,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Skull_Duggers,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lord Knight,Hachiman,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,voidstar,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dwarl Warberry,Master Raven,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Bluelinkys,Freege,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+HyperDogeGaming,Avid,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Eidoloclast,fka bread,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Killswitch,daze,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,ABLTLDME,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Claira,SoFisht,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Somnium,iDom,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Falkor,pedrito,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+caitySnow,Farfellelo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rossa,saxdi,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,South,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Burstdragon1,drdinosaur12,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,Lord Knight,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Punk,Nub,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,Dahurps,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+iDom,Romolla,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+junodrive,SkylarOVA,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lebryant,Lurry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,Diamondrouter,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+caitySnow,Claira,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Solstice,aBudgetBox,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rippchord,voidstar,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,Enve,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gutz,Cheryo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terehy,ShockZ,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,Nub,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Crescendo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Boomguy2,ABLTLDME,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+K-Boomafoo,Lebryant,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,MrArgentix,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,noobreker9000,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+voidstar,Claira,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+fka bread,Rippchord,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,CPU,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+LonesomeLurker,DAF,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Jack,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Snixy,Safe,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hectorhammett,drdinosaur12,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Eidoloclast,caitySnow,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,Lookewarm,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dahurps,Jello,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,SoFisht,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Schwertdame,TempleNUT!,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Xerker,Hotashi,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minimefuzzy,HyperDogeGaming,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Master Raven,Somnium,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,Jello,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Killswitch,Dwarl Warberry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SkylarOVA,Boomguy2,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,Freege,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Walter,Terb,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Takenoko,fka bread,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rippchord,lil hotdog,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,drdinosaur12,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,UMISHO,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JoyBoy,HyperDogeGaming,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Diamondrouter,Skull_Duggers,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,MFCR,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jello,MrArgentix,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,PineappleHour,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SkylarOVA,King Rex,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terb,Jack,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hachiman,caitySnow,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,amoeba,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,PINK,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Romolla,Razzo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,HyperDogeGaming,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,Wonton,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,Master Raven,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,greed_,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,Falkor,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,ColdBurn,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Diamondrouter,Gutz,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gresdak,Lord Knight,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,ChairmanFan,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Womba,greed_,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dahurps,CPU,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,Hectorhammett,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,NiNE,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+amoeba,Nub,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Claira,greed_,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ABLTLDME,Romolla,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Burstdragon1,Avid,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,K-Boomafoo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Xerker,Pch,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+pedrito,Jojo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Walter,DAF,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+NiNE,Dwarl Warberry,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+voidstar,Riddly,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Punk,PineappleHour,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+junodrive,Somnium,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enigmatic265,UMISHO,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jojo,Womba,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Marvelo,Razzo,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Takenoko,Wonton,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,Minish,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Nub,Freege,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Falkor,Cheryo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,Gummie,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Somnium,Master Raven,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+BlackYoshi,junodrive,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ChairmanFan,Burstdragon1,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dahurps,noobreker9000,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+bt,ColdBurn,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PINK,Wonton,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gummie,Claira,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Falkor,Somnium,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dwarl Warberry,Noisette,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,Rippchord,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Eidoloclast,Diamondrouter,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Terb,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Walter,Lebryant,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ABLTLDME,Riddly,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Paingwen,Enve,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,liamishere,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Coffee,BlackYoshi,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Bluelinkys,Razzo,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,UMISHO,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,Diamondrouter,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Pch,Wonton,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Somnium,Aoki,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lebryant,Boomguy2,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gresdak,Burstdragon1,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,Punk,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,Rat,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,Hectorhammett,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Solstice,UMISHO,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,amoeba,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enigmatic265,ColdBurn,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Coffee,Apotheosis,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Xerker,Aoki,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PINK,Lurry,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+LonesomeLurker,Snixy,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ChairmanFan,noobreker9000,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Safe,Lebryant,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Skull_Duggers,amoeba,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hectorhammett,Killswitch,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Apotheosis,Riddly,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Coffee,Schwertdame,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,Snixy,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+LonesomeLurker,mailman1716,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,Terb,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,ErdanNailo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Somnium,MFCR,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Takenoko,K-Boomafoo,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jojo,fka bread,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enigmatic265,amoeba,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Master Raven,Lookewarm,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dwarl Warberry,Young_Lz_23,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,ColdBurn,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Bluelinkys,Terb,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gresdak,saxdi,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Safe,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,SkylarOVA,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+junodrive,Farfellelo,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Somnium,Hachiman,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,SquidgeLuke,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Riddly,angxiii,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+saxdi,ShockZ,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terb,Enigmatic265,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+amoeba,Bluelinkys,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+yoman5,K-Boomafoo,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Skull_Duggers,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Freege,Takenoko,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,Hachiman,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Snixy,angxiii,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enigmatic265,liamishere,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lord Knight,Xerker,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Romolla,Hectorhammett,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minimefuzzy,ErdanNailo,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+aBudgetBox,Dwarl Warberry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,Enigmatic265,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Walter,Marvelo,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,amoeba,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SID,PINK,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Romolla,Razzo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+mailman1716,HyperDogeGaming,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,Wonton,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,Master Raven,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Skull_Duggers,Freege,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Claira,Schwertdame,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Terehy,Master Raven,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StrippedChicken,Somnium,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,SoFisht,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lebryant,angxiii,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,Enigmatic265,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+NiNE,Lavender,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StadiumBeats,Lookewarm,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,aBudgetBox,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SquidgeLuke,Walter,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Burstdragon1,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,Skull_Duggers,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,SoFisht,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lebryant,angxiii,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,Enigmatic265,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+NiNE,Lavender,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+StadiumBeats,Lookewarm,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,aBudgetBox,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SquidgeLuke,Walter,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Burstdragon1,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Wonton,Skull_Duggers,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dwarl Warberry,Koby,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shaqdaddy,Pch,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Paingwen,ColdBurn,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,voidstar,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Master Raven,Gutz,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,Somnium,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Crescendo,mailman1716,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JTR,Shine,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,Lebryant,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+angxiii,Gresdak,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+hayatei,Rossa,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Marvelo,Lavender,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Razzo,Gummie,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Nub,liamishere,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Cheryo,SID,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Shine,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JTR,ABLTLDME,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Avid,SoFisht,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+monte,HyperDogeGaming,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Enve,Hachiman,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+liamishere,Lurry,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hectorhammett,MFCR,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Coffee,Killswitch,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,K-Boomafoo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+hayatei,Skull_Duggers,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Punk,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Marvelo,Minish,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jojo,XIII,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+PineappleHour,SkylarOVA,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Koby,Dahurps,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Boomguy2,Noisette,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+DAF,Jojo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Diamondrouter,XIII,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Walter,daze,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lookewarm,TempleNUT!,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Hotashi,Terehy,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+yoman5,saxdi,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lavender,TurtleAndBeyond,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+CPU,Jack,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Farfellelo,South,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Skull_Duggers,Razzo,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+HyperDogeGaming,lil hotdog,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+i already laust,Killswitch,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Noisette,Riddly,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jello,Schwertdame,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,Takenoko,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Solstice,Apotheosis,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dwarl Warberry,StrippedChicken,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Gutz,LonesomeLurker,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+ErdanNailo,Box Shpee,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Razzo,Falkor,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Lord Knight,Walter,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+lil hotdog,voidstar,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Awhile,Crescendo,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Shin_Phil,Marvelo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+TempleNUT!,iDom,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SynysterEmbrace,Riddly,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,yoman5,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Eidoloclast,BlackYoshi,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MrArgentix,Gresdak,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Razzo,noobreker9000,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Dahurps,junodrive,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+angxiii,King Rex,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+SoFisht,Jojo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+i already laust,Boomguy2,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Somnium,voidstar,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Jack,UMISHO,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Rat,Falkor,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+fka bread,LonesomeLurker,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+JoyBoy,junodrive,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Minish,Solstice,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Eidoloclast,Jello,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+MFCR,Diamondrouter,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+Riddly,liamishere,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,3.2.23
+NBNHMR,Trevor Tsu,2,3,Grand Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,NBNHMR,3,1,Grand Final Reset,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NBNHMR,Trevor Tsu,3,2,Winners Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,Papple,3,0,Losers Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,Akeno,3,0,Losers Semi-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Memokarp,NBNHMR,1,3,Winners Semi-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,Papple,3,1,Winners Semi-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,Stealthy,3,0,Losers Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Memokarp,Akeno,2,3,Losers Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Stealthy,Uwabami,3,0,Losers Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Akeno,jeck,3,0,Losers Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Stealthy,Memokarp,1,3,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Uwabami,NBNHMR,0,3,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,Akeno,3,1,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,jeck,3,1,Winners Quarter-Final,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Wannabe,WIDOW,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Frosty,JackHale,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,Akeno,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Ego,DirectiveXero,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+MjKurase,Memokarp,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PoopManBoxMan,Super Raptor,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,DirectiveXero,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Frosty,NBNHMR,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Reynald,clownlore,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+BoxingShrimp,8&,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+WIDOW,Gatterall,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,JackHale,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,PunsAndBuns,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,Aloa,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Wannabe,MjKurase,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PoopManBoxMan,clownlore,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,sam,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,Memokarp,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Enzo,Boogius,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+WC 44 ONLY,Wannabe,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,clownlore,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+8&,Boogius,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Enzo,sam,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,CanPakes,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PoopManBoxMan,UnbreakableDoof,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NBNHMR,Sunlight,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Enzo,Manoueverable,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Revilo,Gatterall,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,WC 44 ONLY,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+jeck,Kaijo Boy,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Manoueverable,GwynStylish,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,galaxybutter,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,Ego,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,Aloa,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Eve,Varia,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+BoxingShrimp,7_IツI_Г,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,clownlore,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,Kaijo Boy,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,UnbreakableDoof,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+jeck,GwynStylish,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,Manoueverable,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NUGIEBOY,TheVeryGenericUsername,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,7_IツI_Г,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,BoxingShrimp,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Boogius,Gatterall,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,Mystery Solver,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PunsAndBuns,8&,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Tensorial,MjKurase,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Gatterall,GwynStylish,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Eve,Coffeeexe,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Choku Red,PullUpOnAKid,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Espi0,Mystery Solver,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,JahDrop,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+BoxingShrimp,Choku Red,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Gatterall,Kaijo Boy,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,GwynStylish,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,vtuber defender,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,SudaHead,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,sam,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JackHale,Gatterall,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,Kaijo Boy,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,Sunlight,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Boogius,PunsAndBuns,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,vtuber defender,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,Ego,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NBNHMR,galaxybutter,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,DirectiveXero,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Kaijo Boy,Eve,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Reynald,vtuber defender,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+TheVeryGenericUsername,JahDrop,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Enzo,Gatterall,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Just Joe,Swagless,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,Manoueverable,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Akeno,Tensorial,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NUGIEBOY,Eve,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,Puzzled,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+VforCharlie,CanPakes,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+vtuber defender,BoxingShrimp,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,Mystery Solver,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Swagless,Aloa,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Manoueverable,Eve,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Mystery Solver,Varia,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,Tensorial,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+sam,Aloa,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+TheVeryGenericUsername,Super Raptor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,VforCharlie,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JackHale,Boogius,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,PullUpOnAKid,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,Just Joe,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Reynald,aangxiety,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Mystery Solver,Eve,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Reynald,Super Raptor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Dende,UnbreakableDoof,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,Akeno,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Espi0,Puzzled,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,Enzo,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Ego,Aloa,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+sam,PunsAndBuns,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Eve,Puzzled,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+GwynStylish,Just Joe,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Manoueverable,sam,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Choku Red,NuclearMonje,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+UnbreakableDoof,galaxybutter,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Manoueverable,TheVeryGenericUsername,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,Swagless,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+8&,MjKurase,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+galaxybutter,JahDrop,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Squoid,Boogius,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,Sunlight,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+jeck,Coffeeexe,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Choku Red,8&,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Just Joe,WC 44 ONLY,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Manoueverable,Puzzled,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Revilo,WIDOW,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,Wannabe,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+jeck,Tensorial,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,Varia,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PoopManBoxMan,sam,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,VforCharlie,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,Tensorial,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,Revilo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,PoopManBoxMan,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+sam,JackHale,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Stealthy,NUGIEBOY,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Ego,8&,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,BoxingShrimp,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,WC 44 ONLY,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+VforCharlie,Varia,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Akeno,Revilo,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Memokarp,NBNHMR,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Ego,GwynStylish,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+UnbreakableDoof,NuclearMonje,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,Stealthy,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JackHale,Wannabe,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Just Joe,Choku Red,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+BoxingShrimp,WIDOW,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Boogius,DirectiveXero,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+8&,NUGIEBOY,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Gatterall,SudaHead,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Memokarp,Eve,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Espi0,Stealthy,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Madroctos,Ego,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+clownlore,Choku Red,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,Memokarp,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+MjKurase,Stealthy,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,clownlore,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,Memokarp,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+8&,xxscythemarkxx,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Boogius,BoxingShrimp,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+galaxybutter,Dende,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Uwabami,Choku Red,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,Espi0,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+clownlore,WIDOW,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,Mystery Solver,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+8&,Tensorial,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,PunsAndBuns,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,WIDOW,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Eve,clownlore,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NUGIEBOY,xxscythemarkxx,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+UnbreakableDoof,8&,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Super Raptor,Gatterall,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Boogius,NUGIEBOY,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Uwabami,Dende,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,DirectiveXero,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,UnbreakableDoof,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+GwynStylish,NUGIEBOY,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Aloa,Enzo,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NBNHMR,Gatterall,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+clownlore,galaxybutter,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PunsAndBuns,CanPakes,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Ego,Trevor Tsu,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Aloa,Coffeeexe,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Just Joe,CanPakes,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+galaxybutter,DirectiveXero,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,NUGIEBOY,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Manoueverable,Choku Red,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,Revilo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Aloa,Wannabe,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+aangxiety,Sunlight,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,CanPakes,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+jeck,GwynStylish,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Mystery Solver,WIDOW,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Espi0,Boogius,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+galaxybutter,Choku Red,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,CanPakes,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,Papple,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Revilo,Trevor Tsu,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Stealthy,Gatterall,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+GwynStylish,JackHale,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+UnbreakableDoof,Swagless,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Reynald,Varia,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Choku Red,Kaijo Boy,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Tensorial,MjKurase,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PoopManBoxMan,Espi0,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,JahDrop,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+galaxybutter,Super Raptor,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+clownlore,VforCharlie,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Revilo,NuclearMonje,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+jeck,MjKurase,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+WC 44 ONLY,7_IツI_Г,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,Akeno,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,GwynStylish,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+galaxybutter,Papple,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NUGIEBOY,sam,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,vtuber defender,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Tensorial,Papple,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Choku Red,TheVeryGenericUsername,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+VforCharlie,8&,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,Madroctos,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Mystery Solver,PoopManBoxMan,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,MjKurase,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NUGIEBOY,PunsAndBuns,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+MjKurase,Madroctos,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,galaxybutter,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,Aloa,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Madroctos,PullUpOnAKid,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Uwabami,SudaHead,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+7_IツI_Г,Super Raptor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,WIDOW,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+clownlore,galaxybutter,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+xxscythemarkxx,Aloa,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,Ego,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Kaijo Boy,SudaHead,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NuclearMonje,Tensorial,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+UnbreakableDoof,WIDOW,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Puzzled,sam,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Madroctos,xxscythemarkxx,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,Eve,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Swagless,Super Raptor,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Reynald,Tensorial,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+sam,Revilo,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+GwynStylish,Akeno,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+NUGIEBOY,Papple,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+WC 44 ONLY,MjKurase,2,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Enzo,GwynStylish,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Super Raptor,Frosty,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Akeno,Boogius,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Swagless,PunsAndBuns,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,Manoueverable,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Aloa,JahDrop,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PunsAndBuns,TheVeryGenericUsername,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,Just Joe,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+WIDOW,PullUpOnAKid,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Trevor Tsu,Papple,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,NUGIEBOY,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+TheVeryGenericUsername,xxscythemarkxx,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Kaijo Boy,vtuber defender,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,Reynald,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Dende,BoxingShrimp,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Wannabe,WIDOW,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Varia,7_IツI_Г,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PoopManBoxMan,CanPakes,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+UnbreakableDoof,BoxingShrimp,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,8&,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Aloa,Dende,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+WIDOW,Enzo,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Boogius,xxscythemarkxx,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,Just Joe,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+sam,Uwabami,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Gatterall,Tensorial,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Eve,JahDrop,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Just Joe,vtuber defender,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+7_IツI_Г,WIDOW,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Stealthy,NuclearMonje,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Papple,Dende,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+SudaHead,jeck,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+PullUpOnAKid,vtuber defender,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Uwabami,Super Raptor,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Ego,Trevor Tsu,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+TheVeryGenericUsername,Varia,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+JahDrop,Boogius,3,1,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Dende,Memokarp,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+DirectiveXero,Sunlight,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+BoxingShrimp,Puzzled,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Madroctos,sam,0,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Sunlight,GwynStylish,3,2,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Coffeeexe,clownlore,1,3,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23
+Tensorial,Espi0,3,0,Round 1,run-it-thursdays-32-guilty-gear-strive,guilty-gear-strive-west-coast-ladder-crossplay,3.2.23

@@ -62,12 +62,14 @@ heyUserList = []
 async def hey(ctx):
     if ctx.author.name in heyUserList:
         print(str(ctx.author.name) + " attempted an extra !hey.")
+        return
     else:
         if ctx.author.name == "life_jam":
            await ctx.send(ohs.ohHeyStreamer().replace("Oh hey,","Hey alright,"))
         heyUserList.append(ctx.author.name)
         print(heyUserList)
         await ctx.send(ohs.ohHeyStreamer())
+        return
 
 @bot.command(name="hr")
 async def heyRemove(ctx, *, text):
@@ -115,12 +117,12 @@ async def kliff(ctx):
         return
     else:
         return
-
+'''
 @bot.command(name="playerdata")
 async def playerdata(ctx, *, text):
     await ctx.send(sgg.playerRecordBotCommand(text, "TournamentData/TNS/TNSSets.txt"))
 
-'''
+
 lineCount = [0]
 @bot.command(name="misery")
 async def misery(ctx):

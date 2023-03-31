@@ -1,0 +1,290 @@
+,opponent,result,score,round,tourneyName,eventName,date
+0,UMISHO,loss,0-3,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+1,Rat,win,3-0,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+2,Ferno,win,3-1,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+3,K7 Showoff,win,3-2,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+4,Romolla,loss,1-3,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+5,XyberPX,win,3-0,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+6,UMISHO,loss,2-3,Winners Semi-Final,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+7,Razzo,loss,1-3,Losers Quarter-Final,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+8,Testyourluck,win,3-0,Winners Quarter-Final,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+9,Remi Celeste,loss,2-3,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+10,Corey,win,3-0,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+11,CPU,win,3-2,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+12,Larry Cage,win,3-1,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+13,FlashMetroid,win,3-2,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+14,Kazam,loss,1-3,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+15,Aeduo,win,3-0,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+16,lil hotdog,win,3-0,Round 1,run-it-thursdays-4-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-07-28
+17,Jdjones,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+18,Marvelo,loss,2-3,Grand Final,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+19,Marvelo,win,3-1,Grand Final Reset,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+20,daze,win,3-2,Winners Final,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+21,CPU,win,3-0,Winners Quarter-Final,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+22,Marvelo,win,3-0,Winners Semi-Final,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+23,Marvelo,win,3-1,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+24,Rat,loss,2-3,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+25,Nysos,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+26,.jretion,win,3-2,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+27,KudoGio,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+28,Nagato,win,3-2,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+29,KudoGio,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+30,Mango4Tango,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+31,Trey,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+32,Frosted,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+33,.jretion,win,3-2,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+34,werngee,win,3-0,Round 1,run-it-thursdays-9-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-08
+35,Testyourluck,loss,1-3,Winners Quarter-Final,tns-guilty-gear-strive-52-pc,guilty-gear-strive-pc,2022-09-12
+36,Razzo,loss,0-3,Losers Round 3,tns-guilty-gear-strive-52-pc,guilty-gear-strive-pc,2022-09-12
+37,BEPaw,win,3-0,Winners Quarter-Final,tns-guilty-gear-strive-52-pc,guilty-gear-strive-pc,2022-09-12
+38,Marvelo,win,3-2,Winners Semi-Final,tns-guilty-gear-strive-52-pc,guilty-gear-strive-pc,2022-09-12
+39,| butter-punch,win,3-0,Winners Round 2,tns-guilty-gear-strive-52-pc,guilty-gear-strive-pc,2022-09-12
+40,Diaphone,loss,2-3,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+41,Walter,win,3-1,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+42,Marvelo,loss,2-3,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+43,Marvelo,win,3-1,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+44,SBZ,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+45,Diaphone,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+46,Kazam,loss,1-3,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+47,MacMens,win,3-1,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+48,Diaphone,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+49,SBZ,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+50,Solstice,loss,2-3,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+51,Remi Celeste,win,3-1,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+52,Macho,win,3-1,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+53,Xerker,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+54,Groovy,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+55,Bowline,win,3-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+56,Coffee,win,2-0,Round 1,run-it-thursdays-12-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-09-29
+57,Marvelo,win,3-2,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+58,PootieDelight,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+59,Tilted,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+60,Remi Celeste,loss,1-3,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+61,Ferno,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+62,GillGC,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+63,Remi Celeste,loss,2-3,Losers Quarter-Final,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+64,Solstice,win,3-1,Winners Quarter-Final,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+65,UMISHO,loss,1-3,Winners Semi-Final,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+66,Macho,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+67,Solstice,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+68,MFCR,win,3-2,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+69,Penguy,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+70,Shine,win,3-1,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+71,MFCR,win,3-2,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+72,Solstice,win,3-0,Round 1,run-it-thursdays-14-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-10-13
+73,NeoVermillion,win,3-0,Losers Round 2,tns-guilty-gear-strive-56-pc,guilty-gear-strive-pc,2022-10-24
+74,Hotashi,win,3-1,Losers Quarter-Final,tns-guilty-gear-strive-56-pc,guilty-gear-strive-pc,2022-10-24
+75,Razzo,loss,1-3,Losers Semi-Final,tns-guilty-gear-strive-56-pc,guilty-gear-strive-pc,2022-10-24
+76,Yurikov,win,3-0,Losers Round 1,tns-guilty-gear-strive-56-pc,guilty-gear-strive-pc,2022-10-24
+77,Marvelo,win,3-1,Winners Quarter-Final,tns-guilty-gear-strive-56-pc,guilty-gear-strive-pc,2022-10-24
+78,NBNHMR,loss,1-3,Winners Semi-Final,tns-guilty-gear-strive-56-pc,guilty-gear-strive-pc,2022-10-24
+79,Espi0,win,3-0,Winners Quarter-Final,9moons-weekly-41-make-or-break-final-qualifier,double-elimination-bracket,2022-11-05
+80,NBNHMR,win,3-1,Grand Final,9moons-weekly-41-make-or-break-final-qualifier,double-elimination-bracket,2022-11-05
+81,Chetoo,win,3-0,Winners Semi-Final,9moons-weekly-41-make-or-break-final-qualifier,double-elimination-bracket,2022-11-05
+82,Remi Celeste,win,3-2,Winners Semi-Final,9moons-weekly-41-make-or-break-final-qualifier,double-elimination-bracket,2022-11-05
+83,NBNHMR,win,3-1,Winners Final,9moons-weekly-41-make-or-break-final-qualifier,double-elimination-bracket,2022-11-05
+84,Dwarl Warberry,win,3-2,Winners Round 2,9moons-weekly-41-make-or-break-final-qualifier,double-elimination-bracket,2022-11-05
+85,Aarondamac,loss,0-3,Winners Final,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+86,Burstdragon1,win,3-0,Winners Round 2,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+87,NBNHMR,win,3-1,Winners Semi-Final,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+88,NBNHMR,loss,1-3,Losers Final,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+89,Rat,win,3-0,Winners Quarter-Final,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+90,daze,win,3-0,Winners Semi-Final,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+91,Sola,win,3-0,Winners Round 3,tns-guilty-gear-strive-57-pc,guilty-gear-strive-pc,2022-11-07
+92,Noisette,win,3-0,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+93,pedrito,win,3-1,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+94,daze,win,3-0,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+95,daze,win,3-0,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+96,UMISHO,loss,1-3,Grand Final,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+97,Solstice,win,3-0,Losers Final,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+98,Romolla,win,3-2,Losers Semi-Final,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+99,UMISHO,loss,2-3,Winners Semi-Final,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+100,Overcrack,win,3-2,Losers Quarter-Final,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+101,Somnium,win,3-0,Winners Quarter-Final,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+102,Rat,win,3-0,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+103,Dwarl Warberry,win,3-0,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+104,Kazam,win,3-1,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+105,CreakyAxe,win,3-0,Round 1,run-it-thursdays-19-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-11-17
+106,Papple,win,3-1,Winners Final,9moons-weekly-42-guilty-gear-strive,double-elimination-bracket,2022-11-19
+107,Sand,win,3-0,Winners Round 2,9moons-weekly-42-guilty-gear-strive,double-elimination-bracket,2022-11-19
+108,Dewberry,win,3-0,Winners Quarter-Final,9moons-weekly-42-guilty-gear-strive,double-elimination-bracket,2022-11-19
+109,Rat,win,3-0,Grand Final,9moons-weekly-42-guilty-gear-strive,double-elimination-bracket,2022-11-19
+110,Petrafied,win,3-1,Winners Semi-Final,9moons-weekly-42-guilty-gear-strive,double-elimination-bracket,2022-11-19
+111,Rat,win,3-1,Winners Semi-Final,9moons-weekly-42-guilty-gear-strive,double-elimination-bracket,2022-11-19
+112,mkj,win,3-0,Winners Round 3,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+113,Aarondamac,loss,2-3,Grand Final,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+114,OddToaster,win,3-0,Losers Quarter-Final,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+115,Lapriz,win,3-0,Losers Round 6,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+116,BEPaw,loss,2-3,Winners Quarter-Final,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+117,Seph,win,3-0,Winners Round 2,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+118,CPU,win,3-2,Losers Round 1,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+119,Conraderino,win,3-2,Losers Quarter-Final,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+120,HonoredOgre,win,3-1,Losers Final,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+121,mike_Saftig,win,3-1,Losers Semi-Final,9moons-weekly-43-guilty-gear-strive,double-elimination-bracket,2022-11-26
+122,Eddventure,loss,2-3,Losers Round 1,tns-guilty-gear-strive-59-pc,guilty-gear-strive-pc,2022-11-28
+123,NoXX,win,3-0,Winners Round 2,tns-guilty-gear-strive-59-pc,guilty-gear-strive-pc,2022-11-28
+124,Lapriz,win,3-1,Losers Round 4,tns-guilty-gear-strive-59-pc,guilty-gear-strive-pc,2022-11-28
+125,Lolo,loss,2-3,Winners Quarter-Final,tns-guilty-gear-strive-59-pc,guilty-gear-strive-pc,2022-11-28
+126,Papa Leo,win,3-0,Losers Round 3,tns-guilty-gear-strive-59-pc,guilty-gear-strive-pc,2022-11-28
+127,WashedKing,loss,0-3,Winners Round 2,9moons-monthly-14-300-prize-pool,double-elimination-bracket,2022-12-03
+128,boomer__bob,win,3-0,Losers Round 2,9moons-monthly-14-300-prize-pool,double-elimination-bracket,2022-12-03
+129,Void,win,3-2,Losers Round 5,9moons-monthly-14-300-prize-pool,double-elimination-bracket,2022-12-03
+130,galaxybutter,win,3-0,Losers Round 4,9moons-monthly-14-300-prize-pool,double-elimination-bracket,2022-12-03
+131,WashedKing,loss,2-3,Losers Round 6,9moons-monthly-14-300-prize-pool,double-elimination-bracket,2022-12-03
+132,Sand,win,3-0,Losers Round 3,9moons-monthly-14-300-prize-pool,double-elimination-bracket,2022-12-03
+133,Smitty_FGC,win,3-2,Winners Semi-Final,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+134,Razzo,loss,0-3,Losers Final,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+135,PineappleHour,win,3-1,Winners Quarter-Final,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+136,OddToaster,win,3-1,Winners Semi-Final,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+137,MjKurase,win,3-1,Winners Quarter-Final,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+138,FGCsand,win,3-0,Winners Round 2,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+139,NBNHMR,loss,0-3,Winners Final,tns-guilty-gear-strive-60-pc,guilty-gear-strive-pc,2022-12-05
+140,Somnium,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+141,PineappleHour,win,3-1,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+142,MacMens,win,3-1,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+143,CatboyCulture,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+144,MacMens,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+145,Young_Lz_23,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+146,Tee,loss,1-3,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+147,audio ambition,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+148,JTR,win,3-0,Winners Quarter-Final,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+149,Hotashi,loss,1-3,Losers Quarter-Final,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+150,Marvelo,loss,2-3,Winners Semi-Final,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+151,Beluga,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+152,Lurry,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+153,Rydlo,win,3-0,Round 1,run-it-thursdays-21-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-pc,2022-12-08
+154,Mawquis,win,3-1,Winners Round 2,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+155,NBNHMR,loss,1-3,Winners Final,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+156,Solstice,win,3-2,Winners Quarter-Final,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+157,daze,win,3-0,Winners Semi-Final,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+158,Marvelo,loss,1-3,Losers Final,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+159,sly,win,3-0,Winners Semi-Final,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+160,PORK LAZER,win,3-2,Winners Quarter-Final,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+161,KidBuumer,win,3-2,Winners Round 3,tns-guilty-gear-strive-62-crossplay,guilty-gear-strive-crossplay,2022-12-19
+162,Razzo,win,3-2,Winners Quarter-Final,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+163,UMISHO,loss,0-3,Losers Quarter-Final,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+164,Tee,loss,1-3,Winners Semi-Final,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+165,Tee,loss,0-3,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+166,UMISHO,loss,0-3,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+167,pedrito,loss,2-3,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+168,Walter,loss,1-3,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+169,CreakyAxe,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+170,PineappleHour,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+171,Elkmin,win,3-1,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+172,greed_,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+173,Deezy,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+174,PineappleHour,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+175,Razzo,loss,1-3,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+176,Mawquis,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+177,Dusty,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+178,BRX,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+179,PORK LAZER,win,3-2,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+180,Rem,win,3-1,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+181,spooncats,win,3-0,Round 1,run-it-thursdays-23-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2022-12-22
+182,Zorick,win,3-0,Winners Round 2,tns-guilty-gear-strive-63-crossplay,guilty-gear-strive-crossplay,2023-01-02
+183,NeoVermillion,win,3-1,Winners Semi-Final,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+184,Skull_Duggers,win,3-2,Winners Quarter-Final,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+185,Meatloaf,loss,2-3,Losers Round 5,tns-guilty-gear-strive-63-crossplay,guilty-gear-strive-crossplay,2023-01-02
+186,Meeks,win,3-0,Winners Round 3,tns-guilty-gear-strive-63-crossplay,guilty-gear-strive-crossplay,2023-01-02
+187,Dusty,loss,1-3,Winners Quarter-Final,tns-guilty-gear-strive-63-crossplay,guilty-gear-strive-crossplay,2023-01-02
+188,Papple,win,3-0,Losers Quarter-Final,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+189,Eddventure,loss,1-3,Winners Semi-Final,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+190,Solstice,loss,2-3,Losers Semi-Final,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+191,MacMens,win,3-2,Winners Quarter-Final,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+192,Envy,win,3-0,Winners Round 3,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+193,Musty,win,3-0,Winners Round 2,tns-guilty-gear-strive-64-crossplay,guilty-gear-strive-crossplay,2023-01-02
+194,TurtleAndBeyond,win,3-0,Winners Round 2,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+195,corndog,win,3-0,Winners Quarter-Final,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+196,MFCR,win,3-0,Winners Semi-Final,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+197,Dewberry,win,3-0,Winners Round 3,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+198,Chetoo,win,3-2,Losers Quarter-Final,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+199,NBNHMR,loss,1-3,Winners Semi-Final,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+200,UMISHO,loss,2-3,Losers Semi-Final,9moons-weekly-45-crossplay,double-elimination-bracket,2023-01-14
+201,pedrito,win,3-0,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+202,Minish,win,3-0,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+203,Dende,loss,0-3,Losers Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+204,NBNHMR,loss,1-3,Winners Semi-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+205,Dende,win,3-1,Winners Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+206,Zintai,win,3-1,Winners Round 3,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+207,MFCR,win,3-1,Losers Quarter-Final,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+208,K20T00,win,3-0,Winners Round 2,tns-guilty-gear-strive-65-crossplay,guilty-gear-strive-crossplay,2023-01-16
+209,Free,win,3-0,Winners Round 2,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+210,Corey,loss,1-3,Winners Final,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+211,UMISHO,loss,1-3,Losers Final,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+212,Memokarp,win,3-1,Winners Semi-Final,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+213,Elucid,win,3-0,Winners Quarter-Final,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+214,Remi Celeste,win,3-0,Winners Semi-Final,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+215,Kaiina,win,3-0,Winners Round 3,9moons-weekly-46-crossplay,double-elimination-bracket,2023-01-21
+216,Marvelo,loss,0-3,Losers Final,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+217,Rat,win,3-1,Winners Semi-Final,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+218,iDom,win,3-0,Winners Round 1,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+219,Genericnamebrand,win,3-0,Winners Semi-Final,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+220,Elucid,win,3-1,Winners Quarter-Final,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+221,NBNHMR,loss,1-3,Winners Final,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+222,programmersocks,win,3-0,Winners Round 2,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+223,Marvelo,win,3-0,Winners Quarter-Final,tns-guilty-gear-strive-66-crossplay,guilty-gear-strive-crossplay,2023-01-23
+224,iDom,win,3-0,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+225,Remi Celeste,win,3-1,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+226,JayRain,win,3-1,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+227,Dwarl Warberry,win,3-0,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+228,noobreker9000,win,3-0,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+229,Purified,win,3-0,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+230,Remi Celeste,win,3-1,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+231,JayRain,win,3-1,Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+232,Solstice,loss,2-3,Losers Semi-Final,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+233,HonoredOgre,win,3-1,Losers Quarter-Final,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+234,DomiWurld,win,3-0,Losers Round 1,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+235,UMISHO,loss,0-3,Winners Quarter-Final,run-it-thursdays-27-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-01-26
+236,Acorn,win,3-0,Winners Round 2,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+237,Lolo,win,3-2,Losers Round 1,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+238,Marvelo,win,3-1,Losers Quarter-Final,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+239,Walter,loss,2-3,Losers Semi-Final,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+240,doren2k,win,3-1,Losers Round 6,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+241,Remi Celeste,win,3-0,Losers Quarter-Final,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+242,Diaphone,win,3-1,Losers Round 7,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+243,Lolo,loss,1-3,Winners Quarter-Final,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+244,Young_Lz_23,win,3-0,Winners Round 3,9moons-weekly-47-crossplay,double-elimination-bracket,2023-01-28
+245,JahDrop,win,3-0,Winners Round 2,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+246,druice,win,3-0,Losers Final,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+247,NBNHMR,loss,0-3,Winners Final,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+248,Dany,win,3-2,Winners Semi-Final,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+249,Sunlight,win,3-0,Winners Round 3,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+250,Trevor Tsu,win,3-2,Winners Semi-Final,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+251,BEPaw,win,3-1,Winners Quarter-Final,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+252,NBNHMR,win,3-1,Grand Final,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+253,NBNHMR,loss,0-3,Grand Final Reset,9moons-monthly-16-benefitting-the-ablegamers-charity-crossplay,double-elimination-bracket,2023-02-11
+254,Nub,win,3-0,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+255,BEPaw,win,3-1,Winners Quarter-Final,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+256,Rat,win,3-1,Winners Semi-Final,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+257,Kreator,win,3-2,Winners Final,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+258,Rat,win,3-0,Grand Final,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+259,midiMugen,win,3-2,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+260,Rat,loss,2-3,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+261,| butter-punch,win,3-2,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+262,PineappleHour,win,3-0,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+263,FlashMetroid,win,3-0,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+264,GAPPED!,win,3-0,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+265,Somnium,win,3-1,Round 1,run-it-thursdays-30-guilty-gear-strive,guilty-gear-strive-east-coast-ladder-crossplay,2023-02-16
+266,Diegubis,win,3-2,Winners Quarter-Final,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+267,druice,win,3-1,Winners Final,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+268,ren,win,3-1,Winners Round 2,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+269,PORK LAZER,win,3-1,Winners Round 1,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+270,Tensorial,win,3-0,Winners Semi-Final,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+271,Shin_Phil,win,3-2,Winners Round 3,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+272,druice,win,3-1,Grand Final,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+273,S(Cam)bolini,win,3-1,Winners Quarter-Final,tns-guilty-gear-strive-69-crossplay,guilty-gear-strive-crossplay,2023-02-20
+274,druice,win,3-1,Losers Quarter-Final,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+275,Remi Celeste,loss,1-3,Losers Semi-Final,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+276,Dany,loss,2-3,Winners Semi-Final,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+277,NewbieSani,win,3-1,Winners Round 2,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+278,Flare_g,win,3-0,Winners Quarter-Final,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+279,Remi Celeste,win,3-1,Winners Semi-Final,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+280,Somnium,win,3-0,Winners Round 3,9moons-weekly-48-crossplay-1,double-elimination-bracket,2023-02-25
+281,UMISHO,win,3-2,Winners Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+282,Marvelo,win,3-2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+283,Boomguy2,win,3-0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+284,Jdjones,win,3-0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+285,Trevwerd,win,3-0,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+286,UMISHO,win,3-0,Grand Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+287,iDom,win,3-2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06
+288,Dany,win,3-1,Winners Semi-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,2023-03-06

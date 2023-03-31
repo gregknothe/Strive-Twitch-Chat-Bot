@@ -7,49 +7,37 @@ key = "be97de5b2eb515e5f44d4cd4850d1985"
 smash = pysmashgg.SmashGG(key)
 
 #--- Event Placement Section ------------------------------------------------------------------------------------------#
-def eventResults(eventFile, tourneyName, eventName, date="1.1.1990",playerCount=0):
+def eventResults(eventFile, tourneyName, eventName, date="1.1.90"):
     #Pulls the placement results from the event
-    data = smash.tournament_show_lightweight_results(tourneyName, eventName,1)
+    data = pd.DataFrame.from_dict(smash.tournament_show_lightweight_results(tourneyName, eventName,1))
+    placementEmptyFlag = 0
+    page = 1
+    while placementEmptyFlag == 0:
+        page += 1
+        newPlacements = pd.DataFrame.from_dict(smash.tournament_show_lightweight_results(tourneyName, eventName,page))
+        if newPlacements.empty:
+            placementEmptyFlag = 1
+        else:
+            data = data.append(newPlacements, ignore_index=True)
+        print("Page #" + str(page) + " added.")
     df = pd.DataFrame(data, columns = ["placement", "name", "id"])
     charRef = pd.read_csv("TournamentData/playerCharRef.txt",sep=",")
     results = df.merge(charRef, how="left", on="name")
     results["tourney"] = tourneyName
     results["event"] = eventName
     results["date"] = date
-    results["playerCount"] = playerCount
-    results = results.iloc[:16]
-    lossList = []
-    for x in range(len(results["name"])):
-        time.sleep(3)
-        try:
-            playerSets = smash.tournament_show_entrant_sets(tourneyName, eventName, results["name"][x])
-            playerSets = pd.DataFrame(playerSets, columns = ["id","entrant1Id","entrant2Id","entrant1Name","entrant2Name","entrant1Score","entrant2Score","compeleted","winnerId","loserId,","winnerName","loserName","setRound","bracketId"])
-            losses = playerSets[playerSets["winnerId"]!=results["id"][x]]
-            loss = []
-            for x in losses.index:
-                scoreline1 = max(losses["entrant1Score"][x],losses["entrant2Score"][x])
-                scoreline2 = min(losses["entrant1Score"][x],losses["entrant2Score"][x])
-                scoreLine = str(losses["winnerName"][x]) + " ("+ str(scoreline2) + "-" + str(scoreline1) + ")"
-                loss.append(scoreLine)
-            print(loss)
-            lossList.append(", ".join(loss))
-        except:
-            print("something went wrong")
-            lossList.append("")
-            continue
-    results["losses"] = lossList
     return results
 
-def startEventFile(eventFile, tourneyName, eventName, date="1.1.1990", playerCount=0):
+def startEventFile(eventFile, tourneyName, eventName, date="1.1.90"):
     #Starts a csv file to store the event placements
-    df = eventResults(eventFile,tourneyName,eventName,date,playerCount)
+    df = eventResults(eventFile,tourneyName,eventName,date)
     df.to_csv("TournamentData/"+eventFile+"/"+eventFile+"Placement.txt", sep=",", index=False)
     print(eventFile + ".txt has been created")
     return 
 
-def addEventResults(eventFile, tourneyName, eventName, date="1.1.1990", playerCount=0):
+def addEventResults(eventFile, tourneyName, eventName, date="1.1.90"):
     #Adds to the already existing event placements file
-    results = eventResults(eventFile, tourneyName, eventName, date, playerCount)
+    results = eventResults(eventFile, tourneyName, eventName, date)
     data = pd.read_csv("TournamentData/"+eventFile+"/"+eventFile+"Placement.txt", sep=",")
     with warnings.catch_warnings():
         warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -58,13 +46,11 @@ def addEventResults(eventFile, tourneyName, eventName, date="1.1.1990", playerCo
     print(tourneyName + "/" + eventName + " has been added.")
     return 
 
-def massAddEventResults(eventFile):
-    #Adds many event placements to the already existing event placements file
-    eventList = pd.read_csv("TournamentData/"+eventFile+"/"+eventFile+"Placement.txt",sep=",")
-    for x in range(len(eventList["event"])):
-        addEventResults(eventList["event"][x],eventList["tourneyName"][x],eventList["eventName"][x],eventList["date"][x],eventList["playerCount"][x])
-        time.sleep(60)
-    return
+def playerResult(playerName, filePath):
+    df = pd.read_csv(filePath, sep=",")
+    df = df[(df["name"]==playerName)]
+    df = df.reset_index(drop=True)
+    return df
 
 def updateCharRef(eventFile):
     #Updates the char values of the placement file 
@@ -72,10 +58,23 @@ def updateCharRef(eventFile):
     charRef = pd.read_csv("TournamentData/playerCharRef.txt",sep=",")
     data = data.drop(["char1", "char2", "char3"], axis=1)
     updatedData = data.merge(charRef, how="left", on="name")
-    updatedData = updatedData.reindex(columns=["placement","name","id","char1","char2","char3","tourney","event","date","playerCount","losses"])
+    updatedData = updatedData.reindex(columns=["placement","name","id","char1","char2","char3","tourney","event","date"])
     updatedData.to_csv("TournamentData/"+eventFile+"/"+eventFile+"Placement.txt", sep=",", index=False)
     print("Character Reference Updated.")
     return
+
+def allPlacementsUpdate():
+    CLG = pd.read_csv("TournamentData/CLG/CLGPlacement.txt",sep=",")
+    TNS = pd.read_csv("TournamentData/TNS/TNSPlacement.txt",sep=",")
+    Moons = pd.read_csv("TournamentData/9Moons/9MoonsPlacement.txt",sep=",")
+    df = CLG.append(TNS, ignore_index=True)
+    df = df.append(Moons, ignore_index=True)
+    df["date"] = pd.to_datetime(df["date"])
+    df = df.sort_values(by="date", axis=0, ascending=True).reset_index(drop=True)
+    df.to_csv("TournamentData/AllPlacements.txt", sep=",", index=False)
+    print("AllPlacements.txt has been updated")
+    return 
+
 
 #--- Event Sets Section --------------------------------------------------------------------------------------------------#
 def tourneySets(tourneyName, eventName, date="1.1.1990"):
@@ -239,10 +238,13 @@ def allSetsUpdate():
     return 
 
 #allSetsUpdate()
+#allPlacementsUpdate()
 #player = "Vera Caelestis"
-#player = "NBNHMR"
-#print(playerMatchHistory(player,"TournamentData/AllSets.txt"))
-#print(playerRecords(player,"TournamentData/AllSets.txt").to_string())
+#player = "DomiWurld"
+#x = playerMatchHistory(player,"TournamentData/AllSets.txt")
+#y = playerRecords(player,"TournamentData/AllSets.txt")
+#print(y.to_string())
+#print(len(pd.unique(x["tourneyName"])))
 #print(playerStatsByMonth(player,"TournamentData/AllSets.txt"))
 
 def addNewCharRef():
@@ -262,4 +264,6 @@ def addNewCharRef():
     data.to_csv("TournamentData/playerCharRef.txt", sep=",", index=False)
     return
 
-addNewCharRef()
+#addNewCharRef()
+#print(pd.DataFrame.from_dict(smash.tournament_show_lightweight_results("tns-guilty-gear-strive-45-pc","guilty-gear-strive-pc",1)))
+print(playerResult("DomiWurld", "TournamentData/AllPlacements.txt"))

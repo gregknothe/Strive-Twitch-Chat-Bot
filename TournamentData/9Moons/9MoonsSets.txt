@@ -4890,3 +4890,379 @@ SQ,druice,3,1,Losers Quarter-Final,9moons-weekly-48-crossplay-1,double-eliminati
 UMISHO,Remi Celeste,1,3,Losers Quarter-Final,9moons-weekly-48-crossplay-1,double-elimination-bracket,2.25.23
 druice,HonoredOgre,3,1,Losers Round 1,9moons-weekly-48-crossplay-1,double-elimination-bracket,2.25.23
 Marvelo,Remi Celeste,2,3,Losers Round 1,9moons-weekly-48-crossplay-1,double-elimination-bracket,2.25.23
+wffls,Hardcoreplains,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Kaneki,Lambo Xiao Long,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+CoOLgUy,Young_Gouki,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+PoopManBoxMan,WATER-1,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+TheFatManatee,Xerker,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Eze,Dany,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+SINIB,Bass with Stripes,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+AppleN,XyberPX,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Astrophel,BeefyManatee,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Skull_Duggers,Remi Celeste,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Sibbs,Coke Bear,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Tsundahri,druice,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Genericnamebrand,cmb,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+RainUchiha,UnbreakableDoof,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Lethal Febreze,FlashMetroid,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+beef,Skar,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+IanV,JuniorA,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Lolo,wolfgang,-1,-1,Winners Round 1,9moons-weekly-48-crossplay,double-elimination-bracket,3.4.23
+Remi Celeste,Fatalpulse,3,1,Winners Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Yoyomaster,MjKurase,3,2,Winners Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hamilton Rye,pedrito,3,2,Winners Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Jack,Dany,3,1,Winners Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Fatalpulse,Smuggles,0,3,Losers Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+pedrito,SquidgeLuke,0,3,Losers Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MjKurase,Skull_Duggers,2,3,Losers Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Dany,UMISHO,3,1,Losers Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MacMens,Smuggles,1,3,Losers Round 6,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Akeno,SquidgeLuke,0,3,Losers Round 6,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+pip gameing,Skull_Duggers,2,3,Losers Round 6,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+UMISHO,CPU,3,1,Losers Round 6,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Remi Celeste,Akeno,3,1,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Fatalpulse,JJnews,3,0,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+UMISHO,Yoyomaster,1,3,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+CPU,MjKurase,0,3,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MacMens,Hamilton Rye,2,3,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+pedrito,Smuggles,3,0,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Jack,pip gameing,3,0,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Dany,Skull_Duggers,3,0,Winners Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MacMens,PORK LAZER,3,1,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Smuggles,RainUchiha,3,1,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Akeno,Symbolist,3,1,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+pip gameing,Z dude,3,2,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Skull_Duggers,Musty,3,0,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+JJnews,SquidgeLuke,0,3,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+UMISHO,wolfgang,3,0,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+CPU,Xerker,3,2,Losers Round 5,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PORK LAZER,ShockZ,3,0,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+RainUchiha,Deity,3,1,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Z dude,Brederic,3,1,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+ThaRuffProphet,Symbolist,1,3,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+SquidgeLuke,Hardcoreplains,3,1,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PMMadness,Musty,0,3,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+wolfgang,Gougoune,3,1,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Xerker,Meatloaf,3,2,Losers Round 4,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Yoyomaster,PMMadness,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Fatalpulse,ShockZ,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+CPU,Electric-Wind-RAMAN,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PORK LAZER,JJnews,1,3,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MacMens,TurtleAndBeyond,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MjKurase,PoopManBoxMan,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hamilton Rye,SINIB,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Jack,midiMugen,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+pip gameing,Xerker,3,2,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Symbolist,pedrito,2,3,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Dany,Gougoune,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Smuggles,ThaRuffProphet,3,1,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Skull_Duggers,wolfgang,3,1,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Jack,Remi Celeste,3,2,Grand Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Remi Celeste,Deity,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+RainUchiha,Akeno,0,3,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+UMISHO,Musty,3,0,Winners Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PORK LAZER,Kujo,3,1,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+ShockZ,MegaRura,3,0,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PoopManBoxMan,Z dude,0,3,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+RainUchiha,catzeninyare,3,2,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Electric-Wind-RAMAN,Brederic,2,3,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Deity,Silver_fgc,3,2,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+ThaRuffProphet,KingGiovanni,3,0,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PMMadness,liamishere,3,0,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Symbolist,Nupperz,3,2,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Musty,Plantroid,3,2,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+SINIB,SquidgeLuke,1,3,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+wolfgang,Bazzil,3,1,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+TurtleAndBeyond,Hardcoreplains,0,3,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Gougoune,Enigmatic265,3,1,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Xerker,Saint,3,1,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+midiMugen,Meatloaf,1,3,Losers Round 3,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Kujo,K-Boomafoo,3,0,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Kingshadow890,MegaRura,0,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+catzeninyare,Nub,3,1,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Z dude,mimi,3,2,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Silver_fgc,Bubbs,0,-1,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Pez,Brederic,0,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Enzo,liamishere,2,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+jeck,KingGiovanni,-1,0,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Microwave,Nupperz,0,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+hoke,Plantroid,1,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Bishop,Bazzil,-1,0,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Young_Lz_23,SquidgeLuke,0,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hardcoreplains,sin,3,0,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Tsundahri,Enigmatic265,-1,0,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hualiama,Saint,0,3,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Meatloaf,Remilia,3,2,Losers Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Jack,Remi Celeste,3,2,Winners Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Remi Celeste,sin,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+UMISHO,Remilia,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hardcoreplains,Deity,2,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Meatloaf,Musty,2,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+SquidgeLuke,RainUchiha,2,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Young_Lz_23,Akeno,0,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Yoyomaster,Saint,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PMMadness,Hualiama,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Nupperz,Fatalpulse,1,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Microwave,ShockZ,1,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+CPU,Enigmatic265,3,2,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+PORK LAZER,KingGiovanni,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Tsundahri,Electric-Wind-RAMAN,-1,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+jeck,JJnews,-1,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MjKurase,Bazzil,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Bishop,PoopManBoxMan,-1,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MacMens,Bubbs,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Jack,Plantroid,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+TurtleAndBeyond,Silver_fgc,3,2,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hamilton Rye,Nub,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+midiMugen,hoke,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Safe,SINIB,-1,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+pip gameing,liamishere,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Xerker,Chanklatomica22,0,-1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Symbolist,MegaRura,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Dany,Brederic,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+| butter-punch,pedrito,-1,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Smuggles,K-Boomafoo,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Pez,Gougoune,0,3,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+ThaRuffProphet,Kujo,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Skull_Duggers,mimi,3,0,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+wolfgang,Z dude,3,1,Winners Round 2,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Kujo,AsbestosDust,3,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Z dude,IanV,3,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+| butter-punch,Kingshadow890,-1,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Safe,catzeninyare,-1,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Pez,Lain,0,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Silver_fgc,Flav,3,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Brederic,beef,3,2,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+jeck,Puma,-1,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Chanklatomica22,Enzo,-1,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+hoke,Shaqdaddy,0,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Microwave,Khasi,3,1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Bishop,TitaniK  EnDEVor,-1,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Young_Lz_23,8&,0,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hardcoreplains,BStride01,3,0,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Tsundahri,Edern,-1,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hualiama,Minor,0,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Meatloaf,Myer,0,-1,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Remi Celeste,Dany,3,0,Losers Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Dany,Yoyomaster,3,1,Losers Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Yoyomaster,Jack,0,3,Winners Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Remilia,IanV,3,2,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+sin,AsbestosDust,3,1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Remi Celeste,Hamilton Rye,3,0,Winners Semi-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+RainUchiha,Kingshadow890,3,0,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Saint,Lain,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+catzeninyare,Fatalpulse,1,3,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+beef,Hualiama,-1,0,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+KingGiovanni,Flav,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Enigmatic265,Enzo,3,1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Bubbs,Puma,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Bazzil,Shaqdaddy,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Khasi,Nub,0,3,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Plantroid,TitaniK  EnDEVor,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+MegaRura,8&,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+liamishere,Edern,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+BStride01,K-Boomafoo,1,3,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Brederic,Minor,3,0,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+mimi,Myer,0,-1,Winners Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Hamilton Rye,Dany,0,3,Losers Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Yoyomaster,SquidgeLuke,3,0,Losers Quarter-Final,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Skull_Duggers,Dany,1,3,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Smuggles,SquidgeLuke,2,3,Losers Round 1,9moons-weekly-50-crossplay,double-elimination-bracket,3.18.23
+Crescendo,Cheryo,3,1,Winners Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Papple,3,2,Winners Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Rat,Corey,1,3,Winners Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dany,Trevor Tsu,0,3,Winners Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Papple,Hamilton Rye,2,3,Losers Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Cheryo,Smuggles,2,3,Losers Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dany,| Void,3,0,Losers Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Rat,Keep,1,3,Losers Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Envy,Hamilton Rye,1,3,Losers Round 7,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Smuggles,SQ,3,1,Losers Round 7,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+GwynStylish,| Void,2,3,Losers Round 7,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Darren,Keep,0,3,Losers Round 7,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Kreator,3,1,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Darren,Crescendo,2,3,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Papple,| Void,3,1,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Testyourluck,Cheryo,1,3,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Rat,HonoredOgre,3,2,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dany,druice,3,1,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Trevor Tsu,Hamilton Rye,3,0,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Corey,MjKurase,3,2,Winners Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+druice,Envy,-1,0,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+HonoredOgre,Smuggles,1,3,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Hamilton Rye,Foxy Tune,3,1,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MjKurase,SQ,1,3,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Kreator,GwynStylish,-1,0,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Darren,pedrito,3,1,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Testyourluck,Keep,0,3,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+| Void,Jassu,3,0,Losers Round 6,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Mikesaftig,Envy,-1,0,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Smuggles,Skar,3,1,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+cementeater912,SQ,0,3,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+.jretion,Foxy Tune,2,3,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+結月有希 ~ Yuzuki Yuki,GwynStylish,1,3,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+pedrito,Gatterall,3,0,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Flare_g,Keep,1,3,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Aboii,Jassu,2,3,Losers Round 5,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Deyvonn,3,0,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+SQ,Darren,2,3,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Crescendo,Skull_Duggers,0,-1,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Kreator,.jretion,3,1,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Papple,Envy,3,0,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Testyourluck,Lurry,3,1,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Mikesaftig,| Void,1,3,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Cheryo,ITH,3,2,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dany,Jassu,3,0,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Rat,Keep,3,1,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+druice,Aboii,3,0,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+HonoredOgre,Flare_g,3,2,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Trevor Tsu,GwynStylish,3,0,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Corey,Hourglass_of_rain,3,2,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+pedrito,MjKurase,2,3,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Hamilton Rye,Lambo Xiao Long,3,2,Winners Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Corey,Trevor Tsu,0,-1,Grand Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+ITH,Smuggles,2,3,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+ITH,Smuggles,2,3,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Envy,Artorias,3,2,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Lurry,Skar,0,3,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Skull_Duggers,cementeater912,-1,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+.jretion,hoke,3,1,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Deyvonn,Foxy Tune,1,3,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+SQ,Sunlight,3,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+pedrito,JahDrop,3,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Lambo Xiao Long,結月有希 ~ Yuzuki Yuki,-1,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+GwynStylish,Myzisco,3,1,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Hourglass_of_rain,Gatterall,1,3,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Aboii,| Redthunder,3,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Flare_g,beef,0,-1,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Jassu,Shampoo Goblin,3,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Keep,JJnews,3,0,Losers Round 4,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Arbiter,Sundance,3,0,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Chaos_king,Smuggles,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+FourFaceButtons,Artorias,1,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Xerker,Skar,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+LKBLUE,cementeater912,2,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+winty guitar,hoke,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Sunlight,Pixilated_max,3,1,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+SonAceKeem,Foxy Tune,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+JahDrop,Brederic,3,1,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+TurtleAndBeyond,結月有希 ~ Yuzuki Yuki,1,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Myzisco,Ya Boi Squanto,3,1,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Aurorious,Gatterall,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+wolfgang,beef,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Vera Caelestis,| Redthunder,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Casper,Shampoo Goblin,0,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Diamondrouter,JJnews,1,3,Losers Round 3,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Rat,Pixilated_max,3,2,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dany,Foxy Tune,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Sunlight,Keep,1,3,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Jassu,SonAceKeem,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+HonoredOgre,cementeater912,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+druice,hoke,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Aboii,winty guitar,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Flare_g,LKBLUE,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Corey,Skar,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Trevor Tsu,Artorias,3,2,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Hourglass_of_rain,Xerker,3,2,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+FourFaceButtons,GwynStylish,0,3,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Hamilton Rye,Ben Hooks,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Smuggles,pedrito,1,3,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MjKurase,Kmki121,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+BEPaw,Lambo Xiao Long,-1,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Corey,Trevor Tsu,3,1,Winners Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+SQ,JJnews,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Shampoo Goblin,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Diamondrouter,Darren,0,3,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Deyvonn,Casper,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Kreator,Bobi Tea,3,2,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Crescendo,beef,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Skull_Duggers,wolfgang,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Nupperz,.jretion,2,3,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Testyourluck,CopiVT,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Papple,Ya Boi Squanto,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Lurry,Aurorious,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Envy,Myzisco,3,2,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Cheryo,EveyDeevey,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Mikesaftig,結月有希 ~ Yuzuki Yuki,3,2,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+ITH,JahDrop,3,0,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+| Void,TurtleAndBeyond,3,1,Winners Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+BEPaw,Arbiter,-1,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Kmki121,Chaos_king,2,3,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Ben Hooks,Sundance,0,3,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Smuggles,PineappleHour,3,1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Xerker,lil hotdog,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+FourFaceButtons,1mperfectiON,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Skar,Shawn,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Artorias,Kingshadow890,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+winty guitar,liamishere,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+LKBLUE,ShockZ,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+hoke,Relic,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+cementeater912,mewshmallow,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Sunlight,Ttv.Neo_goated88,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+SonAceKeem,Delcatty,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Foxy Tune,D.KB,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Pixilated_max,Lebryant,3,2,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+TurtleAndBeyond,Ky sama,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+JahDrop,TitaniK EnDEVor,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+結月有希 ~ Yuzuki Yuki,Q9,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+EveyDeevey,Brederic,0,3,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Aurorious,Starks,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Myzisco,Khasi,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Ya Boi Squanto,Chelae,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+CopiVT,Gatterall,1,3,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+wolfgang,AlexNoah,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Nupperz,Vera Caelestis,0,3,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+beef,LordMink,3,2,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Bobi Tea,| Redthunder,0,3,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Diamondrouter,SinXenos,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Casper,monte,0,-1,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+JJnews,Schwa,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Shampoo Goblin,Viper,3,0,Losers Round 2,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Trevor Tsu,MFCR,3,0,Losers Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Sundance,caitySnow,0,-1,Losers Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Remilia,PineappleHour,0,3,Losers Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Brederic,catzeninyare,3,1,Losers Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dandy,Q9,-1,0,Losers Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Crescendo,3,0,Losers Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Arbiter,Shampoo Goblin,1,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Crescendo,Corey,1,3,Winners Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+JJnews,Chaos_king,3,1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Trevor Tsu,2,3,Winners Semi-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Diamondrouter,Remilia,3,1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Deyvonn,Sundance,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Casper,caitySnow,3,2,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+PineappleHour,Darren,1,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+1mperfectiON,Bobi Tea,-1,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+beef,lil hotdog,3,2,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+.jretion,Kingshadow890,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+wolfgang,Shawn,0,-1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+ShockZ,CopiVT,-1,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Ya Boi Squanto,liamishere,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Myzisco,Relic,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Aurorious,mewshmallow,3,1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+EveyDeevey,Ttv.Neo_goated88,0,-1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Delcatty,結月有希 ~ Yuzuki Yuki,-1,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+TurtleAndBeyond,D.KB,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+JahDrop,Lebryant,3,2,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Ky sama,Foxy Tune,0,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Pixilated_max,TitaniK EnDEVor,0,-1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Dandy,Jassu,0,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Sunlight,Brederic,3,1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Keep,catzeninyare,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+SonAceKeem,Q9,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+hoke,Khasi,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Starks,cementeater912,0,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+winty guitar,Chelae,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+LKBLUE,Gatterall,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Skar,AlexNoah,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Vera Caelestis,Artorias,1,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+| Redthunder,GwynStylish,0,3,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Xerker,LordMink,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+pedrito,SinXenos,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Ben Hooks,monte,0,-1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Lambo Xiao Long,Viper,3,1,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Kmki121,Schwa,3,0,Winners Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+MFCR,Smuggles,3,1,Losers Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Crescendo,Dany,3,1,Losers Quarter-Final,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Smuggles,Keep,3,2,Losers Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23
+Hamilton Rye,Dany,0,3,Losers Round 1,9moons-monthly-17-crossplay,double-elimination-bracket,3.25.23

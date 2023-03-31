@@ -5848,3 +5848,966 @@ Shine,hayatei,0,3,Losers Round 1,tns-guilty-gear-strive-70-crossplay,guilty-gear
 iDom,Eunnie,3,1,Losers Round 1,tns-guilty-gear-strive-70-crossplay,guilty-gear-strive-crossplay,2.27.23
 Punk,Gatterall,3,2,Losers Round 1,tns-guilty-gear-strive-70-crossplay,guilty-gear-strive-crossplay,2.27.23
 SquidgeLuke,Myzisco,1,3,Losers Round 1,tns-guilty-gear-strive-70-crossplay,guilty-gear-strive-crossplay,2.27.23
+Solstice,Akeno,3,1,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pedrito,ITH,3,2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,Trevwerd,3,0,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mikesaftig,| BSG,3,1,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,Cheryo,3,2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MjKurase,Crescendo,2,3,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+iDom,MonkeyBizness,3,1,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Bigbootyman445,Skull_Duggers,3,1,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,Yoyomaster,3,1,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Data Xigbar In Real Life,BlueHek997,0,3,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFCR,Lurry,3,0,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+daze,Kaneki,3,2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lolo,SudaHead,3,2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tensorial,JJnews,3,0,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kreator,Overcrack,3,0,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Marvelo,Kibotsu,3,1,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Fantome,Apho,1,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Hee Ho,SquidgeLuke,3,1,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Puzzled,Aboii,1,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eve,Tilted,3,1,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meatloaf,Tenack,3,0,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+StrawBCam,LoveMeSomeH2O,0,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+scambolini_,Konkon,2,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Climbatize,MacMens,3,1,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BIGTTARFAN600,Jack,-1,0,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lebryant,Meeks,0,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Wonton,B-Hop,2,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CaptainAfrica,Alex!,2,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+hayatei,Souleil,3,1,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Young_Lz_23,Boomguy2,0,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CPU,leathermuncher,3,0,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pacdye,MrChupy01,1,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Solstice,SquidgeLuke,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,Meeks,3,2,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pedrito,Jack,3,2,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kensei,Akeno,2,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,Jdjones,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Cheryo,Lebryant,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mikesaftig,Apho,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ITH,WATER-1,3,1,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Trevwerd,Shahanshah Esther,3,2,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Bigbootyman445,Aboii,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MjKurase,ChippMaster1001,3,2,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+iDom,tsund,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skar,| BSG,1,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Arbiter,MonkeyBizness,1,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skull_Duggers,Eze,3,1,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,Konkon,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Crescendo,pip gameing,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Yoyomaster,scambolini_,3,2,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFCR,AoiKypher,3,1,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+daze,Elucid,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+NoelKurata,Data Xigbar In Real Life,2,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pacdye,Kaneki,1,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CPU,Lurry,2,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Young_Lz_23,BlueHek997,0,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lolo,hoke,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SudaHead,Meatloaf,3,2,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Souleil,Kreator,0,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tensorial,FGCsand,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Marvelo,Myzisco,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Yaer,Kibotsu,0,3,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JJnews,Wonton,3,1,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Overcrack,BigDoober,3,0,Winners Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,UMISHO,3,0,Grand Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skar,Fantome,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Apho,Shambles,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kensei,Hee Ho,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Arbiter,StrawBCam,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pip gameing,Eve,2,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eze,Puzzled,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ChippMaster1001,Tilted,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ChippMaster1001,Tilted,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Aboii,Lanimal,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SquidgeLuke,Kaz,3,1,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lebryant,jeck,3,1,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+WATER-1,BIGTTARFAN600,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shahanshah Esther,Climbatize,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meatloaf,Shine,3,0,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jack,Vegeks_,3,0,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+hoke,Tenack,2,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jdjones,MacMens,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meeks,Buscar Luz,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BigDoober,hayatei,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Yaer,CaptainAfrica,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Wonton,Justin,3,0,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+scambolini_,RainUchiha,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Konkon,Hourglass_of_rain,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Myzisco,Alex!,2,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Souleil,Lakey,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+FGCsand,B-Hop,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CPU,Artorias,3,0,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pacdye,Radiant Veil,3,0,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Young_Lz_23,Domasaur,3,2,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+AoiKypher,leathermuncher,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Elucid,MrChupy01,1,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+NoelKurata,Boomguy2,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Fantome,greed_,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shambles,Shiraorii,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Puzzled,Guato,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+StrawBCam,Eunnie,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Desarack,Hee Ho,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eve,oknicechill,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kritz,LoveMeSomeH2O,1,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lanimal,PotatoJones,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kaz,Cinamon,3,2,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tilted,Perfidious,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shine,katienoelle,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+jeck,PoopManBoxMan,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Ret66,BIGTTARFAN600,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Climbatize,Somnium,3,2,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+WC 44 ONLY,Buscar Luz,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Vegeks_,XyberPX,3,2,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SDK,Tenack,2,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+mimi,MacMens,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Enigmatic265,Justin,1,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JoobstheDude,hayatei,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+K-Boomafoo,RainUchiha,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Nyu (COALESCENCE),CaptainAfrica,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+NeoVermillion,Hourglass_of_rain,1,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mystery Solver,Lakey,2,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mantikore,B-Hop,1,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Genericnamebrand,Alex!,-1,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Domasaur,AJMartinez,3,2,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Radiant Veil,liamishere,3,2,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SchlongNasty,Artorias,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MrChupy01,DarthPhallus,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+The Autman,Boomguy2,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+leathermuncher,Edny,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meeks,leathermuncher,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jack,MrChupy01,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jdjones,The Autman,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kensei,Sunny,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Akeno,SunnyD,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Trevwerd,Noah ツ,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ITH,liamishere,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Cheryo,Artorias,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+WATER-1,Radiant Veil,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+TiredMage,Shahanshah Esther,-1,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mikesaftig,Tenack,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SchlongNasty,Lebryant,0,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MjKurase,B-Hop,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+iDom,Alex!,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Apho,SDK,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Bigbootyman445,Lakey,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Genericnamebrand,tsund,1,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skar,katienoelle,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mantikore,ChippMaster1001,0,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Aboii,Beven,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skull_Duggers,OD,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Crescendo,Justin,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+| BSG,Shine,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Arbiter,CaptainAfrica,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pip gameing,Enigmatic265,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,Cinamon,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Nyu (COALESCENCE),MonkeyBizness,1,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eze,JoobstheDude,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+daze,Lamayo,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFCR,Buscar Luz,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Konkon,Kaz,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MacMens,NoelKurata,2,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+mimi,Data Xigbar In Real Life,1,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+AoiKypher,WC 44 ONLY,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Elucid,Vegeks_,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Yoyomaster,GwynStylish,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Young_Lz_23,Somnium,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Sunlight,pacdye,0,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+scambolini_,Burstdragon1,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CPU,PoopManBoxMan,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lolo,Shiraorii,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kaneki,Ret66,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Climbatize,BlueHek997,2,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lurry,jeck,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+hoke,Shambles,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ikushisu,Souleil,2,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tensorial,Perfidious,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Marvelo,LoveMeSomeH2O,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Myzisco,Kritz,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+greed_,SudaHead,0,3,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kreator,Lanimal,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+FGCsand,Vega,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Overcrack,Guato,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JJnews,oknicechill,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Yaer,Eunnie,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meatloaf,Fantome,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Wonton,Eve,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kibotsu,StrawBCam,3,1,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BigDoober,TNBT,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,SQ,2,3,Winners Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,MFCR,3,2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Bigbootyman445,daze,1,3,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,Marvelo,3,2,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Solstice,Dany,1,3,Winners Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Solstice,Zayzay,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pedrito,gooselover42069,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,Edny,3,2,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SquidgeLuke,NeoVermillion,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,Boomguy2,3,0,Winners Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Marvelo,pedrito,3,2,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Solstice,Jack,2,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFCR,Skull_Duggers,3,0,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Bigbootyman445,BlueHek997,2,3,Losers Round 5,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Fantome,Carnage,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+greed_,Link_FromZelda,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eve,ren,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shambles,voidstar,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+StrawBCam,riyeawa,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+TNBT,Puzzled,2,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Guato,cmb,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+oknicechill,Almourex,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eunnie,K20T00,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shiraorii,Farm3r,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Burstdragon1,Desarack,0,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Vega,Tilted,0,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lanimal,Siege_Almighty,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kritz,HarbingerPrime,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+LoveMeSomeH2O,AFancyDress,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Perfidious,Avid,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ikushisu,PotatoJones,-1,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+GwynStylish,Hee Ho,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+jeck,Sassy,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kaz,Limland,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Climbatize,Coffee,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Ret66,JoeCarboxyl,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Cinamon,Sue,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+PoopManBoxMan,Kiri,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Somnium,Dazzie,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Sunlight,BIGTTARFAN600,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+WC 44 ONLY,SSJ,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+mimi,YMJC,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shine,Gear_Lock,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Vegeks_,Wisp,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MacMens,Bob1299,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+katienoelle,CrimZon,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lamayo,XyberPX,-1,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Buscar Luz,Mangocopter,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Nyu (COALESCENCE),Lovespark,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SDK,Galanos,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JoobstheDude,Minimefuzzy,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Enigmatic265,VLADE,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+OD,hayatei,0,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Justin,RYO,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CaptainAfrica,Zorick,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tenack,AussieDad,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Beven,Mystery Solver,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mantikore,Riknic,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SunnyD,K-Boomafoo,2,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Genericnamebrand,monte,-1,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Sunny,RainUchiha,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lakey,MFahim,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Alex!,catzeninyare,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+B-Hop,Tzar,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+NeoVermillion,Shaqdaddy,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SchlongNasty,Dylo,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+TiredMage,Domasaur,-1,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Radiant Veil,Citricglue,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+liamishere,JellySkele,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Noah ツ,AJMartinez,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Artorias,CreakyAxe,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Zayzay,Hourglass_of_rain,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MrChupy01,Tsumi,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+leathermuncher,Plat Apex Legends Player,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+The Autman,Nazara,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Boomguy2,Wosernerd,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+gooselover42069,DarthPhallus,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Edny,Aviator,0,-1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,Dany,3,2,Losers Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kreator,pedrito,0,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jack,Crescendo,3,1,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kaneki,Skull_Duggers,2,3,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BlueHek997,MjKurase,3,1,Losers Round 4,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JayC,Link_FromZelda,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Beamin,Almourex,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Crystal,K20T00,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+nbb,Farm3r,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+cmb,Squoid,3,1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MeTaLenz,Hee Ho,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+HarbingerPrime,Profound,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+PlutoJr,Tilted,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SuperChevyBiko,Siege_Almighty,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Rippchord,PotatoJones,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+AFancyDress,Fizzgig,-1,-1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+DomiWurld,Avid,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Sue,Anwarrior,3,1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JustSayImJudd,CrimZon,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Enzo,Dazzie,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ShockZ,Kiri,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BIGTTARFAN600,rampillianpignut,3,1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+DemiDevilQueen,XyberPX,2,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kev Chelios,Bob1299,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mangocopter,Darren,3,1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+OnReserve,AussieDad,2,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Vita_Ozymandias,RYO,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+RainUchiha,BeefyManatee,0,-1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Zorick,Mango4Tango,0,-1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+hayatei,CozyNines,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Haro,catzeninyare,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFahim,Shinhua,0,-1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+THE GUIDE,Hourglass_of_rain,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tzar,Roku,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+AJMartinez,Electric-Wind-RAMAN,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+REZ,CreakyAxe,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Party,JellySkele,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Rin-cchi,Wosernerd,-1,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Aviator,chroma,-1,-1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+YungSnugg,DarthPhallus,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,daze,3,2,Losers Semi-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Edny,ren,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Zayzay,Carnage,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,Crescendo,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+UMISHO,daze,3,0,Winners Semi-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Boomguy2,riyeawa,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+gooselover42069,Puzzled,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFCR,Tensorial,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jack,cmb,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SquidgeLuke,JayC,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jdjones,Crystal,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meeks,Beamin,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,Dany,3,1,Winners Semi-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+leathermuncher,Almourex,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+NeoVermillion,Link_FromZelda,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+The Autman,K20T00,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MrChupy01,Squoid,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pedrito,Bigbootyman445,2,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Trevwerd,HarbingerPrime,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ITH,SuperChevyBiko,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Sunny,voidstar,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Cheryo,PlutoJr,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+daze,Kreator,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Profound,Noah ツ,2,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+liamishere,Siege_Almighty,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Akeno,nbb,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SQ,iDom,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Artorias,Tilted,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BlueHek997,Marvelo,1,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+WATER-1,Rippchord,-1,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+TiredMage,AFancyDress,-1,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+DomiWurld,SchlongNasty,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SunnyD,Farm3r,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Radiant Veil,PotatoJones,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tenack,Desarack,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Solstice,Mikesaftig,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lebryant,Avid,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shahanshah Esther,Fizzgig,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,Lolo,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+B-Hop,Sassy,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lakey,JoeCarboxyl,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Alex!,Coffee,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MeTaLenz,Apho,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ShockZ,Mantikore,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Aboii,BIGTTARFAN600,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Genericnamebrand,Enzo,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SDK,Hee Ho,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ChippMaster1001,Kiri,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Limland,katienoelle,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Beven,rampillianpignut,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+tsund,Dazzie,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+OD,Wisp,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+| BSG,Sue,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CaptainAfrica,YMJC,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Justin,SSJ,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Shine,Anwarrior,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+DemiDevilQueen,Eze,1,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Nyu (COALESCENCE),Kev Chelios,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pip gameing,Mangocopter,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Gear_Lock,Cinamon,0,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MonkeyBizness,Bob1299,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Darren,Enigmatic265,0,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+XyberPX,JoobstheDude,1,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lamayo,Minimefuzzy,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Konkon,JustSayImJudd,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+NoelKurata,Lovespark,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Buscar Luz,VLADE,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+mimi,Zorick,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+AoiKypher,Vita_Ozymandias,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+hayatei,Elucid,2,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CrimZon,Kaz,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Vegeks_,CozyNines,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+GwynStylish,Galanos,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mango4Tango,Data Xigbar In Real Life,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+WC 44 ONLY,RYO,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+PoopManBoxMan,Riknic,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mystery Solver,pacdye,2,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+scambolini_,OnReserve,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Somnium,monte,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Burstdragon1,AussieDad,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kaneki,MFahim,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Climbatize,Haro,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lurry,Tzar,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+jeck,Roku,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BlueHek997,catzeninyare,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Ret66,Shinhua,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+K-Boomafoo,Shiraorii,0,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dylo,Perfidious,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Citricglue,Souleil,0,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+RainUchiha,hoke,1,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+LoveMeSomeH2O,Domasaur,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kreator,Party,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BeefyManatee,Shambles,-1,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Myzisco,AJMartinez,3,2,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+FGCsand,REZ,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SudaHead,Shaqdaddy,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lanimal,JellySkele,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kritz,Electric-Wind-RAMAN,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CreakyAxe,Vega,0,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meatloaf,THE GUIDE,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Guato,Tsumi,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eunnie,Nazara,3,1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Plat Apex Legends Player,oknicechill,1,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Wonton,Aviator,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Hourglass_of_rain,Fantome,2,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kibotsu,Rin-cchi,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BigDoober,YungSnugg,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+DarthPhallus,TNBT,0,3,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Eve,chroma,0,-1,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+StrawBCam,Wosernerd,3,0,Winners Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kreator,Meeks,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+pedrito,CPU,3,0,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Tensorial,Jack,2,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Crescendo,MrChupy01,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lolo,Kaneki,1,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Mikesaftig,Skull_Duggers,0,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+BlueHek997,JJnews,3,1,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+iDom,MjKurase,1,3,Losers Round 3,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,MFCR,3,1,Losers Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+daze,Marvelo,3,2,Losers Quarter-Final,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Meeks,Eve,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+CPU,Akeno,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Jack,Aboii,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MrChupy01,hayatei,3,2,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Climbatize,Kaneki,1,3,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skull_Duggers,ITH,3,0,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JJnews,Apho,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MjKurase,Cheryo,3,1,Losers Round 2,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MFCR,BlueHek997,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Marvelo,Jack,3,2,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kaneki,LoveMeSomeH2O,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Skull_Duggers,Boomguy2,3,1,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+ITH,Alex!,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+JJnews,Hee Ho,3,2,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Lurry,Apho,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MjKurase,Konkon,3,0,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Cheryo,Meatloaf,3,2,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+SudaHead,Meeks,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Yoyomaster,Eve,2,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+| BSG,CPU,2,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Akeno,B-Hop,3,2,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Kibotsu,Jack,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Data Xigbar In Real Life,Aboii,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+MonkeyBizness,MrChupy01,1,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Trevwerd,hayatei,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Overcrack,Climbatize,0,3,Losers Round 1,tns-guilty-gear-strive-71-crossplay,guilty-gear-strive-crossplay,3.6.23
+Dany,Liargos,3,1,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SQ,Z_Guy,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+daze,SonAceKeem,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Testyourluck,BEPaw,2,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SkylarOVA,Cinamon,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ikushisu,winty guitar,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,Mikesaftig,3,1,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bigbootyman445,Cheryo,0,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,tsund,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MFCR,Snixy,3,1,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+pedrito,Somnium,1,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,SquidgeLuke,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zenkai,CPU,0,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Crescendo,MacMens,1,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ChicoChops,Papple,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,Kibotsu,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zonic,Korn_4nine,0,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Deafheaven88,Meat,2,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+scambolini_,Stealthy,1,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Collom,CreakyAxe,3,0,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,Sidvictor,3,1,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kiri,anro,1,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pez,CMJ,3,1,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+WATER-1,Redtro,1,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Darren,Kaz,3,0,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shine,iDom,0,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+amoeba,Gatterall,2,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lanimal,Stingrays110,0,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Young_Lz_23,Mynus,3,0,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zaran,Hee Ho,2,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Punk,FourFaceButtons,3,2,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RainUchiha,Dripula,3,1,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SQ,Lanxeared,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+daze,Meatloaf,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,Sidvictor,3,1,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Testyourluck,PINK,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Skull_Duggers,Z_Guy,1,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BEPaw,Pez,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Liargos,Data Xigbar In Real Life,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PORK LAZER,SonAceKeem,1,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bigbootyman445,Domasaur,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+greed_,SkylarOVA,1,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,KidDracula,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ikushisu,NiNE,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Apotheosis,Cinamon,0,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mikesaftig,Collom,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zonic,winty guitar,2,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+scambolini_,Cheryo,0,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,Bwead,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MFCR,Hee Ho,3,1,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+pedrito,Dripula,3,1,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,Mynus,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SquidgeLuke,Young_Lz_23,3,2,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Punk,tsund,1,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Snixy,Alex!,3,1,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Somnium,RainUchiha,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+iDom,Zenkai,1,3,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,Gatterall,3,1,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Crescendo,NuclearMonje,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ChicoChops,MonkeyBizness,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kibotsu,amoeba,3,2,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MacMens,Lurry,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Papple,Castanzo,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CPU,Shine,3,0,Winners Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MFCR,Dany,2,3,Grand Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,MFCR,3,1,Grand Final Reset,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Collom,aBudgetBox,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zonic,Radiant Veil,3,0,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Apotheosis,Deafheaven88,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+scambolini_,Ronincat,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+KidDracula,CreakyAxe,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Domasaur,Stealthy,2,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+greed_,Meat,2,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+NiNE,Korn_4nine,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pez,Pokket,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Data Xigbar In Real Life,ITH,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Skull_Duggers,Kiri,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PORK LAZER,WATER-1,-1,0,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PINK,CMJ,0,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Sidvictor,Master Raven,3,2,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lanxeared,anro,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Meatloaf,Redtro,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lurry,Lanimal,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Castanzo,Darren,0,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shine,Burstdragon1,3,0,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+amoeba,Medici,3,0,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+NuclearMonje,Stingrays110,0,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+iDom,Eunnie,3,2,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Gatterall,Hardcoreplains,3,2,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MonkeyBizness,Kaz,0,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Young_Lz_23,FGCsand,3,2,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Punk,SID,3,0,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Alex!,Zaran,2,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RainUchiha,Kritz,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bwead,FourFaceButtons,0,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dripula,LegendaryyPred,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Hee Ho,PotatoJones,3,2,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mynus,TheVeryGenericUsername,3,0,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Radiant Veil,Farm3r,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Khasi,aBudgetBox,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Deafheaven88,Nupperz,3,2,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Ronincat,Enigmatic265,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jikh,Meat,1,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kitty,Stealthy,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Tilted,CreakyAxe,1,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Korn_4nine,Lillie,3,2,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,Taargus,3,1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pokket,hoke,3,2,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kiri,QtheDevilman,0,-1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+pacdye,WATER-1,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RuneRavenFP,anro,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CMJ,AlexNoah,3,1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Redtro,Kyet,3,2,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Saint,Master Raven,1,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Medici,CubanDrunk,3,1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Burstdragon1,Goblin Buster,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Festif_Al,Darren,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lanimal,ChippMaster1001,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jaga,Stingrays110,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+mandsaar,Eunnie,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shiraorii,Hardcoreplains,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CopiVT,Kaz,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+akron,Zaran,2,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SID,anarene,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lil_Light,FGCsand,1,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Galanos,Kritz,-1,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+TheVeryGenericUsername,MegaRura,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CaptainAfrica,FourFaceButtons,2,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Ya Boi Squanto,PotatoJones,2,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+LegendaryyPred,ShockZ,3,2,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Testyourluck,PotatoJones,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+daze,ShockZ,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,FourFaceButtons,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SQ,Phuchi,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Sidvictor,CaptainAfrica,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Meatloaf,LegendaryyPred,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PINK,Almourex,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+TheVeryGenericUsername,Lanxeared,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BEPaw,Zaran,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+anarene,Liargos,2,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Skull_Duggers,mkj,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PORK LAZER,Kritz,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Z_Guy,Lil_Light,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Data Xigbar In Real Life,Boat,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SonAceKeem,PoopManBoxMan,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pez,akron,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+greed_,Kujo,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,Stingrays110,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bigbootyman445,Kaz,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ikushisu,Shambles,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shiraorii,SkylarOVA,1,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Icebound,Domasaur,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+KidDracula,Jaga,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+NiNE,mandsaar,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mikesaftig,ChippMaster1001,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Voltiyon,Zonic,2,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Apotheosis,CubanDrunk,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+scambolini_,Darren,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cheryo,Festif_Al,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CammyEXE,winty guitar,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Collom,Lanimal,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jin,Cinamon,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,Mystery Solver,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MFCR,AlexNoah,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,JoobstheDude,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+pedrito,Kyet,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CMJ,Hee Ho,1,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Redtro,Dripula,2,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Saint,Bwead,1,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mynus,ren,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Punk,Taargus,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SquidgeLuke,SchlongNasty,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+WATER-1,Somnium,2,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Snixy,hoke,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,tsund,2,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Young_Lz_23,Shaded Fox,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RainUchiha,LegateSprinkles,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Alex!,Pokket,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,Meat,3,2,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+iDom,Lillie,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Stealthy,ChicoChops,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Crescendo,CreakyAxe,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MonkeyBizness,Kitty,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zenkai,Korn_4nine,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jikh,Gatterall,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Tilted,NuclearMonje,1,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CPU,Farm3r,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Papple,Enigmatic265,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Nupperz,Kibotsu,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MacMens,aBudgetBox,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shine,MisterX,3,0,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lurry,Vera Caelestis,3,1,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Deafheaven88,amoeba,0,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+wffls,Castanzo,1,3,Winners Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cheryo,MFCR,1,3,Winners Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,Marvelo,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cheryo,Somnium,3,0,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,Solstice,2,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ikushisu,MFCR,1,3,Winners Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,ITH,3,0,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ikushisu,Jack,1,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,CPU,3,0,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Somnium,SQ,0,3,Losers Round 5,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Deafheaven88,Vega,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+wffls,Ronincat,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MisterX,Radiant Veil,2,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Vera Caelestis,Khasi,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+aBudgetBox,Sick Yiddiez,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Farm3r,Party,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Enigmatic265,JOUSHOU,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Nupperz,Shaqdaddy,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Tilted,FinnaHeadOut,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jikh,catzeninyare,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kitty,thesillygoober,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Korn_4nine,Uncle Sunpuppy,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CreakyAxe,Lebryant,0,-1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lillie,Simple Ditch,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Stealthy,9toez,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Meat,Admiral Funk,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shaded Fox,Kiri,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+LegateSprinkles,pacdye,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,nutbro,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pokket,Guato,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+WATER-1,Rex,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SchlongNasty,QtheDevilman,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Taargus,Rubykiku,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+hoke,Battlepants,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Redtro,Nub,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Saint,FroggyAirplane,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ren,RuneRavenFP,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CMJ,Cicada,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+AlexNoah,LadyTiefling,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+JoobstheDude,Master Raven,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kyet,basil from omori,0,-1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mystery Solver,anro,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jin,Medici,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CammyEXE,Burstdragon1,2,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Festif_Al,Nepped Hazama,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lanimal,Noah ツ,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ChippMaster1001,Puma,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Voltiyon,Goblin Buster,-1,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CubanDrunk,Plat Apex Legends Player,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Darren,noobreker9000,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+mandsaar,JB,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Icebound,CopiVT,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shiraorii,River Dave,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jaga,LonesomeLurker,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kujo,Hardcoreplains,2,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kaz,Riknic,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shambles,Eunnie,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Stingrays110,Pho,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PoopManBoxMan,Galanos,-1,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Boat,SID,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+akron,Drax,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lil_Light,YSoSmoove,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zaran,kippy,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+mkj,FGCsand,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kritz,silent,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+anarene,caitySnow,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Almourex,Ya Boi Squanto,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CaptainAfrica,CozyNines,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+TheVeryGenericUsername,Aloa,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+LegendaryyPred,sin,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PotatoJones,nindecisive,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+FourFaceButtons,Taro,0,-1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ShockZ,Gear_Lock,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Phuchi,MegaRura,1,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cheryo,Dany,1,3,Losers Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,daze,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,Mikesaftig,3,1,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CPU,BEPaw,3,2,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MacMens,SQ,1,3,Losers Round 4,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+DistruPick,Khasi,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RAQU,Radiant Veil,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SamuraiQ,Vega,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+JedMosely,Ronincat,2,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shaqdaddy,Haro,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Sir_Bacon,Sick Yiddiez,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Party,GitGud,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+JOUSHOU,Sibbs,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+JJnews,catzeninyare,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Uncle Sunpuppy,Niko,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RoadyRock,FinnaHeadOut,2,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Claira,thesillygoober,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PlutoJr,Admiral Funk,2,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Simple Ditch,Cool Bill,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lebryant,T,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+9toez,Majin,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Coffee,Guato,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kiri,Yiro,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Ferox,pacdye,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CanPakes,nutbro,2,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+engineerblue,QtheDevilman,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cheechster,Rex,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Battlepants,Posy,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Rubykiku,Mickaleaf,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CoolFreeze,RuneRavenFP,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Citric,FroggyAirplane,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pixilated_max,Nub,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cicada,Gummie,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bobi Tea,LadyTiefling,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Vegeks_,Master Raven,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+OnReserve,basil from omori,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+anro,Avenged,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BurningWaterpark,Nepped Hazama,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Squoid,Medici,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Noah ツ,K-Boomafoo,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Avid,Burstdragon1,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Plat Apex Legends Player,Sol,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Goblin Buster,igobananas,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ramen,Puma,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+jiji,noobreker9000,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+River Dave,Squeegee,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+JB,RikuTodoroki,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Brederic,CopiVT,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+LonesomeLurker,midiMugen,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pho,Raya,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Riknic,Mik,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Perfidious,Eunnie,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MundaneSalad,Hardcoreplains,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BadGambles,SID,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Rews,Drax,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Galanos,BusinessCasual,-1,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+hackisonjd,YSoSmoove,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+caitySnow,maddiefgc,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+FGCsand,MFahim,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+kippy,CHOCO,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+silent,HonoredOgre,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Aloa,Squinka,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+YMJC,sin,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CozyNines,cementeater912,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Ya Boi Squanto,mani,0,-1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BucchaThePig,MegaRura,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BobbyFresh,Gear_Lock,-1,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+bemis,nindecisive,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Taro,Ky sama,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,Dany,1,3,Losers Semi-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Testyourluck,RAQU,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+daze,JedMosely,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SQ,DistruPick,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,SkylarOVA,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,Cheryo,1,3,Winners Semi-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,SamuraiQ,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+FGCsand,Tilted,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MonkeyBizness,silent,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jikh,caitySnow,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zenkai,kippy,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CHOCO,Korn_4nine,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Gatterall,maddiefgc,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+HonoredOgre,Kitty,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+NuclearMonje,MFahim,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Nupperz,CozyNines,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MacMens,Aloa,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Papple,YMJC,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CPU,Ya Boi Squanto,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kibotsu,cementeater912,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+aBudgetBox,Squinka,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+sin,Enigmatic265,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+mani,Farm3r,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Deafheaven88,Taro,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shine,bemis,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lurry,BucchaThePig,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+wffls,BobbyFresh,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Castanzo,Gear_Lock,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MegaRura,Vera Caelestis,2,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+nindecisive,MisterX,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+amoeba,Ky sama,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Phuchi,Khasi,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,MFCR,2,3,Winners Semi-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,Marvelo,2,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ShockZ,Ronincat,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Radiant Veil,PotatoJones,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Vega,FourFaceButtons,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+daze,Cheryo,2,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Sidvictor,Shaqdaddy,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Meatloaf,JOUSHOU,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PINK,Party,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Sir_Bacon,TheVeryGenericUsername,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+LegendaryyPred,Sibbs,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Somnium,ChicoChops,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CaptainAfrica,Haro,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lanxeared,Sick Yiddiez,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+GitGud,Almourex,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PORK LAZER,Claira,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+JJnews,anarene,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Skull_Duggers,RoadyRock,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BEPaw,Uncle Sunpuppy,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SQ,Kshuewhatdamoo,2,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Liargos,catzeninyare,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+thesillygoober,Kritz,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zaran,Niko,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+mkj,FinnaHeadOut,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,MacMens,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pez,Simple Ditch,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BEPaw,ikushisu,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Data Xigbar In Real Life,PlutoJr,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SonAceKeem,9toez,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lebryant,Z_Guy,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+akron,Cool Bill,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MFCR,CPU,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+PoopManBoxMan,Majin,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Boat,Admiral Funk,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lil_Light,T,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bigbootyman445,Ferox,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,Kiri,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ikushisu,Coffee,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+greed_,CanPakes,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+nutbro,Kujo,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shambles,Guato,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Stingrays110,Yiro,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kaz,pacdye,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Rubykiku,Shiraorii,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+KidDracula,engineerblue,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+NiNE,Battlepants,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Icebound,Cheechster,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Domasaur,Rex,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SkylarOVA,Mickaleaf,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Posy,mandsaar,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jaga,QtheDevilman,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+scambolini_,Pixilated_max,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Voltiyon,Cicada,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Apotheosis,Citric,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mikesaftig,CoolFreeze,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+FroggyAirplane,CubanDrunk,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RuneRavenFP,ChippMaster1001,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Nub,Darren,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Gummie,Zonic,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CammyEXE,Bobi Tea,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Vegeks_,Jin,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+anro,Collom,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cheryo,OnReserve,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lanimal,Avenged,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+winty guitar,LadyTiefling,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Master Raven,Cinamon,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Festif_Al,basil from omori,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,Noah ツ,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+pedrito,BurningWaterpark,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,Squoid,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MFCR,Avid,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+AlexNoah,Burstdragon1,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mystery Solver,K-Boomafoo,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Nepped Hazama,Kyet,0,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Medici,JoobstheDude,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mynus,ramen,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Redtro,jiji,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CMJ,Goblin Buster,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Saint,Plat Apex Legends Player,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bwead,Sol,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Puma,ren,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Hee Ho,igobananas,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+noobreker9000,Dripula,1,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Punk,River Dave,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+WATER-1,Brederic,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Snixy,JB,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SquidgeLuke,LonesomeLurker,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Somnium,CopiVT,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+hoke,RikuTodoroki,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Squeegee,Taargus,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+midiMugen,SchlongNasty,-1,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Young_Lz_23,Pho,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Alex!,Perfidious,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,MundaneSalad,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+RainUchiha,Riknic,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Pokket,Eunnie,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Hardcoreplains,tsund,2,3,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+LegateSprinkles,Mik,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Shaded Fox,Raya,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+iDom,Rews,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Stealthy,Galanos,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,BadGambles,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Crescendo,hackisonjd,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Lillie,Drax,3,1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Meat,SID,3,2,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CreakyAxe,YSoSmoove,3,0,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ChicoChops,BusinessCasual,0,-1,Winners Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ChicoChops,ITH,1,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+daze,Gatterall,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Jack,Crescendo,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SkylarOVA,Mikesaftig,0,3,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+CPU,Papple,3,1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+BEPaw,Bigbootyman445,3,1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+MacMens,Kibotsu,3,0,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SQ,iDom,3,1,Losers Round 3,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Solstice,Marvelo,0,3,Losers Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Dany,Jack,3,1,Losers Quarter-Final,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+ITH,Meat,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Punk,Gatterall,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Crescendo,Stealthy,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mikesaftig,Z_Guy,3,0,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Papple,pedrito,3,1,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bigbootyman445,Stingrays110,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kibotsu,tsund,3,2,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Hee Ho,iDom,0,3,Losers Round 2,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Marvelo,SQ,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kshuewhatdamoo,Jack,2,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+pedrito,Collom,3,2,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Bigbootyman445,Young_Lz_23,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SonAceKeem,Stingrays110,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Kibotsu,Pez,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+tsund,Korn_4nine,3,0,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Cinamon,Hee Ho,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Liargos,iDom,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Zenkai,ITH,2,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Snixy,Meat,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+winty guitar,Punk,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Testyourluck,Gatterall,1,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Crescendo,Redtro,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+SquidgeLuke,Stealthy,0,3,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Mikesaftig,RainUchiha,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Z_Guy,Darren,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
+Papple,anro,3,1,Losers Round 1,tns-guilty-gear-strive-73-crossplay,guilty-gear-strive-crossplay,3.20.23
