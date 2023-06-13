@@ -1,0 +1,64 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/4/3/8/+4/-1///
+5MP/700/LH//9/4/11/-2/-5///
+5HP/1000/LH//16/4/27/-6/-11///
+5LK/300/LH/sp su/9/4/11/+2/-6///
+5MK/600/LH//12/3/18/-2/-6///
+5HK/800/LH/sp su/17/3/20/+1/-6///
+2LP/300/ch sp su//5/3/9/+4/-1///
+2MP/600/LH/sp su/12/3/16/0/-4///
+2HP/800/L//19/4/24/-1/-12///
+2LK/200/L//4/7/16/-5(+1)/-10(-4)///
+2MK/500/L//10/13/14/-3(+9)/-10(+2)///
+2HK/900/L//12/16/20/HKD +22(+37)/-16(-1)///
+j.LP/300/H//4/4/3 land/-/-///
+j.MP/700/LH//9/8/3 land/-/-///
+j.HP/800/H//13/4/3 land/-/-///
+j.LK/300/H//6/4/3 land/-/-///
+j.MK/500/H//11/6/3 land/-/-///
+j.HK/800/H//10/10/3 land/-/-///
+4MP/700/LH/sp su/8/6/16/+2/-3///
+4HP/900/sp su/LH/14/7/29/-9/-16///
+4MK/600/LH/sp su/7/4/17/+3/0///
+4HK/1000/LH//14/6/20/0/-9///
+1HP/800/LH/sp su/10/4/20/+3/-3///
+1LK/200/L/ch/5/3/10/+1/-5///
+1MK/500/L/sp su/8/3/20/-3/-7///
+1HK/900/L//9/3/22/HKD +33/-7///
+j.2LP/500/LH/sp/10/until land/9 Land//-21~+4///
+j.2K/500/LH//9/until land/6 Land//-21~+5///
+LPLK/()/T/-/5/3/23//-///
+4LPLK/()/T/-/5/3/23//-///
+2LPLK/()/T/-/5/3/23//-///
+HPHK//LH/-////////
+6HPHK//LH/-////////
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-////-/-///
+236P/600/LH/su3/15//33/-2/-6///Yoga Fire
+236PP/500500/LH/su3/13/1(7)1 close/24/KD +49/-3///Yoga Fire
+236[P]/400400/LH/su3/45/1(7)1/24/KD +49/-3///Yoga Fire (hold)
+236LK/600/LH/su3/18//27//-1///Yoga Arch
+236KK/500500/LH/su2 su3/18//20/+1/-2///Yoga Arch
+63214LP/800/LH/su3/16/15/15(29)/KD +33/-4///Yoga Flame
+63214MP/450450/LH/su3/20/15/17(30)/KD +33/-4///Yoga Flame
+63214HP/400x3/LH/su3/26/17/16(30)/KD +45/-4///Yoga Flame
+63214PP/100,200x4/LH/su2 su3/18/25/24/KD +50/-11///Yoga Flame
+63214LK/1000/LH/su3/12/10/23/KD +39/-6///Yoga Blast
+63214MK/1200/LH/su3/15/10/20/KD +42/-3///Yoga Blast
+63214HK/1200/LH/su3/15/10/20/KD +42/-3///Yoga Blast
+63214KK/500500/LH/su2 su3/12/10/20/KD +42/0///Yoga Blast
+j.63214LP/800/LH//30///////Yoga Comet
+j.63214PP/600600///30///////Yoga Comet
+2KK/-/-//36//? land/-/-///Yoga Float
+j.2KK/-/-//15//? land/-/-///Aerial Yoga Float
+6PPP or 6KKK/-/-//5//24/-/-///Yoga Teleport
+4PPP or 4KKK/-/-//4//31/-/-///Yoga Teleport
+j.6PPP or j.6KKK/-/-//9//15/-/-///Yoga Teleport
+j.4PPP or j.4KKK/-/-//9//19/-/-///Yoga Teleport
+236236LP/160x12/LH/-/10/104/20/KD +24/-15///Yoga Inferno
+236236MP/175x12//-/10/104/20/KD +24/-15///Yoga Inferno
+236236HP/170x12//-/10/84/40/KD +27/-22///Yoga Inferno
+214214K/450x4,1000/LH/-/7/1(2)1(6)1(6)1(6)1/36/KD +50/-4///Yoga Sunburst
+214214{K}/400x6,700/LH/-/7///////Yoga Sunburst
+214214[K]/375x8,1000/LH/-/7/142//////Yoga Sunburst
+236236K/400,160x10,2000/LH/-/10/5/75/KD +19/-62///Merciless Yoga

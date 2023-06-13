@@ -1,0 +1,59 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/400/LH/ch sp su/7/3/9/+4/+2///
+5MP/700/LH/tc/9/4/17/+2/-2///
+5HP/1000/LH//16/3/22/+3/-3///
+5[HP]/1400/LH//32/3/22/KD +40/+3///
+5LK/400/LH//6/2/17/-2/-4///
+5MK/800/LH//9/4/19/+1/-4///
+5HK/1000/LH//12/4/21/+3/+1///
+2LP/300/LH/ch sp su/6/2/8/+6/+1///
+2MP/700/LH/sp su/8/3/16/+3/-1///
+2HP/1000/LH//12/8/35/KD +20/-19///
+2LK/250/L/ch/4/3/12/0/-3///
+2MK/700/L//9/3/18/+2/-2///
+2HK/1000/L//12/3/27/HKD +32/-13///
+j.LP/300/H//5/7/3 land/-/-///
+j.MP/700/H//8/5/3 land/-/-///
+j.HP/800/H//9/6/3 land/-/-///
+j.LK/300/H//5/10/3 land/-/-///
+j.MK/500/H//8/8/3 land/-/-///
+j.HK/800/H//10/7/3 land/-/-///
+3MP/800///7/3/21/-1/-3///
+6MK/600///14/7/14/0/-4///
+6HP/900///14/5/15/+6/+4///
+6HK/1300/H//22/7/25/KD +28/-12///
+3HK/1000/LH/-/16/4/40/KD +21/-18///
+22MK/500/LH/tc/9/3/17/+4/-3///
+j.2HP/800/H//9/9/3 land/-/-///
+j.8HP/800/H/sp/8/4/3 land/-/-///
+5MP~MP/600/HL/-/9/4/20/+2/-6///
+5MP~MP~MP/900/LH//15/3/32/KD +27/-17///
+22MK~MK/500/LH/tc/9/3/19/-3/-4///
+22MK~MK~MK/700/LH/sp su/10/3/24/-2/-10///
+5LPLK/()/T/-/5/3/23//-///
+4LPLK/()/T/-/5/3/23//-///
+6LPLK/()/T/-/5/3/23//-///
+3LPLK/()/T/-/5/3/23//-///
+1LPLK/()/T/-/5/3/23//-///
+2LPLK/()/T/-/5/3/23//-///
+HPHK/800/LH/-/26/2/35/////
+6HPHK//LH/-////////
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-////-/-///
+PP/1200/LH/su/15/2(3)2(4)2(8)2(6)2/27/KD +27/-12 ~ -40///Double Lariat
+PPP/500*1000 (1500)/LH/su/12/2(2)2(3)2(6)2(4)2/26/KD +38/-30 ~ -11///Double Lariat
+360+LP/2500/T/-/5/3/54/HKD +30/-///Screw Piledriver
+360+MP/2900/T/-/5/3/54/HKD+28/-///Screw Piledriver
+360+HP/3300/T/-/5/3/54/HKD +28/-///Screw Piledriver
+360+PP/3400/T/-/5/3/54/HKD +28/-///Screw Piledriver
+j.360+K/2900/T/-/4/3/3(?) land/HKD +19/-///Borscht Dynamite
+j.360+KK/3000/T/-/4/3/3(?) land/HKD +19/-///Borscht Dynamite
+63214K (Close)/2900/T/-/10/2/50/KD +26/-///Russian Suplex
+63214KK (Close)/3200/T/-/10/2/50/KD +27/-///Russian Suplex
+63214K (Far)/2700/T/-/28/2/41/KD +29/-///Siberian Express
+63214KK (Far)/3000/T/-/23/2/44/KD +29/-///Siberian Express
+22HK/2400/-/-/6/50/24/KD +5/-///Tundra Storm
+236236K/3500/T/-/11/7/60/KD +29/-///Aerial Russian Slam
+236236P/3160/LH/-/18/102/52/KD +5/-35///Cyclone Lariat
+236236[P]/1100/LH/-/18/102/25/Launch +87/-35///Cyclone Lariat (hold)
+720+P/4800/T/-/7/1/116/KD +26/-///Bolshoi Storm Buster

@@ -266,4 +266,4 @@ def addNewCharRef():
 
 #addNewCharRef()
 #print(pd.DataFrame.from_dict(smash.tournament_show_lightweight_results("tns-guilty-gear-strive-45-pc","guilty-gear-strive-pc",1)))
-print(playerResult("DomiWurld", "TournamentData/AllPlacements.txt"))
+#print(playerResult("DomiWurld", "TournamentData/AllPlacements.txt"))

@@ -1,0 +1,62 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/4/3/7/+4/-1///
+5MP/600/LH/sp su tc/6/4/11/+7/-1///
+5HP/800/LH/sp su tc/10/5/18/+3/-2///
+5LK/300/LH/sp su/5/3/11/+2/-4///
+5MK/700/LH/-/9/3/18/+4/-4///
+5HK/900/LH/-/12/4/20/+9/+1///
+2LP/300/LH/ch sp su/4/2/9/+4/-1///
+2MP/700/LH/sp su/6/3/14/+5/0///
+2HP/900/LH/sp su/9/6/21/+3/-7///
+2LK/200/L/ch/5/2/10/+3/-3///
+2MK/500/L/sp su/8/3/19/+1/-6///
+2HK/900/L/-/9/3/23/HKD +32/-11///
+j.LP/300/H/-/4/10/3 land/-/-///
+j.MP/350x2/H/sp/8/2*3/3 land/-/-///
+j.HP/800/H/-/9/6/3 land/-/-///
+j.LK/300/H/-/6/10/3 land/-/-///
+j.MK/500/H/-/7/6/3 land/-/-///
+j.HK/500/H/-/12/8/3 land/-/-///
+6MP/300x2/H/-/20/4/19/+2/-3///
+6HP/400x2/LH/-/20/2*3/16/+6/+1///
+4HP/800/LH/sp su/7/4/25/+1/-13///
+4HK/400*400 (800)/LH/sp su/10/5(5)3/21/0/-4///
+6HK/800/LH/sp*/16/4/20/+2/-4///
+MP~LK/600/LH/tc/5/3/16/+1/-7///
+MP~LK~HK/900(720)/LH/-/16/4/20/KD +36/-8///
+HP~HK/1000/LH/-/9/4/20/KD +36/-8(-18)///
+LPLK/1200 (2040)/T/-/5/3/23/KD +18/-///
+4LPLK/1200 (2040)/T/-/5/3/23/KD +11/-///
+HPHK/800/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+236LP/600/LH/su3/16/-/31/-1/-5///Hadoken
+236MP/600/LH/su3/14/-/33/-3/-7///Hadoken
+236HP/600/LH/su3/12/-/35/-5/-9///Hadoken
+236PP/400x2/LH/su2 su3/12/-/28/KD +54/-1///Hadoken
+236P/400x2/LH/su3/12/-/30/KD +52/-3///Denjin Charge Hadoken
+623LP/1100 (800)/LH/su3/5/10/21+12 land/KD +38/-21///Shoryuken
+623MP/1200 (800)/LH/su3/6/10/30+12 land/KD +34/-30///Shoryuken
+623HP/1400 (800)/LH/su3/7/10/34+15 land/KD +29/-37///Shoryuken
+623PP/800x2/LH/-/7/2*8/37+15 land/KD +29/-40///Shoryuken
+214LK/800/LH/-/12/3/14+18 land/KD +35/-14///Tatsumaki Senpu-kyaku
+214MK/900/LH/-/14/2(13)2/11+20 land/KD +23(+38)/-12(-27)///Tatsumaki Senpu-kyaku
+214HK/1000/LH/-/16/2(13)2(13)2/14+17 land/KD +20(+35)(+50)/-12(-27)(-42)///Tatsumaki Senpu-kyaku
+214KK/200x5/LH/-/13/2(4)2(4)2(3)2(4)2/10+13 land/KD +57/-14///Tatsumaki Senpu-kyaku
+j.214K/900/LH/-/11/2(5)2(6)2/14 land/KD +48(+54)/-1(+5)///Aerial Tatsumaki Senpu-kyaku
+j.214KK/300*200x3*600 (1500)/LH/-/11/2(1)3(1)3(1)3(2)2/14 land/KD +47(+50)/-16(-30)///Aerial Tatsumaki Senpu-kyaku
+236LK/1000/LH/su3/15/9/22/KD +35/-11///High Blade Kick
+236MK/1100/LH/su3/18/9/19/KD +40/-8///High Blade Kick
+236HK/1300/LH/su3/29/9/16/KD +45/-5///High Blade Kick
+236KK/800/LH/su2 su3/18/5/33/Wall Bounce +45~65/-18///High Blade Kick
+214LP/700/LH/su3/12/6/18/+2/-4///Hashogeki
+214MP/800/LH/su3/19/6/17/+2/-5///Hashogeki
+214HP/400*400 (800)/LH/su3/30/6/19/KD +61 spin/+2(3)///Hashogeki
+214PP/900/LH/su2 su3/18/6/20/+3/+3///Hashogeki
+214P/400x2/LH/su3/21/6/18/KD +62 Spin/+3///Denjin Charge Hashogeki
+22P/-/-/-/39/-/13/-/-///Denjin Charge
+236236P/400x5 (2000)/LH/-/8/-/79/KD +26/-24///Shinku Hadoken
+214214P/2600/LH/-/12/6/39/KD +20/-20///Shin Hashogeki Lv.1
+214214P (hold)/2800/LH/-/21/6/39/KD +20/-20///Shin Hashogeki Lv.2
+236236K/4000 (2600)/LH/-/5/12/32+39 land/HKD +8/-52(-54)///Shin Shoryuken

@@ -1,0 +1,66 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/350/LH/ch sp su/6/5/8/+6/-1///
+5MP/800/LH//9/4/17/+1/-4///
+5HP/900/LH/sp su/11/3/22/0/-5///
+5LK/300/LH/ch sp su/4/3/12/+1/-4///
+5MK/600/LH/sp su/7/3/15/+2/-1///
+5HK/1000/LH//14/4/21/+1/-5///
+2LP/300/LH/ch sp su/6/3/8/+5/-1///
+2MP/700/LH/su/8/3/18/+1/-3///
+2HP/500500/LH/sp su/10/33/22/0/-2///
+2LK/200/L/ch/5/2/12/+2/-2///
+2MK/500/L/sp su/10/3/18/+1/-5///
+2HK/450450///11/2(6)2/24/HKD +32/-12///
+j.LP/300/H//5/9/3 land/-/-///
+j.MP/700/H//9/4/3 land/-/-///
+j.HP/800/H//10/6/3 land/-/-///
+j.LK/300/H//6/6/3 land/-/-///
+j.MK/500/H//8/5/3 land/-/-///
+j.HK/800/H//11/6/3 land/-/-///
+6HP/900/LH/tc sp su/18/2/24/+1/-5///
+3HP/900/H//25/3/18/+2/-3///
+4HP/1000/LH//14/4/18/+5/-2///
+j.2HP/800/H//9/11/3 land/-/-///
+6HP~HP/500/LH/tc/20/2/27/0/-9///
+6HP~HP~HP/500/LH//20/5/42/KD +23/-26///
+j.MP~MP/700/H/su2/10/3/3 land/-/-///
+LPLK/()/T/-/5/3/23//-///
+4LPLK/()/T/-/5/3/23//-///
+HPHK/800/LH/-/26/2/35/////
+6HPHK//LH/-////////
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-////-/-///
+214LP/-/-/-/46/-/1/-/-///Condor Wind (stock)
+214[LP]/-/-/-/47[90]{109}/-//-/-///Condor Wind (stock)
+214MP/900/LH/su3/23[93]/4/25//-8///Condor Wind (attack)
+214HP/1100/LH/su3/25[93]/4/25/+2/-8///Condor Wind (attack)
+214PP/1200/LH/su2 su3/21/4/23/+39 KD/-5///Condor Wind (stock)
+214[PP]////40 total///////Condor Wind (attack)
+236LK/800/LH//17/13/16/KD +33/-8///Condor Spire
+236MK/900/LH//21/13/16/KD +37/-8///Condor Spire
+236HK/1000/LH//25/13/16/KD +37/-8///Condor Spire
+236KK/1000/LH/su2/15/13/16/KD +42/-8///Condor Spire
+236LK (Windclad)/100100800/LH//9/5(6)18/14/KD +47/+1///Condor Spire (Windclad)
+236MK (Windclad)/100100900/LH//13/5(6)18/14/KD +49/+1///Condor Spire (Windclad)
+236HK (Windclad)/1001001000/LH//17/5(6)18/14/KD +52/+1///Condor Spire (Windclad)
+236KK (Windclad)/1001001000/LH/su3/9/24 total/14/KD +56/+2///Condor Spire (Windclad)
+623LP/900/LH//6/11/33/KD +36/-27///Tomahawk Buster
+623MP/1000/LH//8/12/37/KD +36/-32///Tomahawk Buster
+623HP/1200/LH//10/13/38/KD +40/-35///Tomahawk Buster
+623PP/800600/LH//6/12 total/43/KD +32/-35///Tomahawk Buster
+623LP (Windclad)/400600/LH//4/13 total/33/KD +41/-25///Tomahawk Buster (Windclad)
+623MP (Windclad)/400800/LH//6/14 total/37/KD +41/-30///Tomahawk Buster (Windclad)
+623HP (Windclad)/4001000/LH//8/16 total/38/KD +41/-33///Tomahawk Buster (Windclad)
+623PP (Windclad)/400600600//OD/4/14 total/43/KD +33/-35///Tomahawk Buster (Windclad)
+j.PP/800///12/until land/24//-24~-19///Condor Dive
+j.PPP/1400///12/until land/24//-24~-19///Condor Dive
+j.PP (Windclad)/200800/LH//12/until land/24//-23~-19///Condor Dive (Windclad)
+j.PPP (Windclad)/2001400/LH//12/until land/24//-23~-19///Condor Dive (Windclad)
+360+LP/2000/T/-/5/3/53/KD +28/-///Mexican Typhoon
+360+MP/2400/T/-/5/3/53/KD +28/-///Mexican Typhoon
+360+HP/2800/T/-/5/3/53/KD +28/-///Mexican Typhoon
+360+PP/2900/T/-/5/3/53/KD + 28/-///Mexican Typhoon
+236236P/80x13, 1160/LH/-/13/2(5)2(7)2(8)2/54/KD +27/-36///Breezing Hawk
+236236K/100x7,1800/LH/-/9/2(2)18(9)2/63/KD +42/-60///Thunderbird
+j.236236K/100x7,1800/LH/-/9/2(2)18(9)2//////Soaring Thunderbird
+214214P/15003000/T/-/5+2/2/106/HKD +4////Raging Typhoon

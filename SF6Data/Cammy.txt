@@ -1,0 +1,72 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/4/3/7/+5/-2///
+5MP/600/LH/-/6/4/13/+6/-1///
+5HP/800/LH/sp su tc/8/3/20/+2/-3///
+5LK/300/LH/sp su/5/3/10/+2/-3///
+5MK/700/LH/-/8/3/18/+3/-4///
+5HK/900/LH/-/11/3/21/+2/-4///
+2LP/300/LH/ch sp su/4/2/8/+5/-2///
+2MP/600/LH/sp su/7/3/14/+5/-2///
+2HP/700/LH/-/10/4/15/+7/+1///
+2LK/200/L/ch/5/3/7/+3/-2///
+2MK/500/L/sp su/8/3/18/+1/-5///
+2HK/900/L/-/9/3/24/HKD +31/-10///
+j.LP/300/H/-/4/10/3 land/-/-///
+j.MP/600/H/sp su2/6/8/3 land/-/-///
+j.HP/800/H/-/8/5/3 land/-/-///
+j.LK/300/H/-/4/10/3 land/-/-///
+j.MK/600/H/-/7/6/3 land/-/-///
+j.HK/800/H/-/10/6/3 land/-/-///
+4MP/500/LH/sp su tc/5/5/12/+4/-1///
+6HK/800/LH/sp su/18/3/25/KD +26/-12///
+4HK/800/LH/sp su j/9/3/18/KD +54/-7///
+4MP~HK/(500)*600/LH/sp su j/9/3/23/KD +49/-12(-19)///
+5HP~HK/(800)*200*600/LH/sp su (1st)/13/4(12)3/29/KD +33/-12///
+LPLK/1200 (2040)/T/-/5/3/23/KD +17/-///
+4LPLK/1200 (2040)/T/-/5/3/23/KD +14/-///
+j.LPLK/1200 (2040)/T/-/5/3/3 land/KD +22/-///
+HPHK/800/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+236LK/800/LH/-/9/13/21/KD +26(+48)/-12(0)///Spiral Arrow
+236MK/900/LH/-/9/15/21/KD +26(+48)/-14(0)///Spiral Arrow
+236HK/300*700/LH/su3 (1st)/15/3(1)12/21/KD +29(+48)/-12(-1)///Spiral Arrow
+236[HK]/150x4*200/LH/su3/27(25)/3(1)12/20/KD +47 Launch/-14///Spiral Arrow
+236KK/150x4*200/LH/su2 su3/13/3(1)12/20/KD +47 Launch/-14///Spiral Arrow
+623LK/900(800)/LH/su3/5/12/40/KD +20/-36///Cannon Spike
+623MK/1000(800)/LH/su3/6/12/41/KD +21/-36///Cannon Spike
+623HK/1200(800)/LH/su3/7/12/44/KD +22/-36///Cannon Spike
+623[HK]/1100*100x4 (900)/LH/su3/24/12/45/KD +16/-40///Cannon Spike
+623KK/1100*100x4 (900)/LH/-/6/12/46/KD +16/-40///Cannon Spike
+214LP/800/LH/su3/21/4/16/+2/-3///Quick Spin Knuckle
+214MP/800/LH/su3/24/4/16/+3/-2///Quick Spin Knuckle
+214HP/800/LH/su3/28/4/17/+5/+3///Quick Spin Knuckle
+214PP/800/LH/su2 su3/25/4/17/+7/-2///Quick Spin Knuckle
+j.214LK/600/LH/-/13/11 (until land)/12 land/////Cannon Strike
+j.214MK/600/LH/-/13/11 (until land)/12 land/////Cannon Strike
+j.214HK/600/LH/-/13/11 (until land)/12 land/////Cannon Strike
+j.214KK/800/LH/su2/13/12 (until land)/12 land/////Cannon Strike
+236LP/-/-/-////-/-///Hooligan Combination
+236MP/-/-/-////-/-///Hooligan Combination
+236HP/-/-/-////-/-///Hooligan Combination
+236PP/-/-/-////-/-///Hooligan Combination
+236P~No Input/1000/L/-/50/9/13/KD +48/+2///Razor's Edge Slicer
+236[HP]~No Input/800*400/L*L/-/70/9(10)5/17/KD +48/+2///Razor's Edge Slicer
+236PP~No Input/800*400/L*L/-/50/9(10)5/17/KD +48/+2///Razor's Edge Slicer
+236P~K/600/LH/-/+13/until land/12 land/////Hooligan Cannon Strike
+236[HP]~K/800/LH/-/+13/until land/12 land/////Hooligan Cannon Strike
+236PP~K/800/LH/su2/+13/until land/12 land/////Hooligan Cannon Strike
+236P~2K/800/H/-/+18/4/13 land/+6(+9)/-4(-1)///Reverse Edge
+236[HP]~2K/600*600/H*H/-/+18/4(14)4/13 land/+8/-2///Reverse Edge
+236PP~2K/600*600/H*H/su2/+18/4(14)4/13 land/+8/-2///Reverse Edge
+236P~LPLK/1800/T/-/+10/3/30 land/HKD +18/-///Fatal Leg Twister
+236[HP]~LPLK/1000/T/-/+10/3/30 land/HKD +60 Launch/-///Fatal Leg Twister
+236PP~LPLK/1000/T/-/+10/3/30 land/HKD +60 Launch/-///Fatal Leg Twister
+236P~P/-/-/-//-//-/-///Silent Step
+236[HP]~P/-/-/-//-//-/-///Silent Step
+236PP~P/-/-/-//-//-/-///Silent Step
+236236K/2000/LH/-/9/3(1)12/38/KD +10/-24///Spin Drive Smasher
+214214K/2750 (220x6)/LH/-/13/9/37 land/KD +12 (+70 Launch)/-24(-18)///Killer Bee Spin
+j.214214K/2750 (220x8)/LH/-/13/until land/37 land/KD +12 (+70 Launch)/-///Aerial Killer Bee Spin
+236236P/4000/LH/-/9/15/38/HKD +17/-33///Delta Red Assault

@@ -1,0 +1,78 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/4/3/6/+4/-1///
+5MP/600/LH//7/3/13/+5/+2///
+5HP/800/LH/sp su/9/6/18/+4/-4///
+5LK/300/LH/sp su/5/2/12/+2/-2///
+5MK/600/LH//9/3/16/+6/-1///
+5HK/800/LH//12/3/26/+1/-5///
+2LP/300/LH/ch sp su/5/3/8/+4/-1///
+2MP/600/LH/sp su/6/4/14/+4/-1///
+2HP/800/LH//8/2/20/+6/-2///
+2LK/200/L/ch/5/2/10/+2/-2///
+2MK/700/L//8/4/19//-6///
+2HK/900/L//14/10/15/HKD +33/-11///
+j.LP//H//4/7/3 land/-/-///
+j.MP//H//6/4/3 land/-/-///
+j.HP//H//9/6/3 land/-/-///
+j.LK//H//4/6/3 land/-/-///
+j.MK//H//8/6/3 land/-/-///
+j.HK//H//10/5/3 land/-/-///
+6MK/700/LH/su/19/5/16/+6/+2///
+4HK/500300/LH/sp su/7/33/20/+1/-5///
+j.2LK/300///6/until landing//////
+5LP~MK/600/LH//9/3/18/+2/-3///
+5LP~MK~MK/625/LH//14/3/21/+2/-8///
+5MP~HP/500/LH//11/7/24/-2/-10///
+5MP~HP~HK/600/LH//13/3/30//-13///
+5MP~MP/500/LH//12/2/17/+2/-2///
+5MP~MP~HP/900/LH//20/2/24//-8///
+5MP~MP~4HP////23 total///-4/-6///
+j.MP~HP/700///8/7//////
+LPLK/()/T/-/5/3/23//-///
+4LPLK/()/T/-/5/3/23//-///
+HPHK//LH/-////////
+6HPHK//LH/-////////
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-////-/-///
+[4]6LP////21 total///////Air Slasher
+[4]6MP/600///17///0/-5///Air Slasher
+[4]6HP/500///17///+3/-3///Air Slasher
+[4]6PP/500500///10///+5/+2///Air Slasher
+[2]8LK///////////Jackknife Maximum
+[2]8MK/600500///6/3(10)4/32/////Jackknife Maximum
+[2]8HK/600200500///6/4(8)5(8)4/32/////Jackknife Maximum
+[2]8KK/300x5///6/6(7)3(9)3/44//-55///Jackknife Maximum
+236LK/-/-/-/26 total/-//-/-///Roll Through Feint
+236MK/1000/LH/su2 su3/12/3/23//-6///Quick Rolling Sobat
+236HK/700700///15/3(18)4/24/+2/-10///Double Rolling Sobat
+236KK/700600/su2 su3//19/2(9)3/19//-2///Double Rolling Sobat
+214LP/150x5,200x3,300/LH/su3/15/4/35//-19///Machine Gun Uppercut
+214MP//LH/su3/22/4/35//-19///Machine Gun Uppercut
+214HP////28/4/35//-19///Machine Gun Uppercut
+214PP//LH/su2 su3/28/4/35//-19///Machine Gun Uppercut
+214K/-/-//37 total///-/-///Jus Cool
+214K~LK/800/L/su3/12/3/20/+2/-3///Funky Slicer
+214K~MK/1000/H//25/3/16//+2///Waning Moon
+214K~HK/1000///15/5/25//-10///Maximum Strike
+214K~6P/-/-////7/-/-///Juggling Dash
+214K~6P~4P/-/-/////-/-///Juggling Sway
+214KK/500///8/5/36//-22///Jus Cool
+214KK~LK/900/L/su2 su3/9/3/24/+6/-2///Funky Slicer
+214KK~MK/1100/H//19/5/17/+6/-1///Waning Moon
+214KK~HK/1000/LH/su2 su3/11/5/21//-8///Maximum Strike
+214KK~6P/-/-////5/-/-///Juggling Dash
+214KK~6P~4P/-/-/////-/-///Juggling Sway
+22PP/-/-//133 total minimum///-/-///Speedy Maracas
+236236K/1800/LH/-/7/4/45/HKD +32/-24///The Greatest Sobat
+236236LP/300 (~2600)/LH/-/12/5/46/+6/-29///Lowkey Sunrise Festival
+~LP (1)/175/-/-/11/4/25/+6 (KD +41)/-///+LP (Lowkey Hit 1)
+~MP (2)/175/-/-/10/3/23/+6/-///+MP (Lowkey Hit 2)
+~HP (3)/175/-/-/12/3/24/+6/-///+HP (Lowkey Hit 3)
+~LK (4)/175/-/-/15/4/35/+6/-///+LK (Lowkey Hit 4)
+~MK (5)/200/-/-/17/3/47/+6/-///+MK (Lowkey Hit 5)
+~HK (End)/500*900/-/-/18/3(5)3/79/HKD +29/-///+HK (Lowkey Hit End)
+236236MP/300 (1700~2800)/LH/-/12/5/46/+6/-29///Marvelous Sunrise Festival
+~HK (6)/400*600(200x2)/-/-/18/3(5)3/79(64)/HKD +19 (KD +46)/-///+HK (Marvelous Hit 6)
+~HP (End)/400*700/-/-/1/-/181 total/HKD +24/-///Climactic Strike
+236236HP/200 (1700~3000)/LH/-/12/5/46/+6/-29///Headliner Sunrise Festival
+214214P/4000/LH/-/9/5/48/HKD +26/-28///Weekend Pleasure

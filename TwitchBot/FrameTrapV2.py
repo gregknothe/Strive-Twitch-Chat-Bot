@@ -142,4 +142,4 @@ text_file = open("C:/Users/Greg Knothe/Desktop/data.txt", "w")
 n = text_file.write(x)
 text_file.close()
 '''
-print(frameTrapCalc("bridget","2K","6H"))
+#print(frameTrapCalc("pot","jD","5p"))

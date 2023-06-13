@@ -1,0 +1,70 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/4/3/7/+4/-1///
+5MP/600/LH/sp su tc/5/4/14/+4/-2///
+5HP/800/LH/sp su/10/5/17/+3/-2///
+5LK/300/LH/sp su/5/2/12/0/-2///
+5MK/600/LH/tc/8/3/20/+3/-5///
+5HK/800/LH/-/12/2/25/+1/-7///
+2LP/300/LH/ch sp su/4/2/9/+5/-1///
+2MP/700/LH/sp su/6/3/14/+3/0///
+2HP/800/LH/sp su/8/4/24/+3/-10///
+2LK/200/L/ch/5/3/10/+1/-3///
+2MK/500/L/sp su/7/3/19/-2/-6///
+2HK/900/L/-/8/3/24/HKD +31/-8///
+j.LP/300/H/-/5/7/3 land/-/-///
+j.MP/700/H/sp/6/4/3 land/-/-///
+j.HP/800/H/-/9/6/3 land/-/-///
+j.LK/300/H/-/6/6/3 land/-/-///
+j.mK/500/H/-/7/6/3 land/-/-///
+7HK or 9HK/800/H/-/10/7/3 land/-/-///
+8HK/900/H/-/6/4/3 land/-/-///
+5MP~HP/400/LH/sp su/11/3/19/KD +36/-7///
+5MK~MK/400(360)/LH/tc/11/2/27/KD +28/-12///
+5MK~MK~HK/700(490)/LH/-/13/3/28/KD +32/-11(-32)///
+LPLK/1200 (2040)/T/-/5/3/23/KD +24/-///
+4LPLK/1200 (2040)/T/-/5/3/23/KD +6/-///
+HPHK/800/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+236LP/600/LH/su3/16/-/33/-3/-8///Hadoken
+236MP/600/LH/su3/14/-/35/-5/-10///Hadoken
+236HP/600/LH/su3/12/-/37/-7/-12///Hadoken
+236PP/400x2/LH/su2 su3/12/-/28/+2/-2///Hadoken
+623LP/1100/LH/su3/5/10/21+12 land/KD +33/-23///Shoryuken
+623MP/700*600 (1300)/LH/su3/6/10/28+12 land/KD +33/-28///Shoryuken
+623HP/800*x2 (1400)/LH/su3/7/10/35+15 land/KD +25/-36///Shoryuken
+623PP/200x5*600 (1600)/LH/-/6/10(14)10/35+15 land/KD +29/-37///Shoryuken
+214LK/300*400 (700)/LH/-/4/2(6)3/14+18 land/KD +46(+38)/-14///Tatsumaki Senpu-kyaku
+214MK/450x2 (900)/LH/-/14/2(13)2/11+20 land/KD +44(+32)/-12///Tatsumaki Senpu-kyaku
+214HK/300*300*400 (1000)/LH/-/16/2(13)2(13)2/14+17 land/KD +36 (-38 cr)/-12 (-42 cr)///Tatsumaki Senpu-kyaku
+214KK/300*200x3*600 (1500)/LH/-/9/4(5)3(6)3(6)3(15)3/21+13 land/KD +28/-61///Tatsumaki Senpu-kyaku
+j.214K/700/LH/-/11/2(5)2(6)2/14 land/KD +42(+46)/-4(0)///Aerial Tatsumaki Senpu-kyaku
+j.214KK/900(700)/LH/-/11/2(1)2(2)2(2)2(3)2/14 land/+5 (+10) Front 0 (+5) Back/-4(1)///Aerial Tatsumaki Senpu-kyaku
+623LK/1000/LH/-/18(20)/6/9+13 land/+1(+2)/-6(-5)///Dragonlash Kick
+623MK/1100/LH/-/18(20)/5/10+15 land/+3(+4)/-8(-7)///Dragonlash Kick
+623HK/1200/LH/-/28(30)/5/8+13 land/+3(+4)/+1(+2)///Dragonlash Kick
+623KK/500*700 (1200)/LH/-/9(20)/2(7)6/9+15 land/+2(+4)/-8(-6)///Dragonlash Kick
+236LK/500/LH/su3/12/3/28/+1/-11///Jinrai Kick
+236MK/600/LH/su3/16/3/24/+2/-7///Jinrai Kick
+236HK/700/LH/su3/25/3/19/KD +42/-2///Jinrai Kick
+236K~6LK/500/L/su3/6/4/19/+3/-5///Kazekama Shin Kick
+236K~6MK/1000/H/su3/18/3/20/+3/-3///Gorai Axe Kick
+236K~6HK/800/LH/su3/10/3/25/KD +33/-3///Senka Snap Kick
+236KK/600/LH/su2 su3/13/2/25/-4/-7///Jinrai Kick
+236KK~6LK/500/L/su2 su3/6/3/20/+3/-5///Kazekama Shin Kick
+236KK~6MK/1000/H/su2 su3/17/3/24/-3/-7///Gorai Axe Kick
+236KK~6HK/800/LH/su2 su3/10/4/20/KD +37/-4///Senka Snap Kick
+236KK~6LK~6K/500/LH/su2 su3/15/3/29/KD +31/-12///Kasai Thrust Kick (LK)
+236KK~6MK~6K/500/LH/su2 su3/11/3/29/KD +34/-12///Kasai Thrust Kick (MK)
+236KK~6HK~6K/500/LH/su2 su3/15/3/54/KD +42/-20///Kasai Thrust Kick (HK)
+KK/-/-/-/11(45)/-/-/-/-///Quick Dash
+KK~LK/-/-/-/11~/-/16/-/-///Emergency Stop
+KK~MK/1000/H/su3/11+18/3/20/+3/-3///Thunder Kick
+KK~HK/800/LH/su/11+10/4/20/+3/-5///Forward Step Kick
+KK~623P/500*450*250x3 (1700)/LH/su3/11+9/11/33+15 land/KD +22/-35///Run~Shoryuken
+KK~214K/200x4*400 (1200)/LH/-/11+13/[2(2)3(2)]x4*2/11+17 land/+3/-9///Run~Tatsumaki Senpukyaku
+KK~623K/700/LH/-/11+9(20)/4(5)6/9+15 land/+2(+4)/-8(-6)///Run~Dragonlash Kick
+214214K/2000/LH/-/7/3/40/KD +35/-24///Dragonlash Flame
+236236K/2700/LH/-/6/2(10)3(10)3(12)3(11)2/32/KD +36/-19///Shippu Jinrai-kyaku
+236236P/4000 (1800~2400)/LH/-/7/3(1)6(16)13/30+15 land/HKD +15/-30///Shinryu Reppa

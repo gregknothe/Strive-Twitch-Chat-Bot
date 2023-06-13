@@ -60,6 +60,6 @@ def charTable(event="TNS", startDate="6.1.22", endDate="6.1.23"):
     df = pd.DataFrame(data={"char": charList, "top 8": top8Count, "unique(8)": top8Unique, "top 16": top16Count, "unique(16)": top16Unique, "top 8 Players": top8Players, "top 16 Players": top16Players})
     return df.sort_values(by=["top 8", "top 16", "unique(8)", "unique(16)"], ascending=False).reset_index(drop=True)
 
-x = charTable()
-print(x["top 8 Players"][0])
+#x = charTable()
+#print(x["top 8 Players"][0])
 

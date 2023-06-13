@@ -1,0 +1,78 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/270/LH/ch sp su tc/5/2/8/+5/-2///
+5MP/540/LH/sp su tc/6/3/18/+3/-2///
+5HP/630/LH/sp su/9/3/20/+3/-4///
+5LK/270/LH/sp su/5/3/11/+1/-3///
+5MK/540/LH/sp su/8/3/18/+1/-4///
+5HK/630/LH/-/12/4/17/+7/+2///
+2LP/270/LH/ch sp su/4/3/7/+4/-2///
+2MP/450/LH/sp su/6/3/13/+7/-1///
+2HP/720/LH/sp su/8/6/17/+3/-2///
+2LK/180/L/ch/5/3/7/+2/-2///
+2MK/540/L/-/7/3/16/+5/+1///
+2HK/810/L/-/8/3/24/HKD +31/-10///
+j.LP/270/H/-/4/10/3 land/-/-///
+j.MP/450/H/sp su2/6/4/3 land/-/-///
+j.HP/630/H/-/8/5/3 land/-/-///
+j.LK/270/H/-/5/10/3 land/-/-///
+j.MK/540/H/-/7/6/3 land/-/-///
+j.HK/630/H/-/9/6/3 land/-/-///
+j.2MP/540/LH/-/13/until land/8 land/+5(+7)/-2(0)///
+3MK/450/L/-/11/10/16/-3(+6)/-9(0)///
+4HK/720/H/-/22/2/19/+4/-3///
+6HK/720/LH/j/27/3/3+18(10) land/+1/-3///
+6HK~8/-/-/-/20/-/30+3/-10/-22///
+6HK~9/-/-/-/20/-/30+3/-10/-22///
+6HK~7/-/-/-/16/-/30+3/-10/-22///
+5LP~MP/360(324)/LH/tc/6/3/18/+1/-6///
+5LP~MP~HP/440(352)/LH/tc/10/2/25/KD +47/-10///
+5LP~MP~HP~HK/520(364)/LH/-/26/3/24/KD +26/-12///
+5LP~MP~2HP/580(464)/LH/tc/10/2/25/+2/-10///
+5LP~MP~2HP~HK/750(525)/LH/-/15/3/24/KD +26(+45)/-12///
+5LP~MP~2HP~2HK/750(525)/LH/-/15/3/23/KD +16/-12///
+5MP~HP/360/LH/sp su/10/3/26/KD +28/-12///
+LPLK/1082 (1838)/T/-/5/3/23/KD +17/-///
+4LPLK/1082 (1839)/T/-/5/3/23/KD +8/-///
+HPHK/720/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+214LK/360*270*360 (990)/LH/-/6/6(1)6(1)6(8)3/6+17 land/KD +23/-30///Bushin Senpukyaku
+214MK/360x3 (1080)/LH/-/7/6(1)6(1)6(8)3/8+17 land/KD +22/-32///Bushin Senpukyaku
+214HK/450*360*360 (1170)/LH/-/8/6(1)6(1)6(8)3/11+17 land/KD +21/-35///Bushin Senpukyaku
+214KK/450*180x3*360 (1350)/LH/-/6/6(1)6(1)6(1)6(8)3/11+17 land/KD +20/-40///Bushin Senpukyaku
+j.214K/225x2*450 (900)/LH/-/8/2(7)2(7)2/12 land/+5(+8) KD +39(40)/0(+4)///Aerial Bushin Senpukyaku
+j.214KK/450*90*90*270*450 (1350)/LH/su2/8/2(2)3(2)2(2)3(2)2/12 land/+5(+8) KD +48(50)/0(+4)///Aerial Bushin Senpukyaku
+236LP/810/LH/su3/10/2/22(25)/+3 (KD +30~36)/-6///Vagabond Edge
+236MP/540x2 (1080)/LH/su3 (1st)/17/2/28(31)/KD +37(+26)/-12///Vagabond Edge
+236HP/360*180 (540)/LH/"su3 (1st) / j"/24/2/21(31)/KD +56/-12///Vagabond Edge
+236PP/360*180 (540)/LH/"su2 su3 (1st) / j"/17/2/28(31)/KD +56/-12///Vagabond Edge
+236K/-/-/-/8/-/-/-/-///Sprint
+236K~LK/900/LH/su3/8+21/7/16/KD +41 (+53~56)/+1///Torso Cleaver
+236K~MK/720/L/su3/8+10/12/19/KD +39(+47)/-12///Shadow Slide
+236K~HK/900/H/su3/8+19/5/19/KD +23/-3///Neck Hunter
+236K~P/-/-/-/8+14/-/-/-/-///Emergency Stop
+236K (close)/270*180 (450)/LH/-/8+15/2(6)2/25(26+4 land)/+3/-6///Arc Step
+236K (close)~K/630/LH/-/8+15+13/6/20 land/KD +32(+30)/-8///Bushin Hojin Kick
+236K (close)~P/1440/T/-/8+15+13/6/40 land/HKD +31/-///Bushin Izuna Otoshi
+236KK/-/-/-/8(6)/-/-/-/-///Sprint
+236KK~LK/540*540 (1080)/LH/su2 su3/8+17/7/16/KD +43 (+56~60)/+3///Torso Cleaver
+236KK~MK/700*200 (900)/L*L/su2 su3 (1st)/8+8/8*4/19/KD +47(+49)/-10///Shadow Slide
+236KK~HK/810*270 (1080)/H/su2 su3 (2nd)/8+15/2*3/19/KD +25(+44)/-1///Neck Hunter
+236KK~P/-/-/-/6+13/-/-/-/-///Emergency Stop
+236KK (close)/180*90 (270)/LH/-/8+13/2(6)2/25(26+4 land)/+3/-6///Arc Step
+236KK (close)~K/420*210 (630)/LH/su2/8+13+13/6/20 land/KD +43 (Wall Splat +86)/-8///Bushin Hojin Kick
+236KK (close)~P/900/T/-/8+13+13/6/40 land/HKD +95 (OTG)/-///Bushin Izuna Otoshi
+214P/-/-/-/19/8/17(7)/-/-///Hidden Variable
+214PP/-/-/-/19/8/14(7)+3 land/-/-///Hidden Variable
+22P (refill)/-/-/-/42/-/2/-/-///Genius at Play
+22PP (refill)/-/-/-/42/-/2/-/-///Genius at Play
+22P (1 stock)/450/LH/-/18(103)/[10]/26/KD +88/-///Shuriken Bomb
+22PP (1 stock)/450x2 (900)/LH/-/19(103)/[10 each]/26/KD +88/-///Shuriken Bomb Spread
+j.236P/1440/T/-/5/3/20 land/HKD +22/-///Nue Twister
+j.236PP/900/T/-/5/3/20 land/HKD +98 OTG/-///Nue Twister
+236236K (0 stock)/1800/LH/-/12/15/40/KD +22/-25///Bushin Beats
+236236K (1 stock)/2000/LH/-/12/15/40/KD +38/-25///Bushin Beats
+214214P/2600/LH/-/13/until land/39 land/KD +22/-26(-20)///Bushin Scramble
+j.214214P/2600/LH/-/13/until land/39 land/KD +22/-26(-20)///Soaring Bushin Scramble
+236236P/4000/LH/-/8/6/51/HKD +16/-25///Bushin Ninjastar Cypher

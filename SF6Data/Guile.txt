@@ -1,0 +1,61 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/5/3/7/+4/-2///
+5MP/600/LH/sp su tc/7/3/15/+6/0///
+5HP/900/LH/sp su/7/3/23/-1/-6///
+5LK/300/LH/sp su/5/2/12/+3/-1///
+5MK/700/LH/-/7/5/18/+1/-4///
+5HK/800/LH/su/13/3/21/+3/-4///
+2LP/300/LH/ch sp su/4/3/8/+5/-2///
+2MP/600/LH/sp su tc/6/3/12/+5/-2///
+2HP/900/LH/-/9/5/20/0/-9///
+2LK/200/L/ch/5/2/13/+1/-5///
+2MK/500/L/tc/8/3/18/+4/-5///
+2HK/450x2/L*L/tc/9/2(16)3/21/HKD +34/-12///
+j.LP/300/H/-/4/10/3 land/-/-///
+j.MP/700/H/-/7/3/3 land/-/-///
+j.HP/800/H/-/9/4/3 land/-/-///
+j.LK/300/H/-/6/10/3 land/-/-///
+j.MK/500/H/-/7/7/3 land/-/-///
+j.HK/800/H/-/10/5/3 land/-/-///
+6MP/800/H/-/19/3/19/+3/-3///
+6HP/800/LH/-/16/3/20/+5/+3///
+4HP/800/LH/sp su/9/3/21/+1/-4///
+4LK/500/LH/-/8/5/15/0/-4///
+4MK or 6MK/700/LH/-/11/3/18/+4/-6///
+6HK/1000/LH/-/17/3/26/-1/-8///
+3HK/1000/LH/sp su/10/3/23/0/-9///
+5MP~4HP/600/LH/sp su kara/16/3/26/KD +35/-9///
+2MP~2MP/360/LH/sp su/12/3/16/KD +44/-6///
+2MK~6MP/900(720)/H/-/19/3/21/+1/-5///
+2HK~3HK/600/LH/sp su/10/3/25/KD +33/-12(-30)///
+LPLK/1200 (2040)/T/-/5/3/23/KD +16/-///
+4LPLK/1200 (2040)/T/-/5/3/23/KD +19/-///
+LPLK (air)/1200 (2040)/T/-/5/3/3 land/KD +23(25)/-///
+4LPLK (air)/1200 (2040)/T/-/5/3/3 land/KD +16/-///
+HPHK/800/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+[4]6LP/550 (600)/LH/su3/10/-/30/+3(+4)/-3///Sonic Boom
+[4]6MP/550 (600)/LH/su3/10/-/30/+3(+4)/-3///Sonic Boom
+[4]6HP/550 (600)/LH/su3/10/-/30/+3(+4)/-3///Sonic Boom
+[4]6PP/500*500 (1000)/LH/su2 su3/10/-/28/KD +48/+3///Sonic Boom
+[2]8LK/1000 (1200)/LH/su3/5/6/26+15 land/KD +36/-30///Somersault Kick
+[2]8MK/1100 (1300)/LH/su3/6/6/27+15 land/KD +37/-31///Somersault Kick
+[2]8HK/1200 (1400)/LH/su3/7/6/28+15 land/KD +39/-32///Somersault Kick
+[2]8KK/1000*600/LH/-/5/6/26+20 land/KD +29/-40///Somersault Kick
+214LP/400/LH/su3/16/[46]/28/-3/-4///Sonic Blade
+214MP/400/LH/su3/21/[86]/29/-6/-7///Sonic Blade
+214HP/250*250 (500)/LH/su3/31/[102]/23/+1/-1///Sonic Blade
+214P ~ 6P/600(800)*400/LH/su3/10/-/28/KD +44~/-1///Sonic Cross
+214P ~ 6PP/400x2*500 (1300)/LH/su2 su3/10/-/28/KD +48~/+3///Sonic Cross
+214PP/300x2/LH/su2 su3/15/[101]/24/KD +53/-4///Sonic Cross
+214PP ~ 6P/400*400*500 (1300)/LH/su2* su3/10/-/28/KD +47/-3///Sonic Cross
+214PP ~ 6PP/400x3*500 (1700)/LH/su2 su3/10/-/28/KD Spin + Splat/+3///Sonic Cross
+PP/600 each/LH/-/11/-/24/+3/-1///Sonic Break
+[4]6P~P/600 each/LH/-/11/-/24/+3/-1///Sonic Break (followup)
+[4]6PP~P/500*500 (1000)/LH/-/11/-/24/KD +54~/+3///OD Sonic Break (followup)
+[4]646P/200x6*800 (2000)/LH/-/8/51/81/KD +41/-26///Sonic Hurricane
+[4]646HP/200x6*600 (1800)/LH/-/7/52/68/KD +70/-2///Sonic Hurricane
+214214P/-/-/-/1/(1500)/5/-/-///Solid Puncher
+[4]646K/4000(3000)/LH/-/9/6/30+40 land/HKD +16/-59///Crossfire Somersault

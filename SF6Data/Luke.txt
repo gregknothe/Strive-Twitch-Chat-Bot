@@ -1,0 +1,69 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/sp su tc/6/2/12/+1/-4///
+5MP/600/LH/su tc/9/4/16/+2/-3///
+5HP/800/LH/sp su/10/3/23/-1/-6///
+5LK/300/LH/sp su/5/2/12/+3/-2///
+5MK/700/LH/-/7/3/20/+1/-3///
+5HK/900/LH/-/10/6/17/+2/-5///
+2LP/300/LH/ch sp su/4/2/9/+5/-2///
+2MP/600/LH/sp su/6/2/13/+5/+1///
+2HP/800/LH/sp su/7/5/24/+1/-13///
+2LK/200/L/ch/5/3/12/-1/-5///
+2MK/2000/L/sp su tc/8/3/19/-2/-6///
+2HK/4000/L/-/10/3/27/HKD +28/-9///
+j.LP/300/H/-/5/9/3 land/-/-///
+j.MP/700/H/sp/9/4/3 land/-/-///
+j.HP/800/H/-/9/6/3 land/-/-///
+j.LK/300/H/-/6/6/3 land/-/-///
+j.MK/500/H/-/7/6/3 land/-/-///
+j.HK/800/H/-/10/6/3 land/-/-///
+6MP/600/H/-/21/2/21/+2/-2///
+4HP/800/LH/sp su/16/3/20/+3/-3///
+4HK/1000/LH/-/12/4/24/+4/-5///
+6HP/800/LH/tc/16/3/19(15 on contact)/+3/-3///
+5LP~MP/320/LH/tc/8/4/20/-2/-9///
+5LP~MP~HP/600(420)/LH/sp su/10/3/27/KD +27/-14///
+5MP~MP/300/LH/su/12/2/23/0/-8///
+5MP~MP~MP/300(240)/LH/tc/11/2/29/-6/-14///
+5MP~MP~MP~MP/500(350)/LH/-/11/2/27/KD +33/-12///
+6HP~6HP/600/LH/sp su/11/2/34/KD +25/-19///
+2MK~2HP/480/LH/-/9/3/25/+1/-8///
+LPLK/1200 (2040)/T/-/5/3/23/KD +19/-///
+4LPLK/1200 (2040)/T/-/5/3/23/KD +19/-///
+HPHK/800/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+236LP/600/LH/su3/14/[5]/33/-3/-8///Sand Blast
+236MP/600/LH/su3/17/[7]/30/0/-5///Sand Blast
+236HP/600/LH/su3/20/[10]/27/+3/-2///Sand Blast
+236PP/400*400 (800)/LH/su2 su3/16/-/24/KD +41/-2///Sand Blast
+236PP~PP/600/LH/-/12/-/42/KD +48/-21///Fatal Shot
+623LP/900 [800]/LH/su3/5/10/34/KD +28/-27///Rising Uppercut
+623MP/1000 [800]/LH/su3/6/10/36/KD +28/-29///Rising Uppercut
+623HP/1200 [800]/LH/su3/9/10/40/KD +29/-33///Rising Uppercut
+623PP/800*600 [1200]/LH/-/6/10/50/KD +25/-40///Rising Uppercut
+623PP~PP/600/H/-/16/3/14+16 land/KD +14/-///Slam Dunk
+214LP/700/LH/su3/13/3/31/KD +32/-18///Flash Knuckle
+214[LP]/600*200/LH/su3/26/2*2/25/KD +54/-8///LP Flash Knuckle (hold)
+pf.214[LP]/700*200/LH/su3/26/2*2/22/KD +56/-8///LP Flash Knuckle (perfect)
+214MP/900/LH/su3/19/3/27/+3/-10///MP Flash Knuckle
+214[MP]/800*200/LH/su3/30/2*2/27/KD +54/-3///MP Flash Knuckle (hold)
+pf.214[MP]/850*250/LH/su3/29/2*2/27/KD +67/-3///MP Flash Knuckle (perfect)
+214HP/1000/LH/su3/22/3/21/KD +42(+31)/-4///HP Flash Knuckle
+214[HP]/1000*300/LH/su3/33/2*2/24/KD +63/+4///HP Flash Knuckle (hold)
+pf.214[HP]/1200*400/LH/su3/33/2*2/24/KD +63/+4///HP Flash Knuckle (perfect)
+214PP/400*400 (800)/LH/su2 su3/15/3/39/KD +52/-22///Flash Knuckle
+214PP~PP/500*1500/-/-/1/-/-/HKD +12/-///DDT
+j.214P/700/LH/-/14/5/13 land/KD ~/-9(-1)///Aerial Flash Knuckle
+j.214[P]/1000/LH/-/23/6/15 land/KD ~/-30(-23)///Aerial Flash Knuckle (hold)
+j.214PP/1300/LH/-/14/6/15 land/KD ~/-33(-23)///Aerial Flash Knuckle
+236K/-/-/-/12/-/33/-/-///Avenger
+236K~P/1000/LH/su3/12+12/7/19/KD +32/-6(0)///No Chaser
+236K~K/1100/H/-/12+13/8/27/KD +30/-8(-1)///Impaler
+236KK/-/-/-/11/31/10/-/-///Avenger
+236KK~P/1300/LH/su2 su3/11+12/7/19/KD +32/-6(0)///No Chaser
+236KK~K/1100/H/-/11+13/8/19/KD +38/-5(+2)///Impaler
+236236P/2000/LH/-/6/13(1)7(2)7(23)5/45/KD +17~30/-29///Vulcan Blast
+214214P/2800/LH/-/5/3/51/KD +2/-29///Eraser
+236236K/4000/LH/-/10(27)/4/92/HKD +18/-42///Pale Rider

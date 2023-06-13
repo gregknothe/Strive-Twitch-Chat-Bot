@@ -1,0 +1,82 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/300/LH/ch sp su/4/4/7/+5/-2///
+5LP (FSE Chain)/100/LH/ch sp su/4/4/7/+5/-2///
+5MP/600/LH/sp su tc/6/4/12/+7/+2///
+5MP (FSE Chain)/400/LH/ch sp su/6/4/12/+7/+2///
+5HP/800/LH/sp su/10/3/24/-1/-5///
+5HP (FSE Chain)/600/LH/ch sp su/10/3/24/KD +29/-5///
+5LK/300/LH/sp su/5/3/9/+1/-5///
+5LK (FSE Chain)/100/LH/ch sp su/5/3/9/+1/-5///
+5MK/400*300 (700)/LH/sp su (1st)/5 (8)/2(1)3/17/+3/-4///
+5MK (FSE Chain)/300*200/LH/ch sp su/5(8)/2(1)3/17/+3/-4///
+5HK/1000/LH/-/17/4/19/+3/-3///
+5HK (FSE Chain)/800/LH/ch sp su/17/4/19/KD +34/-3///
+2LP/300/LH/ch sp su/4/3/8/+4/-1///
+2LP (FSE Chain)/100/LH/ch sp su/4/3/8/+4/-1///
+2MP/600/LH/sp su/6/4/14/+5/-2///
+2MP (FSE Chain)/400/LH/ch sp su/6/4/14/+5/-2///
+2HP/900/LH/sp su/8/4/23/+3/-11///
+2HP (FSE Chain)/700/LH/sp su j/8/4/23/KD +34/-11///
+2LK/200/L/ch/5/3/8/+3/-1///
+2LK (FSE Chain)/100/L/ch sp su/5/3/8/+3/-1///
+2MK/500/L/sp su/8/3/19/+1/-6///
+2MK (FSE Chain)/300/L/ch sp su/8/3/19/+1/-6///
+2HK/900/L/-/10/3/23/HKD +32/-11///
+2HK (FSE Chain)/700/L/sp su/10/3/23/HKD +32/-11///
+j.LP/300/H/-/5/6/3 land/-/-///
+j.LP (FSE Chain)/100/H/ch sp/5/6/3 land/KD/-///
+j.MP/700/H/sp/7/5/3 land/-/-///
+j.MP (FSE Chain)/500/H/ch sp/7/5/3 land/KD/-///
+j.HP/900/H/-/12/6/3 land/HKD +24(+33)/-///
+j.HP (FSE Chain)/700/H/ch sp/12/6/3 land/KD/-///
+j.LK/300/H/-/4/6/3 land/-/-///
+j.LK (FSE Chain)/100/H/ch sp/4/6/3 land/KD/-///
+j.MK/500/H/-/6/6/3 land/-/-///
+j.MK (FSE Chain)/300/H/ch sp/6/6/3 land/KD/-///
+7HK or 9HK/800/H/-/10/6/3 land/-/-///
+j.HK (FSE Chain)/600/H/ch sp/10/6/3 land/KD/-///
+8HK/800/H/-/10/4/3 land/-/-///
+8HK (FSE Chain)/600/H/ch sp/10/4/3 land/KD/-///
+6MP/600/LH/sp su/8/3/17/+4/-3///
+6MP (FSE Chain)/400/LH/ch sp su/8/3/17/+4/-3///
+6MK/600/H/-/21/2/23/+2/-2///
+6MK (FSE Chain)/400/H/sp su/21/2/23/KD +23/-2///
+6HP/500x2/LH/sp su/15 (23)/3(5)3/20/+2/-4///
+6HP (FSE Chain)/400x2/LH/ch sp su/15 (23)/3(5)3/20/KD +40/-4///
+4HK/400x2/LH/sp su/10(19)/3(6)3/19/-2/-6///
+4HK (FSE Chain)/300x2/LH/ch sp su/10 (19)/3(6)3/19/KD +20/-6///
+5MP~4HP/500/LH/tc/12/3/19/KD +35/-3///
+5MP~4HP~HP/600(480)/LH/-/12/3/27/KD +32/-16///
+LPLK/1200 (2040)/T/-/5/3/23/KD +36/-///
+4LPLK/1200 (2040)/T/-/5/3/23/KD +22/-///
+j.LPLK/1200 (2040)/T/-/5/3/3 land/KD +2(+4)/-///
+HPHK/800/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/500 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+214LK/600/LH/su3/10/4/21/KD +37/-4///Fuhajin
+214MK/600/LH/su3/13/4/21/KD +37/-6///Fuhajin
+214HK/500/LH/su3/25/4/20/KD +46/-9///Fuhajin
+214KK/600/LH/su2 su3/16/4/23/KD +45/-12///Fuhajin
+236LK/400/LH/su3/16/10/20/-2/-8///Saihasho
+236LK (1 Stock)/600/LH/su3/16/[80]/29/+1/-3///Saihasho
+236LKMK/400x2/LH/su2 su3/11/[120]/27/KD +39/-2///Saihasho
+236MK/600/LH/su3/24/4/19 land/+3/-10///Ankensatsu
+236MK (1 Stock)/600/LH/su3/24/4/19 land/+8/-10///Ankensatsu
+236LKHK/800/LH/su2 su3/24/4/19 land/+9/-10///Ankensatsu
+236HK/1000/LH/su3/18/4/27/KD +27/-11///Go Ohsatsu
+236MKHK/600*400x2 (1400)/LH/su2 su3/18/4(12)3(28)5/28/KD +32/-16///Go Ohsatsu
+623LP/400x2/LH/su3/11/3(2)2/22/KD +37/-8///Tensenrin
+623MP/300x4 (1200)/LH/-/5/8(5)2(3)2/24+14 land/KD +31/-37///Tensenrin
+623HP/300x4 (1200)/LH/-/5/8(5)2(3)2/24+14 land/KD +28/-37(-41 crouch)///Tensenrin
+623PP/600*200x3*400 (1600)/LH/-/5/4(1)2(6)2(2)2/32+19 land/KD +5/-48///Tensenrin
+j.214K/400/LH/-/18/until landing/18 land/KD +34(+41)/-10(-3)///Shiku-sen
+j.214K~K/300x2*600 (1200)/-/-/6/4(4)4(17)4/23(29)+12 land/KD +28(+33)/-///Shiren-sen
+j.214KK/300/LH/-/16/until landing/18 land/KD +37(+44)/-10(-3)///OD Shiku-sen
+j.214KK~K/300x3/-/-/6/4(4)4(17)4/27(34)+7 land/KD +50(+56)/-///OD Shiren-sen
+236236K/1800/LH/-/7/43(13)35(42)~/58 (201 Total)/KD +26/-32///Sakkai Fuhazan
+236236[K]/2300/LH/-/7/43(13)35(42)~/57 (200 Total)/KD +27/-31///Sakkai Fuhazan (hold)
+214214P/-/-/-/1/(600)/6 (7 Total)/-/-///Feng Shui Engine
+214214[P]/300/LH/-/12/11/23/-1(+9)/-14(-4)///Feng Shui Engine (hold)
+214214K/4000/LH/-/10/4/52/HKD +22/-31///Kaisen Dankai Raku
+214214K_CA/4500/LH/-/10/4/52/HKD +20/-31///Kaisen Dankai Raku (CA)

@@ -3,6 +3,7 @@ from twitchio.client import Client
 import FrameTrapV2 as fc
 import OhHeyStreamer as ohs
 import RawDataScrape as rds
+import SF6FrameData as SF6
 import SinFoodRoll as sfr
 import random
 import os
@@ -13,7 +14,6 @@ import StartGGDataScraper as sgg
 #sys.path.append("/TournamentData/")
 #from StartGGDataScraper import *
 
-
 '''
 import imp
 module = imp.load_module('TournamentData.StartGGDataScraper.py')
@@ -21,15 +21,14 @@ module.function()
 '''
 
 
-
-modList = ["lastcody","greedx___","asome26","kyluneena","abusywizard"]
+modList = ["lastclaire","greedx___","asome26","kyluneena","abusywizard","montepremia"]
 
 bot = commands.Bot(
-    token=os.environ['TMI_TOKEN'],
+    token=os.environ['TOKEN'],
     client_id=os.environ['CLIENT_ID'],
     nick=os.environ['BOT_NICK'],
     prefix=os.environ['BOT_PREFIX'],
-    initial_channels=["lastcody", "vera_caelestis"]
+    initial_channels=["lastclaire", "vera_caelestis", "montepremia"]
 )
         
 @bot.command(name="ft")
@@ -132,15 +131,21 @@ async def misery(ctx):
     await ctx.send(line)
 
 #Enable for new char launches 
+'''
 
-@bot.command(name="sin")
+@bot.command(name="sf")
 async def dustloop(ctx, *, text):
-    try:
-        print(text)
-        await ctx.send(rds.moveLookup("sin", text))
-    except:
-        await ctx.send("Nope. Get owned, nerd. (Something went wrong)")
+    userInputs = text.split(" ",1)
+    if userInputs[0] == "update":
+        SF6.scrapeFrameData(userInputs[1])
+        await ctx.send(userInputs[1]+" has been updated.")
+    else:    
+        try:
+            await ctx.send(SF6.SF6FrameData(userInputs[0], userInputs[1]))
+        except:
+            await ctx.send("Nope. Get owned, nerd. (Something went wrong)")
 
+'''
 
 @bot.command(name="feedsin")
 async def feedSin(ctx):

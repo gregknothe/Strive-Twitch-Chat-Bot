@@ -1,0 +1,54 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP/270/LH/sp su/5/2/7/+5/0///
+5MP/540/LH/-/8/4/14/+5/+1///
+5HP/90*90*630 (810)/LH/sp su (2nd)/5/1(1)1(4)3/20/+1(+3)/-3(-1)///
+5LK/270/LH/ch sp su/5/2/11/+3/-1///
+5LK~5LK/-/-/-/-/-/-/-/-///
+5MK/540/LH/sp su/10/3/17/+1/-3///
+5HK/720/LH/sp su/15/3/21/+1/-5///
+2LP/225/LH/ch sp su/4/2/9/+5/-1///
+2MP/540/LH/sp su/6/3/13/+3/0///
+2HP/810/LH/sp su/9/5/23/0/-8///
+2LK/180/L/ch/5/2/11/+1/-3///
+2MK/450/L/sp su/7/3/18/-1/-6///
+2HK/360*360 (720)/L*L/tc/9/2(3)2/28/HKD +33/-10///
+j.LP/270/H/-/5/9/3 land/-/-///
+j.MP/630/H/sp/7/4/3 land/-/-///
+j.HP/720/H/-/10/6/3 land/-/-///
+j.LK/270/H/-/6/6/3 land/-/-///
+j.MK/450/H/-/7/6/3 land/-/-///
+j.HK/360*360 (720)/H/-/8/3(5)4/3 land/KD/-///
+2KK/540/LH/j/9/3/22/+53 Launch/-8///
+6MK/540/H/-/22/3/20/+1/-3///
+LPLK/1080 (1836)/T/-/5/3/23/KD +23/-///
+4LPLK/1080 (1836)/T/-/5/3/23/KD +38/-///
+HPHK/720/LH/-/26/2/35/"KD +35 / Wall Splat KD +65"/"-3 / Wall Splat HKD +72"///
+6HPHK/450 recoverable/LH/-/20/3/26/KD +23/-8///
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-/9(11)/45(46)/24(23)/-/-///
+22P/-/-/-/48/-/2/-/-///The Devil Inside
+22P (hold)/-/-/-/92/-/5/-/-///The Devil Inside (2 drinks)
+22P (activation)/-/-/-/1/-/4/-/-///The Devil Inside (DL4 activation)
+236LP/315/LH/su3/13/2/24/-1/-6///LP Freeflow Strikes 1 (DL0)
+236LP~6P/315/LH/-/13 [33]/2/28/-3/-13///LP Freeflow Strikes Punch 1 (DL0)
+236LP~6P~6P/495 (396)/LH/-/13 [53]/2/30/KD +27/-17///LP Freeflow Strikes Punch 2 (DL0)
+236LP~6K/225/LH/-/14/2/32/-7/-15///LP Freeflow Kicks 1 (DL0)
+236LP~6K~6K/405 (324)/LH/-/18/2/64/KD -1/-49///LP Freeflow Kicks 2 (DL0)
+236MP/360/LH/su3/16/2/24/-1/-6///MP Freeflow Strikes 1 (DL0)
+236MP~6P/360/LH/-/16+16 [39]/2/28/-3/-11///MP Freeflow Strikes Punch 1 (DL0)
+236MP~6P~6P/540 (432)/LH/-/16+16+16 [62]/2/30/KD +27/-15///MP Freeflow Strikes Punch 2 (DL0)
+236MP~6K/270/LH/-/17/2/32/-7/-15///MP Freeflow Kicks 1 (DL0)
+236MP~6K~6K/450 (360)/LH/-/21/2/64/KD -1/-49///MP Freeflow Kicks 2 (DL0)
+236HP/405/LH/su3/19/2/24/-1/-6///HP Freeflow Strikes 1 (DL0)
+236HP~6P/405/LH/-/19 [45]/2/28/-3/-9///HP Freeflow Strikes Punch 1 (DL0)
+236HP~6P~6P/585 (468)/LH/-/19 [71]/2/30/KD +27/-13///HP Freeflow Strikes Punch 2 (DL0)
+236HP~6K/270/LH/-/20/2/32/-7/-15///HP Freeflow Kicks 1 (DL0)
+236HP~6K~6K/495 (396)/LH/-/24/2/64/KD -1/-49///HP Freeflow Kicks 2 (DL0)
+236PP/405/LH/su2 su3/13/2/24/0/-3///OD Freeflow Strikes 1 (DL0)
+236PP~6P/405/LH/-/13 [34]/2/28/-3/-9///OD Freeflow Strikes Punch 1 (DL0)
+236PP~6P~6P/675 (540)/LH/-/13 [53]/2/30/KD +28/-13///OD Freeflow Strikes Punch 2 (DL0)
+236PP~6K/315/LH/-/14/2/32/-7/-15///OD Freeflow Kicks 1 (DL0)
+236236K/1890/LH/-/10/3(6)5(6)2(7)2(7)2(6)2(6) 2(6)2(29)2(9)2(6)2(5)2/74/KD +7/-60///Breakin' (DL0)
+236236K~[2]/1575/LH/-/10/3(6)5(6)2(7)2(7)2(6) 2(5)2(7)2(7)2(6)2/107/KD -1/-93///Breakin' ~ Drink (DL0)
+214214P/-/-/-/1/(900)/5/-/-///The Devil's Song (DL0-DL3)
+236236P/2340 (450)/LH/-/10/3(13)3/42/HKD +71 (KD +14)/-27///Getsugo Saiho

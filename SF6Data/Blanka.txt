@@ -1,0 +1,62 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/chip/driveDamage/name
+5LP//LH/sp su/5/3/10/+3/-3///
+5MP/700/LH/su/10/3/15/+3/-4///
+5HP/800/LH/sp su/10/7/17/+3/-3///
+5LK/300/LH/ch sp su/4/4/7/+5/-2///
+5MK/600/LH/sp su/8/3/17/+4/-2///
+5HK/800/LH//7/9/15/+6/-4///
+2LP/300/LH/ch sp su/6/3/8/+4/-2///
+2MP/600/LH/sp su/9/5/16/-1/-5///
+2HP/800/LH//15/6/20/0/-5///
+2LK/200/L//5/2/10/+3/-3///
+2MK/500/L/sp su/8/3/16/+5/-5///
+2HK/900/L//11/4/23/HKD +25/-12///
+j.LP/300/H//4/5/3 land/-/-///
+j.MP/700/H/sp/7/7/3 land/-/-///
+j.HP/800/H//9/3/3 land/-/-///
+8HP/800/H//7/3/3 land/-/-///
+j.LK/300/H//5/6/3 land/-/-///
+j.MK/500/H//7/6/3 land/-/-///
+j.HK/800/H//11/6/3 land/-/-///
+6MP/300300/H â¢ LH//20/21/20/+3/-2///
+6MK/300300/LH//9/3(7)2/18/+6/-1///
+4MK/600/LH/sp su/9/6/12/+8/+2///
+6HP/1100/LH//18/4/31//-15///
+3HP/1000/L//14/10/22//-18///
+LPLK/()/T/-/5/3/23//-///
+4LPLK/()/T/-/5/3/23//-///
+j.LPLK/()/T/-/5/3///-///
+HPHK//LH/-////////
+6HPHK//LH/-////////
+MPMK/-/-/-/1/8 or until released/29(1)(11)/-/-///
+66/-/-/-////-/-///
+2PP/-/-/////-/-///Coward Crouch
+2PP~P/600/LH//8/7/31//-21///Wild Lift
+2PP~K/-/-/-//-//-/-///Raid Jump
+6KKK/-/-/-/27 total///-/-///Surprise Forward Hop
+4KKK/-/-/-/32 total///-/-///Surprise Back Hop
+214P/800[900]/LH/su3/10/2(3)2(3)2/17/-/-3///Electric Thunder
+214PP/400,600[500,600]/LH/su2 su3/10/2(3)2(3)2/17/-/+4///Electric Thunder
+[4]6LP/1000 [1100]/LH/su3/10/11 [12]/11 (42) [10 (39)]//-23 [-21]///Rolling Attack
+[4]6MP/1200 [1300]/LH/su3/12/19/11(42) [11 (39)]/-/-23 [-21]///Rolling Attack
+[4]6HP/1300 [1400]/LH/su3/22 [20]/20 [22]/25(33) [25 (39)]/-/-15[-21]///Rolling Attack
+[4]6PP/800 [900]/LH/su2 su3/18/22/17(25)/-/-7///Rolling Attack
+[2]8LK/1200 [1300]/LH/-/8/19/48(43) [48 (34)]/-/-27 [-18]///Vertical Rolling Attack
+[2]8MK/1300 [1400]/LH/-/8/19/48(43) [48 (35)]/-/-27 [-19]///Vertical Rolling Attack
+[2]8HK/1400 [1500]/LH/-/8/19/48(43) [48 (35)]/-/-27 [-19]///Vertical Rolling Attack
+[2]8KK/800,800 [900,850]/LH/-/7/8(2)6/48(56)/-/-40///Vertical Rolling Attack
+63214LK/1000/LH/-/41/24/5/-/+4///Backstep Rolling Attack
+63214MK/1000/LH/-/41/27/5/-/+4///Backstep Rolling Attack
+63214HK/1000/LH â¢ LH â¢ LH/-/41/29/5/-/+4///Backstep Rolling Attack
+63214KK/300,350x2/LH â¢ LH â¢ LH/-/9/5(28)21(1)4/4/-/+6///Backstep Rolling Attack
+j.[4]6P/1000 [1100]/LH/-/13/until landing/17/-/-6~-2///Aerial Rolling Attack
+j.[4]6PP/600,600 [700,700]/LH â¢ LH/-/13/until landing/10(12)/-/+6~+8///Aerial Rolling Attack
+236LK/250x4,600/T/-/34/3/57/HKD +35/-///Wild Hunt
+236MK/250x4,700/T/-/39/3/57/HKD +35/-///Wild Hunt
+236HK/250x4,800/T/-/43/3/57/HKD +35/-///Wild Hunt
+236KK/250x4,1000/T/-/32/3/57/HKD +64/-///Wild Hunt
+22P/-/-/-/50 total///-/-///Blanka-chan Bomb
+236236P/2000[2200]/LH/-/8/9/62(69)/KD +15/-29///Shout of Earth
+214214P/-/-/-/1/[? total]/9/-/-///Lightning Beast
+Any Direction + P During Lightning Beast/400//-/3/25//////Rolling Cannon
+236236K/400x5, 2000/LH/-/10/3/61/HKD +50/-46///Ground Shave Cannonball
