@@ -48,6 +48,10 @@ def nameConverter(charName):
         return "Goldlewis_Dickinson"
     elif charName == "sin" or charName == "sin_kiske" or charName == "flagboy":
         return "Sin_Kiske"
+    elif charName == "bedman" or charName == "bed" or charName == "delilah":
+        return "Bedman"
+    elif charName == "asuka" or charName == "asukar" or charName == "thatman":
+        return "Asuka_R"
     else:
         return "This is not a valid character"
 

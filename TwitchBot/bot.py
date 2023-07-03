@@ -28,7 +28,7 @@ bot = commands.Bot(
     client_id=os.environ['CLIENT_ID'],
     nick=os.environ['BOT_NICK'],
     prefix=os.environ['BOT_PREFIX'],
-    initial_channels=["lastclaire", "vera_caelestis", "montepremia"]
+    initial_channels=["lastclaire", "vera_caelestis", "montepremia", "bloopybloopz"]
 )
         
 @bot.command(name="ft")

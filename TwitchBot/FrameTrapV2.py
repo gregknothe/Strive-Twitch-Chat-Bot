@@ -128,8 +128,8 @@ def charMoveList(charName):
 #impliment it into the bots code
 #char = "may"
 #print(openCharFile(char)[["Startup","On-Block","Level","Name","gatlingOptions"]])
-#print(frameTrapCalc(char, "C.s","6h"))
-#print(frameTrapCalc("axl", "c.S", "2369H"))
+#print(frameTrapCalc("may", "2k","6h"))
+#print(frameTrapCalc("ky", "2k", "6h"))
 
 #print(charMoveList("gold"))
 #print(frameTrapCalc("may", "5K", "6H"))

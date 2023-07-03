@@ -24,13 +24,17 @@ def scrapeFrameData(charName):
 
 def SF6FrameData(char, move):
     move = move.upper()
+    #print(move)
     char = nameCleaner(char)
     pd.set_option('display.max_colwidth', None)
     df = pd.read_csv("SF6Data/"+char+".txt", sep="/")
     fd = df[df["input"]==move]
-    text = char + " " + move + " | s: " + fd["startup"] + ", a: " + fd["active"] + ", r: " + fd["recovery"] + ", oh: " + fd["hitAdv"] + ", ob: " + fd["blockAdv"] + ", c: " + fd["cancel"]
-    text = str(text).replace("input","").replace("dtype: object","").replace("\n","")
-    return text.split(" ",1)[1]
+    index = fd.index.values
+    #print(index)
+    #print(fd)
+    text = char + " " + move + " | s: " + str(fd.at[index[0],"startup"]) + ", a: " + str(fd.at[index[0],"active"]) + ", r: " + str(fd.at[index[0],"recovery"]) + ", oh: " + str(fd.at[index[0],"hitAdv"]) + ", ob: " + str(fd.at[index[0],"blockAdv"]) + ", c: " + str(fd.at[index[0],"cancel"])
+    #print(text)
+    return text
 
 '''
 charList = ["Blanka", "Cammy", "Chun-Li", "Dee_Jay", "Dhalsim", "E.Honda", "Guile", "Jamie", "JP", "Juri", "Ken", "Kimberly", "Lily", "Luke", "Manon", "Marisa", "Ryu", "Zangief"]
@@ -38,5 +42,7 @@ for x in charList:
     scrapeFrameData(x)
 '''
 
-print(SF6FrameData("jamie", "5lp"))
+#print(SF6FrameData("jamie", "5lp"))
 #print(SF6FrameData("lily", "5lk"))
+#print(SF6FrameData("manon","236MK"))
+#print(SF6FrameData("blanka","236MK"))
