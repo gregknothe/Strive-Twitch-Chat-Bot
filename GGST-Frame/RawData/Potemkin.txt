@@ -1,0 +1,39 @@
+/Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//5P/30/All/5/5/6/+1/+4/1/Small//80%/1000/1500/
+1//5K/36/Low/10/9/9/-4/-1/2/Small//70%/1125/1000/
+2//c.S/45/All/8/4/11/+4/+7/4/Mid//100%/2500/1000/
+3//f.S/40/All/12/7/18/-8/-5/3/Mid//90%/2000/1000/
+4//5H/60/All/16/5/25/-11/-8/4/Large//90%/2500/1000/
+5//5D/50/High/20/8/21/-15/0/2/Mid//80%/1125/3000 [1000]/
+6//5[D]/62/High/28/8/21/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
+7//2P/26/All/8/4/9/-1/+2/1/Small//80%/1000/1500/
+8//2K/30/Low/10/4/14/-4/-1/2/Small//70%/1125/1000/
+9//2S/45/All/14/3/18/-4/-1/3/Mid//90%/2000/1000/
+10//2H/55/All/13/5/35/-21/KD +26/4/Large//90%/2500/1000/
+11//2D/40/Low/13/7/18/-8/HKD +45/3/Large//90%/1500/1000/
+12//6P/42/All/11/7/25/-15/KD +17/3/Mid/1 ~ 4F Upper Body 5 ~ 17F Above Knees/90%/2000/1000/
+13//6K/45/All/22/5/18/-6/-3/3/Mid//90%/2000/1000/
+14//6H/90/All/23/5/29/-15/KD +34/4/Large//90%/2500/1000/
+15//j.P/30/High/7/6/6///0/Small//80%/375/1000/
+16//j.K/36/High/10/6/15///1/Small//80%/750/1000/
+17//j.S/45/High/13/5/23///3/Mid//80%/1500/1000/
+18//j.H/55/High/12/4/16///4/Mid//80%/1875/1000/
+19//j.D/50/All/13/Until Landing/9 After landing///3/Mid//80%/2000/1000/
+20//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
+0//[4]6H/58/All/18~62/2f/26/-9/SKD +18//Mid/1 Hit Armor 5~61f/80%/2500/1000/Hammer Fall
+1//[4]6H P/////27/////////Hammer Fall Break
+2//632146P/175/Ground Throw/5/4/37//HKD +55///1~8f Throw/50%//2500/Potemkin Buster
+3//623H/0,8×7,60/Air Guard Crush/12/4/18/+10~+3/HKD +60//Very Small//50%/3750/2500/Heat Knuckle
+4//236P/50/High/25/7/16/-6/-2/3/Mid/Airborne 3f, Below Chest 3f/80%/1500/1000/Forward Mega Fist
+5//214P/50/High/25/7/6/+4/+8/3/Mid/Airborne 3f, Below Chest 2f/80%/1500/1000/Backward Mega Fist
+6//2146K~P/80/High/26-27/7/12/-2/+2/3/Mid/Airborne 3f, Below Chest 2f/80%/1500/1000/Mega Fist
+7//236S/0/Low (Guard Crush)/29/2/28/0/HKD +55/4/Very Small/1 Hit Armor 5~28f/80%/375/1000/Slide Head
+8//63214S/55/All/20~37/3/20/-6/HKD +53/3/Mid/Projectile Reflection 4~[19~37F]/90%/2000/1000/F.D.B.
+9//63214[S]/75/All/38/3/20/-6/HKD +62/3/Mid/Projectile Reflection 4~37F/90%/2000/1000/F.D.B. (Charged)
+10//Reflect Projectile/50/All/1///+11/KD +44/3/Very Small//80%/500/1000/Reflect Projectile
+11//214H/63/All (Guard Crush)/28/11/24/+19/+17~+35//Large//90%/2500/2000/Garuda Impact
+12//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//236236S/220/Air Throw/12+0/15/16//HKD +65//Very Small/1~12f Full/100%//1000/Heavenly Potemkin Buster
+1//632146H/60/All/10+1/5/17/+100/HKD +141//Mid//100%/2500/1000/Giganter Kai
+2//Mirror/15×3/All/10+23/464///HKD//Very Small//100%/100×3/1000/Giganter Kai (Barrier)
+3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -1,0 +1,51 @@
+/Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//5P/26/All/7/3/6/+3/+6/1/Small/none/80%/1000/1500/
+1//5K/33/Low/10/9/12/-7/-4/2/Small/none/70%/1125/1000/
+2//c.S/39/All/7/6/12/+1/+4/4/Mid/none/100%/2500/1000/
+3//f.S/31/All/10/3/18/-7/-4/2/Mid/none/90%/1500/1000/
+4//5H/41/All/19/6/15/-2/+1/4/Large/none/90%/2500/1000/
+5//5D/50/High/20/3/26/-15/0/2/Mid/none/80%/1125/3000 [1000]/
+6//5[D]/62/High/28/3/26/-10/KD +36/4/Mid/none/100%/1875/1500 [1000]/
+7//6P/39/All/12/6/27/-19/-16/2/Mid/1~2 Upper Body 3~17 Above Knees/90%/1500/1000/
+8//6H/65/All/25/3/30/-14/KD +35/4/Large/none/90%/2500/1000/
+9//2P/23/All/5/3/6/+3/+6/1/Small/none/80%/1000/1500/
+10//2K/26/Low/8/3/11/-3/0/1/Small/none/70%/750/1000/
+11//2S/29/All/13/3/20/-9/-6/2/Mid/none/90%/1500/1000/
+12//2H/43/All/20/4/30/-15/KD +28/4/Large/none/90%/2500/1000/
+13//2D/34/Low/14/3/24/-10/HKD +43/3/Large/none/90%/1500/1000/
+14//j.P/25/High/6/3/12///0/Small/none/80%/375/1000/
+15//j.K/29/High/9/4/17///1/Small/none/80%/750/1000/
+16//j.S/37/High/11/11/13/+8 (IAD)/+11 (IAD)/2/Mid/none/80%/1125/1000/
+17//j.H/43/High/15/4/20///2/Mid/none/80%/1125/1000/
+18//j.D/47/High/14/10/14/+13 (IAD)/+16 (IAD)/3/Mid/none/80%/1500/1000/
+19//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
+0//41236H/70/All (Guard Crush)/12/20/18/+12~+16/HKD +67 [HKD +84]/4/Mid/none/90%/2500/1000/Behemoth Typhoon (426)
+1//j.41236H/70/All/12/20/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (426)
+2//63214H/70/All (Guard Crush)/12/20/21/-5/HKD +50/4/Mid/none/90%/2500/1000/Behemoth Typhoon (624)
+3//j.63214H/70/All/12/20/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (624)
+4//23698H/70/All (Guard Crush)/12/15/18/+3~14/HKD +76/4/Mid/none/90%/2500/1000/Behemoth Typhoon (268)
+5//j.23698H/70/All/12/15/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (268)
+6//21478H/70/Low (Guard Crush)/12/15/18/+3/HKD +71/4/Mid/none/90%/1875/1000/Behemoth Typhoon (248)
+7//j.21478H/70/All/12/15/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (248)
+8//69874H/70/All* (Guard Crush)/12/20/21/-5/HKD +50/4/Mid/none/90%/2500/1000/Behemoth Typhoon (684)
+9//j.69874H/70/All/12/20/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (684)
+10//47896H/70/High (Guard Crush)/12/20/18/+14~15/HKD +78/4/Mid/none/80%/2500/1000/Behemoth Typhoon (486)
+11//j.47896H/70/All/12/20/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (486)
+12//87412H/70/Low (Guard Crush)/12/15/18/+16/HKD +70/4/Mid/none/90%/1875/1000/Behemoth Typhoon (842)
+13//j.87412H/70/All/12/15/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (842)
+14//89632H/70/High (Guard Crush)/12/15/18/+12/HKD +59/4/Mid/none/80%/1875/1000/Behemoth Typhoon (862)
+15//j.89632H/70/All/12/20/Until landing+10/-25~+7/HKD/4/Mid/none/90%/2500/1000/Air Behemoth Typhoon (862)
+16//214S Level 1/10, 30/All/57/24/42 Total///2/Very Small/none/80%/100×2/1000/Thunderbird (Level 1)
+17//214S Level 2/10×2, 30/All/57/84/38 Total//KD/2/Very Small/none/80%/100×3/1000/Thunderbird (Level 2)
+18//214S Level 3/10×3, 30/All/57/144/34 Total//HKD/2/Very Small/none/80%/100×4/1000/Thunderbird (Level 3)
+19//236S Level 1/5×10/All/35//84 Total/-13/-10/0/Very Small/none/80%/100×10/1000/Skyfish (Level 1)
+20//236S Level 2/5×20/All/30//80~109 Total/-13/KD +18/0/Very Small/none/80%/100×20/1000/Skyfish (Level 2)
+21//236S Level 3/5×30/All/25//75~134 Total/-13/HKD +64/0/Very Small/none/80%/100×30/1000/Skyfish (Level 3)
+22//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//632146P/160 [160,25]/All/6+(135 Flash)+4/5/46/-33/HKD +62/3/Mid/1~14 All/100%/2000/1000 [1000x2]/Down With The System
+1//720P/175 [160,25×2]/All/11+(191 Flash)+4/5/46/-33//3/Mid/1~19 All/100%/2000/1000 [1000×3]/Down With The System (720)
+2//1080P/190 [160,25×3]/All/16+(230 Flash)+4/5/46/-33//3/Mid/1~24 All/100%/2000/1000 [1000×4]/Down With The System (1080)
+3//236236K Level 1/8×10/All/13+(84 Flash)+79/52/27 Total///2/Small/none/100%/100x10/1000/Burn It Down (Level 1)
+4//236236K Level 2/8×15/All/13+(84 Flash)+79/72/27 Total///2/Small/none/100%/100x15/1000/Burn It Down (Level 2)
+5//236236K Level 3/8×20/All/13+(84 Flash)+79/92/27 Total///2/Small/none/100%/100x20/1000/Burn It Down (Level 3)
+6//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -1,0 +1,40 @@
+/Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//5P/25/All/5/4/8/-2/+1/0/Small//80%/500/1500/
+1//5K/30/All/7/8/8/-2/+1/2/Small//90%/1500/1000/
+2//c.S/40/All/8/6/12/-1/+2/3/Mid//100%/2000/1000/
+3//f.S/33/All/12/2/20/-8/-5/2/Mid//90%/1500/1000/
+4//5H/40/All/13/8/18/-7/-4/4/Large//90%/2500/1000/
+5//5HH/60//27/3/27//HKD +46 [HKD +85]//////2000/
+6//2P/25/Low/7/2/11/-3/0/0/Small/F4~12 Low Profile/80%/375/1500/
+7//2K/12×3/Low/5/2(1)3,3/12/-2/+1/1/Small//90%/300×3/1000/
+8//2S/32/All/11/9/26/-19/KD +28/2/Mid//90%/1500/1000/
+9//2H/40/Low/14/2/29/-12/KD +22/4/Large//90%/1875/1000/
+10//j.P/20/High/7/4/6/+3 (IAD j.PP)/+6 (IAD j.PP)/0/Small//80%/375/1000/
+11//j.K/25/High/7/5/18///1/Small//80%/750/1000/
+12//j.S/32/High/14/3/20/+6 (IAD)/+9 (IAD)/2/Mid//80%/1125/1000/
+13//j.H/42/High/9/5/15/+8 (IAD)/+11 (IAD)/3/Mid//80%/1500/1000/
+14//j.D/45/High/13/6/23/+5 (IAD)/+8 (IAD)/2/Mid//80%/1125/1000/
+15//6P/34/All/9/3/32/-21/KD +21/2/Mid/1-4 Upper Body 5-11 Above Knees/90%/1500/1000/
+16//6H/60/High/25/9/44/-34/-31/4/Large//80%/1875/1000/
+17//j.2K/39/All/10/Until Landing/9 after Landing///2/Mid//80%/1500/1000/
+18//2D/35/Low/12/3/18/-4/HKD +49/3/Large//90%/1500/1000/
+19//5D/40/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
+20//5[D]/50/High/28/3/26/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
+21//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
+0//41236K/40/All/26/12/19/-12/-9/4/Very Small//90%/2500/1000/Thrust
+1//41236K 4/0//61/2/30//HKD +60////90%//1000/Pull Back
+2//41236K 4 H/"80/100/120"/All/8/8/41/-30/HKD +54 {KD -10} [HKD +59]////90%//1000/Hole in One!
+3//236P///26//Total 40/////////What Could This Be?
+4//236S/13×4/All/17//14 after Landing/-7/HKD ~+44/3/Very Small/Airborne f4 until landing/90%/500×4/2000/Mix Mix Mix
+5//j.236S/13×4/All/17//14 After Landing//HKD/3/Very Small//90%/500×4/2000/Air Mix Mix Mix
+6//236H/70/Ground Throw/6/3/41//HKD +41///1~8F Throw/50%//2500/Snip Snip Snip
+7//j.236P/18, 40/All/27//Total 48//KD/1, 2/Very Small//80%/500×2/1000×2/Love
+8//j.236P (With Afro)/18, 60/All (Guard Crush)/27//Total 48//KD/1, 2/Very Small//80%/500×2/1000×2/Love
+9//214P/28×2 [28×3]/All/54 [84]/11,12 [11,8,3]/10 [7]/-8 [+7]/HKD +52 [HKD +65]/2 [2×2, 4]/Very Small/All 10-15F/90%/700×2 [500×3]/1000/P Scarecrow
+10//214K/28×2 [28×3]/All/54 [84]/11,12 [11,8,3]/10 [7]/-8 [+7]/HKD +52 [HKD +68]/2 [2×2, 4]/Very Small/All 10-15F/90%/700×2 [500×3]/1000/K Scarecrow
+11//214S/50 [70]/High/50 [69]/17/36/-32 [-27]/HKD +42/2 [4]/Mid/All 10-47F [All 10-66F]/80%/1125 [1875]/1000/S Scarecrow
+12//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//632146H/50, 105/All/16+5/3/48/-32/HKD +45//Very Small/1~23 Full/100%/2500/1000/Bone-crushing Excitement
+1//236236P///1+3//Total 33/////////W-W-What Could This Be?
+2//236236236P///1+7///////////W-W-W-W-W-W-W-W-W-What Could This Be?
+3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

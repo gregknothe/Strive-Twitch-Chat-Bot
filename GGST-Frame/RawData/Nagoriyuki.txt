@@ -1,0 +1,65 @@
+/Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//5P/26/All/5/3/9/0/+3/1/Small//80%/1000/1500/
+1//5K/34/All/7/2/12/0/+3/2/Small/3~21 Low crush/90%/1500/1000/
+2//c.S/40/All/7/6/10/+3/KD +40/4/Mid//100%/2500/1000/
+3//f.S Level 1/25/All/16/3/28/-17/-14/2/Mid//90%/1500/1000/
+4//f.S Level 2/30/All/14/3/28/-17/-14/2/Mid//90%/1500/1000/
+5//f.S Level 3/35/All/12/3/28/-17/-14/2/Mid//90%/1500/1000/
+6//f.S Level BR/45/All/12/3/28/-17/-14/2/Mid//90%/1500/1000/
+7//f.SS Level 1/25/All/13/3/19/-8/-5/2/Mid//90%/1500/2000/
+8//f.SS Level 2/30/All/13/3/19/-8/-5/2/Mid//90%/1500/2000/
+9//f.SS Level 3/35/All/13/3/19/-8/-5/2/Mid//90%/1500/2000/
+10//f.SS Level BR/45/All/13/3/19/-8/-5/2/Mid//90%/1500/2000/
+11//f.SSS Level 1/25/All/14/6/35/-22/HKD +35/4/Mid//90%/2500/1000/
+12//f.SSS Level 2/30/All/14/6/35/-22/HKD +35/4/Mid//90%/2500/1000/
+13//f.SSS Level 3/35/All/14/6/35/-22/HKD +35/4/Mid//90%/2500/1000/
+14//f.SSS Level BR/80/All/14/6/35/-22/HKD +35/4/Mid//90%/2500/1000/
+15//5H Level 1/60/All/20/6/27/-14/KD +13/4/Large//90%/2500/1000/
+16//5H Level 2/65/All/18/6/27/-14/KD +13/4/Large//90%/2500/1000/
+17//5H Level 3/70/All/16/6/27/-14/KD +13/4/Large//90%/2500/1000/
+18//5H Level BR/91/All/16/6/27/-14/KD +13/4/Large//90%/2500/1000/
+19//2P/22/All/6/3/11/-2/+1/1/Small//80%/1000/1500/
+20//2K/26/Low/7/5/8/-1/+2/1/Small//70%/750/1000/
+21//2S Level 1/32/Low/12/4/21/-11/-2/2/Mid//90%/1125/1000/
+22//2S Level 2/37/Low/11/4/21/-11/-2/2/Mid//90%/1125/1000/
+23//2S Level 3/42/Low/10/4/21/-11/-2/2/Mid//90%/1125/1000/
+24//2S Level BR/54/Low/10/4/21/-11/-2/2/Mid//90%/1125/1000/
+25//2H Level 1/50/All/19/7/29/-17/KD +21/4/Large//90%/2500/1000/
+26//2H Level 2/55/All/17/7/29/-17/KD +21/4/Large//90%/2500/1000/
+27//2H Level 3/60/All/15/7/29/-17/KD +21/4/Large//90%/2500/1000/
+28//2H Level BR/78/All/15/7/29/-17/KD +21/4/Large//90%/2500/1000/
+29//j.P/20/High/7/3/12///0/Small//80%/200/1000/
+30//j.K/26/High/7/3/19///1/Small//80%/1000/1000/
+31//j.S Level 1/35/High/13/3/20///2/Mid//80%/1500/1000/
+32//j.S Level 2/37/High/12/3/20///2/Mid//80%/1500/1000/
+33//j.S Level 3/39/High/11/3/20///2/Mid//80%/1500/1000/
+34//j.S Level BR/50/High/11/3/20///2/Mid//80%/1500/1000/
+35//j.H Level 1/41/High/16/4/23///3/Mid//80%/2000/1000/
+36//j.H Level 2/43/High/15/4/23///3/Mid//80%/2000/1000/
+37//j.H Level 3/45/High/14/4/23///3/Mid//80%/2000/1000/
+38//j.H Level BR/58/High/14/4/23///3/Mid//80%/2000/1000/
+39//j.D Level 1/55/High/15/3/20//KD/3/Mid//80%/2000/1000/
+40//j.D Level 2/60/High/13/3/20///3/Mid//80%/2000/1000/
+41//j.D Level 3/65/High/11/3/20///3/Mid//80%/2000/1000/
+42//j.D Level BR/84/High/11/3/20///3/Mid//80%/2000/1000/
+43//6P/34/All/12/5/15/-6/-3/2/Mid/1~3F Upper Body 4~17F Above Knee/90%/1500/1000/
+44//6K/35/Low/15/3/15/-4/-1/2/Mid//90%/1125/1000/
+45//6H Level 1/70/All/17/6/30/-17/KD -3/4/Large//90%/2500/1000/
+46//6H Level 2/80/All/16/6/30/-17/KD -3/4/Large//90%/2500/1000/
+47//6H Level 3/90/All/15/6/30/-17/KD -3/4/Large//90%/2500/1000/
+48//6H Level BR/117/All/15/6/30/-17/KD -3/4/Large//90%/2500/1000/
+49//2D/30/Low/12/3/18/-7/HKD +50/2/Large//90%/1125/1000/
+50//5D/50/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
+51//5[D]/62/High/28/3/26/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
+52//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
+0//236S/45/All/18~29/9/Total 39/+5/+8/2/Very Small/Projectile Clash 12~[17~28]/80%/500/1000/Zarameyuki
+1//236K///-//Total 25/////1~25F Above Chest////Forward Fukyo
+2//214K///-//Total 16/////1~16F Above Chest////Backward Fukyo
+3//214H/50/All/14/5/17/-3/HKD +56/4/Large//90%/2500/1000/Kamuriyuki
+4//623H/45/All/11/3/21/-7/HKD +67/3/Large/1-13F Upper Body/90%/1000/1000/Shizuriyuki (1)
+5//623HH/55/All/10/6/29/-16/HKD +28/4/Large//90%/1200/1000/Shizuriyuki (2)
+6//623P/"80/90/100"/Ground Throw/7/2/48//HKD +36///1~8F Throw/50%//2500/Bloodsucking Universe
+7//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//632146S/70, 3×17, 60 [70]/All/7+(173 Flash)+2/2/54/-39/HKD +39 [HKD +73]/3/Mid/1~10F Full//2000/1000/Wasureyuki
+1//632146H/200/All/11+(58 Flash)+10/6/80/-66/HKD +15/4/Very Small/1~26F Full//2500/1000/Zansetsu
+2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -81,4 +81,4 @@ def frameChart(chars=["Sol","Ky","May"], distance=1230, maxFrames=120):
     df["framePerc"] = framePerc
     return df
 
-print(frameChart(allChars,270))
+print(frameChart(allChars,1200))
