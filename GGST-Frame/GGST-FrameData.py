@@ -57,7 +57,6 @@ def dataScrape(char):
             moves.append(x)
         if "P" in x.columns:
             gatling.append(x)
-    #print(moves)
     moveDF = pd.concat(moves)
     gatlingDF = pd.concat(gatling)
     return moveDF, gatlingDF
@@ -90,8 +89,7 @@ def moveLookup(char, move):
 def bracketSplitter(moveRow):
     #Splits held moves (noted by "[]") into two seperate entries in the dataframe. WIP
     i = moveRow.index[0]
-    #print(moveRow)
-    if "[" in moveRow.loc[i]["Startup"] or "[" in moveRow.loc[i]["On-Block"]:
+    if "[" in moveRow.loc[i]["Startup"] or "[" in moveRow.loc[i]["On-Block"] or "[" in moveRow.loc[i]["Level"]: ##########################################
         bRow = moveRow 
         if "[" in bRow.loc[i, "Startup"]:
             bRow.loc[i, "Startup"] = bRow.loc[i]["Startup"].split("[")[1].split("]")[0]
@@ -194,9 +192,12 @@ def moveCleaner(moveDF, gatDF):
             moves["Input"][x] = moves["Name"][x]
         if " Level " in moves["Input"][x]:
             moves.loc[x, "Input"] = moves.loc[x, "Input"].replace(" Level ",".")
-        if "[" in str(moves["Startup"][x]) or "[" in str(moves["On-Block"][x]):
-            moves.loc[len(moves.index)] = bracketSplitter(moves.loc[[x]]).loc[x]
-            clFlag = 1
+        if "[" in str(moves["Startup"][x]) or "[" in str(moves["On-Block"][x]) or "[" in str(moves["Level"][x]):##################################
+            if str(moves.loc[x, "Startup"])[0] == "[":
+                moves.loc[x, "Startup"] = moves.loc[x]["Startup"].split("]")[1]
+            else:
+                moves.loc[len(moves.index)] = bracketSplitter(moves.loc[[x]]).loc[x]
+                clFlag = 1
         if "{" in str(moves["Startup"][x]) or "{" in str(moves["On-Block"][x]):
             moves.loc[len(moves.index)] = curlySplitter(moves.loc[[x]]).loc[x]
             clFlag = 1
@@ -204,9 +205,9 @@ def moveCleaner(moveDF, gatDF):
             moves.loc[x, "Startup"] = str(moves.loc[x, "Startup"]).split(" ")[0]
             moves.loc[x, "On-Block"] = str(moves.loc[x, "On-Block"]).split(" ")[0]
             moves.loc[x, "Level"] = str(moves.loc[x, "Level"]).split(" ")[0]
+            moves.loc[x, "Level"] = str(moves.loc[x, "Level"]).split("[")[0]
     Type = []
     for x in range(len(moves.index)):
-        #print(moves.loc[x, "Input"])
         #Second run through on the entire dataframe
         if "~" in str(moves.loc[x, "Startup"]):
             moves.loc[x, "Startup"] = moves.loc[x, "Startup"].split("~")[0]
@@ -220,13 +221,49 @@ def moveCleaner(moveDF, gatDF):
             else:
                 newStartup = newStartup[0]
             moves.loc[x, "Startup"] = newStartup
+        if moves.loc[x, "Startup"] == "-":
+            moves.loc[x, "Startup"] = ""
+        if "-" in str(moves.loc[x, "Startup"]):
+            moves.loc[x, "Startup"] = str(moves.loc[x,"Startup"]).split("-")[0]
+        if "," in str(moves.loc[x, "On-Block"]):
+            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].replace(",","")
+        if " " in str(moves.loc[x, "On-Block"]):
+            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split(" ")[0]
+        if "~" in str(moves.loc[x, "On-Block"]):
+            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split("~")[0]
+        if "+" in str(moves.loc[x, "On-Block"]):
+            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split("+")[1]
+        if moves.loc[x, "On-Block"] == "-" or moves.loc[x, "On-Block"] == "See" or moves.loc[x, "On-Block"] == "More" or moves.loc[x, "On-Block"] == "-":
+            moves.loc[x, "On-Block"] = ""
         numCount = sum(c.isdigit() for c in moves.loc[x, "Input"])
+        #Since Jack-o's tables are poorly formated.
+        if moves.loc[x, "Input"] == "6H" and moves.loc[x,"Startup"] == "819":
+            moves.loc[x, "Startup"] = 27
+        if moves.loc[x, "Input"] == "214H" and moves.loc[x,"Active"] == "19":
+            moves.loc[x, "Startup"] = 208
+        #Zato formating
+        if "Total" in str(moves.loc[x, "Startup"]):
+            moves.loc[x, "Startup"] = moves.loc[x, "Startup"].replace(" Total","")
+        #I-no formating
+        if moves.loc[x,"Input"] == "632146H" and moves.loc[x,"Damage"] == "13×18 (17×11)":
+            moves.loc[x,"On-Block"] = "-18"
+            moves.loc[x, "Level"] = "2"
+        #Asuka Spell Formating 
+        if ", " in str(moves.loc[x, "Startup"]):
+            moves.loc[x, "Startup"] = str(moves.loc[x, "Startup"]).split(", ")[0]
+        if "/" in str(moves.loc[x, "On-Block"]):
+            moves.loc[x, "On-Block"] = str(moves.loc[x, "On-Block"]).split("/")[0]
+        asukaSpells = ["Howling Metron", "Delayed Howling Metron", "Delayed Howling Metron", "Howling Metron MS Processing",
+                       "Metron Screamer 808", "Metron Arpeggio", "Delayed Tardus Metron", "Terra Metron", "Accipiter Metron",
+                       "Aquila Metron", "Bit Shift Metron", "Bit Shift Metron", "RMS Boost Metron"]
         if numCount == 1 or numCount == 0:
-            if "j." in moves.loc[x, "Input"]:
+            if moves.loc[x, "Input"] in asukaSpells:
+                Type.append("Special")
+            elif "j." in moves.loc[x, "Input"]:
                 Type.append("jump Normal")
             else:
                 Type.append("Normal")
-        elif numCount == 2 or numCount == 3 or numCount == 4 or numCount == 5 :
+        elif numCount == 2 or numCount == 3 or numCount == 4 or numCount == 5:
             if "j." in moves.loc[x, "Input"]:
                 Type.append("jump Special")
             else:
@@ -236,6 +273,11 @@ def moveCleaner(moveDF, gatDF):
                 Type.append("jump Super")
             else:
                 Type.append("Super")
+        if moves.loc[x, "Level"] != "" and moves.loc[x, "Level"] != "-":
+            level = moves.loc[x, "Level"].split(".")[0]
+            moves.loc[x, "Level"] = level[len(level)-1]
+        else: 
+            moves.loc[x, "Level"] = ""
     moves["Type"] = Type
     moves = moves.merge(addGatling(gatDF), how="left", on="Input").fillna("")
     moves = moves.drop(["Unnamed: 0", "Damage", "Guard", "Invuln", "Proration", "R.I.S.C. Gain", "R.I.S.C. Loss", "Name", "On-Hit", "Counter Type"], axis=1)
@@ -258,7 +300,7 @@ def updateCleanAll():
         print(x+" Clean Data Updated.")
     return 
 
-def moveCleaner(move, moveList):
+def inputCleaner(move, moveList):
     moveList = moveList.to_list()
     moveListLower = [x.lower() for x in moveList]
     move = move.lower()
@@ -266,11 +308,24 @@ def moveCleaner(move, moveList):
     moveIndex = moveListLower.index(move)
     return moveList[moveIndex]
 
+def viewData(char):
+    print(pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1).to_string())
+    return
+
+def viewDataAll():
+    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
+                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
+                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+    for x in charList:
+        print("---"+x+"--------------------------------------------------------------------------------------------------------------------")
+        viewData(x)
+    return
+
 def frameTrap(char, move1, move2):
     char = nameCleaner(char)
     data = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
-    move1 = moveCleaner(move1, data["Input"])
-    move2 = moveCleaner(move2, data["Input"])
+    move1 = inputCleaner(move1, data["Input"])
+    move2 = inputCleaner(move2, data["Input"])
     print(move1, move2)
     move1Index = data.index[data["Input"]==move1].tolist()[0]
     move1Act, move1Rec, move1OB, move1Lvl, move1Cancel = data.loc[move1Index, "Active"], data.loc[move1Index, "Recovery"], data.loc[move1Index, "On-Block"], data.loc[move1Index, "Level"], data.loc[move1Index, "Cancels"]
@@ -278,5 +333,31 @@ def frameTrap(char, move1, move2):
     move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
     return
 
+def dataVerification(char):
+    data = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
+    dataSU = data[data["Startup"]!=""]
+    print(dataSU[dataSU["Startup"]>=30])
+    dataOB = data[data["On-Block"]!=""]
+    print(dataOB[dataOB["On-Block"]<=-20])
+    dataLv = data[data["Level"]!=""]
+    print(dataLv[dataLv["Level"]>4])
+    return
 
-frameTrap("may","5 p", "6[h]")
+def dataVerficationAll():
+    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
+                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
+                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+    for x in charList:
+        print("---"+x+"--------------------------------------------------------------------------------------------------------------------")
+        dataVerification(x)
+    return
+
+#print(dataScrape("Jack-O"))
+#x = "Nagoriyuki"
+#updateCleanAll()
+#viewDataAll()
+#frameTrap("may","5 p", "6[h]")
+
+#updateClean("Potemkin")
+#viewData("Potemkin")
+dataVerficationAll()

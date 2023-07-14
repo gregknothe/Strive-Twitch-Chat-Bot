@@ -1,7 +1,7 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
 0/5P/5/4/8/-2/0/Normal/5P,2P,6P,6H,Special,Super
 1/5K/7/3/11/-2/1/Normal/6P,6H,5D,2D,Jump,Special,Super
-2/c.S/7/6/10/+1/3/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
 3/f.S/11/6/21/-10/3/Normal/5H,2H,Special,Super
 4/5H/12/3/28/-12/4/Normal/Special,Super
 5/2P/6/4/9/-3/0/Normal/5P,2P,6P,6H,Special,Super
@@ -9,34 +9,36 @@
 7/2S/10/4/18/-5/3/Normal/5H,2H,Special,Super
 8/2H/14/9/25/-15/4/Normal/Special,Super
 9/j.P/5/4/8//0/jump Normal/j.P,Special
-10/j.K/7/4/13/0 (IAD)/1/jump Normal/j.D,Jump,ForwardAirDash,Special
-11/j.S/12/4/24/+5 (IAD)/2 [1]/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
-12/j.H/19/6/31//2 [1]/jump Normal/j.D,Jump,ForwardAirDash,Special
-13/j.D/10/2, 2, 2//+2 (IAD)/1/jump Normal/Jump,Dash,Special
+10/j.K/7/4/13/0/1/jump Normal/j.D,Jump,ForwardAirDash,Special
+11/j.S/12/4/24/5/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
+12/j.H/19/6/31//2/jump Normal/j.D,Jump,ForwardAirDash,Special
+13/j.D/10/2, 2, 2//2/1/jump Normal/Jump,Dash,Special
 14/6P/9/5/18/-9/2/Normal/Special,Super
 15/6H/18/2/33/-16/4/Normal/Special,Super
 16/2D/10/6/19/-8/3/Normal/Special,Super
 17/5D/20/2/27/-15/2/Normal/
 18/5[D]/28/2/27/-10/4/Normal/
-19/236S/20/Until Wall (34) 15/Total 37/+9/2/Special/
-20/236H/20/Until Wall (34) 15/Total 43/+3/2/Special/
+19/236S/20/Until Wall (34) 15/Total 37/9/2/Special/
+20/236H/20/Until Wall (34) 15/Total 43/3/2/Special/
 21/623P/11/3/27/-10/4/Special/
-22/214K/30/2/13/+2/3/Special/
-23/j.214K/30/Until Landing//-3~+3/3/jump Special/
+22/214K/30/2/13/2/3/Special/
+23/j.214K/30/Until Landing//-3/3/jump Special/
 24/214H/19/4/42/-27/4/Special/
 25/214P/16/7/12/-5/2/Special/214P 214P
 26/214P 214P/9/4/25/-12/3/Super/214P 214P 214P
 27/214P 214P 214P/11/6/38/-25/4/Super/
-28/j.214S/12/4(10)4/24/-6 (IAS)/3/jump Special/
-29/632146H/24///+16/1/Super/
+28/j.214S/12/4(10)4/24/-6/3/jump Special/
+29/632146H/24///16/1/Super/
 30/236236S/9/6/51/-38/4/Super/
 31/f.[S]/11/6/21/-13/2/Normal/
 32/5[H]/12/3/28/-13/3/Normal/
 33/2[S]/10/4/18/-8/2/Normal/
 34/2[H]/14/9/25/-17/3/Normal/
-35/6[H]/18/2/33/-18/3/Normal/
-36/214[H]/19/4/42/-27/4/Special/
-37/214{H}/19/4/42/-32/2/Special/
-38/214[P] 214[P]/9/4/25/-10/4/Super/214P 214P 214P
-39/236236[S]/9/6/51/-38/4/Super/
-40/236236{S}/9/6/51/-43/2/Super/
+35/j.[S]/12/4/24/5/1/jump Normal/
+36/j.[H]/19/6/31//1/jump Normal/
+37/6[H]/18/2/33/-18/3/Normal/
+38/214[H]/19/4/42/-27/4/Special/
+39/214{H}/19/4/42/-32/2/Special/
+40/214[P] 214[P]/9/4/25/-10/4/Super/214P 214P 214P
+41/236236[S]/9/6/51/-38/4/Super/
+42/236236{S}/9/6/51/-43/2/Super/

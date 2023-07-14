@@ -1,7 +1,7 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
 0/5P/5/4/7/-1/0/Normal/6P,6K,6S,Special,Super
 1/5K/6/3/12/-3/1/Normal/6P,6K,6S,5D,2D,Jump,Special,Super
-2/c.S/7/6/10/+1/3/Normal/6P,6K,f.S2S,6S,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,6K,f.S2S,6S,5D,2D,Jump,Special,Super
 3/f.S/10/7/21/-14/2/Normal/Special,Super
 4/5D/20/3/26/-15/2/Normal/
 5/5[D]/28/3/26/-10/4/Normal/
@@ -12,22 +12,22 @@
 10/6P/9/5/25/-16/2/Normal/Special,Super
 11/6K/16/5/16/-7/2/Normal/Special,Super
 12/6S/12/7/24/-14/3/Normal/Special,Super
-13/j.P/5/2/18/-/0/jump Normal/j.P,j.2K,
-14/j.K/7/3/18/-/1/jump Normal/j.2K,j.D,Jump,ForwardAirDash
-15/j.S/10/4/23/+2 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash
-16/j.D/11/4/21/+3 (IAD)/2/jump Normal/Jump,ForwardAirDash
-17/j.2K/10/5/16 [11]/+2 (IAD, airborne)/2/jump Normal/
-18/H/-/-/Total 12/-/-/Normal/
-19/236S/9/3/13/+3/4/Special/
-20/236S H/1/2//+23/1/Special/
-21/214S/-/-/Total 18/-/-/Special/
-22/214S H/1/2/43/More info/3/Special/
-23/236S 2H/-/-/0 [9]/-/-/Special/
-24/214S 214S/-/-/Total 16/-/-/Super/
-25/22P/23/-/Total 23~77/-/-/Special/
-26/214P/41/-/Total 46/-/-/Special/
-27/214K/-/-/35 total/-/-/Special/
-28/236K/10/180 [45]/43 total/-/-/Special/
-29/236P/-/-/29 total/-/-/Special/
-30/632146S/20///-25/2×18, 4/Super/
-31/214214P/5/(52 Flash)/Total 11/-/-/Super/
+13/j.P/5/2/18//0/jump Normal/j.P,j.2K,
+14/j.K/7/3/18//1/jump Normal/j.2K,j.D,Jump,ForwardAirDash
+15/j.S/10/4/23/2/2/jump Normal/j.D,Jump,ForwardAirDash
+16/j.D/11/4/21/3/2/jump Normal/Jump,ForwardAirDash
+17/j.2K/10/5/16 [11]/2/2/jump Normal/
+18/H//-/Total 12///Normal/
+19/236S/9/3/13/3/4/Special/
+20/236S H/1/2//23/1/Special/
+21/214S//-/Total 18///Special/
+22/214S H/1/2/43//3/Special/
+23/236S 2H//-/0 [9]///Special/
+24/214S 214S//-/Total 16///Super/
+25/22P/23/-/Total 23~77///Special/
+26/214P/41/-/Total 46///Special/
+27/214K//-/35 total///Special/
+28/236K/10/180 [45]/43 total///Special/
+29/236P//-/29 total///Special/
+30/632146S/20///-25/4/Super/
+31/214214P/5/(52 Flash)/Total 11///Super/

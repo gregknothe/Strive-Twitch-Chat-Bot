@@ -33,3 +33,7 @@
 2//632146S Attack Near/66,15×4,60/All/2+1////HKD +36////100%//1000/Kachoufuugetsu Kai
 3//632146S Attack Far/60, 80/All/2+1///-1/HKD +51//Mid//100%/1200, 1800/1000/Kachoufuugetsu Kai
 4//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +59///none/50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +51 (IAD)///none/50%//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

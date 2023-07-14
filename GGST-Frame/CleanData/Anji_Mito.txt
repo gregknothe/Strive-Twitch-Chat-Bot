@@ -1,7 +1,7 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
 0/5P/6/5/9/-2/1/Normal/5P,2P,6P,6H,Special,Super
 1/5K/8/5/9/-2/1/Normal/6P,6H,5D,2D,Jump,Special,Super
-2/c.S/7/7/11/+1/4/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+2/c.S/7/7/11/1/4/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
 3/f.S/11/2/21/-9/2/Normal/5H,2H,Special,Super
 4/5H/15/4/23/-8/4/Normal/Special,Super
 5/2P/5/2/10/-2/0/Normal/5P,2P,6P,6H,Special,Super
@@ -11,10 +11,10 @@
 9/j.P/9/2/5//0/jump Normal/j.P,
 10/j.K/6/4/15//1/jump Normal/j.D,Jump,ForwardAirDash
 11/j.S/7/5/20//2/jump Normal/j.H,j.D,Jump,ForwardAirDash
-12/j.H/13/3/27/+5 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash
+12/j.H/13/3/27/5/2/jump Normal/j.D,Jump,ForwardAirDash
 13/j.D/8/6/18//3/jump Normal/Jump,ForwardAirDash
 14/6P/10/6/25/-17/2/Normal/Special,Super
-15/6H/16/3(3)3(4)4/21/-8/223/Normal/Special,Super
+15/6H/16/3(3)3(4)4/21/-8/3/Normal/Special,Super
 16/2D/10/3/22/-11/2/Normal/Special,Super
 17/5D/20/3/26/-15/2/Normal/
 18/5[D]/28/3/26/-10/4/Normal/
@@ -22,7 +22,7 @@
 20/236K///Total 34~50///Special/
 21/236S/12/9(6)5/14//3/Special/
 22/236H/16/4/21/-8/3/Special/236H P, 236H K, 236H S, 236H H
-23/236H P/30 /8/Total 43+6 after Landing/+7/2/Special/
+23/236H P/30 /8/Total 43+6 after Landing/7/2/Special/
 24/236H K///22+6 after Landing///Special/
 25/236H S/15 /4/20/-7/3/Special/
 26/236H H/21 /2/24/-9/3/Special/

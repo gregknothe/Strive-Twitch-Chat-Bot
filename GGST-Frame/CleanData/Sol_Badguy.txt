@@ -1,8 +1,8 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
 0/5P/4/5/9/-2/1/Normal/5P,2P,6P,6S,6H,Special,Super
-1/5K/3/1, 3/25/-16/0, 1/Normal/6P,6S,6H,5D,2D,Jump,ForwardDash,Special,Super
-2/c.S/7/6/10/+3/4/Normal/6P,f.S,2S,6S,5H,2H,6H,5D,2D,Jump,ForwardDash,Special,Super
-3/f.S/10/2/13/+2/3/Normal/5H,2H,Special,Super
+1/5K/3/1, 3/25/-16/1/Normal/6P,6S,6H,5D,2D,Jump,ForwardDash,Special,Super
+2/c.S/7/6/10/3/4/Normal/6P,f.S,2S,6S,5H,2H,6H,5D,2D,Jump,ForwardDash,Special,Super
+3/f.S/10/2/13/2/3/Normal/5H,2H,Special,Super
 4/5H/11/4/20/-5/4/Normal/Special,Super
 5/2P/5/4/8/-2/0/Normal/5P,2P,6P,6S,6H,Special,Super
 6/2K/6/3/11/-2/1/Normal/6P,6S,6H,5D,2D,Special,Super
@@ -10,9 +10,9 @@
 8/2H/11/5/31/-17/4/Normal/Special,Super
 9/j.P/5/3/8//0/jump Normal/j.P,Special
 10/j.K/6/3/20//1/jump Normal/j.D,Jump,ForwardAirDash,Special
-11/j.S/10/3/23/+2 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
-12/j.H/11/4, 8/0/+7 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash,Special
-13/j.D/9/3/17/+4 (IAD)/3/jump Normal/Jump,ForwardAirDash,Special
+11/j.S/10/3/23/2/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
+12/j.H/11/4, 8/0/7/2/jump Normal/j.D,Jump,ForwardAirDash,Special
+13/j.D/9/3/17/4/3/jump Normal/Jump,ForwardAirDash,Special
 14/6P/9/5/20/-11/2/Normal/Special,Super
 15/6S/15/6/20/-9/3/Normal/Special,Super
 16/6H/9/3/43/-27/4/Normal/
@@ -33,7 +33,7 @@
 31/j.214K/22/Until Landing/Until Landing+18//3/jump Special/
 32/623K/6/2/41///Special/
 33/214S/15/2 [8]/32 [26]/-17/3/Special/
-34/41236H/24/3/16/+11/4/Special/
-35/632146H/9/3(20)20/41/-44/4, 3/Super/
+34/41236H/24/3/16/11/4/Special/
+35/632146H/9/3(20)20/41/-44/3/Super/
 36/214214H/20/16/49///Super/
 37/214[S]/32/2 [8]/32 [26]/-17/3/Special/

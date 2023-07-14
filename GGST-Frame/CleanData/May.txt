@@ -1,19 +1,19 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
 0/5P/4/3/8/-1/0/Normal/5P,2P,6P,3K,6K,6H,Special,Super
 1/5K/8/6/11/-5/1/Normal/6P,3K,6K,6H,5D,2D,Jump,Special,Super,ForwardDash
-2/c.S/7/6/8/+3/3/Normal/6P,3K,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super,ForwardDash
+2/c.S/7/6/8/3/3/Normal/6P,3K,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super,ForwardDash
 3/f.S/12/3/19/-8/2/Normal/5H,2H,Special,Super
 4/5H/13/8/15/-4/4/Normal/Special,Super
 5/2P/5/4/8/-2/0/Normal/5P,2P,6P,3K,6K,6H,Special,Super
 6/2K/6/4/10/-2/1/Normal/6P,3K,6K,6H,5D,2D,Special,Super
 7/2S/10/3/18/-7/2/Normal/5H,2H,Special,Super
 8/2H/11/13/26/-20/4/Normal/Special,Super
-9/j.P/5/3/12/+2~5 (IAD j.PPP)/0/jump Normal/j.P,Special,Super
-10/j.K/7/3/12/+0~3 (IAD)/1/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
-11/j.S/12/4/15/+6 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
-12/j.H/12/10/15/+9 (IAD)/3/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
-13/j.D/10/6/21/-8 (Airborne)/4/jump Normal/Jump,ForwardAirDash,Special,Super
-14/j.2H/13/Until L/6/+2 (IAD)/3/jump Normal/Special,Super
+9/j.P/5/3/12/2/0/jump Normal/j.P,Special,Super
+10/j.K/7/3/12/0/1/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+11/j.S/12/4/15/6/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
+12/j.H/12/10/15/9/3/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+13/j.D/10/6/21/-8/4/jump Normal/Jump,ForwardAirDash,Special,Super
+14/j.2H/13/Until L/6/2/3/jump Normal/Special,Super
 15/6P/12/6/18/-7/3/Normal/Special,Super
 16/6K/20/5/11/-2/2/Normal/
 17/3K/11/9/15/-10/2/Normal/
@@ -22,13 +22,13 @@
 20/5D/20/3/26/-15/2/Normal/
 21/5[D]/28/3/26/-10/4/Normal/
 22/[4]6S/7/9 [18]/11 (24 OH)/-3/2/Special/
-23/[4]6H/25/9 [18]/11 (18 OH)/+7/4/Special/
-24/[2]8S/6/19/7 (21 OH)/0 (Airborne)/2/Special/
-25/[2]8H/11/27/8 (19 OH)/+6 (Airborne)/3/Special/
+23/[4]6H/25/9 [18]/11 (18 OH)/7/4/Special/
+24/[2]8S/6/19/7 (21 OH)/0/2/Special/
+25/[2]8H/11/27/8 (19 OH)/6/3/Special/
 26/623K/6/2/40///Special/
-27/214P/48/6/Total 45/+29/2/Special/
-28/214K/48/10/Total 45/+29/2/Special/
+27/214P/48/6/Total 45/29/2/Special/
+28/214K/48/10/Total 45/29/2/Special/
 29/236236S/11//88/-54/4/Super/
 30/632146H/10/12(22)10/55/-31//Super/
 31/j.632146H/10/12(22+)10/54///jump Super/
-32/6[H]/40/6/24/+8/4/Normal/
+32/6[H]/40/6/24/8/4/Normal/
