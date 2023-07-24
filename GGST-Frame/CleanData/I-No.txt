@@ -22,7 +22,7 @@
 20/236H/28/5/16/-2/4/Special/
 21/j.236K/10/Until Landing/Until Landing + 13/-1/2/jump Special/
 22/j.236S/10/Until Landing/Until Landing + 13/-2/2/jump Special/
-23/j.236H/9/32/Until Landing + 6/-7/2/jump Special/
+23/j.236H/8/32/Until Landing + 6/-7/2/jump Special/
 24/214P/29//Total 51/-16/0/Special/
 25/j.214P/28//Until Landing + 6/-16/0/jump Special/
 26/214K/11/14/22/-2/4/Special/
@@ -30,6 +30,6 @@
 28/632146H/11///-18/2/Super/
 29/632146S/9/4 (42) 9/13/26/4/Super/
 30/j.632146S/8///37//jump Super/
-31/j.236[K]/10/Until Landing/Until Landing + 13/4/4/jump Special/
-32/j.236[S]/10/Until Landing/Until Landing + 13/4/4/jump Special/
-33/j.236[H]/9/32/Until Landing + 6/-2/4/jump Special/
+31/j.236[K]/37/Until Landing/Until Landing + 13/4/4/jump Special/
+32/j.236[S]/37/Until Landing/Until Landing + 13/4/4/jump Special/
+33/j.236[H]/32/32/Until Landing + 6/-2/4/jump Special/

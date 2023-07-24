@@ -34,3 +34,7 @@
 1//632146H/80, 100/All/6+4/12(22)10/55/-31/HKD +38//Mid/1~21 Full/100%/1200, 500/1000×2/The Wonderful and Dynamic Goshogawara
 2//j.632146H/80, 100/All/6+4/12(22+)10/54////Mid/1~21 Full/100%/1200, 500/1000×2/Air The Wonderful and Dynamic Goshogawara
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +48////50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +48 (IAD)////50%//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

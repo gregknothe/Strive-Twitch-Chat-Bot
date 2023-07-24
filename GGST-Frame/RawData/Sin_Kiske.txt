@@ -36,3 +36,7 @@
 2//236236P/50/All/9+1/3/38/-22/HKD +53/4/Mid/None/100%/2500/1000/Tyrant Barrel
 3//236236P~]P[/50→70→90→120/All (Guard Crush)/3/3/39/-12/HKD +19 [CL HKD +56] (OTG -6)/4/Mid/None/100%/2500/0/Tyrant Barrel Follow-up
 4//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80//2/3/38//HKD +53///none/50%//2500/Ground Throw
+1///80//2/3/38 or Until Landing + 10//HKD +54 (IAD)///none/50%//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

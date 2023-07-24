@@ -9,10 +9,10 @@
 7/2S/12/3/18/-7/2/Normal/5H,2H,Special,Super
 8/2H/14/2, 2, 2/18/-3/3/Normal/Special,Super
 9/j.P/6/3/13//0/jump Normal/j.P,
-10/j.K/7/4/15//1/jump Normal/j.D,Jump,ForwardAirDash
-11/j.S/9/5/18//2/jump Normal/j.H,j.D,Jump,ForwardAirDash
-12/j.H/11/4/32//2/jump Normal/j.D,Jump,ForwardAirDash
-13/j.D/14/3/25//2/jump Normal/Jump,ForwardAirDash
+10/j.K/7/4/15/-3/1/jump Normal/j.D,Jump,ForwardAirDash
+11/j.S/9/5/18/1/2/jump Normal/j.H,j.D,Jump,ForwardAirDash
+12/j.H/11/4/32/4/2/jump Normal/j.D,Jump,ForwardAirDash
+13/j.D/14/3/25/7/2/jump Normal/Jump,ForwardAirDash
 14/6P/11/6/17/-9/2/Normal/Special,Super
 15/6K/14/2, 2/16/-4/2/Normal/Special,Super
 16/6H/25/7/25/-13/4/Normal/Special,Super

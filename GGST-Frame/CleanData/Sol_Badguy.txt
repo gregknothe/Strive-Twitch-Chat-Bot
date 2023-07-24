@@ -25,8 +25,8 @@
 23/623H/13/5, 11/19+10 Landing/-26/2/Special/
 24/j.623S/9/9/Until Landing+10//2/jump Special/
 25/j.623H/13/5, 11/Until Landing+10//2/jump Special/
-26/236K/12/6/9+6 Landing/-7/2/Special/
-27/236KK/6/2/6+17 Landing/-11/2/Special/
+26/236K/12/6/9+6 Landing/-7/2/Special/236KK
+27/236KK/6/2/6+17 Landing/-11/2/Rekka Followup/
 28/j.236K/10/6/Until Landing+6//2/jump Special/
 29/j.236KK/6/2/Until Landing+17//2/jump Special/
 30/214K/30/7/12 Landing/-2/3/Special/

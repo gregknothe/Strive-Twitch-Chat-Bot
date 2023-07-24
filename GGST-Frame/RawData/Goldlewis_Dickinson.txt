@@ -49,3 +49,7 @@
 4//236236K Level 2/8×15/All/13+(84 Flash)+79/72/27 Total///2/Small/none/100%/100x15/1000/Burn It Down (Level 2)
 5//236236K Level 3/8×20/All/13+(84 Flash)+79/92/27 Total///2/Small/none/100%/100x20/1000/Burn It Down (Level 3)
 6//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +54///none/50% (75%)//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +47 (IAD)///none/50% (75%)//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

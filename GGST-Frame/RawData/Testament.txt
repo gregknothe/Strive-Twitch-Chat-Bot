@@ -34,3 +34,8 @@
 0//236236P/20×2, 57/All/11+19/6, (20), 6, (24), 4/Total 53/+63/HKD +134/3/Very Small//100%/100×3/1000/Nostrovia
 1//236236K/143/All/11+4/5/67/-38/HKD +48/4/Very Small/1~19F Full/100%/500/1000/Calamity One
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +51////Forced 50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +53 (IAD)////Forced 50%//2500/Air Throw
+2///80//////HKD +23/4/////1000/Finish Blow
+3///////Total 26/////////Dash Cancel
+4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

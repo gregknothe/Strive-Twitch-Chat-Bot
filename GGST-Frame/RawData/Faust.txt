@@ -38,3 +38,18 @@
 1//236236P///1+3//Total 33/////////W-W-What Could This Be?
 2//236236236P///1+7///////////W-W-W-W-W-W-W-W-W-What Could This Be?
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +55////50%//2600/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +39 (IAD)////50%//2500/Air Throw
+2///////Total 26/////////Dash Cancel
+3////////////////Crawl
+4///70/All/143/9///KD/4/Very Small//80%/500/1000/Bomb
+5///Heal 20///////0/Very Small//80%///Banana
+6///Heal 20/////////////Donut
+7///40/All//////2///100%///Afro
+8///50/All/1/98////4/Very Small//80%/500/1000/Hammer
+9///15×2 (stomps) 15×N (lunge)//12/5(10)5(47), 2(2)2(2)2...////2/Very Small//80%/100×N/1000, 1000/Mini Faust
+10///25/All/1/63///HKD/0/Very Small//80%/250/1000/100T Weight
+11///0/All/64/2///HKD/0///80%/500/1000/Earthquake
+12///7×N/All/~69-70/~115-117////1/Very Small//80%/100×N/1000×2/Horn
+13///36(1x)/Guard Crush//////4/Very Small//80%/100/1000xN/Meteors
+14///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

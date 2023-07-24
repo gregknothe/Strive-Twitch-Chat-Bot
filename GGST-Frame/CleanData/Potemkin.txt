@@ -14,11 +14,11 @@
 12/6P/11/7/25/-15/3/Normal/Special,Super
 13/6K/22/5/18/-6/3/Normal/Special1,Super
 14/6H/23/5/29/-15/4/Normal/Special,Super
-15/j.P/7/6/6//0/jump Normal/j.P,
-16/j.K/10/6/15//1/jump Normal/j.D,Jump
-17/j.S/13/5/23//3/jump Normal/j.H,j.D,Jump
-18/j.H/12/4/16//4/jump Normal/j.D,Jump
-19/j.D/13/Until Landing/9 After landing//3/jump Normal/Jump
+15/j.P/7/6/6/6/0/jump Normal/j.P,
+16/j.K/10/6/15/8/1/jump Normal/j.D,Jump
+17/j.S/13/5/23/13/3/jump Normal/j.H,j.D,Jump
+18/j.H/12/4/16/15/4/jump Normal/j.D,Jump
+19/j.D/13/Until Landing/9 After landing/1/3/jump Normal/Jump
 20/[4]6H/18/2f/26/-9//Special/
 21/[4]6H P///27///Special/
 22/632146P/5/4/37///Super/

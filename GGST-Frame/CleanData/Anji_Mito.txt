@@ -22,10 +22,10 @@
 20/236K///Total 34~50///Special/
 21/236S/12/9(6)5/14//3/Special/
 22/236H/16/4/21/-8/3/Special/236H P, 236H K, 236H S, 236H H
-23/236H P/30 /8/Total 43+6 after Landing/7/2/Special/
-24/236H K///22+6 after Landing///Special/
-25/236H S/15 /4/20/-7/3/Special/
-26/236H H/21 /2/24/-9/3/Special/
+23/236H P/30 /8/Total 43+6 after Landing/7/2/Rekka Followup/
+24/236H K///22+6 after Landing///Rekka Followup/
+25/236H S/15 /4/20/-7/3/Rekka Followup/
+26/236H H/21 /2/24/-9/3/Rekka Followup/
 27/632146H/17///-30//Super/
 28/632146S///Total 40///Super/
 29/632146S Attack Near/3/////Super/

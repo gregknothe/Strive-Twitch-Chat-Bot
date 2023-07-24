@@ -119,16 +119,28 @@ def addRekkas(char, moveDF):
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "236S":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "236S 236S,236S 236K"
+            if moveDF.loc[x]["Input"] == "236S 236S" or moveDF.loc[x]["Input"] == "236S 236K":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
+    if char == "Sol_Badguy":
+        for x in range(len(moveDF["Input"])):
+            if moveDF.loc[x]["Input"] == "236K":
+                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "236KK"
+            if moveDF.loc[x]["Input"] == "236KK":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
     if char == "Anji_Mito":
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "236H" or moveDF.loc[x]["Input"] == "236[H]":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "236H P, 236H K, 236H S, 236H H"
+            if moveDF.loc[x]["Input"] == "236H P" or moveDF.loc[x]["Input"] == "236H K" or moveDF.loc[x]["Input"] == "236H S" or moveDF.loc[x]["Input"] == "236H H":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
     if char == "Bridget":
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "f.S" or moveDF.loc[x]["Input"] == "2S":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"].replace("SFollowUp","S")
             if moveDF.loc[x]["Input"] == "5H" or moveDF.loc[x]["Input"] == "2H":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"].replace("HFollowUp","H")
+            if moveDF.loc[x]["Input"] == "SFollowUp" or moveDF.loc[x]["Input"] == "HFollowUp":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
     if char == "Ramlethal_Valentine":
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "214P":
@@ -137,6 +149,8 @@ def addRekkas(char, moveDF):
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214P 214P 214P"
             if moveDF.loc[x]["Input"] == "214[P] 214[P]":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214P 214P 214P"
+            if moveDF.loc[x]["Input"] == "214[P] 214[P]" or moveDF.loc[x]["Input"] == "214P 214P" or  moveDF.loc[x]["Input"] == "214P 214P 214P":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
     if char == "Nagoriyuki":
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "236S":
@@ -165,7 +179,10 @@ def addRekkas(char, moveDF):
                 moveDF.loc[x]["Cancels"] = "j.H." + level + ",j.D." + level 
             if "j.H" in moveDF.loc[x]["Input"]:
                 level = moveDF.loc[x]["Input"].split(".")[2]
-                moveDF.loc[x]["Cancels"] = "j.D." + level           
+                moveDF.loc[x]["Cancels"] = "j.D." + level     
+            if moveDF.loc[x]["Input"] == "623HH" or moveDF.loc[x]["Input"] == "f.SS.1" or moveDF.loc[x]["Input"] == "f.SSS.1" or moveDF.loc[x]["Input"] == "f.SS.2" or moveDF.loc[x]["Input"] == "f.SSS.2"\
+                or moveDF.loc[x]["Input"] == "f.SS.3" or moveDF.loc[x]["Input"] == "f.SSS.3" or moveDF.loc[x]["Input"] == "f.SS.BR" or moveDF.loc[x]["Input"] == "f.SSS.BR": 
+                moveDF.loc[x]["Type"] = "Rekka Followup"
     return moveDF
 
 def addGatling(gatDF):
@@ -173,11 +190,12 @@ def addGatling(gatDF):
     gatDF = gatDF.reset_index(drop=True)
     inputs, gats = [], []
     for x in range(len(gatDF)):
-        inputs.append(gatDF.loc[x]["Unnamed: 0"].split("Guard:")[0].replace("No results",""))
+        inputs.append(gatDF.loc[x]["Unnamed: 0"].split("Guard")[0].replace("No results",""))
         cancels = gatDF.loc[x]["P"] +", "+ gatDF.loc[x]["K"] +", "+ gatDF.loc[x]["S"] +", "+ gatDF.loc[x]["H"] +", "+ gatDF.loc[x]["D"] +", "+ gatDF.loc[x]["Cancel"]
         cancels = re.sub(" +", " ", cancels.replace("-"," ").replace(" ,","")).replace(" ","")
         gats.append(cancels)
     newDF = pd.DataFrame(data={"Input": inputs, "Cancels": gats})
+    #print(newDF)
     return newDF
 
 def moveCleaner(moveDF, gatDF):
@@ -321,17 +339,20 @@ def viewDataAll():
         viewData(x)
     return
 
-def frameTrap(char, move1, move2):
-    char = nameCleaner(char)
-    data = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
-    move1 = inputCleaner(move1, data["Input"])
-    move2 = inputCleaner(move2, data["Input"])
-    print(move1, move2)
-    move1Index = data.index[data["Input"]==move1].tolist()[0]
-    move1Act, move1Rec, move1OB, move1Lvl, move1Cancel = data.loc[move1Index, "Active"], data.loc[move1Index, "Recovery"], data.loc[move1Index, "On-Block"], data.loc[move1Index, "Level"], data.loc[move1Index, "Cancels"]
-    move2Index = data.index[data["Input"]==move2].tolist()[0]
-    move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
-    return
+def levelHitstun(level):
+    if level == 0:
+        return 9
+    elif level == 1:
+        return 11
+    elif level == 2:
+        return 13
+    elif level == 3:
+        return 16
+    elif level == 4:
+        return 18
+    else:
+        print("Attack does not have an attack level.")
+        return 1000000
 
 def dataVerification(char):
     data = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
@@ -352,12 +373,44 @@ def dataVerficationAll():
         dataVerification(x)
     return
 
-#print(dataScrape("Jack-O"))
-#x = "Nagoriyuki"
-#updateCleanAll()
-#viewDataAll()
-#frameTrap("may","5 p", "6[h]")
+def frameTrap(char, move1, move2):
+    char = nameCleaner(char)
+    data = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
+    move1 = inputCleaner(move1, data["Input"])
+    move2 = inputCleaner(move2, data["Input"])
+    move1Index = data.index[data["Input"]==move1].tolist()[0]
+    move1Act, move1Rec, move1OB, move1Lvl, move1Cancel = data.loc[move1Index, "Active"], data.loc[move1Index, "Recovery"], data.loc[move1Index, "On-Block"], data.loc[move1Index, "Level"], data.loc[move1Index, "Cancels"]
+    move2Index = data.index[data["Input"]==move2].tolist()[0]
+    move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
+    #Rekka Check
+    if move2Type == "Rekka Followup" and move2 not in move1Cancel:
+        return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
+    #Ground Gatling 
+    elif (move2 in move1Cancel or move2Type in move1Cancel) and "j." not in move1 and "j." not in move2:
+        gap = move2Start - levelHitstun(move1Lvl) 
+    #Ground Non-gatling
+    elif (move2 not in move1Cancel and move2Type not in move1Cancel) and "j." not in move1 and "j." not in move2:
+        gap = move2Start - move1OB
+    #Ground to Air (Jump cancelable)
+    elif "j." not in move1 and "j." in move2 and "Jump" in move1Cancel:
+        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+            gap = move2Start + 5 - levelHitstun(move1Lvl)
+        else:
+            gap = move2Start + 5 - levelHitstun(move1Lvl)
+    #Ground to Air (Non-jump cancelable)
+    elif "j." not in move1 and "j." in move2 and "Jump" not in move1Cancel:
+        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+            gap = move2Start + 5 - move1OB
+        else:
+            gap = move2Start + 5 - move1OB
+    #Air Gatling
+    elif "j." in move1 and "j." in move2 and (move2 in move1Cancel or move2Type in move1Cancel):
+        gap = move2Start - levelHitstun(move1Lvl)
+    #Air non-gatling and Air to Ground
+    else:
+        return char + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
+    return char + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
 
-#updateClean("Potemkin")
-#viewData("Potemkin")
-dataVerficationAll()
+#viewData("Anji_Mito")
+print(frameTrap("chipp", "jh", "236s"))
+

@@ -8,8 +8,8 @@
 6/2K/5/4/8/-2/0/Normal/6P,6K,6H,5D,2D,Special,Super
 7/2S/10/4/17/-7/2/Normal/5H,2H[+],Special,Super
 8/2H/12/9/24/-14/4/Normal/Special,Super
-9/j.P/5/4/8//0/jump Normal/j.P,j.2K,Special,Super
-10/j.K/6/2(3)2/8//1/jump Normal/j.2K,j.D,ForwardAirDash,Special,Super
+9/j.P/5/4/8/2/0/jump Normal/j.P,j.2K,Special,Super
+10/j.K/6/2(3)2/8/1/1/jump Normal/j.2K,j.D,ForwardAirDash,Special,Super
 11/j.S/9/4/18/1/2/jump Normal/j.H,j.D,ForwardAirDash,Special,Super
 12/j.H/8/3×4/17/4/2/jump Normal/j.D,ForwardAirDash,Special,Super
 13/j.D/8/4/22/0/2/jump Normal/ForwardAirDash,Special,Super
@@ -28,8 +28,8 @@
 26/j.623S/9/20/Until Landing+8//2/jump Special/
 27/236H/25/7/Total 42/9/2/Special/
 28/236S/13/5/16/-4/3/Special/236S 236S,236S 236K
-29/236S 236S/8/2/21/-6/3/Super/
-30/236S 236K/20/6/20/-9/3/Super/
+29/236S 236S/8/2/21/-6/3/Rekka Followup/
+30/236S 236K/20/6/20/-9/3/Rekka Followup/
 31/63214S/27/11/15///Special/
 32/j.214P/22/Until Hit/35+4 After Landing//0/jump Special/
 33/236236P/7/1(7)2(9)2(7)4(12)9/28/-20//Super/

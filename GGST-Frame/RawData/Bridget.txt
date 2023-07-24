@@ -36,3 +36,8 @@
 0//632146S/[10, 1]×6, 10, 80/Mid/9+2/45/47/-29/HKD +53/2/Mid//100%/[300, 100]×7/1000×2/Loop the Loop
 1//632146H/15×7/All/9+1/~/~/+8/HKD +74/2/Very Small//100%/100×5/1000/Return of the Killing Machine
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///70/Ground Throw (90000)/2/3/38//HKD +46////50%//1000/Ground Throw
+1///70/Air Throw/2/3/38 or Until Landing+10//HKD +55 (IAD)////50%//1000/Air Throw
+2///80//////KD +23/4/////1000/Finish Blow
+3///////Total 22/////////Dash Cancel
+4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

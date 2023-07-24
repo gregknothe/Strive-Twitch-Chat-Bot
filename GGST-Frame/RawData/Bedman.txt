@@ -48,3 +48,8 @@
 0//632146S///4/300/Total 14/////////call 13C
 1//632146H/158/All/9+4/3/70/-39/HKD +43/4//1~13F Full/100%/500/1000/call 4CC
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3///HKD +57////50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +56 (IAD)////50%//2500/Air Throw
+2///80///////4/////1000/Finish Blow
+3///////Total 26/////////Dash Cancel
+4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -14,11 +14,11 @@
 12//6P/42/All/11/7/25/-15/KD +17/3/Mid/1 ~ 4F Upper Body 5 ~ 17F Above Knees/90%/2000/1000/
 13//6K/45/All/22/5/18/-6/-3/3/Mid//90%/2000/1000/
 14//6H/90/All/23/5/29/-15/KD +34/4/Large//90%/2500/1000/
-15//j.P/30/High/7/6/6///0/Small//80%/375/1000/
-16//j.K/36/High/10/6/15///1/Small//80%/750/1000/
-17//j.S/45/High/13/5/23///3/Mid//80%/1500/1000/
-18//j.H/55/High/12/4/16///4/Mid//80%/1875/1000/
-19//j.D/50/All/13/Until Landing/9 After landing///3/Mid//80%/2000/1000/
+15//j.P/30/High/7/6/6/+6 (Min. height)/+9 (Min. height)/0/Small//80%/375/1000/
+16//j.K/36/High/10/6/15/+8 (Min. height)/+11 (Min. height)/1/Small//80%/750/1000/
+17//j.S/45/High/13/5/23/+13 (Min. height)/+16 (Min. height)/3/Mid//80%/1500/1000/
+18//j.H/55/High/12/4/16/+15 (Min. height)/+18 (Min. height)/4/Mid//80%/1875/1000/
+19//j.D/50/All/13/Until Landing/9 After landing/+1 (IAS)/+4 (IAS)/3/Mid//80%/2000/1000/
 20//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
 0//[4]6H/58/All/18~62/2f/26/-9/SKD +18//Mid/1 Hit Armor 5~61f/80%/2500/1000/Hammer Fall
 1//[4]6H P/////27/////////Hammer Fall Break
@@ -37,3 +37,6 @@
 1//632146H/60/All/10+1/5/17/+100/HKD +141//Mid//100%/2500/1000/Giganter Kai
 2//Mirror/15×3/All/10+23/464///HKD//Very Small//100%/100×3/1000/Giganter Kai (Barrier)
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///90/Ground Throw/2/3/38//HKD +55////50%//2500/Ground Throw
+1///90/Air Throw/2/3/38 or Until Landing + 10//HKD +37 (IAS)////50%//2500/Air Throw
+2///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

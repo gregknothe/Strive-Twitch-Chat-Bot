@@ -28,20 +28,20 @@
 26//2H Level 2/55/All/17/7/29/-17/KD +21/4/Large//90%/2500/1000/
 27//2H Level 3/60/All/15/7/29/-17/KD +21/4/Large//90%/2500/1000/
 28//2H Level BR/78/All/15/7/29/-17/KD +21/4/Large//90%/2500/1000/
-29//j.P/20/High/7/3/12///0/Small//80%/200/1000/
-30//j.K/26/High/7/3/19///1/Small//80%/1000/1000/
-31//j.S Level 1/35/High/13/3/20///2/Mid//80%/1500/1000/
-32//j.S Level 2/37/High/12/3/20///2/Mid//80%/1500/1000/
-33//j.S Level 3/39/High/11/3/20///2/Mid//80%/1500/1000/
-34//j.S Level BR/50/High/11/3/20///2/Mid//80%/1500/1000/
-35//j.H Level 1/41/High/16/4/23///3/Mid//80%/2000/1000/
-36//j.H Level 2/43/High/15/4/23///3/Mid//80%/2000/1000/
-37//j.H Level 3/45/High/14/4/23///3/Mid//80%/2000/1000/
-38//j.H Level BR/58/High/14/4/23///3/Mid//80%/2000/1000/
-39//j.D Level 1/55/High/15/3/20//KD/3/Mid//80%/2000/1000/
-40//j.D Level 2/60/High/13/3/20///3/Mid//80%/2000/1000/
-41//j.D Level 3/65/High/11/3/20///3/Mid//80%/2000/1000/
-42//j.D Level BR/84/High/11/3/20///3/Mid//80%/2000/1000/
+29//j.P/20/High/7/3/12///0/Small//80%/375/1000/
+30//j.K/26/High/7/3/19///1/Small//80%/750/1000/
+31//j.S Level 1/35/High/13/3/20///2/Mid//80%/1125/1000/
+32//j.S Level 2/37/High/12/3/20///2/Mid//80%/1125/1000/
+33//j.S Level 3/39/High/11/3/20///2/Mid//80%/1125/1000/
+34//j.S Level BR/50/High/11/3/20///2/Mid//80%/1125/1000/
+35//j.H Level 1/41/High/16/4/23///3/Mid//80%/1500/1000/
+36//j.H Level 2/43/High/15/4/23///3/Mid//80%/1500/1000/
+37//j.H Level 3/45/High/14/4/23///3/Mid//80%/1500/1000/
+38//j.H Level BR/58/High/14/4/23///3/Mid//80%/1500/1000/
+39//j.D Level 1/55/High/15/3/20//KD/3/Mid//80%/1500/1000/
+40//j.D Level 2/60/High/13/3/20///3/Mid//80%/1500/1000/
+41//j.D Level 3/65/High/11/3/20///3/Mid//80%/1500/1000/
+42//j.D Level BR/84/High/11/3/20///3/Mid//80%/1500/1000/
 43//6P/34/All/12/5/15/-6/-3/2/Mid/1~3F Upper Body 4~17F Above Knee/90%/1500/1000/
 44//6K/35/Low/15/3/15/-4/-1/2/Mid//90%/1125/1000/
 45//6H Level 1/70/All/17/6/30/-17/KD -3/4/Large//90%/2500/1000/
@@ -63,3 +63,8 @@
 0//632146S/70, 3×17, 60 [70]/All/7+(173 Flash)+2/2/54/-39/HKD +39 [HKD +73]/3/Mid/1~10F Full//2000/1000/Wasureyuki
 1//632146H/200/All/11+(58 Flash)+10/6/80/-66/HKD +15/4/Very Small/1~26F Full//2500/1000/Zansetsu
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0////All (Guard Crush)/4+(38 Flash)+3/10/70/-12/HKD (+33)///1~16f Full/100%/5/1000/BR Activation
+1/////1+(59 Flash)//0/////1F Full////BR Deactivation
+2///90/Ground Throw/2/3/38//HKD +41////50%//2500/Ground Throw
+3///90/Air Throw/2/3/38 or Until Landing+10//HKD +51 (IAS)////50%//2500/Air Throw
+4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

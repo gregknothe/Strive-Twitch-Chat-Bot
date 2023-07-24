@@ -30,3 +30,7 @@
 0//632146H/21×4, 84/All/5+4/4(4)4(4)4(4)4(4)7/49/-37/HKD +18/4/Mid/1~10F Full/100%/400×5/1000/Ventania
 1//j.236236H/42, 10×5, 21, 31/All/3+1/Until L//0~+6/HKD +36/3/Mid//100%/2000/1000×2/Tempestade
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Throw/2/3/38//HKD +39////50%//2500/Ground Throw
+1///80/Throw/2/3/38 or Until Landing+10//HKD +43 (IAD)////50%//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

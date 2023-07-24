@@ -13,7 +13,7 @@
 11//j.S/33/High/8/7/19/+1 (IAD)/+4 (IAD)/2/Mid//80%/1125/1000/
 12//j.H/41/High/15/Until Landing/3 after Landing/+7 (IAD)/+10 (IAD)/2/Mid//80%/1125/1000/
 13//j.D/53/High/12/3/26///3/Mid//90%/1500/1000/
-14//6P/32/All/9/5/19/-10/-7/2/Mid/1-3f Upper Body 4-13f Above Knees/90%/1500/1000/
+14//6P/32/All/9/5/19/-10/-7/2/Mid/1-2f Upper Body 3-13f Above Knees/90%/1500/1000/
 15//6K/33/All/12/9/10/-5/-2/2/Mid//90%/1500/1000/
 16//6H/52/All/20/8/24/-13/-10/4/Large//90%/2500/1000/
 17//2D/2016/Low/10/63/21/-10/HKD +49/2/Large//90%/525×2/1000/
@@ -32,3 +32,8 @@
 1//214214P/110/All (Guard Crush)/8+3/28/Total 47/+5/HKD +59/4/Small///500/1000/Kenjyu
 2//j.214214P/110/All (Guard Crush)/11+3/28/Total 45//HKD/4/Small///500/1000/Air Kenjyu
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///2060/Ground Throw (90000)/2/3/38//HKD +60///none/50%//2500/Ground Throw (Tether)
+1///2060/Ground Throw (90000)/2/3/38//HKD +47///none/50%//2500/Ground Throw (Knockback)
+2///2060/Air Throw/2/3/38 or Until Landing+10//HKD +43 (IAD)///none/50%//2500/Air Throw
+3///////Total 22/////////Dash Cancel
+4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

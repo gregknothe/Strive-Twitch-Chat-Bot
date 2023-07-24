@@ -6,14 +6,14 @@
 4/f.S.2/14/3/28/-17/2/Normal/f.SS.2,5H.2,2H.2
 5/f.S.3/12/3/28/-17/2/Normal/f.SS.3,5H.3,2H.3
 6/f.S.BR/12/3/28/-17/2/Normal/f.SS.BR,5H.BR,2H.BR
-7/f.SS.1/13/3/19/-8/2/Normal/f.SSS.1
-8/f.SS.2/13/3/19/-8/2/Normal/f.SSS.2
-9/f.SS.3/13/3/19/-8/2/Normal/f.SSS.3
-10/f.SS.BR/13/3/19/-8/2/Normal/f.SSS.BR
-11/f.SSS.1/14/6/35/-22/4/Normal/f.SSS.1
-12/f.SSS.2/14/6/35/-22/4/Normal/f.SSS.2
-13/f.SSS.3/14/6/35/-22/4/Normal/f.SSS.3
-14/f.SSS.BR/14/6/35/-22/4/Normal/f.SSS.BR
+7/f.SS.1/13/3/19/-8/2/Rekka Followup/f.SSS.1
+8/f.SS.2/13/3/19/-8/2/Rekka Followup/f.SSS.2
+9/f.SS.3/13/3/19/-8/2/Rekka Followup/f.SSS.3
+10/f.SS.BR/13/3/19/-8/2/Rekka Followup/f.SSS.BR
+11/f.SSS.1/14/6/35/-22/4/Rekka Followup/f.SSS.1
+12/f.SSS.2/14/6/35/-22/4/Rekka Followup/f.SSS.2
+13/f.SSS.3/14/6/35/-22/4/Rekka Followup/f.SSS.3
+14/f.SSS.BR/14/6/35/-22/4/Rekka Followup/f.SSS.BR
 15/5H.1/20/6/27/-14/4/Normal/Special,Super
 16/5H.2/18/6/27/-14/4/Normal/Special,Super
 17/5H.3/16/6/27/-14/4/Normal/Special,Super
@@ -56,7 +56,7 @@
 54/214K///Total 16///Special/
 55/214H/14/5/17/-3/4/Special/236S,623H
 56/623H/11/3/21/-7/3/Special/236S,214H,623HH
-57/623HH/10/6/29/-16/4/Special/236S,214H
+57/623HH/10/6/29/-16/4/Rekka Followup/236S,214H
 58/623P/7/2/48///Special/
 59/632146S/9/2/54/-39/3/Super/
 60/632146H/21/6/80/-66/4/Normal/Special,Super

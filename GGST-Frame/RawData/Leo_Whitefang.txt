@@ -34,3 +34,13 @@
 0//632146S/170/All/4+1//Total 27F/+14/HKD +67/4/Very Small//100%/500/1000/Stahl Wirbel
 1//632146H/20×4,50/All/10+1/8(15)12(13)8(10)8(44)6/43/-33/HKD +34/4/Mid/1-18 Full/100%/500×5/1000/Leidenschaft des Dirigenten
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +50////50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +48 (IAD)////50%//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///30/All/7/4/12/-2 [+2]/13 [+17]/2/Mid/1-10 Upper Body/90%/1500/1000/bt.P
+4///24/Low/5/3/6/+3 [+0]/+6 [+3]/1/Small//70%/750/1000/bt.K
+5///28/All/6/6/14/-3 [+5]/0 [+8]/3/Mid//90%/2000/1000/bt.S
+6///42/High/18/4/22/-7 [+5]/KD +38 [KD +50]/4/Mid/9~19F Airborne/80%/1875/2000/bt.H
+7///74/All/3/17/18//KD +31///"1-2 Strike/Projectile 3-19 Parry"/50%//2500/Kahn Schild
+8/////-//Total 11F/////////Brynhildr Cancel
+9///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -35,3 +35,7 @@
 0//236236S/20×2,60/All/4+5/Until corner/Total 43/+8/HKD +77/224/Very Small/9-26F Airborne/100%/100×3/1000/Septem Voices
 1//632146H/20×5,60/All/8+1/10(9)15/40/-32/HKD +21/4/Mid/1-8F Full 7-40F Airborne/100%/400×5, 500/1000/Winger
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///70/Ground Throw/2/3/38/-/HKD +33/-//None/Forced 50%//2500/Ground Throw
+1///4030/Air Throw/2/3/38 or Until Landing+10//HKD +52 (IAD)///None/Forced 50%//2500/Air Throw
+2///////Total 24/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

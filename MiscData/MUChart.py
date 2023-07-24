@@ -1,7 +1,7 @@
 import pandas as pd 
 import numpy as np
 
-data = pd.read_csv("MUData2.csv", header=None)
+data = pd.read_csv("MUData3.csv", header=None)
 
 charList = data[0][1:].to_list()
 data = data.T.set_index(0,drop=True)
@@ -23,12 +23,59 @@ finalDF.columns = charList
 for x in noData:
     finalDF[x] = np.nan
 #print(finalDF)
-    
 
+winList, loseList, evenList= [], [], []
+for x in charList:
+    winCount, loseCount, evenCount = 0, 0, 0
+    for y in charList:
+        if finalDF.loc[x,y] >= .001:
+            winCount += 1
+        elif finalDF.loc[x,y] <= -.001:
+            loseCount += 1
+        else:
+            evenCount += 1
+    winList.append(winCount)
+    evenList.append(evenCount)
+    loseList.append(loseCount)
+
+muDiff = []
+for x in range(len(winList)):
+    muDiff.append(winList[x] - loseList[x])
+
+finalDF["Win"] = winList
+finalDF["Even"] = evenList
+finalDF["Lose"] = loseList
+#finalDF["W/L delta"] = muDiff
+'''
+winList2, loseList2, evenList2= [], [], []
+for x in charList:
+    winCount2, loseCount2, evenCount2 = 0, 0, 0
+    for y in charList:
+        if finalDF.loc[y,x] >= .001:
+            winCount2 += 1
+        elif finalDF.loc[y,x] <= -.001:
+            loseCount2 += 1
+        else:
+            evenCount2 += 1
+    winList2.append(winCount2)
+    evenList2.append(evenCount2)
+    loseList2.append(loseCount2)
+
+finalDF.loc[len(finalDF)] = winList2
+finalDF.loc[len(finalDF)] = evenList2
+finalDF.loc[len(finalDF)] = loseList2
+print(finalDF)
+'''
+
+print(finalDF.round(2))
+print("Total Winning MU: " + str(sum(winList)))
+print("Total Even MU: " + str(sum(evenList)))
+print("Total Loss MU: " + str(sum(loseList)))
 #How to read:
 #Columns are the is the average player's opinion on all the matchups
 #Rows are the other player's opinion on the matchups
 
+'''
 char = "May"
 charDF = finalDF[char].to_frame()
 charDF.columns = [char + " Players"]
@@ -48,6 +95,6 @@ for x in charList:
         if charDF.loc[x, char+" Players"] >= .01:
             diffText.append("")
 
-print(charDF)
-
+#print(charDF)
+'''
 

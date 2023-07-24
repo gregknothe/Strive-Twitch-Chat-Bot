@@ -9,10 +9,10 @@
 7//2S/31/Low/12/3/18/-7/-4/2/Mid//90%///
 8//2H/13×3/All/14/2, 2, 2/18/-3/KD/3/Large//90%///
 9//j.P/17/High/6/3/13///0/Small//80%///
-10//j.K/21/High/7/4/15///1/Small//80%///
-11//j.S/27/High/9/5/18///2/Mid//80$///
-12//j.H/37/High/11/4/32///2/Mid//80%///
-13//j.D/39/High/14/3/25///2/Mid//80%///
+10//j.K/21/High/7/4/15/-3 (IAD)/+0 (IAD)/1/Small//80%///
+11//j.S/27/High/9/5/18/+1 (IAD)/+4 (IAD)/2/Mid//80$///
+12//j.H/37/High/11/4/32/+4 (IAD)/+7 (IAD)/2/Mid//80%///
+13//j.D/39/High/14/3/25/+7 (IAD)/+10 (IAD)/2/Mid//80%///
 14//6P/29/All/11/6/17/-9/KD/2/Mid/1~4F Upper Body 5~16F Above Knees/90%///
 15//6K/19×2/Low/14/2, 2/16/-4//2/Mid//90%///
 16//6H/57/High/25/7/25/-13/HKD/4/Large//80%///
@@ -56,3 +56,8 @@
 0//"632146P/K"/22×5/All/6+1/Until Hit//+36/KD/4x5/Very Small//100%/300//Submicron Particle Sphere
 1//632146S///16//Total 17/////////Bookmark (Full Order)
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///1×20, 50/Ground Throw: 90/2/3/38//////Forced 50%//2500/Ground Throw
+1///70/Air Throw: 200/2/3/38 or Until Landing+10//////Forced 50%//2500/Air Throw
+2///80//11////HKD (+23)//////1000/Finish Blow
+3///////Total 22/////////Dash Cancel
+4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

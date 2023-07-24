@@ -8,10 +8,10 @@
 6//2K/18/Low/5/4/8/-2/+1/0/Small//70%/375/1000/
 7//2S/28/All/10/4/17/-7/-4/2/Mid//90%/1500/1000/
 8//2H/36/All/12/9/24/-14/KD +28/4/Large//90%/2500/1000/
-9//j.P/16/High/5/4/8///0/Small//80%/375/1000/
-10//j.K/16×2/High/6/2(3)2/8///1/Small//80%/375×2/1000/
+9//j.P/16/High/5/4/8/+2 (IAD j.PPP)/+5 (IAD j.PPP)/0/Small//80%/375/1000/
+10//j.K/16×2/High/6/2(3)2/8/+1 (IAD)/+4 (IAD)/1/Small//80%/375×2/1000/
 11//j.S/32/High/9/4/18/+1 (IAD)/+4 (IAD)/2/Mid//80%/1125/1000/
-12//j.H/22×2/High/8/3×4/17/+4 (IAD)/+7 (IAD)/2/Mid//80%/525×2/1000/
+12//j.H/22×2/High/8/3×4/17/+4~5 (IAD)/+7~8 (IAD)/2/Mid//80%/525×2/1000/
 13//j.D/44/High/8/4/22/0 (IAD)/+3 (IAD)/2/Mid//80%/1125/1000/
 14//6P/26/All/9/5/25/-16/-13/3/Mid/1~2F Upper Body 3~13F Above Knee/90%/1500/1000/
 15//6K/35/High/20/5/9/-2/+1/1/Small//80%/750/1000/
@@ -38,3 +38,15 @@
 1//632146H/10×4, 135/All/20+1/58~64/49~53//HKD +22//Very Small/6~22 Full/100%/600×4/1000/Zansei Rouga
 2//j.632146H/10×4, 135/All/13+1/54~64/Until Landing+20//HKD +23//Very Small/4~15 Full/100%/600×4/1000/Air Zansei Rouga
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///20×2, 30/Ground Throw/2/3/38//HKD +50////50%//2500/Ground Throw
+1///70/Air Throw/2/3/38 or Until Landing+10//HKD +38 (IAD)////50%//2500/Air Throw
+2///////Total 24/////////Dash Cancel
+3////////////////Wall Run
+4////////////////Escape
+5///31//9/3/31/////////Wall Run P
+6///28//6/5/15/////////Wall Run K
+7///45//6/2/18/////////Wall Run S
+8///36//7/2/23/////////Wall Run SS
+9///50//10/7/21/////////Wall Run H
+10///72//17/6/21/////////Wall Run 6H
+11///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

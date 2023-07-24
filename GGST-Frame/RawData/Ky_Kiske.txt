@@ -51,3 +51,7 @@
 5//DI 236236P/20×8/All (Guard Crush)/4+3/Until Hit/Total 38/+32/+24/4×8/Very Small/none/100%/100×8/1000/DI Sacred Edge
 6//214214H/80 [88]/All/11+1/5/25/+4/HKD +63//Very Small/none/100%/500/1000/Dragon Install
 7//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/90/2/3/38//HKD +55///none/50%//2500/Ground Throw
+1///80/200/2/3/38 or Until Landing+10//HKD +48 (IAD)///none/50%//2500/Air Throw
+2///////Total 22/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

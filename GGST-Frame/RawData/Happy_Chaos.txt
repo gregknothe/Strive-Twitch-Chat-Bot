@@ -34,3 +34,7 @@
 0//632146S/20, 1×17, 100/All/13+(193 Flash)+7///-25/HKD +31/2×18, 4/Small//100%/100×19/1000 (Once)/Deus Ex Machina
 1//214214P/-/-/5/(52 Flash)/Total 11/-/-/-//////Super Focus
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38/-/HKD +43/-///50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10/-/HKD +44 (IAD)////50%//2500/Air Throw
+2///////Total 26/////////Dash Cancel
+3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
