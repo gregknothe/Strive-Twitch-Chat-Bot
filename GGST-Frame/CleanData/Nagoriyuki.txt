@@ -1,7 +1,7 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
-0/5P/5/3/9/0/1/Normal/5P,2P,6P,6K,6H,Special,Super
-1/5K/7/2/12/0/2/Normal/6P,6K,6H,5D,2D,Jump,Special,Super
-2/c.S/7/6/10/3/4/Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Special,Super
+0/5P/5/3/9/0/1/Normal/5P,2P,6P,6K,6H.1,6H.2,6H.3,6H.BR,Special,Super
+1/5K/7/2/12/0/2/Normal/6P,6K,6H.1,6H.2,6H.3,6H.BR,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/3/4/Normal/6P,6K,f.S.1,f.S.2,f.S.3,f.S.BR,2S.1,2S.2,2S.3,2S.BR,5H.1,5H.2,5H.3,5H.BR,2H,6H.1,6H.2,6H.3,6H.BR,5D,2D,Special,Super
 3/f.S.1/16/3/28/-17/2/Normal/f.SS.1,5H.1,2H.1
 4/f.S.2/14/3/28/-17/2/Normal/f.SS.2,5H.2,2H.2
 5/f.S.3/12/3/28/-17/2/Normal/f.SS.3,5H.3,2H.3
@@ -18,8 +18,8 @@
 16/5H.2/18/6/27/-14/4/Normal/Special,Super
 17/5H.3/16/6/27/-14/4/Normal/Special,Super
 18/5H.BR/16/6/27/-14/4/Normal/Special,Super
-19/2P/6/3/11/-2/1/Normal/5P,2P,6P,6K,6H,Special,Super
-20/2K/7/5/8/-1/1/Normal/6P,6K,6H,5D,2D,Special,Super
+19/2P/6/3/11/-2/1/Normal/5P,2P,6P,6K,6H.1,6H.2,6H.3,6H.BR,Special,Super
+20/2K/7/5/8/-1/1/Normal/6P,6K,6H.1,6H.2,6H.3,6H.BR,5D,2D,Special,Super
 21/2S.1/12/4/21/-11/2/Normal/5H.1,2H.1,Special,Super
 22/2S.2/11/4/21/-11/2/Normal/5H.2,2H.2,Special,Super
 23/2S.3/10/4/21/-11/2/Normal/5H.3,2H.3,Special,Super

@@ -1,0 +1,68 @@
+input/damage/guard/cancel/startup/active/recovery/hitAdv/blockAdv/name/0
+5LP/300/LH/ch sp su/4/2/9/+4/-1//
+5MP/600/LH/tc sp su/6/3/14/+5/+1//
+5HP/800/LH/sp su/9/3/21/+1/-4//
+5LK/300/LH/sp su/4/3/10/+3/-1//
+5MK/600/LH/-/8/3/17(19)/+6/-3//
+5HK/800/LH/-/13/8/18/-1/-5//
+2LP/300/LH/ch sp su/5/3/7/+5/-1//
+2MP/600/LH/sp su/6/4/13/+4/+1//
+2HP/900/LH/su/12/3/23(21)/+5/-6//
+2LK/200/L/ch/5/3/8/+3/-1//
+2MK/500/L/sp su/7/3/18/-1/-5//
+2HK/900/L/-/9/3/24(28)/HKD +31/-11//
+j.LP/300/H/-/4/5/3 land/-/-//
+j.MP/600/H/sp/9/5/3 land/-/-//
+j.HP/400x2/H/-/8/4(2)3/3 land/-/-//
+j.LK/300/H/-/5/5/3 land/-/-//
+j.MK/500/H/-/7/6/3 land/-/-//
+j.HK/800/H/-/10/5/3 land/-/-//
+6MP/300x2/LH/sp (1st)/8(24)/2(14)2/18/+1/-3//
+6HP/800/H/-/22/3/21/+3/-3//
+6HK/900/LH/-/16/4/20(23)/+2/-3//
+j.2HP/850/H/sp/10/5/3 land/-9(-1)/-29(-21)//
+j.8HK/800/H/-/8/5/3 land/-/-//
+6[6]~6P/400x2/L â¢ LH/-/20+8/10/17/+7/-10//
+6[6]~6K/600x2/LH â¢ LH/-/20+16/2(4)3/21/+3/-4//
+6[6]~6K (Air Current)/400x2,600/LH â¢ LH/-/20+9/3(21)2(3)3/22/KD +22(+56 OTG)/-5//
+5MP~HK/400/LH/sp su/13/4/36/KD +42/-20//
+9 (against wall)/-/-/-/-/-/-/-/-/Wall Jump/
+6[6]/-/-/-/20/-/5(18)/-/-/Run/
+6KK/-/-/-/32 total/-/-/-/-/Side Flip/
+6KK~KK/-/-/-/18+51 total/-/8 land/-/-/Front Flip/
+236LP/300,200x2 (700)/LH/su3 (1st)/8/3(5)2(4)2/19(24)/+2/-3/Spinning Mixer/
+236LP (Air Current)/200,100x8 (1000)/LH/su3 (1st)/6/2(4)3(3)3(4)3(3) 3(4)3(3)3(4)3(3)3/15/+4/+2/Spinning Mixer/
+236MP/300,100x3,200 (800)/LH/"su3 â¢ (sp/su land)"/8/1,2(2)2(5)2(3)2/34+14 land/KD +31/-45(-49)/Spinning Mixer/
+236MP (Air Current)/200x2,100x8,200 (1400)/LH/su3/5/1,2(2)2(4)2(3)2(6) 2(3)2(5)2(3)2(5)2(3)2/37+19 land/KD +42/-78(-83)/Spinning Mixer/
+236HP/100x5,700 (1200)/LH/-/6/2(2)3(3)3(4) 3(4)3(4)3/24+14 land/KD +33/-55/Spinning Mixer/
+236HP (Air Current)/125x8,800 (1800)/LH/-/5/2(2)3(3)3(4)3(3) 3(2)3(2)3(2)3(3)3/39+14 land/KD +27/-83/Spinning Mixer/
+236PP/300x2,100x6,200 (1400)/LH/-/6/1,2(2)3(2)4(2) 4(2)4(2)4(2)4(2)3/38+15(19) land/KD +25/-42(-48)/Spinning Mixer/
+236PP (Air Current)/200x2,100x8,200 (1400)/LH/sp (air)/4/1,2(2)3(2)4(2)4(2) 4(2)4(2)4(2)4(2)4/36+19 land/KD +47/-72(-84)/Spinning Mixer/
+214LK/1100/LH/-/15/13/11+20 land (19+32 land oB)/KD +30(+42)/-36/Eagle Spike/
+214LK (Air Current)/1300/LH/-/14/13/11+22 land (19+20 land oB)/KD +35(+47)/-24/Eagle Spike (Air Current)/
+214MK/1300/LH/-/21/13/5+21 land (22+33 land oB)/KD +52(+64)/-36/Eagle Spike/
+214MK (Air Current)/1500/LH/-/17/15/"5+45 land (22+12 land oH/oB)"/KD +59/-15/Eagle Spike (Air Current)/
+214HK/1500/LH/-/26/13/6+21 land (22+33 land oB)/KD +56(+68)/-36/Eagle Spike/
+214HK (Air Current)/1500/LH/-/17/15/"5+45 land (22+12 land oH/oB)"/KD +59/-15/Eagle Spike (Air Current)/
+214KK/1000/LH/-/21/13/7+19 land (22+33 land oB)/KD +53(+65)/-36/Eagle Spike/
+214KK (Air Current)/1300/LH/-/18/14/7+15 land (22+21 land oB)/KD +53(+65)/-24/Eagle Spike (Air Current)/
+236K/600/LH/su3/11+6/-/35/-1/-9/Whirlwind Shot/
+236{K}/600300/LH/su3/28+6/-/26/+5/0/Whirlwind Shot (Partial Hold)/
+236[K]/400x2,200/LH/su3/53/-/11+6/+16/+8/Whirlwind Shot (Hold)/
+236KK/300400/LH/su2 su3/17/-/35/KD +49/-2/Whirlwind Shot/
+236[KK]/400x3/LH/su2 su3/44/-/35/KD +65/+10/Whirlwind Shot (Hold)/
+214LP/400x2/LH/su3/15/3(1)15/28(14)/+2/-6/Arabian Cyclone/
+214MP/400500/LH/su3/20/3(1)15/26(12)/+4/-4/Arabian Cyclone/
+214HP/400,300x2/LH/su3/27/3(1)15/29(24)/KD +40/-2/Arabian Cyclone/
+214PP/400x2/LH/su2 su3/20/3(1)29/25(29)/KD +49/-10/Arabian Cyclone/
+214P~4K/-/-/-/32/-/6 land/-/-/Wing Stroke/
+214P~6K/-/-/-/-/-/33/-/-/Rolling Assault/
+214P~6K~K/600/LH/su3/17/3/26/KD +44/-9/Nail Assault/
+j.214LK/600/LH/-/13(14)/9/3 land/KD +16(+18)~/-32(-35)/Arabian Skyhigh/
+j.214MK/700/LH/-/18(19)/9/3 land/KD +18(+20)~/-35(-38)/Arabian Skyhigh/
+j.214HK/800/LH/-/21(22)/9/3 land/KD +20(+22)~/-43(-46)/Arabian Skyhigh/
+j.214KK/1000500/LH/-/13(14)/9/3 land/KD +34(+35)~/-25(-29)/Arabian Skyhigh/
+236236K/2100(1800)/LH/-/9/7/20+56 land (33+42 land oB)/KD +11(+7~14)/-53/Super Rashid Kick/
+214214K/200x5/LH/-/11/[349]/22/KD +104/+33/Ysaar/
+236236P/4000/LH/-/11/18/82/HKD +17/-75/Altair/
+//////////Street Fighter 6 (SF6)

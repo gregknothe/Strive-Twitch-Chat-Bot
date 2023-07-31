@@ -4,7 +4,7 @@ import urllib.request
 import difflib
 
 def nameCleaner(char):
-    charList = ["Blanka", "Cammy", "Chun-Li", "Dee_Jay", "Dhalsim", "E.Honda", "Guile", "Jamie", "JP", "Juri", "Ken", "Kimberly", "Lily", "Luke", "Manon", "Marisa", "Ryu", "Zangief"]
+    charList = ["Blanka", "Cammy", "Chun-Li", "Dee_Jay", "Dhalsim", "E.Honda", "Guile", "Jamie", "JP", "Juri", "Ken", "Kimberly", "Lily", "Luke", "Manon", "Marisa", "Ryu", "Zangief", "Rashid"]
     char = str(difflib.get_close_matches(char,charList,n=1,cutoff=.3)).replace("['","").replace("']","")
     return char
 
@@ -14,7 +14,8 @@ def scrapeFrameData(charName):
     page=urllib.request.Request(url,headers={'User-Agent': 'Mozilla/5.0'}) 
     infile=urllib.request.urlopen(page).read()
     data = pd.read_html(infile.decode('ISO-8859-1'))
-    data = pd.concat([data[1], data[3], data[4], data[5], data[7]])
+    print(data)
+    data = pd.concat([data[1], data[3], data[4], data[5]])#, data[7]])
     data = data[data["input"]!="input"]
     data = data.set_index("input")
     data = data[~data.index.duplicated(keep='first')]
@@ -46,3 +47,6 @@ for x in charList:
 #print(SF6FrameData("lily", "5lk"))
 #print(SF6FrameData("manon","236MK"))
 #print(SF6FrameData("blanka","236MK"))
+
+#scrapeFrameData("Rashid")
+#print(SF6FrameData("rashid","j.214LK"))

@@ -7,16 +7,20 @@ import numpy as np
 '''
 To Do List:
 
-2. Do the math part of the frame trap, test it, update the 
-   twitch bot to utilize it
+
 3. Create a UI (website/phoneapp/ect) to house said program
 '''
+
+charList =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
+                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
 
 def nameCleaner(char):
     #Takes the user inputed character name and replaces it with a useable character name (hopefully).
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Nago", "Millia", "Millia_Rage", "Chipp", "Chipp_Zanuff", "Sol", "Sol_Badguy", "Ky", "Ky_Kiske", "Kyle", "May", 
-                "Zato-1", "I-No", "Happy", "Chaos", "Happy_Chaos", "Bedman", "Sin", "Sin_Kiske", "Baiken", "Anji", "Anji_Mito", "Leo", "Leo_Whitefang", "Faust", "Axl", "Axl_Low",
+                "Zato-1", "I-No", "ino", "Happy", "Chaos", "Happy_Chaos", "Bedman", "Sin", "sin", "Sin_Kiske", "Baiken", "Anji", "Anji_Mito", "Leo", "Leo_Whitefang", "Faust", "Axl", "Axl_Low",
                 "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+    #charListLower, char = [x.lower() for x in charList], char.lower()
     char = str(difflib.get_close_matches(char,charList,n=1,cutoff=.3)).replace("['","").replace("']","")
     if char == "Sol":
         char = "Sol_Badguy"
@@ -24,7 +28,7 @@ def nameCleaner(char):
         char = "Ky_Kiske"
     elif char == "Happy" or char == "Chaos":
         char = "Happy_Chaos"
-    elif char == "Sin":
+    elif char == "Sin" or char == "sin":
         char = "Sin_Kiske"
     elif char == "Leo":
         char = "Leo_Whitefang"
@@ -44,6 +48,8 @@ def nameCleaner(char):
         char = "Millia_Rage"
     elif char == "Chipp":
         char = "Chipp_Zanuff"
+    elif char == "ino":
+        char = "I-No"
     return char
 
 def dataScrape(char):
@@ -79,7 +85,7 @@ def moveLookup(char, move):
     char = nameCleaner(char)
     data = pd.read_csv("GGST-Frame/RawData/"+char+".txt", sep="/")
     moveList = data["Input"].to_list()
-    moveListLower = [x.lower() for x in moveList]
+    moveListLower = [str(x).lower() for x in moveList]
     move = move.lower()
     move = str(difflib.get_close_matches(move,moveListLower,n=1,cutoff=.5)).replace("['","").replace("']","")
     moveIndex = moveListLower.index(move)
@@ -153,6 +159,8 @@ def addRekkas(char, moveDF):
                 moveDF.loc[x]["Type"] = "Rekka Followup"
     if char == "Nagoriyuki":
         for x in range(len(moveDF["Input"])):
+            if moveDF.loc[x]["Input"] in ["5P", "5K", "c.S", "2P", "2K"]:
+                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"].replace("6H", "6H.1,6H.2,6H.3,6H.BR").replace("f.S","f.S.1,f.S.2,f.S.3,f.S.BR").replace("5H","5H.1,5H.2,5H.3,5H.BR").replace("2S","2S.1,2S.2,2S.3,2S.BR")
             if moveDF.loc[x]["Input"] == "236S":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214H,623H"
             if moveDF.loc[x]["Input"] == "214H":
@@ -379,7 +387,8 @@ def frameTrap(char, move1, move2):
     move1 = inputCleaner(move1, data["Input"])
     move2 = inputCleaner(move2, data["Input"])
     move1Index = data.index[data["Input"]==move1].tolist()[0]
-    move1Act, move1Rec, move1OB, move1Lvl, move1Cancel = data.loc[move1Index, "Active"], data.loc[move1Index, "Recovery"], data.loc[move1Index, "On-Block"], data.loc[move1Index, "Level"], data.loc[move1Index, "Cancels"]
+    move1Act, move1Rec, move1OB, move1Lvl = data.loc[move1Index, "Active"], data.loc[move1Index, "Recovery"], data.loc[move1Index, "On-Block"], data.loc[move1Index, "Level"]
+    move1Cancel = data.loc[move1Index, "Cancels"].split(",")
     move2Index = data.index[data["Input"]==move2].tolist()[0]
     move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
     #Rekka Check
@@ -408,9 +417,14 @@ def frameTrap(char, move1, move2):
         gap = move2Start - levelHitstun(move1Lvl)
     #Air non-gatling and Air to Ground
     else:
-        return char + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
-    return char + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
+        return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
+    return char.replace("_"," ") + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
 
-#viewData("Anji_Mito")
-print(frameTrap("chipp", "jh", "236s"))
+#updateClean("Nagoriyuki")
+#viewData("Nagoriyuki")
 
+#char = "asuka"
+#viewData(nameCleaner(char))
+#print(frameTrap(char, "cS", "howling metron"))
+
+#print(moveLookup("Millia", "5P"))
