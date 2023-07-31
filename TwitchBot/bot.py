@@ -10,6 +10,9 @@ import os
 import sys
 sys.path.insert(0, 'TournamentData')
 import StartGGDataScraper as sgg
+sys.path.insert(0, 'GGST-Frame')
+import GGSTFrameData as ggst
+
 
 #sys.path.append("/TournamentData/")
 #from StartGGDataScraper import *
@@ -54,6 +57,10 @@ async def test(ctx, *, text):
 @bot.command(name="movelist")
 async def movelist(ctx, *, text):
     await ctx.send(fc.charMoveList(text))
+
+@bot.command(name="gg")
+async def gg(ctx, *, text):
+    await ctx.send(ggst.moveLookup(text.split(" ")[0], text.split(" ")[1]))
 
 heyUserList = []
 
