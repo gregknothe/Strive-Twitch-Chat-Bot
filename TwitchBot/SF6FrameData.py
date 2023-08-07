@@ -49,4 +49,4 @@ for x in charList:
 #print(SF6FrameData("blanka","236MK"))
 
 #scrapeFrameData("Rashid")
-#print(SF6FrameData("rashid","j.214LK"))
+#print(SF6FrameData("rashid","5mk"))
