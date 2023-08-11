@@ -1,0 +1,167 @@
+.topnav {
+    background-color: #141414;
+    height: 30px;
+}
+
+.topnavTitle {
+    color: #a0a0a0;
+    font: 28px Gill Sans, sans-serif;
+    font-weight: bold;
+    word-spacing: 0px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.topnavButton {
+    color: #ffffff;
+    font: 20px Gill Sans, sans-serif;
+    font-weight: bold;
+    float: right;
+    word-spacing: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.topnavButton:hover {
+    background-color: #303030;
+    box-shadow: inset 0 0 0 1px #ffffff;
+    color: #ffffff;
+}
+
+.mainTitle {
+    color: #ffffff;
+    font: 25px Gill Sans, sans-serif;
+    text-align: center;
+}
+
+
+.icons {
+    /* display: flexbox; */
+    padding-top: 0!important;
+    padding-bottom: 0!important; 
+    /*background-color: #3a23e7;*/
+}
+
+.lines{
+    color: #ffffff;
+    background-color: #ffffff;
+    align-items: center;
+    height: 3px;
+    
+}
+
+a { 
+    color: inherit; 
+    text-decoration:none;
+} 
+
+.moveImage { 
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    color: #ff25d0;
+}
+
+.entireTable {
+    background-color: #141414;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+    font: 16px Gill Sans, sans-serif;
+    width: 50%;
+}
+
+.dataframe{
+    color: #ffffff;
+    border: 2px inset #ffffff;
+    border-color: #303030;
+    font: 16px Gill Sans, sans-serif;
+    text-align: center;
+
+    padding: 10px;
+    margin: auto;
+    border: none;
+}
+
+.dataframe th, td {
+    height: 80px;
+    min-width: 80px;
+    max-width: 250px;
+}
+.dataframe tr:nth-child(odd){
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.dataframe tr:nth-child(even){
+    background-color: #1a1a1a63;
+    color: #ffffff;
+}
+
+.dataframe img{
+    max-height: 80px;
+    max-width: 80px;
+}
+.dataframe img:hover {
+    transform: scale(3);
+}
+
+.inputSection {
+    background-color: #1a1a1a;
+    width: 330px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 3px solid #ffffff;
+}
+
+.inputText{
+    color: #ffffff;
+    font: 16px Gill Sans, sans-serif;
+    width: 50%;
+    text-align: center;
+}
+
+.inputBox {
+    background: #141414;
+    color: #ffffff;
+    font: 16px Gill Sans, sans-serif;
+    height: 20px;
+    width: 130px;
+    font-size: 15px;
+}
+
+.exampleText {
+    color: #ffffff;
+    font: 12px Gill Sans, sans-serif;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+
+.inputArea {
+    background-color: #141414;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: inline-flex;
+    align-self: center;
+}
+
+.character {
+    background: #363636;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.moveInput {
+    color: #ffffff;
+    background: #363636;
+    border-color: #ffffff;
+}

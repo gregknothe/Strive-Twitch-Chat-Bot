@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="css.css">
+
+<link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+
+<body style="background-color: #202020;">
+</body>
+
+<div class="topnav">
+    <a class="topnavTitle">GGST FTC</a>
+    <a class="topnavButton">Contact</a>
+    <a class="topnavButton">About</a>
+    <a href="./main.html" class="topnavButton">Home</a>
+</div>
+
+<header class="mainTitle">
+    <h1>
+        GGST Frame Trap Calculator
+    </h1>
+</header>
+
+<hr class="lines">
+
+<!-- main page character select-->
+<div class="inputArea">
+
+    <select name="character" id="character" class="character">
+        <option value="Sol_Badguy">Sol Badguy</option>
+        <option value="Ky_Kiske">Ky Kiske</option>
+        <option value="May">May</option>
+        <option value="Axl_Low">Axl Low</option>
+        <option value="Chipp_Zanuff">Chipp Zanuff</option>
+        <option value="Potemkin">Potemkin</option>
+        <option value="Faust">Faust</option>
+        <option value="Zato-1">Zato-1</option>
+        <option value="Ramlethal_Valentine">Ramlethal Valentine</option>
+        <option value="Leo_Whitefang">Leo Whitefang</option>
+        <option value="Nagoriyuki">Nagoriyuki</option>
+        <option value="Giovanna">Giovanna</option>
+        <option value="Anji_Mito">Anji</option>
+        <option value="I-No">I-No</option>
+        <option value="Goldlewis_Dickinson">Goldlewis Dickinson</option>
+        <option value="Jack-O">Jack-O</option>
+        <option value="Happy_Chaos">Happy Chaos</option>
+        <option value="Baiken">Baiken</option>
+        <option value="Testament">Testament</option>
+        <option value="Bridget">Bridget</option>
+        <option value="Sin_Kiske">Sin Kiske</option>
+        <option value="Bedman">Bedman</option>
+        <option value="Asuka_R">Asuka</option>
+        <option value="Johnny">Johnny</option>
+    </select>
+
+    <form>
+        <input type="text" id="firstMove" value="" class="moveInput">
+        <input type="text" id="secondMove" value="" class="moveInput">
+    </form>
+
+    <button py-click="calculateGap()" id="calcButton" class="py-button">
+        Calulate
+    </button>
+    
+</div>
+
+<py-script>
+
+    def calculateGap():
+        input_box = Element("character")
+        charInput = input_box.value
+        print(charInput)
+
+        move1 = Element("firstMove").value
+        print(move1)
+        
+        move1 = Element("secondMove").value
+        print(move1)
+
+</py-script>
+
+<hr class="lines">
+</html>
