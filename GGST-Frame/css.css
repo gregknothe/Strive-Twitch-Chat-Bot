@@ -86,18 +86,20 @@ a {
     border: none;
 }
 
-.dataframe th, td {
+.dataframe td {
+    height: 60px;
+    min-width: 80px;
+    max-width: 250px;
+}
+
+.dataframe td {
     height: 80px;
     min-width: 80px;
     max-width: 250px;
 }
-.dataframe tr:nth-child(odd){
-    background-color: #1a1a1a;
-    color: #ffffff;
-}
 
-.dataframe tr:nth-child(even){
-    background-color: #1a1a1a63;
+.dataframe tr{
+    background-color: #1a1a1a;
     color: #ffffff;
 }
 
@@ -141,8 +143,6 @@ a {
 }
 
 
-
-
 .inputArea {
     background-color: #141414;
     background-size: contain;
@@ -164,4 +164,35 @@ a {
     color: #ffffff;
     background: #363636;
     border-color: #ffffff;
+}
+
+.gap {
+    color: #ffffff;
+    text-align: center;
+    background-color: #1a1a1a;
+}
+
+.faqTitle1 {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.faqTitle2 {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.faqText {
+    color: #ffffff;
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.faqTextTitle {
+    color: #ffffff;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 3%;
+    font-style: bold;
 }
