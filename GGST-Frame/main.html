@@ -8,6 +8,7 @@
 <body style="background-color: #202020;">
 </body>
 
+<!-- Navigation section (prob remove later)-->
 <div class="topnav">
     <a class="topnavTitle">GGST FTC</a>
     <a class="topnavButton">Contact</a>
@@ -15,6 +16,7 @@
     <a href="./main.html" class="topnavButton">Home</a>
 </div>
 
+<!-- Main Header Section-->
 <header class="mainTitle">
     <h1>
         GGST Frame Trap Calculator
@@ -23,7 +25,7 @@
 
 <hr class="lines">
 
-<!-- main page character select-->
+<!-- User Input Section-->
 <div class="inputArea">
 
     <select name="character" id="character" class="character">
@@ -64,20 +66,142 @@
     
 </div>
 
+<hr class="lines">
+
+<div class="entireTable">
+    <h1 class="gap"> 
+        <b>
+            Gap:
+        </b> 
+        <b id="gap">
+            N/A
+        </b>
+    </h1>
+
+    <table class="dataframe">
+        <tr>
+            <th>Input</th>
+            <th>Image</th>
+            <th>Startup</th>
+            <th>Active</th>
+            <th>Recovery</th>
+            <th>On-Block</th>
+            <th>Level</th>
+        </tr>
+        <tr>
+            <td id="input1">Move #1</td>
+            <td id="image1">N/A</td>
+            <td id="startup1">N/A</td>
+            <td id="active1">N/A</td>
+            <td id="recovery1">N/A</td>
+            <td id="on-block1">N/A</td>
+            <td id="level1">N/A</td>
+        </tr>
+        <tr>
+            <td id="input2">Move #2</td>
+            <td id="image2">N/A</td>
+            <td id="startup2">N/A</td>
+            <td id="active2">N/A</td>
+            <td id="recovery2">N/A</td>
+            <td id="on-block2">N/A</td>
+            <td id="level2">N/A</td>
+        </tr>
+</table>
+</div>
+
+<!-- Pyscript section -->
+<!--   pyscript.write("area","dasdsa") -->
+<py-config>
+    packages = ["pandas"]
+</py-config>
+
+
 <py-script>
+    import pandas as pd
+    from pyodide.http import open_url
+    from pyscript import when
 
     def calculateGap():
         input_box = Element("character")
         charInput = input_box.value
-        print(charInput)
-
+        char = Element("character").value
         move1 = Element("firstMove").value
-        print(move1)
-        
-        move1 = Element("secondMove").value
-        print(move1)
+        move2 = Element("secondMove").value
 
+        data = open_url("https://raw.githubusercontent.com/gregknothe/Strive-Twitch-Chat-Bot/master/GGST-Frame/CleanData/"+char+".txt")
+        df = pd.read_csv(data, sep="/", index_col=0)
+
+        move1Index = df.index[df["Input"]==move1].tolist()[0]
+        pyscript.write("input1", df.loc[move1Index, "Input"])
+        pyscript.write("startup1", df.loc[move1Index, "Startup"])
+        pyscript.write("active1", df.loc[move1Index, "Active"])
+        pyscript.write("recovery1", df.loc[move1Index, "Recovery"])
+        pyscript.write("on-block1", df.loc[move1Index, "On-Block"])
+        pyscript.write("level1", df.loc[move1Index, "Level"])
+
+        move2Index = df.index[df["Input"]==move2].tolist()[0]
+        pyscript.write("input2", df.loc[move2Index, "Input"])
+        pyscript.write("startup2", df.loc[move2Index, "Startup"])
+        pyscript.write("active2", df.loc[move2Index, "Active"])
+        pyscript.write("recovery2", df.loc[move2Index, "Recovery"])
+        pyscript.write("on-block2", df.loc[move2Index, "On-Block"])
+        pyscript.write("level2", df.loc[move2Index, "Level"])
+
+        return
+
+    
+        
 </py-script>
 
-<hr class="lines">
+<div>
+    <h1 class="faqTitle1">
+        FAQ:
+    </h1>
+    <h1 class="faqTitle2">
+        1. Factors not calculated correctly:
+    </h1>
+    <a class="faqTextTitle">
+        Travel Time: 
+    </a>
+    </br>
+    <a class="faqText">
+        Moves (often projectiles and forward advancing moves) often have travel time before they hit. 
+        Because of this, the gap may differ in size.
+    </a>
+    </br>
+    <a class="faqTextTitle">
+        Moving Hitboxes: 
+    </a>
+    </br>
+    <a class="faqText">
+        Some moves have hitboxes that do not connect with the opponent durring the first active 
+        frames, beacuse of this, depending on the distance, the opponent's character, and other variables, the frame advantage
+        can differ. 
+    </a>
+    </br>
+    <a class="faqTextTitle">
+        Jump-ins
+    </a>
+    </br>
+    <a class="faqText">
+        Frame advantage from jump-ins vary based on the hieght of the hit and the recovery of the move (some have
+        recovery after they land and some are actionable right as they land). Because of this I decided to display the hitstun
+        from the arieal move instead of putting the therorical frame advantage from doing the areial from some arbirtary height. 
+    </a>
+
+    <h1 class="faqTitle2">
+        2. Moves 
+    </h1>
+    <a class="faqText">
+        Some moves are excluded cuz im lazy, some moves have the [] cuz they indicate something different, like held
+        inputs or rekka canceling stuff. varrys based on character, explain better later. 
+    </a>
+    <h1 class="faqTitle2">
+        3. Data Source and Bug Reporting
+    </h1>
+    <a class="faqText">
+        Dustloop is OD frfr, hit me up at this email if you find something that is bugged. 
+    </a>
+</div>
+
 </html>
