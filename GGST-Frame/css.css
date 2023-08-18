@@ -34,14 +34,6 @@
     text-align: center;
 }
 
-
-.icons {
-    /* display: flexbox; */
-    padding-top: 0!important;
-    padding-bottom: 0!important; 
-    /*background-color: #3a23e7;*/
-}
-
 .lines{
     color: #ffffff;
     background-color: #ffffff;
@@ -145,25 +137,32 @@ a {
 
 .inputArea {
     background-color: #141414;
-    background-size: contain;
-    background-repeat: no-repeat;
-    text-align: center;
-    border-collapse: collapse;
-    border-spacing: 0;
-    display: inline-flex;
-    align-self: center;
+    background-size: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
 }
 
 .character {
     background: #363636;
     color: #ffffff;
     border-color: #ffffff;
+    height: 40px;
+    width: 150px;
+    max-height: 40px;
+    max-width: 150px;
+}
+
+.characterHidden {
+    display: none;
 }
 
 .moveInput {
     color: #ffffff;
     background: #363636;
     border-color: #ffffff;
+    align-items: center;
 }
 
 .gap {
@@ -180,13 +179,8 @@ a {
 .faqTitle2 {
     color: #ffffff;
     font-size: 20px;
-}
-
-.faqText {
-    color: #ffffff;
-    font-size: 16px;
-    display: inline-block;
-    margin-left: 5%;
+    line-height: 100%;
+    text-align: left;
 }
 
 .faqTextTitle {
@@ -195,4 +189,102 @@ a {
     display: inline-block;
     margin-left: 3%;
     font-style: bold;
+    line-height: 20%;
 }
+
+.faqText {
+    color: #ffffff;
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 5%;
+    line-height: 125%;
+}
+
+.faqTextLink {
+    color: #62d4cb;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.faqSection2 {
+    line-height: 120%;
+}
+
+.collapsible {
+    background-color: #1a1a1a;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 20px;
+    border-color: #1d1d1d;
+  }
+  
+  .active, .collapsible:hover {
+    background-color: #1d1d1d;
+  }
+  
+  .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #141414;
+    color: white;
+  }
+
+  .content.link {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #141414;
+    color: rgb(95, 231, 255);
+  }
+
+  .collapsible:after {
+    content: '\02795'; 
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2796"; 
+  }
+
+  .icon {
+    height: 70px;
+    width: 70px;
+    top: 50%;
+    vertical-align: center;
+  }
+
+  .iconHidden {
+    height: 70px;
+    width: 70px;
+    display: none;
+  }
+
+  .py-button {
+    background-color: #141414;
+    color: #141414;
+    height: 40px;
+    width: 140px;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .examplePic {
+    height: 150px;
+  }
+
+  .exampleArea{
+    max-height: 150px;
+    margin-left: 5%;
+    display: inline;
+    overflow: hidden;
+    white-space: nowrap;
+  }

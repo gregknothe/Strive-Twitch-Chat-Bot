@@ -1,0 +1,1850 @@
+/move1/move2/gap
+0/5P/5P/-4f gap
+1/5P/5K/9f gap
+2/5P/c.S/9f gap
+3/5P/f.S/13f gap
+4/5P/5H/14f gap
+5/5P/2P/-3f gap
+6/5P/2K/8f gap
+7/5P/2S/12f gap
+8/5P/2H/16f gap
+9/5P/j.P/12f gap
+10/5P/j.K/14f gap
+11/5P/j.S/19f gap
+12/5P/j.H/26f gap
+13/5P/j.D/17f gap
+14/5P/6P/0f gap
+15/5P/6H/9f gap
+16/5P/2D/12f gap
+17/5P/5D/22f gap
+18/5P/5[D]/30f gap
+19/5P/236S/11f gap
+20/5P/236H/11f gap
+21/5P/623P/2f gap
+22/5P/214K/21f gap
+23/5P/j.214K/37f gap
+24/5P/214H/10f gap
+25/5P/214P/7f gap
+26/5P/214P 214P/Ramlethal_Valentine 5P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 5P.
+27/5P/214P 214P 214P/Ramlethal_Valentine 5P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 5P.
+28/5P/j.214S/19f gap
+29/5P/632146H/15f gap
+30/5P/236236S/0f gap
+31/5P/f.[S]/13f gap
+32/5P/5[H]/14f gap
+33/5P/2[S]/12f gap
+34/5P/2[H]/16f gap
+35/5P/j.[S]/19f gap
+36/5P/j.[H]/26f gap
+37/5P/6[H]/20f gap
+38/5P/214[H]/10f gap
+39/5P/214{H}/10f gap
+40/5P/214[P] 214[P]/Ramlethal_Valentine 5P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 5P.
+41/5P/236236[S]/0f gap
+42/5P/236236{S}/0f gap
+43/5K/5P/7f gap
+44/5K/5K/9f gap
+45/5K/c.S/9f gap
+46/5K/f.S/13f gap
+47/5K/5H/14f gap
+48/5K/2P/8f gap
+49/5K/2K/8f gap
+50/5K/2S/12f gap
+51/5K/2H/16f gap
+52/5K/j.P/-1f gap
+53/5K/j.K/1f gap
+54/5K/j.S/6f gap
+55/5K/j.H/13f gap
+56/5K/j.D/4f gap
+57/5K/6P/-2f gap
+58/5K/6H/7f gap
+59/5K/2D/-1f gap
+60/5K/5D/9f gap
+61/5K/5[D]/30f gap
+62/5K/236S/9f gap
+63/5K/236H/9f gap
+64/5K/623P/0f gap
+65/5K/214K/19f gap
+66/5K/j.214K/24f gap
+67/5K/214H/8f gap
+68/5K/214P/5f gap
+69/5K/214P 214P/Ramlethal_Valentine 5K > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 5K.
+70/5K/214P 214P 214P/Ramlethal_Valentine 5K > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 5K.
+71/5K/j.214S/6f gap
+72/5K/632146H/13f gap
+73/5K/236236S/-2f gap
+74/5K/f.[S]/13f gap
+75/5K/5[H]/14f gap
+76/5K/2[S]/12f gap
+77/5K/2[H]/16f gap
+78/5K/j.[S]/6f gap
+79/5K/j.[H]/13f gap
+80/5K/6[H]/20f gap
+81/5K/214[H]/8f gap
+82/5K/214{H}/8f gap
+83/5K/214[P] 214[P]/Ramlethal_Valentine 5K > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 5K.
+84/5K/236236[S]/-2f gap
+85/5K/236236{S}/-2f gap
+86/c.S/5P/4f gap
+87/c.S/5K/6f gap
+88/c.S/c.S/6f gap
+89/c.S/f.S/-5f gap
+90/c.S/5H/-4f gap
+91/c.S/2P/5f gap
+92/c.S/2K/5f gap
+93/c.S/2S/-6f gap
+94/c.S/2H/-2f gap
+95/c.S/j.P/-6f gap
+96/c.S/j.K/-4f gap
+97/c.S/j.S/1f gap
+98/c.S/j.H/8f gap
+99/c.S/j.D/-1f gap
+100/c.S/6P/-7f gap
+101/c.S/6H/2f gap
+102/c.S/2D/-6f gap
+103/c.S/5D/4f gap
+104/c.S/5[D]/27f gap
+105/c.S/236S/4f gap
+106/c.S/236H/4f gap
+107/c.S/623P/-5f gap
+108/c.S/214K/14f gap
+109/c.S/j.214K/19f gap
+110/c.S/214H/3f gap
+111/c.S/214P/0f gap
+112/c.S/214P 214P/Ramlethal_Valentine c.S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after c.S.
+113/c.S/214P 214P 214P/Ramlethal_Valentine c.S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after c.S.
+114/c.S/j.214S/1f gap
+115/c.S/632146H/8f gap
+116/c.S/236236S/-7f gap
+117/c.S/f.[S]/10f gap
+118/c.S/5[H]/11f gap
+119/c.S/2[S]/9f gap
+120/c.S/2[H]/13f gap
+121/c.S/j.[S]/1f gap
+122/c.S/j.[H]/8f gap
+123/c.S/6[H]/17f gap
+124/c.S/214[H]/3f gap
+125/c.S/214{H}/3f gap
+126/c.S/214[P] 214[P]/Ramlethal_Valentine c.S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after c.S.
+127/c.S/236236[S]/-7f gap
+128/c.S/236236{S}/-7f gap
+129/f.S/5P/15f gap
+130/f.S/5K/17f gap
+131/f.S/c.S/17f gap
+132/f.S/f.S/21f gap
+133/f.S/5H/-4f gap
+134/f.S/2P/16f gap
+135/f.S/2K/16f gap
+136/f.S/2S/20f gap
+137/f.S/2H/-2f gap
+138/f.S/j.P/20f gap
+139/f.S/j.K/22f gap
+140/f.S/j.S/27f gap
+141/f.S/j.H/34f gap
+142/f.S/j.D/25f gap
+143/f.S/6P/19f gap
+144/f.S/6H/28f gap
+145/f.S/2D/20f gap
+146/f.S/5D/30f gap
+147/f.S/5[D]/38f gap
+148/f.S/236S/4f gap
+149/f.S/236H/4f gap
+150/f.S/623P/-5f gap
+151/f.S/214K/14f gap
+152/f.S/j.214K/45f gap
+153/f.S/214H/3f gap
+154/f.S/214P/0f gap
+155/f.S/214P 214P/Ramlethal_Valentine f.S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after f.S.
+156/f.S/214P 214P 214P/Ramlethal_Valentine f.S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after f.S.
+157/f.S/j.214S/27f gap
+158/f.S/632146H/8f gap
+159/f.S/236236S/-7f gap
+160/f.S/f.[S]/21f gap
+161/f.S/5[H]/22f gap
+162/f.S/2[S]/20f gap
+163/f.S/2[H]/24f gap
+164/f.S/j.[S]/27f gap
+165/f.S/j.[H]/34f gap
+166/f.S/6[H]/28f gap
+167/f.S/214[H]/3f gap
+168/f.S/214{H}/3f gap
+169/f.S/214[P] 214[P]/Ramlethal_Valentine f.S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after f.S.
+170/f.S/236236[S]/-7f gap
+171/f.S/236236{S}/-7f gap
+172/5H/5P/17f gap
+173/5H/5K/19f gap
+174/5H/c.S/19f gap
+175/5H/f.S/23f gap
+176/5H/5H/24f gap
+177/5H/2P/18f gap
+178/5H/2K/18f gap
+179/5H/2S/22f gap
+180/5H/2H/26f gap
+181/5H/j.P/22f gap
+182/5H/j.K/24f gap
+183/5H/j.S/29f gap
+184/5H/j.H/36f gap
+185/5H/j.D/27f gap
+186/5H/6P/21f gap
+187/5H/6H/30f gap
+188/5H/2D/22f gap
+189/5H/5D/32f gap
+190/5H/5[D]/40f gap
+191/5H/236S/2f gap
+192/5H/236H/2f gap
+193/5H/623P/-7f gap
+194/5H/214K/12f gap
+195/5H/j.214K/47f gap
+196/5H/214H/1f gap
+197/5H/214P/-2f gap
+198/5H/214P 214P/Ramlethal_Valentine 5H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 5H.
+199/5H/214P 214P 214P/Ramlethal_Valentine 5H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 5H.
+200/5H/j.214S/29f gap
+201/5H/632146H/6f gap
+202/5H/236236S/-9f gap
+203/5H/f.[S]/23f gap
+204/5H/5[H]/24f gap
+205/5H/2[S]/22f gap
+206/5H/2[H]/26f gap
+207/5H/j.[S]/29f gap
+208/5H/j.[H]/36f gap
+209/5H/6[H]/30f gap
+210/5H/214[H]/1f gap
+211/5H/214{H}/1f gap
+212/5H/214[P] 214[P]/Ramlethal_Valentine 5H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 5H.
+213/5H/236236[S]/-9f gap
+214/5H/236236{S}/-9f gap
+215/2P/5P/-4f gap
+216/2P/5K/10f gap
+217/2P/c.S/10f gap
+218/2P/f.S/14f gap
+219/2P/5H/15f gap
+220/2P/2P/-3f gap
+221/2P/2K/9f gap
+222/2P/2S/13f gap
+223/2P/2H/17f gap
+224/2P/j.P/13f gap
+225/2P/j.K/15f gap
+226/2P/j.S/20f gap
+227/2P/j.H/27f gap
+228/2P/j.D/18f gap
+229/2P/6P/0f gap
+230/2P/6H/9f gap
+231/2P/2D/13f gap
+232/2P/5D/23f gap
+233/2P/5[D]/31f gap
+234/2P/236S/11f gap
+235/2P/236H/11f gap
+236/2P/623P/2f gap
+237/2P/214K/21f gap
+238/2P/j.214K/38f gap
+239/2P/214H/10f gap
+240/2P/214P/7f gap
+241/2P/214P 214P/Ramlethal_Valentine 2P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2P.
+242/2P/214P 214P 214P/Ramlethal_Valentine 2P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2P.
+243/2P/j.214S/20f gap
+244/2P/632146H/15f gap
+245/2P/236236S/0f gap
+246/2P/f.[S]/14f gap
+247/2P/5[H]/15f gap
+248/2P/2[S]/13f gap
+249/2P/2[H]/17f gap
+250/2P/j.[S]/20f gap
+251/2P/j.[H]/27f gap
+252/2P/6[H]/21f gap
+253/2P/214[H]/10f gap
+254/2P/214{H}/10f gap
+255/2P/214[P] 214[P]/Ramlethal_Valentine 2P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2P.
+256/2P/236236[S]/0f gap
+257/2P/236236{S}/0f gap
+258/2K/5P/7f gap
+259/2K/5K/9f gap
+260/2K/c.S/9f gap
+261/2K/f.S/13f gap
+262/2K/5H/14f gap
+263/2K/2P/8f gap
+264/2K/2K/8f gap
+265/2K/2S/12f gap
+266/2K/2H/16f gap
+267/2K/j.P/12f gap
+268/2K/j.K/14f gap
+269/2K/j.S/19f gap
+270/2K/j.H/26f gap
+271/2K/j.D/17f gap
+272/2K/6P/-2f gap
+273/2K/6H/7f gap
+274/2K/2D/-1f gap
+275/2K/5D/9f gap
+276/2K/5[D]/30f gap
+277/2K/236S/9f gap
+278/2K/236H/9f gap
+279/2K/623P/0f gap
+280/2K/214K/19f gap
+281/2K/j.214K/37f gap
+282/2K/214H/8f gap
+283/2K/214P/5f gap
+284/2K/214P 214P/Ramlethal_Valentine 2K > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2K.
+285/2K/214P 214P 214P/Ramlethal_Valentine 2K > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2K.
+286/2K/j.214S/19f gap
+287/2K/632146H/13f gap
+288/2K/236236S/-2f gap
+289/2K/f.[S]/13f gap
+290/2K/5[H]/14f gap
+291/2K/2[S]/12f gap
+292/2K/2[H]/16f gap
+293/2K/j.[S]/19f gap
+294/2K/j.[H]/26f gap
+295/2K/6[H]/20f gap
+296/2K/214[H]/8f gap
+297/2K/214{H}/8f gap
+298/2K/214[P] 214[P]/Ramlethal_Valentine 2K > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2K.
+299/2K/236236[S]/-2f gap
+300/2K/236236{S}/-2f gap
+301/2S/5P/10f gap
+302/2S/5K/12f gap
+303/2S/c.S/12f gap
+304/2S/f.S/16f gap
+305/2S/5H/-4f gap
+306/2S/2P/11f gap
+307/2S/2K/11f gap
+308/2S/2S/15f gap
+309/2S/2H/-2f gap
+310/2S/j.P/15f gap
+311/2S/j.K/17f gap
+312/2S/j.S/22f gap
+313/2S/j.H/29f gap
+314/2S/j.D/20f gap
+315/2S/6P/14f gap
+316/2S/6H/23f gap
+317/2S/2D/15f gap
+318/2S/5D/25f gap
+319/2S/5[D]/33f gap
+320/2S/236S/4f gap
+321/2S/236H/4f gap
+322/2S/623P/-5f gap
+323/2S/214K/14f gap
+324/2S/j.214K/40f gap
+325/2S/214H/3f gap
+326/2S/214P/0f gap
+327/2S/214P 214P/Ramlethal_Valentine 2S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2S.
+328/2S/214P 214P 214P/Ramlethal_Valentine 2S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2S.
+329/2S/j.214S/22f gap
+330/2S/632146H/8f gap
+331/2S/236236S/-7f gap
+332/2S/f.[S]/16f gap
+333/2S/5[H]/17f gap
+334/2S/2[S]/15f gap
+335/2S/2[H]/19f gap
+336/2S/j.[S]/22f gap
+337/2S/j.[H]/29f gap
+338/2S/6[H]/23f gap
+339/2S/214[H]/3f gap
+340/2S/214{H}/3f gap
+341/2S/214[P] 214[P]/Ramlethal_Valentine 2S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2S.
+342/2S/236236[S]/-7f gap
+343/2S/236236{S}/-7f gap
+344/2H/5P/20f gap
+345/2H/5K/22f gap
+346/2H/c.S/22f gap
+347/2H/f.S/26f gap
+348/2H/5H/27f gap
+349/2H/2P/21f gap
+350/2H/2K/21f gap
+351/2H/2S/25f gap
+352/2H/2H/29f gap
+353/2H/j.P/25f gap
+354/2H/j.K/27f gap
+355/2H/j.S/32f gap
+356/2H/j.H/39f gap
+357/2H/j.D/30f gap
+358/2H/6P/24f gap
+359/2H/6H/33f gap
+360/2H/2D/25f gap
+361/2H/5D/35f gap
+362/2H/5[D]/43f gap
+363/2H/236S/2f gap
+364/2H/236H/2f gap
+365/2H/623P/-7f gap
+366/2H/214K/12f gap
+367/2H/j.214K/50f gap
+368/2H/214H/1f gap
+369/2H/214P/-2f gap
+370/2H/214P 214P/Ramlethal_Valentine 2H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2H.
+371/2H/214P 214P 214P/Ramlethal_Valentine 2H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2H.
+372/2H/j.214S/32f gap
+373/2H/632146H/6f gap
+374/2H/236236S/-9f gap
+375/2H/f.[S]/26f gap
+376/2H/5[H]/27f gap
+377/2H/2[S]/25f gap
+378/2H/2[H]/29f gap
+379/2H/j.[S]/32f gap
+380/2H/j.[H]/39f gap
+381/2H/6[H]/33f gap
+382/2H/214[H]/1f gap
+383/2H/214{H}/1f gap
+384/2H/214[P] 214[P]/Ramlethal_Valentine 2H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2H.
+385/2H/236236[S]/-9f gap
+386/2H/236236{S}/-9f gap
+387/j.P/5P/j.P has 9f of blockstun, while 5P has 5f of startup
+388/j.P/5K/j.P has 9f of blockstun, while 5K has 7f of startup
+389/j.P/c.S/j.P has 9f of blockstun, while c.S has 7f of startup
+390/j.P/f.S/j.P has 9f of blockstun, while f.S has 11f of startup
+391/j.P/5H/j.P has 9f of blockstun, while 5H has 12f of startup
+392/j.P/2P/j.P has 9f of blockstun, while 2P has 6f of startup
+393/j.P/2K/j.P has 9f of blockstun, while 2K has 6f of startup
+394/j.P/2S/j.P has 9f of blockstun, while 2S has 10f of startup
+395/j.P/2H/j.P has 9f of blockstun, while 2H has 14f of startup
+396/j.P/j.P/-4f gap
+397/j.P/j.K/j.P has 9f of blockstun, while j.K has 7f of startup
+398/j.P/j.S/j.P has 9f of blockstun, while j.S has 12f of startup
+399/j.P/j.H/j.P has 9f of blockstun, while j.H has 19f of startup
+400/j.P/j.D/j.P has 9f of blockstun, while j.D has 10f of startup
+401/j.P/6P/j.P has 9f of blockstun, while 6P has 9f of startup
+402/j.P/6H/j.P has 9f of blockstun, while 6H has 18f of startup
+403/j.P/2D/j.P has 9f of blockstun, while 2D has 10f of startup
+404/j.P/5D/j.P has 9f of blockstun, while 5D has 20f of startup
+405/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28f of startup
+406/j.P/236S/j.P has 9f of blockstun, while 236S has 20f of startup
+407/j.P/236H/j.P has 9f of blockstun, while 236H has 20f of startup
+408/j.P/623P/j.P has 9f of blockstun, while 623P has 11f of startup
+409/j.P/214K/j.P has 9f of blockstun, while 214K has 30f of startup
+410/j.P/j.214K/j.P has 9f of blockstun, while j.214K has 30f of startup
+411/j.P/214H/j.P has 9f of blockstun, while 214H has 19f of startup
+412/j.P/214P/j.P has 9f of blockstun, while 214P has 16f of startup
+413/j.P/214P 214P/Ramlethal_Valentine j.P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.P.
+414/j.P/214P 214P 214P/Ramlethal_Valentine j.P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.P.
+415/j.P/j.214S/j.P has 9f of blockstun, while j.214S has 12f of startup
+416/j.P/632146H/j.P has 9f of blockstun, while 632146H has 24f of startup
+417/j.P/236236S/j.P has 9f of blockstun, while 236236S has 9f of startup
+418/j.P/f.[S]/j.P has 9f of blockstun, while f.[S] has 11f of startup
+419/j.P/5[H]/j.P has 9f of blockstun, while 5[H] has 12f of startup
+420/j.P/2[S]/j.P has 9f of blockstun, while 2[S] has 10f of startup
+421/j.P/2[H]/j.P has 9f of blockstun, while 2[H] has 14f of startup
+422/j.P/j.[S]/j.P has 9f of blockstun, while j.[S] has 12f of startup
+423/j.P/j.[H]/j.P has 9f of blockstun, while j.[H] has 19f of startup
+424/j.P/6[H]/j.P has 9f of blockstun, while 6[H] has 18f of startup
+425/j.P/214[H]/j.P has 9f of blockstun, while 214[H] has 19f of startup
+426/j.P/214{H}/j.P has 9f of blockstun, while 214{H} has 19f of startup
+427/j.P/214[P] 214[P]/Ramlethal_Valentine j.P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.P.
+428/j.P/236236[S]/j.P has 9f of blockstun, while 236236[S] has 9f of startup
+429/j.P/236236{S}/j.P has 9f of blockstun, while 236236{S} has 9f of startup
+430/j.K/5P/j.K has 11f of blockstun, while 5P has 5f of startup
+431/j.K/5K/j.K has 11f of blockstun, while 5K has 7f of startup
+432/j.K/c.S/j.K has 11f of blockstun, while c.S has 7f of startup
+433/j.K/f.S/j.K has 11f of blockstun, while f.S has 11f of startup
+434/j.K/5H/j.K has 11f of blockstun, while 5H has 12f of startup
+435/j.K/2P/j.K has 11f of blockstun, while 2P has 6f of startup
+436/j.K/2K/j.K has 11f of blockstun, while 2K has 6f of startup
+437/j.K/2S/j.K has 11f of blockstun, while 2S has 10f of startup
+438/j.K/2H/j.K has 11f of blockstun, while 2H has 14f of startup
+439/j.K/j.P/j.K has 11f of blockstun, while j.P has 5f of startup
+440/j.K/j.K/j.K has 11f of blockstun, while j.K has 7f of startup
+441/j.K/j.S/j.K has 11f of blockstun, while j.S has 12f of startup
+442/j.K/j.H/j.K has 11f of blockstun, while j.H has 19f of startup
+443/j.K/j.D/-1f gap
+444/j.K/6P/j.K has 11f of blockstun, while 6P has 9f of startup
+445/j.K/6H/j.K has 11f of blockstun, while 6H has 18f of startup
+446/j.K/2D/j.K has 11f of blockstun, while 2D has 10f of startup
+447/j.K/5D/j.K has 11f of blockstun, while 5D has 20f of startup
+448/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28f of startup
+449/j.K/236S/j.K has 11f of blockstun, while 236S has 20f of startup
+450/j.K/236H/j.K has 11f of blockstun, while 236H has 20f of startup
+451/j.K/623P/j.K has 11f of blockstun, while 623P has 11f of startup
+452/j.K/214K/j.K has 11f of blockstun, while 214K has 30f of startup
+453/j.K/j.214K/j.K has 11f of blockstun, while j.214K has 30f of startup
+454/j.K/214H/j.K has 11f of blockstun, while 214H has 19f of startup
+455/j.K/214P/j.K has 11f of blockstun, while 214P has 16f of startup
+456/j.K/214P 214P/Ramlethal_Valentine j.K > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.K.
+457/j.K/214P 214P 214P/Ramlethal_Valentine j.K > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.K.
+458/j.K/j.214S/j.K has 11f of blockstun, while j.214S has 12f of startup
+459/j.K/632146H/j.K has 11f of blockstun, while 632146H has 24f of startup
+460/j.K/236236S/j.K has 11f of blockstun, while 236236S has 9f of startup
+461/j.K/f.[S]/j.K has 11f of blockstun, while f.[S] has 11f of startup
+462/j.K/5[H]/j.K has 11f of blockstun, while 5[H] has 12f of startup
+463/j.K/2[S]/j.K has 11f of blockstun, while 2[S] has 10f of startup
+464/j.K/2[H]/j.K has 11f of blockstun, while 2[H] has 14f of startup
+465/j.K/j.[S]/j.K has 11f of blockstun, while j.[S] has 12f of startup
+466/j.K/j.[H]/j.K has 11f of blockstun, while j.[H] has 19f of startup
+467/j.K/6[H]/j.K has 11f of blockstun, while 6[H] has 18f of startup
+468/j.K/214[H]/j.K has 11f of blockstun, while 214[H] has 19f of startup
+469/j.K/214{H}/j.K has 11f of blockstun, while 214{H} has 19f of startup
+470/j.K/214[P] 214[P]/Ramlethal_Valentine j.K > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.K.
+471/j.K/236236[S]/j.K has 11f of blockstun, while 236236[S] has 9f of startup
+472/j.K/236236{S}/j.K has 11f of blockstun, while 236236{S} has 9f of startup
+473/j.S/5P/j.S has 13f of blockstun, while 5P has 5f of startup
+474/j.S/5K/j.S has 13f of blockstun, while 5K has 7f of startup
+475/j.S/c.S/j.S has 13f of blockstun, while c.S has 7f of startup
+476/j.S/f.S/j.S has 13f of blockstun, while f.S has 11f of startup
+477/j.S/5H/j.S has 13f of blockstun, while 5H has 12f of startup
+478/j.S/2P/j.S has 13f of blockstun, while 2P has 6f of startup
+479/j.S/2K/j.S has 13f of blockstun, while 2K has 6f of startup
+480/j.S/2S/j.S has 13f of blockstun, while 2S has 10f of startup
+481/j.S/2H/j.S has 13f of blockstun, while 2H has 14f of startup
+482/j.S/j.P/j.S has 13f of blockstun, while j.P has 5f of startup
+483/j.S/j.K/j.S has 13f of blockstun, while j.K has 7f of startup
+484/j.S/j.S/j.S has 13f of blockstun, while j.S has 12f of startup
+485/j.S/j.H/6f gap
+486/j.S/j.D/-3f gap
+487/j.S/6P/j.S has 13f of blockstun, while 6P has 9f of startup
+488/j.S/6H/j.S has 13f of blockstun, while 6H has 18f of startup
+489/j.S/2D/j.S has 13f of blockstun, while 2D has 10f of startup
+490/j.S/5D/j.S has 13f of blockstun, while 5D has 20f of startup
+491/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28f of startup
+492/j.S/236S/j.S has 13f of blockstun, while 236S has 20f of startup
+493/j.S/236H/j.S has 13f of blockstun, while 236H has 20f of startup
+494/j.S/623P/j.S has 13f of blockstun, while 623P has 11f of startup
+495/j.S/214K/j.S has 13f of blockstun, while 214K has 30f of startup
+496/j.S/j.214K/j.S has 13f of blockstun, while j.214K has 30f of startup
+497/j.S/214H/j.S has 13f of blockstun, while 214H has 19f of startup
+498/j.S/214P/j.S has 13f of blockstun, while 214P has 16f of startup
+499/j.S/214P 214P/Ramlethal_Valentine j.S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.S.
+500/j.S/214P 214P 214P/Ramlethal_Valentine j.S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.S.
+501/j.S/j.214S/j.S has 13f of blockstun, while j.214S has 12f of startup
+502/j.S/632146H/j.S has 13f of blockstun, while 632146H has 24f of startup
+503/j.S/236236S/j.S has 13f of blockstun, while 236236S has 9f of startup
+504/j.S/f.[S]/j.S has 13f of blockstun, while f.[S] has 11f of startup
+505/j.S/5[H]/j.S has 13f of blockstun, while 5[H] has 12f of startup
+506/j.S/2[S]/j.S has 13f of blockstun, while 2[S] has 10f of startup
+507/j.S/2[H]/j.S has 13f of blockstun, while 2[H] has 14f of startup
+508/j.S/j.[S]/j.S has 13f of blockstun, while j.[S] has 12f of startup
+509/j.S/j.[H]/j.S has 13f of blockstun, while j.[H] has 19f of startup
+510/j.S/6[H]/j.S has 13f of blockstun, while 6[H] has 18f of startup
+511/j.S/214[H]/j.S has 13f of blockstun, while 214[H] has 19f of startup
+512/j.S/214{H}/j.S has 13f of blockstun, while 214{H} has 19f of startup
+513/j.S/214[P] 214[P]/Ramlethal_Valentine j.S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.S.
+514/j.S/236236[S]/j.S has 13f of blockstun, while 236236[S] has 9f of startup
+515/j.S/236236{S}/j.S has 13f of blockstun, while 236236{S} has 9f of startup
+516/j.H/5P/j.H has 13f of blockstun, while 5P has 5f of startup
+517/j.H/5K/j.H has 13f of blockstun, while 5K has 7f of startup
+518/j.H/c.S/j.H has 13f of blockstun, while c.S has 7f of startup
+519/j.H/f.S/j.H has 13f of blockstun, while f.S has 11f of startup
+520/j.H/5H/j.H has 13f of blockstun, while 5H has 12f of startup
+521/j.H/2P/j.H has 13f of blockstun, while 2P has 6f of startup
+522/j.H/2K/j.H has 13f of blockstun, while 2K has 6f of startup
+523/j.H/2S/j.H has 13f of blockstun, while 2S has 10f of startup
+524/j.H/2H/j.H has 13f of blockstun, while 2H has 14f of startup
+525/j.H/j.P/j.H has 13f of blockstun, while j.P has 5f of startup
+526/j.H/j.K/j.H has 13f of blockstun, while j.K has 7f of startup
+527/j.H/j.S/j.H has 13f of blockstun, while j.S has 12f of startup
+528/j.H/j.H/j.H has 13f of blockstun, while j.H has 19f of startup
+529/j.H/j.D/-3f gap
+530/j.H/6P/j.H has 13f of blockstun, while 6P has 9f of startup
+531/j.H/6H/j.H has 13f of blockstun, while 6H has 18f of startup
+532/j.H/2D/j.H has 13f of blockstun, while 2D has 10f of startup
+533/j.H/5D/j.H has 13f of blockstun, while 5D has 20f of startup
+534/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28f of startup
+535/j.H/236S/j.H has 13f of blockstun, while 236S has 20f of startup
+536/j.H/236H/j.H has 13f of blockstun, while 236H has 20f of startup
+537/j.H/623P/j.H has 13f of blockstun, while 623P has 11f of startup
+538/j.H/214K/j.H has 13f of blockstun, while 214K has 30f of startup
+539/j.H/j.214K/j.H has 13f of blockstun, while j.214K has 30f of startup
+540/j.H/214H/j.H has 13f of blockstun, while 214H has 19f of startup
+541/j.H/214P/j.H has 13f of blockstun, while 214P has 16f of startup
+542/j.H/214P 214P/Ramlethal_Valentine j.H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.H.
+543/j.H/214P 214P 214P/Ramlethal_Valentine j.H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.H.
+544/j.H/j.214S/j.H has 13f of blockstun, while j.214S has 12f of startup
+545/j.H/632146H/j.H has 13f of blockstun, while 632146H has 24f of startup
+546/j.H/236236S/j.H has 13f of blockstun, while 236236S has 9f of startup
+547/j.H/f.[S]/j.H has 13f of blockstun, while f.[S] has 11f of startup
+548/j.H/5[H]/j.H has 13f of blockstun, while 5[H] has 12f of startup
+549/j.H/2[S]/j.H has 13f of blockstun, while 2[S] has 10f of startup
+550/j.H/2[H]/j.H has 13f of blockstun, while 2[H] has 14f of startup
+551/j.H/j.[S]/j.H has 13f of blockstun, while j.[S] has 12f of startup
+552/j.H/j.[H]/j.H has 13f of blockstun, while j.[H] has 19f of startup
+553/j.H/6[H]/j.H has 13f of blockstun, while 6[H] has 18f of startup
+554/j.H/214[H]/j.H has 13f of blockstun, while 214[H] has 19f of startup
+555/j.H/214{H}/j.H has 13f of blockstun, while 214{H} has 19f of startup
+556/j.H/214[P] 214[P]/Ramlethal_Valentine j.H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.H.
+557/j.H/236236[S]/j.H has 13f of blockstun, while 236236[S] has 9f of startup
+558/j.H/236236{S}/j.H has 13f of blockstun, while 236236{S} has 9f of startup
+559/j.D/5P/j.D has 11f of blockstun, while 5P has 5f of startup
+560/j.D/5K/j.D has 11f of blockstun, while 5K has 7f of startup
+561/j.D/c.S/j.D has 11f of blockstun, while c.S has 7f of startup
+562/j.D/f.S/j.D has 11f of blockstun, while f.S has 11f of startup
+563/j.D/5H/j.D has 11f of blockstun, while 5H has 12f of startup
+564/j.D/2P/j.D has 11f of blockstun, while 2P has 6f of startup
+565/j.D/2K/j.D has 11f of blockstun, while 2K has 6f of startup
+566/j.D/2S/j.D has 11f of blockstun, while 2S has 10f of startup
+567/j.D/2H/j.D has 11f of blockstun, while 2H has 14f of startup
+568/j.D/j.P/j.D has 11f of blockstun, while j.P has 5f of startup
+569/j.D/j.K/j.D has 11f of blockstun, while j.K has 7f of startup
+570/j.D/j.S/j.D has 11f of blockstun, while j.S has 12f of startup
+571/j.D/j.H/j.D has 11f of blockstun, while j.H has 19f of startup
+572/j.D/j.D/j.D has 11f of blockstun, while j.D has 10f of startup
+573/j.D/6P/j.D has 11f of blockstun, while 6P has 9f of startup
+574/j.D/6H/j.D has 11f of blockstun, while 6H has 18f of startup
+575/j.D/2D/j.D has 11f of blockstun, while 2D has 10f of startup
+576/j.D/5D/j.D has 11f of blockstun, while 5D has 20f of startup
+577/j.D/5[D]/j.D has 11f of blockstun, while 5[D] has 28f of startup
+578/j.D/236S/j.D has 11f of blockstun, while 236S has 20f of startup
+579/j.D/236H/j.D has 11f of blockstun, while 236H has 20f of startup
+580/j.D/623P/j.D has 11f of blockstun, while 623P has 11f of startup
+581/j.D/214K/j.D has 11f of blockstun, while 214K has 30f of startup
+582/j.D/j.214K/j.D has 11f of blockstun, while j.214K has 30f of startup
+583/j.D/214H/j.D has 11f of blockstun, while 214H has 19f of startup
+584/j.D/214P/j.D has 11f of blockstun, while 214P has 16f of startup
+585/j.D/214P 214P/Ramlethal_Valentine j.D > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.D.
+586/j.D/214P 214P 214P/Ramlethal_Valentine j.D > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.D.
+587/j.D/j.214S/j.D has 11f of blockstun, while j.214S has 12f of startup
+588/j.D/632146H/j.D has 11f of blockstun, while 632146H has 24f of startup
+589/j.D/236236S/j.D has 11f of blockstun, while 236236S has 9f of startup
+590/j.D/f.[S]/j.D has 11f of blockstun, while f.[S] has 11f of startup
+591/j.D/5[H]/j.D has 11f of blockstun, while 5[H] has 12f of startup
+592/j.D/2[S]/j.D has 11f of blockstun, while 2[S] has 10f of startup
+593/j.D/2[H]/j.D has 11f of blockstun, while 2[H] has 14f of startup
+594/j.D/j.[S]/j.D has 11f of blockstun, while j.[S] has 12f of startup
+595/j.D/j.[H]/j.D has 11f of blockstun, while j.[H] has 19f of startup
+596/j.D/6[H]/j.D has 11f of blockstun, while 6[H] has 18f of startup
+597/j.D/214[H]/j.D has 11f of blockstun, while 214[H] has 19f of startup
+598/j.D/214{H}/j.D has 11f of blockstun, while 214{H} has 19f of startup
+599/j.D/214[P] 214[P]/Ramlethal_Valentine j.D > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.D.
+600/j.D/236236[S]/j.D has 11f of blockstun, while 236236[S] has 9f of startup
+601/j.D/236236{S}/j.D has 11f of blockstun, while 236236{S} has 9f of startup
+602/6P/5P/14f gap
+603/6P/5K/16f gap
+604/6P/c.S/16f gap
+605/6P/f.S/20f gap
+606/6P/5H/21f gap
+607/6P/2P/15f gap
+608/6P/2K/15f gap
+609/6P/2S/19f gap
+610/6P/2H/23f gap
+611/6P/j.P/19f gap
+612/6P/j.K/21f gap
+613/6P/j.S/26f gap
+614/6P/j.H/33f gap
+615/6P/j.D/24f gap
+616/6P/6P/18f gap
+617/6P/6H/27f gap
+618/6P/2D/19f gap
+619/6P/5D/29f gap
+620/6P/5[D]/37f gap
+621/6P/236S/7f gap
+622/6P/236H/7f gap
+623/6P/623P/-2f gap
+624/6P/214K/17f gap
+625/6P/j.214K/44f gap
+626/6P/214H/6f gap
+627/6P/214P/3f gap
+628/6P/214P 214P/Ramlethal_Valentine 6P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 6P.
+629/6P/214P 214P 214P/Ramlethal_Valentine 6P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 6P.
+630/6P/j.214S/26f gap
+631/6P/632146H/11f gap
+632/6P/236236S/-4f gap
+633/6P/f.[S]/20f gap
+634/6P/5[H]/21f gap
+635/6P/2[S]/19f gap
+636/6P/2[H]/23f gap
+637/6P/j.[S]/26f gap
+638/6P/j.[H]/33f gap
+639/6P/6[H]/27f gap
+640/6P/214[H]/6f gap
+641/6P/214{H}/6f gap
+642/6P/214[P] 214[P]/Ramlethal_Valentine 6P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 6P.
+643/6P/236236[S]/-4f gap
+644/6P/236236{S}/-4f gap
+645/6H/5P/21f gap
+646/6H/5K/23f gap
+647/6H/c.S/23f gap
+648/6H/f.S/27f gap
+649/6H/5H/28f gap
+650/6H/2P/22f gap
+651/6H/2K/22f gap
+652/6H/2S/26f gap
+653/6H/2H/30f gap
+654/6H/j.P/26f gap
+655/6H/j.K/28f gap
+656/6H/j.S/33f gap
+657/6H/j.H/40f gap
+658/6H/j.D/31f gap
+659/6H/6P/25f gap
+660/6H/6H/34f gap
+661/6H/2D/26f gap
+662/6H/5D/36f gap
+663/6H/5[D]/44f gap
+664/6H/236S/2f gap
+665/6H/236H/2f gap
+666/6H/623P/-7f gap
+667/6H/214K/12f gap
+668/6H/j.214K/51f gap
+669/6H/214H/1f gap
+670/6H/214P/-2f gap
+671/6H/214P 214P/Ramlethal_Valentine 6H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 6H.
+672/6H/214P 214P 214P/Ramlethal_Valentine 6H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 6H.
+673/6H/j.214S/33f gap
+674/6H/632146H/6f gap
+675/6H/236236S/-9f gap
+676/6H/f.[S]/27f gap
+677/6H/5[H]/28f gap
+678/6H/2[S]/26f gap
+679/6H/2[H]/30f gap
+680/6H/j.[S]/33f gap
+681/6H/j.[H]/40f gap
+682/6H/6[H]/34f gap
+683/6H/214[H]/1f gap
+684/6H/214{H}/1f gap
+685/6H/214[P] 214[P]/Ramlethal_Valentine 6H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 6H.
+686/6H/236236[S]/-9f gap
+687/6H/236236{S}/-9f gap
+688/2D/5P/13f gap
+689/2D/5K/15f gap
+690/2D/c.S/15f gap
+691/2D/f.S/19f gap
+692/2D/5H/20f gap
+693/2D/2P/14f gap
+694/2D/2K/14f gap
+695/2D/2S/18f gap
+696/2D/2H/22f gap
+697/2D/j.P/18f gap
+698/2D/j.K/20f gap
+699/2D/j.S/25f gap
+700/2D/j.H/32f gap
+701/2D/j.D/23f gap
+702/2D/6P/17f gap
+703/2D/6H/26f gap
+704/2D/2D/18f gap
+705/2D/5D/28f gap
+706/2D/5[D]/36f gap
+707/2D/236S/4f gap
+708/2D/236H/4f gap
+709/2D/623P/-5f gap
+710/2D/214K/14f gap
+711/2D/j.214K/43f gap
+712/2D/214H/3f gap
+713/2D/214P/0f gap
+714/2D/214P 214P/Ramlethal_Valentine 2D > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2D.
+715/2D/214P 214P 214P/Ramlethal_Valentine 2D > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2D.
+716/2D/j.214S/25f gap
+717/2D/632146H/8f gap
+718/2D/236236S/-7f gap
+719/2D/f.[S]/19f gap
+720/2D/5[H]/20f gap
+721/2D/2[S]/18f gap
+722/2D/2[H]/22f gap
+723/2D/j.[S]/25f gap
+724/2D/j.[H]/32f gap
+725/2D/6[H]/26f gap
+726/2D/214[H]/3f gap
+727/2D/214{H}/3f gap
+728/2D/214[P] 214[P]/Ramlethal_Valentine 2D > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2D.
+729/2D/236236[S]/-7f gap
+730/2D/236236{S}/-7f gap
+731/5D/5P/20f gap
+732/5D/5K/22f gap
+733/5D/c.S/22f gap
+734/5D/f.S/26f gap
+735/5D/5H/27f gap
+736/5D/2P/21f gap
+737/5D/2K/21f gap
+738/5D/2S/25f gap
+739/5D/2H/29f gap
+740/5D/j.P/25f gap
+741/5D/j.K/27f gap
+742/5D/j.S/32f gap
+743/5D/j.H/39f gap
+744/5D/j.D/30f gap
+745/5D/6P/24f gap
+746/5D/6H/33f gap
+747/5D/2D/25f gap
+748/5D/5D/35f gap
+749/5D/5[D]/43f gap
+750/5D/236S/35f gap
+751/5D/236H/35f gap
+752/5D/623P/26f gap
+753/5D/214K/45f gap
+754/5D/j.214K/50f gap
+755/5D/214H/34f gap
+756/5D/214P/31f gap
+757/5D/214P 214P/Ramlethal_Valentine 5D > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 5D.
+758/5D/214P 214P 214P/Ramlethal_Valentine 5D > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 5D.
+759/5D/j.214S/32f gap
+760/5D/632146H/39f gap
+761/5D/236236S/24f gap
+762/5D/f.[S]/26f gap
+763/5D/5[H]/27f gap
+764/5D/2[S]/25f gap
+765/5D/2[H]/29f gap
+766/5D/j.[S]/32f gap
+767/5D/j.[H]/39f gap
+768/5D/6[H]/33f gap
+769/5D/214[H]/34f gap
+770/5D/214{H}/34f gap
+771/5D/214[P] 214[P]/Ramlethal_Valentine 5D > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 5D.
+772/5D/236236[S]/24f gap
+773/5D/236236{S}/24f gap
+774/5[D]/5P/15f gap
+775/5[D]/5K/17f gap
+776/5[D]/c.S/17f gap
+777/5[D]/f.S/21f gap
+778/5[D]/5H/22f gap
+779/5[D]/2P/16f gap
+780/5[D]/2K/16f gap
+781/5[D]/2S/20f gap
+782/5[D]/2H/24f gap
+783/5[D]/j.P/20f gap
+784/5[D]/j.K/22f gap
+785/5[D]/j.S/27f gap
+786/5[D]/j.H/34f gap
+787/5[D]/j.D/25f gap
+788/5[D]/6P/19f gap
+789/5[D]/6H/28f gap
+790/5[D]/2D/20f gap
+791/5[D]/5D/30f gap
+792/5[D]/5[D]/38f gap
+793/5[D]/236S/30f gap
+794/5[D]/236H/30f gap
+795/5[D]/623P/21f gap
+796/5[D]/214K/40f gap
+797/5[D]/j.214K/45f gap
+798/5[D]/214H/29f gap
+799/5[D]/214P/26f gap
+800/5[D]/214P 214P/Ramlethal_Valentine 5[D] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 5[D].
+801/5[D]/214P 214P 214P/Ramlethal_Valentine 5[D] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 5[D].
+802/5[D]/j.214S/27f gap
+803/5[D]/632146H/34f gap
+804/5[D]/236236S/19f gap
+805/5[D]/f.[S]/21f gap
+806/5[D]/5[H]/22f gap
+807/5[D]/2[S]/20f gap
+808/5[D]/2[H]/24f gap
+809/5[D]/j.[S]/27f gap
+810/5[D]/j.[H]/34f gap
+811/5[D]/6[H]/28f gap
+812/5[D]/214[H]/29f gap
+813/5[D]/214{H}/29f gap
+814/5[D]/214[P] 214[P]/Ramlethal_Valentine 5[D] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 5[D].
+815/5[D]/236236[S]/19f gap
+816/5[D]/236236{S}/19f gap
+817/236S/5P/-4f gap
+818/236S/5K/-2f gap
+819/236S/c.S/-2f gap
+820/236S/f.S/2f gap
+821/236S/5H/3f gap
+822/236S/2P/-3f gap
+823/236S/2K/-3f gap
+824/236S/2S/1f gap
+825/236S/2H/5f gap
+826/236S/j.P/1f gap
+827/236S/j.K/3f gap
+828/236S/j.S/8f gap
+829/236S/j.H/15f gap
+830/236S/j.D/6f gap
+831/236S/6P/0f gap
+832/236S/6H/9f gap
+833/236S/2D/1f gap
+834/236S/5D/11f gap
+835/236S/5[D]/19f gap
+836/236S/236S/11f gap
+837/236S/236H/11f gap
+838/236S/623P/2f gap
+839/236S/214K/21f gap
+840/236S/j.214K/26f gap
+841/236S/214H/10f gap
+842/236S/214P/7f gap
+843/236S/214P 214P/Ramlethal_Valentine 236S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 236S.
+844/236S/214P 214P 214P/Ramlethal_Valentine 236S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 236S.
+845/236S/j.214S/8f gap
+846/236S/632146H/15f gap
+847/236S/236236S/0f gap
+848/236S/f.[S]/2f gap
+849/236S/5[H]/3f gap
+850/236S/2[S]/1f gap
+851/236S/2[H]/5f gap
+852/236S/j.[S]/8f gap
+853/236S/j.[H]/15f gap
+854/236S/6[H]/9f gap
+855/236S/214[H]/10f gap
+856/236S/214{H}/10f gap
+857/236S/214[P] 214[P]/Ramlethal_Valentine 236S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 236S.
+858/236S/236236[S]/0f gap
+859/236S/236236{S}/0f gap
+860/236H/5P/2f gap
+861/236H/5K/4f gap
+862/236H/c.S/4f gap
+863/236H/f.S/8f gap
+864/236H/5H/9f gap
+865/236H/2P/3f gap
+866/236H/2K/3f gap
+867/236H/2S/7f gap
+868/236H/2H/11f gap
+869/236H/j.P/7f gap
+870/236H/j.K/9f gap
+871/236H/j.S/14f gap
+872/236H/j.H/21f gap
+873/236H/j.D/12f gap
+874/236H/6P/6f gap
+875/236H/6H/15f gap
+876/236H/2D/7f gap
+877/236H/5D/17f gap
+878/236H/5[D]/25f gap
+879/236H/236S/17f gap
+880/236H/236H/17f gap
+881/236H/623P/8f gap
+882/236H/214K/27f gap
+883/236H/j.214K/32f gap
+884/236H/214H/16f gap
+885/236H/214P/13f gap
+886/236H/214P 214P/Ramlethal_Valentine 236H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 236H.
+887/236H/214P 214P 214P/Ramlethal_Valentine 236H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 236H.
+888/236H/j.214S/14f gap
+889/236H/632146H/21f gap
+890/236H/236236S/6f gap
+891/236H/f.[S]/8f gap
+892/236H/5[H]/9f gap
+893/236H/2[S]/7f gap
+894/236H/2[H]/11f gap
+895/236H/j.[S]/14f gap
+896/236H/j.[H]/21f gap
+897/236H/6[H]/15f gap
+898/236H/214[H]/16f gap
+899/236H/214{H}/16f gap
+900/236H/214[P] 214[P]/Ramlethal_Valentine 236H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 236H.
+901/236H/236236[S]/6f gap
+902/236H/236236{S}/6f gap
+903/623P/5P/15f gap
+904/623P/5K/17f gap
+905/623P/c.S/17f gap
+906/623P/f.S/21f gap
+907/623P/5H/22f gap
+908/623P/2P/16f gap
+909/623P/2K/16f gap
+910/623P/2S/20f gap
+911/623P/2H/24f gap
+912/623P/j.P/20f gap
+913/623P/j.K/22f gap
+914/623P/j.S/27f gap
+915/623P/j.H/34f gap
+916/623P/j.D/25f gap
+917/623P/6P/19f gap
+918/623P/6H/28f gap
+919/623P/2D/20f gap
+920/623P/5D/30f gap
+921/623P/5[D]/38f gap
+922/623P/236S/30f gap
+923/623P/236H/30f gap
+924/623P/623P/21f gap
+925/623P/214K/40f gap
+926/623P/j.214K/45f gap
+927/623P/214H/29f gap
+928/623P/214P/26f gap
+929/623P/214P 214P/Ramlethal_Valentine 623P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 623P.
+930/623P/214P 214P 214P/Ramlethal_Valentine 623P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 623P.
+931/623P/j.214S/27f gap
+932/623P/632146H/34f gap
+933/623P/236236S/19f gap
+934/623P/f.[S]/21f gap
+935/623P/5[H]/22f gap
+936/623P/2[S]/20f gap
+937/623P/2[H]/24f gap
+938/623P/j.[S]/27f gap
+939/623P/j.[H]/34f gap
+940/623P/6[H]/28f gap
+941/623P/214[H]/29f gap
+942/623P/214{H}/29f gap
+943/623P/214[P] 214[P]/Ramlethal_Valentine 623P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 623P.
+944/623P/236236[S]/19f gap
+945/623P/236236{S}/19f gap
+946/214K/5P/3f gap
+947/214K/5K/5f gap
+948/214K/c.S/5f gap
+949/214K/f.S/9f gap
+950/214K/5H/10f gap
+951/214K/2P/4f gap
+952/214K/2K/4f gap
+953/214K/2S/8f gap
+954/214K/2H/12f gap
+955/214K/j.P/8f gap
+956/214K/j.K/10f gap
+957/214K/j.S/15f gap
+958/214K/j.H/22f gap
+959/214K/j.D/13f gap
+960/214K/6P/7f gap
+961/214K/6H/16f gap
+962/214K/2D/8f gap
+963/214K/5D/18f gap
+964/214K/5[D]/26f gap
+965/214K/236S/18f gap
+966/214K/236H/18f gap
+967/214K/623P/9f gap
+968/214K/214K/28f gap
+969/214K/j.214K/33f gap
+970/214K/214H/17f gap
+971/214K/214P/14f gap
+972/214K/214P 214P/Ramlethal_Valentine 214K > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214K.
+973/214K/214P 214P 214P/Ramlethal_Valentine 214K > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 214K.
+974/214K/j.214S/15f gap
+975/214K/632146H/22f gap
+976/214K/236236S/7f gap
+977/214K/f.[S]/9f gap
+978/214K/5[H]/10f gap
+979/214K/2[S]/8f gap
+980/214K/2[H]/12f gap
+981/214K/j.[S]/15f gap
+982/214K/j.[H]/22f gap
+983/214K/6[H]/16f gap
+984/214K/214[H]/17f gap
+985/214K/214{H}/17f gap
+986/214K/214[P] 214[P]/Ramlethal_Valentine 214K > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214K.
+987/214K/236236[S]/7f gap
+988/214K/236236{S}/7f gap
+989/j.214K/5P/j.214K has 16f of blockstun, while 5P has 5f of startup
+990/j.214K/5K/j.214K has 16f of blockstun, while 5K has 7f of startup
+991/j.214K/c.S/j.214K has 16f of blockstun, while c.S has 7f of startup
+992/j.214K/f.S/j.214K has 16f of blockstun, while f.S has 11f of startup
+993/j.214K/5H/j.214K has 16f of blockstun, while 5H has 12f of startup
+994/j.214K/2P/j.214K has 16f of blockstun, while 2P has 6f of startup
+995/j.214K/2K/j.214K has 16f of blockstun, while 2K has 6f of startup
+996/j.214K/2S/j.214K has 16f of blockstun, while 2S has 10f of startup
+997/j.214K/2H/j.214K has 16f of blockstun, while 2H has 14f of startup
+998/j.214K/j.P/j.214K has 16f of blockstun, while j.P has 5f of startup
+999/j.214K/j.K/j.214K has 16f of blockstun, while j.K has 7f of startup
+1000/j.214K/j.S/j.214K has 16f of blockstun, while j.S has 12f of startup
+1001/j.214K/j.H/j.214K has 16f of blockstun, while j.H has 19f of startup
+1002/j.214K/j.D/j.214K has 16f of blockstun, while j.D has 10f of startup
+1003/j.214K/6P/j.214K has 16f of blockstun, while 6P has 9f of startup
+1004/j.214K/6H/j.214K has 16f of blockstun, while 6H has 18f of startup
+1005/j.214K/2D/j.214K has 16f of blockstun, while 2D has 10f of startup
+1006/j.214K/5D/j.214K has 16f of blockstun, while 5D has 20f of startup
+1007/j.214K/5[D]/j.214K has 16f of blockstun, while 5[D] has 28f of startup
+1008/j.214K/236S/j.214K has 16f of blockstun, while 236S has 20f of startup
+1009/j.214K/236H/j.214K has 16f of blockstun, while 236H has 20f of startup
+1010/j.214K/623P/j.214K has 16f of blockstun, while 623P has 11f of startup
+1011/j.214K/214K/j.214K has 16f of blockstun, while 214K has 30f of startup
+1012/j.214K/j.214K/j.214K has 16f of blockstun, while j.214K has 30f of startup
+1013/j.214K/214H/j.214K has 16f of blockstun, while 214H has 19f of startup
+1014/j.214K/214P/j.214K has 16f of blockstun, while 214P has 16f of startup
+1015/j.214K/214P 214P/Ramlethal_Valentine j.214K > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.214K.
+1016/j.214K/214P 214P 214P/Ramlethal_Valentine j.214K > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.214K.
+1017/j.214K/j.214S/j.214K has 16f of blockstun, while j.214S has 12f of startup
+1018/j.214K/632146H/j.214K has 16f of blockstun, while 632146H has 24f of startup
+1019/j.214K/236236S/j.214K has 16f of blockstun, while 236236S has 9f of startup
+1020/j.214K/f.[S]/j.214K has 16f of blockstun, while f.[S] has 11f of startup
+1021/j.214K/5[H]/j.214K has 16f of blockstun, while 5[H] has 12f of startup
+1022/j.214K/2[S]/j.214K has 16f of blockstun, while 2[S] has 10f of startup
+1023/j.214K/2[H]/j.214K has 16f of blockstun, while 2[H] has 14f of startup
+1024/j.214K/j.[S]/j.214K has 16f of blockstun, while j.[S] has 12f of startup
+1025/j.214K/j.[H]/j.214K has 16f of blockstun, while j.[H] has 19f of startup
+1026/j.214K/6[H]/j.214K has 16f of blockstun, while 6[H] has 18f of startup
+1027/j.214K/214[H]/j.214K has 16f of blockstun, while 214[H] has 19f of startup
+1028/j.214K/214{H}/j.214K has 16f of blockstun, while 214{H} has 19f of startup
+1029/j.214K/214[P] 214[P]/Ramlethal_Valentine j.214K > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.214K.
+1030/j.214K/236236[S]/j.214K has 16f of blockstun, while 236236[S] has 9f of startup
+1031/j.214K/236236{S}/j.214K has 16f of blockstun, while 236236{S} has 9f of startup
+1032/214H/5P/32f gap
+1033/214H/5K/34f gap
+1034/214H/c.S/34f gap
+1035/214H/f.S/38f gap
+1036/214H/5H/39f gap
+1037/214H/2P/33f gap
+1038/214H/2K/33f gap
+1039/214H/2S/37f gap
+1040/214H/2H/41f gap
+1041/214H/j.P/37f gap
+1042/214H/j.K/39f gap
+1043/214H/j.S/44f gap
+1044/214H/j.H/51f gap
+1045/214H/j.D/42f gap
+1046/214H/6P/36f gap
+1047/214H/6H/45f gap
+1048/214H/2D/37f gap
+1049/214H/5D/47f gap
+1050/214H/5[D]/55f gap
+1051/214H/236S/47f gap
+1052/214H/236H/47f gap
+1053/214H/623P/38f gap
+1054/214H/214K/57f gap
+1055/214H/j.214K/62f gap
+1056/214H/214H/46f gap
+1057/214H/214P/43f gap
+1058/214H/214P 214P/Ramlethal_Valentine 214H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214H.
+1059/214H/214P 214P 214P/Ramlethal_Valentine 214H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 214H.
+1060/214H/j.214S/44f gap
+1061/214H/632146H/51f gap
+1062/214H/236236S/36f gap
+1063/214H/f.[S]/38f gap
+1064/214H/5[H]/39f gap
+1065/214H/2[S]/37f gap
+1066/214H/2[H]/41f gap
+1067/214H/j.[S]/44f gap
+1068/214H/j.[H]/51f gap
+1069/214H/6[H]/45f gap
+1070/214H/214[H]/46f gap
+1071/214H/214{H}/46f gap
+1072/214H/214[P] 214[P]/Ramlethal_Valentine 214H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214H.
+1073/214H/236236[S]/36f gap
+1074/214H/236236{S}/36f gap
+1075/214P/5P/10f gap
+1076/214P/5K/12f gap
+1077/214P/c.S/12f gap
+1078/214P/f.S/16f gap
+1079/214P/5H/17f gap
+1080/214P/2P/11f gap
+1081/214P/2K/11f gap
+1082/214P/2S/15f gap
+1083/214P/2H/19f gap
+1084/214P/j.P/15f gap
+1085/214P/j.K/17f gap
+1086/214P/j.S/22f gap
+1087/214P/j.H/29f gap
+1088/214P/j.D/20f gap
+1089/214P/6P/14f gap
+1090/214P/6H/23f gap
+1091/214P/2D/15f gap
+1092/214P/5D/25f gap
+1093/214P/5[D]/33f gap
+1094/214P/236S/25f gap
+1095/214P/236H/25f gap
+1096/214P/623P/16f gap
+1097/214P/214K/35f gap
+1098/214P/j.214K/40f gap
+1099/214P/214H/24f gap
+1100/214P/214P/21f gap
+1101/214P/214P 214P/-4f gap
+1102/214P/214P 214P 214P/Ramlethal_Valentine 214P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 214P.
+1103/214P/j.214S/22f gap
+1104/214P/632146H/29f gap
+1105/214P/236236S/14f gap
+1106/214P/f.[S]/16f gap
+1107/214P/5[H]/17f gap
+1108/214P/2[S]/15f gap
+1109/214P/2[H]/19f gap
+1110/214P/j.[S]/22f gap
+1111/214P/j.[H]/29f gap
+1112/214P/6[H]/23f gap
+1113/214P/214[H]/24f gap
+1114/214P/214{H}/24f gap
+1115/214P/214[P] 214[P]/Ramlethal_Valentine 214P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214P.
+1116/214P/236236[S]/14f gap
+1117/214P/236236{S}/14f gap
+1118/214P 214P/5P/17f gap
+1119/214P 214P/5K/19f gap
+1120/214P 214P/c.S/19f gap
+1121/214P 214P/f.S/23f gap
+1122/214P 214P/5H/24f gap
+1123/214P 214P/2P/18f gap
+1124/214P 214P/2K/18f gap
+1125/214P 214P/2S/22f gap
+1126/214P 214P/2H/26f gap
+1127/214P 214P/j.P/22f gap
+1128/214P 214P/j.K/24f gap
+1129/214P 214P/j.S/29f gap
+1130/214P 214P/j.H/36f gap
+1131/214P 214P/j.D/27f gap
+1132/214P 214P/6P/21f gap
+1133/214P 214P/6H/30f gap
+1134/214P 214P/2D/22f gap
+1135/214P 214P/5D/32f gap
+1136/214P 214P/5[D]/40f gap
+1137/214P 214P/236S/32f gap
+1138/214P 214P/236H/32f gap
+1139/214P 214P/623P/23f gap
+1140/214P 214P/214K/42f gap
+1141/214P 214P/j.214K/47f gap
+1142/214P 214P/214H/31f gap
+1143/214P 214P/214P/28f gap
+1144/214P 214P/214P 214P/Ramlethal_Valentine 214P 214P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214P 214P.
+1145/214P 214P/214P 214P 214P/-5f gap
+1146/214P 214P/j.214S/29f gap
+1147/214P 214P/632146H/36f gap
+1148/214P 214P/236236S/21f gap
+1149/214P 214P/f.[S]/23f gap
+1150/214P 214P/5[H]/24f gap
+1151/214P 214P/2[S]/22f gap
+1152/214P 214P/2[H]/26f gap
+1153/214P 214P/j.[S]/29f gap
+1154/214P 214P/j.[H]/36f gap
+1155/214P 214P/6[H]/30f gap
+1156/214P 214P/214[H]/31f gap
+1157/214P 214P/214{H}/31f gap
+1158/214P 214P/214[P] 214[P]/Ramlethal_Valentine 214P 214P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214P 214P.
+1159/214P 214P/236236[S]/21f gap
+1160/214P 214P/236236{S}/21f gap
+1161/214P 214P 214P/5P/30f gap
+1162/214P 214P 214P/5K/32f gap
+1163/214P 214P 214P/c.S/32f gap
+1164/214P 214P 214P/f.S/36f gap
+1165/214P 214P 214P/5H/37f gap
+1166/214P 214P 214P/2P/31f gap
+1167/214P 214P 214P/2K/31f gap
+1168/214P 214P 214P/2S/35f gap
+1169/214P 214P 214P/2H/39f gap
+1170/214P 214P 214P/j.P/35f gap
+1171/214P 214P 214P/j.K/37f gap
+1172/214P 214P 214P/j.S/42f gap
+1173/214P 214P 214P/j.H/49f gap
+1174/214P 214P 214P/j.D/40f gap
+1175/214P 214P 214P/6P/34f gap
+1176/214P 214P 214P/6H/43f gap
+1177/214P 214P 214P/2D/35f gap
+1178/214P 214P 214P/5D/45f gap
+1179/214P 214P 214P/5[D]/53f gap
+1180/214P 214P 214P/236S/45f gap
+1181/214P 214P 214P/236H/45f gap
+1182/214P 214P 214P/623P/36f gap
+1183/214P 214P 214P/214K/55f gap
+1184/214P 214P 214P/j.214K/60f gap
+1185/214P 214P 214P/214H/44f gap
+1186/214P 214P 214P/214P/41f gap
+1187/214P 214P 214P/214P 214P/Ramlethal_Valentine 214P 214P 214P > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214P 214P 214P.
+1188/214P 214P 214P/214P 214P 214P/Ramlethal_Valentine 214P 214P 214P > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 214P 214P 214P.
+1189/214P 214P 214P/j.214S/42f gap
+1190/214P 214P 214P/632146H/49f gap
+1191/214P 214P 214P/236236S/34f gap
+1192/214P 214P 214P/f.[S]/36f gap
+1193/214P 214P 214P/5[H]/37f gap
+1194/214P 214P 214P/2[S]/35f gap
+1195/214P 214P 214P/2[H]/39f gap
+1196/214P 214P 214P/j.[S]/42f gap
+1197/214P 214P 214P/j.[H]/49f gap
+1198/214P 214P 214P/6[H]/43f gap
+1199/214P 214P 214P/214[H]/44f gap
+1200/214P 214P 214P/214{H}/44f gap
+1201/214P 214P 214P/214[P] 214[P]/Ramlethal_Valentine 214P 214P 214P > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214P 214P 214P.
+1202/214P 214P 214P/236236[S]/34f gap
+1203/214P 214P 214P/236236{S}/34f gap
+1204/j.214S/5P/j.214S has 16f of blockstun, while 5P has 5f of startup
+1205/j.214S/5K/j.214S has 16f of blockstun, while 5K has 7f of startup
+1206/j.214S/c.S/j.214S has 16f of blockstun, while c.S has 7f of startup
+1207/j.214S/f.S/j.214S has 16f of blockstun, while f.S has 11f of startup
+1208/j.214S/5H/j.214S has 16f of blockstun, while 5H has 12f of startup
+1209/j.214S/2P/j.214S has 16f of blockstun, while 2P has 6f of startup
+1210/j.214S/2K/j.214S has 16f of blockstun, while 2K has 6f of startup
+1211/j.214S/2S/j.214S has 16f of blockstun, while 2S has 10f of startup
+1212/j.214S/2H/j.214S has 16f of blockstun, while 2H has 14f of startup
+1213/j.214S/j.P/j.214S has 16f of blockstun, while j.P has 5f of startup
+1214/j.214S/j.K/j.214S has 16f of blockstun, while j.K has 7f of startup
+1215/j.214S/j.S/j.214S has 16f of blockstun, while j.S has 12f of startup
+1216/j.214S/j.H/j.214S has 16f of blockstun, while j.H has 19f of startup
+1217/j.214S/j.D/j.214S has 16f of blockstun, while j.D has 10f of startup
+1218/j.214S/6P/j.214S has 16f of blockstun, while 6P has 9f of startup
+1219/j.214S/6H/j.214S has 16f of blockstun, while 6H has 18f of startup
+1220/j.214S/2D/j.214S has 16f of blockstun, while 2D has 10f of startup
+1221/j.214S/5D/j.214S has 16f of blockstun, while 5D has 20f of startup
+1222/j.214S/5[D]/j.214S has 16f of blockstun, while 5[D] has 28f of startup
+1223/j.214S/236S/j.214S has 16f of blockstun, while 236S has 20f of startup
+1224/j.214S/236H/j.214S has 16f of blockstun, while 236H has 20f of startup
+1225/j.214S/623P/j.214S has 16f of blockstun, while 623P has 11f of startup
+1226/j.214S/214K/j.214S has 16f of blockstun, while 214K has 30f of startup
+1227/j.214S/j.214K/j.214S has 16f of blockstun, while j.214K has 30f of startup
+1228/j.214S/214H/j.214S has 16f of blockstun, while 214H has 19f of startup
+1229/j.214S/214P/j.214S has 16f of blockstun, while 214P has 16f of startup
+1230/j.214S/214P 214P/Ramlethal_Valentine j.214S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.214S.
+1231/j.214S/214P 214P 214P/Ramlethal_Valentine j.214S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.214S.
+1232/j.214S/j.214S/j.214S has 16f of blockstun, while j.214S has 12f of startup
+1233/j.214S/632146H/j.214S has 16f of blockstun, while 632146H has 24f of startup
+1234/j.214S/236236S/j.214S has 16f of blockstun, while 236236S has 9f of startup
+1235/j.214S/f.[S]/j.214S has 16f of blockstun, while f.[S] has 11f of startup
+1236/j.214S/5[H]/j.214S has 16f of blockstun, while 5[H] has 12f of startup
+1237/j.214S/2[S]/j.214S has 16f of blockstun, while 2[S] has 10f of startup
+1238/j.214S/2[H]/j.214S has 16f of blockstun, while 2[H] has 14f of startup
+1239/j.214S/j.[S]/j.214S has 16f of blockstun, while j.[S] has 12f of startup
+1240/j.214S/j.[H]/j.214S has 16f of blockstun, while j.[H] has 19f of startup
+1241/j.214S/6[H]/j.214S has 16f of blockstun, while 6[H] has 18f of startup
+1242/j.214S/214[H]/j.214S has 16f of blockstun, while 214[H] has 19f of startup
+1243/j.214S/214{H}/j.214S has 16f of blockstun, while 214{H} has 19f of startup
+1244/j.214S/214[P] 214[P]/Ramlethal_Valentine j.214S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.214S.
+1245/j.214S/236236[S]/j.214S has 16f of blockstun, while 236236[S] has 9f of startup
+1246/j.214S/236236{S}/j.214S has 16f of blockstun, while 236236{S} has 9f of startup
+1247/632146H/5P/-11f gap
+1248/632146H/5K/-9f gap
+1249/632146H/c.S/-9f gap
+1250/632146H/f.S/-5f gap
+1251/632146H/5H/-4f gap
+1252/632146H/2P/-10f gap
+1253/632146H/2K/-10f gap
+1254/632146H/2S/-6f gap
+1255/632146H/2H/-2f gap
+1256/632146H/j.P/-6f gap
+1257/632146H/j.K/-4f gap
+1258/632146H/j.S/1f gap
+1259/632146H/j.H/8f gap
+1260/632146H/j.D/-1f gap
+1261/632146H/6P/-7f gap
+1262/632146H/6H/2f gap
+1263/632146H/2D/-6f gap
+1264/632146H/5D/4f gap
+1265/632146H/5[D]/12f gap
+1266/632146H/236S/4f gap
+1267/632146H/236H/4f gap
+1268/632146H/623P/-5f gap
+1269/632146H/214K/14f gap
+1270/632146H/j.214K/19f gap
+1271/632146H/214H/3f gap
+1272/632146H/214P/0f gap
+1273/632146H/214P 214P/Ramlethal_Valentine 632146H > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 632146H.
+1274/632146H/214P 214P 214P/Ramlethal_Valentine 632146H > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 632146H.
+1275/632146H/j.214S/1f gap
+1276/632146H/632146H/8f gap
+1277/632146H/236236S/-7f gap
+1278/632146H/f.[S]/-5f gap
+1279/632146H/5[H]/-4f gap
+1280/632146H/2[S]/-6f gap
+1281/632146H/2[H]/-2f gap
+1282/632146H/j.[S]/1f gap
+1283/632146H/j.[H]/8f gap
+1284/632146H/6[H]/2f gap
+1285/632146H/214[H]/3f gap
+1286/632146H/214{H}/3f gap
+1287/632146H/214[P] 214[P]/Ramlethal_Valentine 632146H > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 632146H.
+1288/632146H/236236[S]/-7f gap
+1289/632146H/236236{S}/-7f gap
+1290/236236S/5P/43f gap
+1291/236236S/5K/45f gap
+1292/236236S/c.S/45f gap
+1293/236236S/f.S/49f gap
+1294/236236S/5H/50f gap
+1295/236236S/2P/44f gap
+1296/236236S/2K/44f gap
+1297/236236S/2S/48f gap
+1298/236236S/2H/52f gap
+1299/236236S/j.P/48f gap
+1300/236236S/j.K/50f gap
+1301/236236S/j.S/55f gap
+1302/236236S/j.H/62f gap
+1303/236236S/j.D/53f gap
+1304/236236S/6P/47f gap
+1305/236236S/6H/56f gap
+1306/236236S/2D/48f gap
+1307/236236S/5D/58f gap
+1308/236236S/5[D]/66f gap
+1309/236236S/236S/58f gap
+1310/236236S/236H/58f gap
+1311/236236S/623P/49f gap
+1312/236236S/214K/68f gap
+1313/236236S/j.214K/73f gap
+1314/236236S/214H/57f gap
+1315/236236S/214P/54f gap
+1316/236236S/214P 214P/Ramlethal_Valentine 236236S > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 236236S.
+1317/236236S/214P 214P 214P/Ramlethal_Valentine 236236S > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 236236S.
+1318/236236S/j.214S/55f gap
+1319/236236S/632146H/62f gap
+1320/236236S/236236S/47f gap
+1321/236236S/f.[S]/49f gap
+1322/236236S/5[H]/50f gap
+1323/236236S/2[S]/48f gap
+1324/236236S/2[H]/52f gap
+1325/236236S/j.[S]/55f gap
+1326/236236S/j.[H]/62f gap
+1327/236236S/6[H]/56f gap
+1328/236236S/214[H]/57f gap
+1329/236236S/214{H}/57f gap
+1330/236236S/214[P] 214[P]/Ramlethal_Valentine 236236S > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 236236S.
+1331/236236S/236236[S]/47f gap
+1332/236236S/236236{S}/47f gap
+1333/f.[S]/5P/18f gap
+1334/f.[S]/5K/20f gap
+1335/f.[S]/c.S/20f gap
+1336/f.[S]/f.S/24f gap
+1337/f.[S]/5H/25f gap
+1338/f.[S]/2P/19f gap
+1339/f.[S]/2K/19f gap
+1340/f.[S]/2S/23f gap
+1341/f.[S]/2H/27f gap
+1342/f.[S]/j.P/23f gap
+1343/f.[S]/j.K/25f gap
+1344/f.[S]/j.S/30f gap
+1345/f.[S]/j.H/37f gap
+1346/f.[S]/j.D/28f gap
+1347/f.[S]/6P/22f gap
+1348/f.[S]/6H/31f gap
+1349/f.[S]/2D/23f gap
+1350/f.[S]/5D/33f gap
+1351/f.[S]/5[D]/41f gap
+1352/f.[S]/236S/33f gap
+1353/f.[S]/236H/33f gap
+1354/f.[S]/623P/24f gap
+1355/f.[S]/214K/43f gap
+1356/f.[S]/j.214K/48f gap
+1357/f.[S]/214H/32f gap
+1358/f.[S]/214P/29f gap
+1359/f.[S]/214P 214P/Ramlethal_Valentine f.[S] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after f.[S].
+1360/f.[S]/214P 214P 214P/Ramlethal_Valentine f.[S] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after f.[S].
+1361/f.[S]/j.214S/30f gap
+1362/f.[S]/632146H/37f gap
+1363/f.[S]/236236S/22f gap
+1364/f.[S]/f.[S]/24f gap
+1365/f.[S]/5[H]/25f gap
+1366/f.[S]/2[S]/23f gap
+1367/f.[S]/2[H]/27f gap
+1368/f.[S]/j.[S]/30f gap
+1369/f.[S]/j.[H]/37f gap
+1370/f.[S]/6[H]/31f gap
+1371/f.[S]/214[H]/32f gap
+1372/f.[S]/214{H}/32f gap
+1373/f.[S]/214[P] 214[P]/Ramlethal_Valentine f.[S] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after f.[S].
+1374/f.[S]/236236[S]/22f gap
+1375/f.[S]/236236{S}/22f gap
+1376/5[H]/5P/18f gap
+1377/5[H]/5K/20f gap
+1378/5[H]/c.S/20f gap
+1379/5[H]/f.S/24f gap
+1380/5[H]/5H/25f gap
+1381/5[H]/2P/19f gap
+1382/5[H]/2K/19f gap
+1383/5[H]/2S/23f gap
+1384/5[H]/2H/27f gap
+1385/5[H]/j.P/23f gap
+1386/5[H]/j.K/25f gap
+1387/5[H]/j.S/30f gap
+1388/5[H]/j.H/37f gap
+1389/5[H]/j.D/28f gap
+1390/5[H]/6P/22f gap
+1391/5[H]/6H/31f gap
+1392/5[H]/2D/23f gap
+1393/5[H]/5D/33f gap
+1394/5[H]/5[D]/41f gap
+1395/5[H]/236S/33f gap
+1396/5[H]/236H/33f gap
+1397/5[H]/623P/24f gap
+1398/5[H]/214K/43f gap
+1399/5[H]/j.214K/48f gap
+1400/5[H]/214H/32f gap
+1401/5[H]/214P/29f gap
+1402/5[H]/214P 214P/Ramlethal_Valentine 5[H] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 5[H].
+1403/5[H]/214P 214P 214P/Ramlethal_Valentine 5[H] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 5[H].
+1404/5[H]/j.214S/30f gap
+1405/5[H]/632146H/37f gap
+1406/5[H]/236236S/22f gap
+1407/5[H]/f.[S]/24f gap
+1408/5[H]/5[H]/25f gap
+1409/5[H]/2[S]/23f gap
+1410/5[H]/2[H]/27f gap
+1411/5[H]/j.[S]/30f gap
+1412/5[H]/j.[H]/37f gap
+1413/5[H]/6[H]/31f gap
+1414/5[H]/214[H]/32f gap
+1415/5[H]/214{H}/32f gap
+1416/5[H]/214[P] 214[P]/Ramlethal_Valentine 5[H] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 5[H].
+1417/5[H]/236236[S]/22f gap
+1418/5[H]/236236{S}/22f gap
+1419/2[S]/5P/13f gap
+1420/2[S]/5K/15f gap
+1421/2[S]/c.S/15f gap
+1422/2[S]/f.S/19f gap
+1423/2[S]/5H/20f gap
+1424/2[S]/2P/14f gap
+1425/2[S]/2K/14f gap
+1426/2[S]/2S/18f gap
+1427/2[S]/2H/22f gap
+1428/2[S]/j.P/18f gap
+1429/2[S]/j.K/20f gap
+1430/2[S]/j.S/25f gap
+1431/2[S]/j.H/32f gap
+1432/2[S]/j.D/23f gap
+1433/2[S]/6P/17f gap
+1434/2[S]/6H/26f gap
+1435/2[S]/2D/18f gap
+1436/2[S]/5D/28f gap
+1437/2[S]/5[D]/36f gap
+1438/2[S]/236S/28f gap
+1439/2[S]/236H/28f gap
+1440/2[S]/623P/19f gap
+1441/2[S]/214K/38f gap
+1442/2[S]/j.214K/43f gap
+1443/2[S]/214H/27f gap
+1444/2[S]/214P/24f gap
+1445/2[S]/214P 214P/Ramlethal_Valentine 2[S] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2[S].
+1446/2[S]/214P 214P 214P/Ramlethal_Valentine 2[S] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2[S].
+1447/2[S]/j.214S/25f gap
+1448/2[S]/632146H/32f gap
+1449/2[S]/236236S/17f gap
+1450/2[S]/f.[S]/19f gap
+1451/2[S]/5[H]/20f gap
+1452/2[S]/2[S]/18f gap
+1453/2[S]/2[H]/22f gap
+1454/2[S]/j.[S]/25f gap
+1455/2[S]/j.[H]/32f gap
+1456/2[S]/6[H]/26f gap
+1457/2[S]/214[H]/27f gap
+1458/2[S]/214{H}/27f gap
+1459/2[S]/214[P] 214[P]/Ramlethal_Valentine 2[S] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2[S].
+1460/2[S]/236236[S]/17f gap
+1461/2[S]/236236{S}/17f gap
+1462/2[H]/5P/22f gap
+1463/2[H]/5K/24f gap
+1464/2[H]/c.S/24f gap
+1465/2[H]/f.S/28f gap
+1466/2[H]/5H/29f gap
+1467/2[H]/2P/23f gap
+1468/2[H]/2K/23f gap
+1469/2[H]/2S/27f gap
+1470/2[H]/2H/31f gap
+1471/2[H]/j.P/27f gap
+1472/2[H]/j.K/29f gap
+1473/2[H]/j.S/34f gap
+1474/2[H]/j.H/41f gap
+1475/2[H]/j.D/32f gap
+1476/2[H]/6P/26f gap
+1477/2[H]/6H/35f gap
+1478/2[H]/2D/27f gap
+1479/2[H]/5D/37f gap
+1480/2[H]/5[D]/45f gap
+1481/2[H]/236S/37f gap
+1482/2[H]/236H/37f gap
+1483/2[H]/623P/28f gap
+1484/2[H]/214K/47f gap
+1485/2[H]/j.214K/52f gap
+1486/2[H]/214H/36f gap
+1487/2[H]/214P/33f gap
+1488/2[H]/214P 214P/Ramlethal_Valentine 2[H] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 2[H].
+1489/2[H]/214P 214P 214P/Ramlethal_Valentine 2[H] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 2[H].
+1490/2[H]/j.214S/34f gap
+1491/2[H]/632146H/41f gap
+1492/2[H]/236236S/26f gap
+1493/2[H]/f.[S]/28f gap
+1494/2[H]/5[H]/29f gap
+1495/2[H]/2[S]/27f gap
+1496/2[H]/2[H]/31f gap
+1497/2[H]/j.[S]/34f gap
+1498/2[H]/j.[H]/41f gap
+1499/2[H]/6[H]/35f gap
+1500/2[H]/214[H]/36f gap
+1501/2[H]/214{H}/36f gap
+1502/2[H]/214[P] 214[P]/Ramlethal_Valentine 2[H] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 2[H].
+1503/2[H]/236236[S]/26f gap
+1504/2[H]/236236{S}/26f gap
+1505/j.[S]/5P/j.[S] has 11f of blockstun, while 5P has 5f of startup
+1506/j.[S]/5K/j.[S] has 11f of blockstun, while 5K has 7f of startup
+1507/j.[S]/c.S/j.[S] has 11f of blockstun, while c.S has 7f of startup
+1508/j.[S]/f.S/j.[S] has 11f of blockstun, while f.S has 11f of startup
+1509/j.[S]/5H/j.[S] has 11f of blockstun, while 5H has 12f of startup
+1510/j.[S]/2P/j.[S] has 11f of blockstun, while 2P has 6f of startup
+1511/j.[S]/2K/j.[S] has 11f of blockstun, while 2K has 6f of startup
+1512/j.[S]/2S/j.[S] has 11f of blockstun, while 2S has 10f of startup
+1513/j.[S]/2H/j.[S] has 11f of blockstun, while 2H has 14f of startup
+1514/j.[S]/j.P/j.[S] has 11f of blockstun, while j.P has 5f of startup
+1515/j.[S]/j.K/j.[S] has 11f of blockstun, while j.K has 7f of startup
+1516/j.[S]/j.S/j.[S] has 11f of blockstun, while j.S has 12f of startup
+1517/j.[S]/j.H/j.[S] has 11f of blockstun, while j.H has 19f of startup
+1518/j.[S]/j.D/j.[S] has 11f of blockstun, while j.D has 10f of startup
+1519/j.[S]/6P/j.[S] has 11f of blockstun, while 6P has 9f of startup
+1520/j.[S]/6H/j.[S] has 11f of blockstun, while 6H has 18f of startup
+1521/j.[S]/2D/j.[S] has 11f of blockstun, while 2D has 10f of startup
+1522/j.[S]/5D/j.[S] has 11f of blockstun, while 5D has 20f of startup
+1523/j.[S]/5[D]/j.[S] has 11f of blockstun, while 5[D] has 28f of startup
+1524/j.[S]/236S/j.[S] has 11f of blockstun, while 236S has 20f of startup
+1525/j.[S]/236H/j.[S] has 11f of blockstun, while 236H has 20f of startup
+1526/j.[S]/623P/j.[S] has 11f of blockstun, while 623P has 11f of startup
+1527/j.[S]/214K/j.[S] has 11f of blockstun, while 214K has 30f of startup
+1528/j.[S]/j.214K/j.[S] has 11f of blockstun, while j.214K has 30f of startup
+1529/j.[S]/214H/j.[S] has 11f of blockstun, while 214H has 19f of startup
+1530/j.[S]/214P/j.[S] has 11f of blockstun, while 214P has 16f of startup
+1531/j.[S]/214P 214P/Ramlethal_Valentine j.[S] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.[S].
+1532/j.[S]/214P 214P 214P/Ramlethal_Valentine j.[S] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.[S].
+1533/j.[S]/j.214S/j.[S] has 11f of blockstun, while j.214S has 12f of startup
+1534/j.[S]/632146H/j.[S] has 11f of blockstun, while 632146H has 24f of startup
+1535/j.[S]/236236S/j.[S] has 11f of blockstun, while 236236S has 9f of startup
+1536/j.[S]/f.[S]/j.[S] has 11f of blockstun, while f.[S] has 11f of startup
+1537/j.[S]/5[H]/j.[S] has 11f of blockstun, while 5[H] has 12f of startup
+1538/j.[S]/2[S]/j.[S] has 11f of blockstun, while 2[S] has 10f of startup
+1539/j.[S]/2[H]/j.[S] has 11f of blockstun, while 2[H] has 14f of startup
+1540/j.[S]/j.[S]/j.[S] has 11f of blockstun, while j.[S] has 12f of startup
+1541/j.[S]/j.[H]/j.[S] has 11f of blockstun, while j.[H] has 19f of startup
+1542/j.[S]/6[H]/j.[S] has 11f of blockstun, while 6[H] has 18f of startup
+1543/j.[S]/214[H]/j.[S] has 11f of blockstun, while 214[H] has 19f of startup
+1544/j.[S]/214{H}/j.[S] has 11f of blockstun, while 214{H} has 19f of startup
+1545/j.[S]/214[P] 214[P]/Ramlethal_Valentine j.[S] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.[S].
+1546/j.[S]/236236[S]/j.[S] has 11f of blockstun, while 236236[S] has 9f of startup
+1547/j.[S]/236236{S}/j.[S] has 11f of blockstun, while 236236{S} has 9f of startup
+1548/j.[H]/5P/j.[H] has 11f of blockstun, while 5P has 5f of startup
+1549/j.[H]/5K/j.[H] has 11f of blockstun, while 5K has 7f of startup
+1550/j.[H]/c.S/j.[H] has 11f of blockstun, while c.S has 7f of startup
+1551/j.[H]/f.S/j.[H] has 11f of blockstun, while f.S has 11f of startup
+1552/j.[H]/5H/j.[H] has 11f of blockstun, while 5H has 12f of startup
+1553/j.[H]/2P/j.[H] has 11f of blockstun, while 2P has 6f of startup
+1554/j.[H]/2K/j.[H] has 11f of blockstun, while 2K has 6f of startup
+1555/j.[H]/2S/j.[H] has 11f of blockstun, while 2S has 10f of startup
+1556/j.[H]/2H/j.[H] has 11f of blockstun, while 2H has 14f of startup
+1557/j.[H]/j.P/j.[H] has 11f of blockstun, while j.P has 5f of startup
+1558/j.[H]/j.K/j.[H] has 11f of blockstun, while j.K has 7f of startup
+1559/j.[H]/j.S/j.[H] has 11f of blockstun, while j.S has 12f of startup
+1560/j.[H]/j.H/j.[H] has 11f of blockstun, while j.H has 19f of startup
+1561/j.[H]/j.D/j.[H] has 11f of blockstun, while j.D has 10f of startup
+1562/j.[H]/6P/j.[H] has 11f of blockstun, while 6P has 9f of startup
+1563/j.[H]/6H/j.[H] has 11f of blockstun, while 6H has 18f of startup
+1564/j.[H]/2D/j.[H] has 11f of blockstun, while 2D has 10f of startup
+1565/j.[H]/5D/j.[H] has 11f of blockstun, while 5D has 20f of startup
+1566/j.[H]/5[D]/j.[H] has 11f of blockstun, while 5[D] has 28f of startup
+1567/j.[H]/236S/j.[H] has 11f of blockstun, while 236S has 20f of startup
+1568/j.[H]/236H/j.[H] has 11f of blockstun, while 236H has 20f of startup
+1569/j.[H]/623P/j.[H] has 11f of blockstun, while 623P has 11f of startup
+1570/j.[H]/214K/j.[H] has 11f of blockstun, while 214K has 30f of startup
+1571/j.[H]/j.214K/j.[H] has 11f of blockstun, while j.214K has 30f of startup
+1572/j.[H]/214H/j.[H] has 11f of blockstun, while 214H has 19f of startup
+1573/j.[H]/214P/j.[H] has 11f of blockstun, while 214P has 16f of startup
+1574/j.[H]/214P 214P/Ramlethal_Valentine j.[H] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after j.[H].
+1575/j.[H]/214P 214P 214P/Ramlethal_Valentine j.[H] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after j.[H].
+1576/j.[H]/j.214S/j.[H] has 11f of blockstun, while j.214S has 12f of startup
+1577/j.[H]/632146H/j.[H] has 11f of blockstun, while 632146H has 24f of startup
+1578/j.[H]/236236S/j.[H] has 11f of blockstun, while 236236S has 9f of startup
+1579/j.[H]/f.[S]/j.[H] has 11f of blockstun, while f.[S] has 11f of startup
+1580/j.[H]/5[H]/j.[H] has 11f of blockstun, while 5[H] has 12f of startup
+1581/j.[H]/2[S]/j.[H] has 11f of blockstun, while 2[S] has 10f of startup
+1582/j.[H]/2[H]/j.[H] has 11f of blockstun, while 2[H] has 14f of startup
+1583/j.[H]/j.[S]/j.[H] has 11f of blockstun, while j.[S] has 12f of startup
+1584/j.[H]/j.[H]/j.[H] has 11f of blockstun, while j.[H] has 19f of startup
+1585/j.[H]/6[H]/j.[H] has 11f of blockstun, while 6[H] has 18f of startup
+1586/j.[H]/214[H]/j.[H] has 11f of blockstun, while 214[H] has 19f of startup
+1587/j.[H]/214{H}/j.[H] has 11f of blockstun, while 214{H} has 19f of startup
+1588/j.[H]/214[P] 214[P]/Ramlethal_Valentine j.[H] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after j.[H].
+1589/j.[H]/236236[S]/j.[H] has 11f of blockstun, while 236236[S] has 9f of startup
+1590/j.[H]/236236{S}/j.[H] has 11f of blockstun, while 236236{S} has 9f of startup
+1591/6[H]/5P/23f gap
+1592/6[H]/5K/25f gap
+1593/6[H]/c.S/25f gap
+1594/6[H]/f.S/29f gap
+1595/6[H]/5H/30f gap
+1596/6[H]/2P/24f gap
+1597/6[H]/2K/24f gap
+1598/6[H]/2S/28f gap
+1599/6[H]/2H/32f gap
+1600/6[H]/j.P/28f gap
+1601/6[H]/j.K/30f gap
+1602/6[H]/j.S/35f gap
+1603/6[H]/j.H/42f gap
+1604/6[H]/j.D/33f gap
+1605/6[H]/6P/27f gap
+1606/6[H]/6H/36f gap
+1607/6[H]/2D/28f gap
+1608/6[H]/5D/38f gap
+1609/6[H]/5[D]/46f gap
+1610/6[H]/236S/38f gap
+1611/6[H]/236H/38f gap
+1612/6[H]/623P/29f gap
+1613/6[H]/214K/48f gap
+1614/6[H]/j.214K/53f gap
+1615/6[H]/214H/37f gap
+1616/6[H]/214P/34f gap
+1617/6[H]/214P 214P/Ramlethal_Valentine 6[H] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 6[H].
+1618/6[H]/214P 214P 214P/Ramlethal_Valentine 6[H] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 6[H].
+1619/6[H]/j.214S/35f gap
+1620/6[H]/632146H/42f gap
+1621/6[H]/236236S/27f gap
+1622/6[H]/f.[S]/29f gap
+1623/6[H]/5[H]/30f gap
+1624/6[H]/2[S]/28f gap
+1625/6[H]/2[H]/32f gap
+1626/6[H]/j.[S]/35f gap
+1627/6[H]/j.[H]/42f gap
+1628/6[H]/6[H]/36f gap
+1629/6[H]/214[H]/37f gap
+1630/6[H]/214{H}/37f gap
+1631/6[H]/214[P] 214[P]/Ramlethal_Valentine 6[H] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 6[H].
+1632/6[H]/236236[S]/27f gap
+1633/6[H]/236236{S}/27f gap
+1634/214[H]/5P/32f gap
+1635/214[H]/5K/34f gap
+1636/214[H]/c.S/34f gap
+1637/214[H]/f.S/38f gap
+1638/214[H]/5H/39f gap
+1639/214[H]/2P/33f gap
+1640/214[H]/2K/33f gap
+1641/214[H]/2S/37f gap
+1642/214[H]/2H/41f gap
+1643/214[H]/j.P/37f gap
+1644/214[H]/j.K/39f gap
+1645/214[H]/j.S/44f gap
+1646/214[H]/j.H/51f gap
+1647/214[H]/j.D/42f gap
+1648/214[H]/6P/36f gap
+1649/214[H]/6H/45f gap
+1650/214[H]/2D/37f gap
+1651/214[H]/5D/47f gap
+1652/214[H]/5[D]/55f gap
+1653/214[H]/236S/47f gap
+1654/214[H]/236H/47f gap
+1655/214[H]/623P/38f gap
+1656/214[H]/214K/57f gap
+1657/214[H]/j.214K/62f gap
+1658/214[H]/214H/46f gap
+1659/214[H]/214P/43f gap
+1660/214[H]/214P 214P/Ramlethal_Valentine 214[H] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214[H].
+1661/214[H]/214P 214P 214P/Ramlethal_Valentine 214[H] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 214[H].
+1662/214[H]/j.214S/44f gap
+1663/214[H]/632146H/51f gap
+1664/214[H]/236236S/36f gap
+1665/214[H]/f.[S]/38f gap
+1666/214[H]/5[H]/39f gap
+1667/214[H]/2[S]/37f gap
+1668/214[H]/2[H]/41f gap
+1669/214[H]/j.[S]/44f gap
+1670/214[H]/j.[H]/51f gap
+1671/214[H]/6[H]/45f gap
+1672/214[H]/214[H]/46f gap
+1673/214[H]/214{H}/46f gap
+1674/214[H]/214[P] 214[P]/Ramlethal_Valentine 214[H] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214[H].
+1675/214[H]/236236[S]/36f gap
+1676/214[H]/236236{S}/36f gap
+1677/214{H}/5P/37f gap
+1678/214{H}/5K/39f gap
+1679/214{H}/c.S/39f gap
+1680/214{H}/f.S/43f gap
+1681/214{H}/5H/44f gap
+1682/214{H}/2P/38f gap
+1683/214{H}/2K/38f gap
+1684/214{H}/2S/42f gap
+1685/214{H}/2H/46f gap
+1686/214{H}/j.P/42f gap
+1687/214{H}/j.K/44f gap
+1688/214{H}/j.S/49f gap
+1689/214{H}/j.H/56f gap
+1690/214{H}/j.D/47f gap
+1691/214{H}/6P/41f gap
+1692/214{H}/6H/50f gap
+1693/214{H}/2D/42f gap
+1694/214{H}/5D/52f gap
+1695/214{H}/5[D]/60f gap
+1696/214{H}/236S/52f gap
+1697/214{H}/236H/52f gap
+1698/214{H}/623P/43f gap
+1699/214{H}/214K/62f gap
+1700/214{H}/j.214K/67f gap
+1701/214{H}/214H/51f gap
+1702/214{H}/214P/48f gap
+1703/214{H}/214P 214P/Ramlethal_Valentine 214{H} > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214{H}.
+1704/214{H}/214P 214P 214P/Ramlethal_Valentine 214{H} > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 214{H}.
+1705/214{H}/j.214S/49f gap
+1706/214{H}/632146H/56f gap
+1707/214{H}/236236S/41f gap
+1708/214{H}/f.[S]/43f gap
+1709/214{H}/5[H]/44f gap
+1710/214{H}/2[S]/42f gap
+1711/214{H}/2[H]/46f gap
+1712/214{H}/j.[S]/49f gap
+1713/214{H}/j.[H]/56f gap
+1714/214{H}/6[H]/50f gap
+1715/214{H}/214[H]/51f gap
+1716/214{H}/214{H}/51f gap
+1717/214{H}/214[P] 214[P]/Ramlethal_Valentine 214{H} > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214{H}.
+1718/214{H}/236236[S]/41f gap
+1719/214{H}/236236{S}/41f gap
+1720/214[P] 214[P]/5P/15f gap
+1721/214[P] 214[P]/5K/17f gap
+1722/214[P] 214[P]/c.S/17f gap
+1723/214[P] 214[P]/f.S/21f gap
+1724/214[P] 214[P]/5H/22f gap
+1725/214[P] 214[P]/2P/16f gap
+1726/214[P] 214[P]/2K/16f gap
+1727/214[P] 214[P]/2S/20f gap
+1728/214[P] 214[P]/2H/24f gap
+1729/214[P] 214[P]/j.P/20f gap
+1730/214[P] 214[P]/j.K/22f gap
+1731/214[P] 214[P]/j.S/27f gap
+1732/214[P] 214[P]/j.H/34f gap
+1733/214[P] 214[P]/j.D/25f gap
+1734/214[P] 214[P]/6P/19f gap
+1735/214[P] 214[P]/6H/28f gap
+1736/214[P] 214[P]/2D/20f gap
+1737/214[P] 214[P]/5D/30f gap
+1738/214[P] 214[P]/5[D]/38f gap
+1739/214[P] 214[P]/236S/30f gap
+1740/214[P] 214[P]/236H/30f gap
+1741/214[P] 214[P]/623P/21f gap
+1742/214[P] 214[P]/214K/40f gap
+1743/214[P] 214[P]/j.214K/45f gap
+1744/214[P] 214[P]/214H/29f gap
+1745/214[P] 214[P]/214P/26f gap
+1746/214[P] 214[P]/214P 214P/Ramlethal_Valentine 214[P] 214[P] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 214[P] 214[P].
+1747/214[P] 214[P]/214P 214P 214P/-7f gap
+1748/214[P] 214[P]/j.214S/27f gap
+1749/214[P] 214[P]/632146H/34f gap
+1750/214[P] 214[P]/236236S/19f gap
+1751/214[P] 214[P]/f.[S]/21f gap
+1752/214[P] 214[P]/5[H]/22f gap
+1753/214[P] 214[P]/2[S]/20f gap
+1754/214[P] 214[P]/2[H]/24f gap
+1755/214[P] 214[P]/j.[S]/27f gap
+1756/214[P] 214[P]/j.[H]/34f gap
+1757/214[P] 214[P]/6[H]/28f gap
+1758/214[P] 214[P]/214[H]/29f gap
+1759/214[P] 214[P]/214{H}/29f gap
+1760/214[P] 214[P]/214[P] 214[P]/Ramlethal_Valentine 214[P] 214[P] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 214[P] 214[P].
+1761/214[P] 214[P]/236236[S]/19f gap
+1762/214[P] 214[P]/236236{S}/19f gap
+1763/236236[S]/5P/43f gap
+1764/236236[S]/5K/45f gap
+1765/236236[S]/c.S/45f gap
+1766/236236[S]/f.S/49f gap
+1767/236236[S]/5H/50f gap
+1768/236236[S]/2P/44f gap
+1769/236236[S]/2K/44f gap
+1770/236236[S]/2S/48f gap
+1771/236236[S]/2H/52f gap
+1772/236236[S]/j.P/48f gap
+1773/236236[S]/j.K/50f gap
+1774/236236[S]/j.S/55f gap
+1775/236236[S]/j.H/62f gap
+1776/236236[S]/j.D/53f gap
+1777/236236[S]/6P/47f gap
+1778/236236[S]/6H/56f gap
+1779/236236[S]/2D/48f gap
+1780/236236[S]/5D/58f gap
+1781/236236[S]/5[D]/66f gap
+1782/236236[S]/236S/58f gap
+1783/236236[S]/236H/58f gap
+1784/236236[S]/623P/49f gap
+1785/236236[S]/214K/68f gap
+1786/236236[S]/j.214K/73f gap
+1787/236236[S]/214H/57f gap
+1788/236236[S]/214P/54f gap
+1789/236236[S]/214P 214P/Ramlethal_Valentine 236236[S] > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 236236[S].
+1790/236236[S]/214P 214P 214P/Ramlethal_Valentine 236236[S] > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 236236[S].
+1791/236236[S]/j.214S/55f gap
+1792/236236[S]/632146H/62f gap
+1793/236236[S]/236236S/47f gap
+1794/236236[S]/f.[S]/49f gap
+1795/236236[S]/5[H]/50f gap
+1796/236236[S]/2[S]/48f gap
+1797/236236[S]/2[H]/52f gap
+1798/236236[S]/j.[S]/55f gap
+1799/236236[S]/j.[H]/62f gap
+1800/236236[S]/6[H]/56f gap
+1801/236236[S]/214[H]/57f gap
+1802/236236[S]/214{H}/57f gap
+1803/236236[S]/214[P] 214[P]/Ramlethal_Valentine 236236[S] > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 236236[S].
+1804/236236[S]/236236[S]/47f gap
+1805/236236[S]/236236{S}/47f gap
+1806/236236{S}/5P/48f gap
+1807/236236{S}/5K/50f gap
+1808/236236{S}/c.S/50f gap
+1809/236236{S}/f.S/54f gap
+1810/236236{S}/5H/55f gap
+1811/236236{S}/2P/49f gap
+1812/236236{S}/2K/49f gap
+1813/236236{S}/2S/53f gap
+1814/236236{S}/2H/57f gap
+1815/236236{S}/j.P/53f gap
+1816/236236{S}/j.K/55f gap
+1817/236236{S}/j.S/60f gap
+1818/236236{S}/j.H/67f gap
+1819/236236{S}/j.D/58f gap
+1820/236236{S}/6P/52f gap
+1821/236236{S}/6H/61f gap
+1822/236236{S}/2D/53f gap
+1823/236236{S}/5D/63f gap
+1824/236236{S}/5[D]/71f gap
+1825/236236{S}/236S/63f gap
+1826/236236{S}/236H/63f gap
+1827/236236{S}/623P/54f gap
+1828/236236{S}/214K/73f gap
+1829/236236{S}/j.214K/78f gap
+1830/236236{S}/214H/62f gap
+1831/236236{S}/214P/59f gap
+1832/236236{S}/214P 214P/Ramlethal_Valentine 236236{S} > 214P 214P: 214P 214P is a follow-up move that cannot be performed after 236236{S}.
+1833/236236{S}/214P 214P 214P/Ramlethal_Valentine 236236{S} > 214P 214P 214P: 214P 214P 214P is a follow-up move that cannot be performed after 236236{S}.
+1834/236236{S}/j.214S/60f gap
+1835/236236{S}/632146H/67f gap
+1836/236236{S}/236236S/52f gap
+1837/236236{S}/f.[S]/54f gap
+1838/236236{S}/5[H]/55f gap
+1839/236236{S}/2[S]/53f gap
+1840/236236{S}/2[H]/57f gap
+1841/236236{S}/j.[S]/60f gap
+1842/236236{S}/j.[H]/67f gap
+1843/236236{S}/6[H]/61f gap
+1844/236236{S}/214[H]/62f gap
+1845/236236{S}/214{H}/62f gap
+1846/236236{S}/214[P] 214[P]/Ramlethal_Valentine 236236{S} > 214[P] 214[P]: 214[P] 214[P] is a follow-up move that cannot be performed after 236236{S}.
+1847/236236{S}/236236[S]/52f gap
+1848/236236{S}/236236{S}/52f gap

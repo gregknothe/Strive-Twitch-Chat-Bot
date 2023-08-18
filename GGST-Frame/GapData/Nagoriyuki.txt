@@ -1,0 +1,3722 @@
+/move1/move2/gap
+0/5P/5P/-6f gap
+1/5P/5K/7f gap
+2/5P/c.S/7f gap
+3/5P/f.S.1/16f gap
+4/5P/f.S.2/14f gap
+5/5P/f.S.3/12f gap
+6/5P/f.S.BR/12f gap
+7/5P/f.SS.1/Nagoriyuki 5P > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5P.
+8/5P/f.SS.2/Nagoriyuki 5P > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5P.
+9/5P/f.SS.3/Nagoriyuki 5P > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5P.
+10/5P/f.SS.BR/Nagoriyuki 5P > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5P.
+11/5P/f.SSS.1/Nagoriyuki 5P > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5P.
+12/5P/f.SSS.2/Nagoriyuki 5P > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5P.
+13/5P/f.SSS.3/Nagoriyuki 5P > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5P.
+14/5P/f.SSS.BR/Nagoriyuki 5P > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5P.
+15/5P/5H.1/20f gap
+16/5P/5H.2/18f gap
+17/5P/5H.3/16f gap
+18/5P/5H.BR/16f gap
+19/5P/2P/-5f gap
+20/5P/2K/7f gap
+21/5P/2S.1/12f gap
+22/5P/2S.2/11f gap
+23/5P/2S.3/10f gap
+24/5P/2S.BR/10f gap
+25/5P/2H.1/19f gap
+26/5P/2H.2/17f gap
+27/5P/2H.3/15f gap
+28/5P/2H.BR/15f gap
+29/5P/j.P/12f gap
+30/5P/j.K/12f gap
+31/5P/j.S.1/18f gap
+32/5P/j.S.2/17f gap
+33/5P/j.S.3/16f gap
+34/5P/j.S.BR/16f gap
+35/5P/j.H.1/21f gap
+36/5P/j.H.2/20f gap
+37/5P/j.H.3/19f gap
+38/5P/j.H.BR/19f gap
+39/5P/j.D.1/20f gap
+40/5P/j.D.2/18f gap
+41/5P/j.D.3/16f gap
+42/5P/j.D.BR/16f gap
+43/5P/6P/1f gap
+44/5P/6K/4f gap
+45/5P/6H.1/6f gap
+46/5P/6H.2/5f gap
+47/5P/6H.3/4f gap
+48/5P/6H.BR/4f gap
+49/5P/2D/12f gap
+50/5P/5D/20f gap
+51/5P/5[D]/28f gap
+52/5P/236S/7f gap
+53/5P/236K/"N/A"
+54/5P/214K/"N/A"
+55/5P/214H/3f gap
+56/5P/623H/0f gap
+57/5P/623HH/Nagoriyuki 5P > 623HH: 623HH is a follow-up move that cannot be performed after 5P.
+58/5P/623P/-4f gap
+59/5P/632146S/-2f gap
+60/5P/632146H/21f gap
+61/5K/5P/5f gap
+62/5K/5K/7f gap
+63/5K/c.S/7f gap
+64/5K/f.S.1/16f gap
+65/5K/f.S.2/14f gap
+66/5K/f.S.3/12f gap
+67/5K/f.S.BR/12f gap
+68/5K/f.SS.1/Nagoriyuki 5K > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5K.
+69/5K/f.SS.2/Nagoriyuki 5K > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5K.
+70/5K/f.SS.3/Nagoriyuki 5K > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5K.
+71/5K/f.SS.BR/Nagoriyuki 5K > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5K.
+72/5K/f.SSS.1/Nagoriyuki 5K > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5K.
+73/5K/f.SSS.2/Nagoriyuki 5K > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5K.
+74/5K/f.SSS.3/Nagoriyuki 5K > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5K.
+75/5K/f.SSS.BR/Nagoriyuki 5K > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5K.
+76/5K/5H.1/20f gap
+77/5K/5H.2/18f gap
+78/5K/5H.3/16f gap
+79/5K/5H.BR/16f gap
+80/5K/2P/6f gap
+81/5K/2K/7f gap
+82/5K/2S.1/12f gap
+83/5K/2S.2/11f gap
+84/5K/2S.3/10f gap
+85/5K/2S.BR/10f gap
+86/5K/2H.1/19f gap
+87/5K/2H.2/17f gap
+88/5K/2H.3/15f gap
+89/5K/2H.BR/15f gap
+90/5K/j.P/-1f gap
+91/5K/j.K/-1f gap
+92/5K/j.S.1/5f gap
+93/5K/j.S.2/4f gap
+94/5K/j.S.3/3f gap
+95/5K/j.S.BR/3f gap
+96/5K/j.H.1/8f gap
+97/5K/j.H.2/7f gap
+98/5K/j.H.3/6f gap
+99/5K/j.H.BR/6f gap
+100/5K/j.D.1/7f gap
+101/5K/j.D.2/5f gap
+102/5K/j.D.3/3f gap
+103/5K/j.D.BR/3f gap
+104/5K/6P/-1f gap
+105/5K/6K/2f gap
+106/5K/6H.1/4f gap
+107/5K/6H.2/3f gap
+108/5K/6H.3/2f gap
+109/5K/6H.BR/2f gap
+110/5K/2D/-1f gap
+111/5K/5D/7f gap
+112/5K/5[D]/28f gap
+113/5K/236S/5f gap
+114/5K/236K/"N/A"
+115/5K/214K/"N/A"
+116/5K/214H/1f gap
+117/5K/623H/-2f gap
+118/5K/623HH/Nagoriyuki 5K > 623HH: 623HH is a follow-up move that cannot be performed after 5K.
+119/5K/623P/-6f gap
+120/5K/632146S/-4f gap
+121/5K/632146H/21f gap
+122/c.S/5P/2f gap
+123/c.S/5K/4f gap
+124/c.S/c.S/4f gap
+125/c.S/f.S.1/-2f gap
+126/c.S/f.S.2/-4f gap
+127/c.S/f.S.3/-6f gap
+128/c.S/f.S.BR/-6f gap
+129/c.S/f.SS.1/Nagoriyuki c.S > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after c.S.
+130/c.S/f.SS.2/Nagoriyuki c.S > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after c.S.
+131/c.S/f.SS.3/Nagoriyuki c.S > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after c.S.
+132/c.S/f.SS.BR/Nagoriyuki c.S > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after c.S.
+133/c.S/f.SSS.1/Nagoriyuki c.S > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after c.S.
+134/c.S/f.SSS.2/Nagoriyuki c.S > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after c.S.
+135/c.S/f.SSS.3/Nagoriyuki c.S > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after c.S.
+136/c.S/f.SSS.BR/Nagoriyuki c.S > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after c.S.
+137/c.S/5H.1/2f gap
+138/c.S/5H.2/0f gap
+139/c.S/5H.3/-2f gap
+140/c.S/5H.BR/-2f gap
+141/c.S/2P/3f gap
+142/c.S/2K/4f gap
+143/c.S/2S.1/-6f gap
+144/c.S/2S.2/-7f gap
+145/c.S/2S.3/-8f gap
+146/c.S/2S.BR/-8f gap
+147/c.S/2H.1/16f gap
+148/c.S/2H.2/14f gap
+149/c.S/2H.3/12f gap
+150/c.S/2H.BR/12f gap
+151/c.S/j.P/9f gap
+152/c.S/j.K/9f gap
+153/c.S/j.S.1/15f gap
+154/c.S/j.S.2/14f gap
+155/c.S/j.S.3/13f gap
+156/c.S/j.S.BR/13f gap
+157/c.S/j.H.1/18f gap
+158/c.S/j.H.2/17f gap
+159/c.S/j.H.3/16f gap
+160/c.S/j.H.BR/16f gap
+161/c.S/j.D.1/17f gap
+162/c.S/j.D.2/15f gap
+163/c.S/j.D.3/13f gap
+164/c.S/j.D.BR/13f gap
+165/c.S/6P/-6f gap
+166/c.S/6K/-3f gap
+167/c.S/6H.1/-1f gap
+168/c.S/6H.2/-2f gap
+169/c.S/6H.3/-3f gap
+170/c.S/6H.BR/-3f gap
+171/c.S/2D/-6f gap
+172/c.S/5D/2f gap
+173/c.S/5[D]/25f gap
+174/c.S/236S/0f gap
+175/c.S/236K/"N/A"
+176/c.S/214K/"N/A"
+177/c.S/214H/-4f gap
+178/c.S/623H/-7f gap
+179/c.S/623HH/Nagoriyuki c.S > 623HH: 623HH is a follow-up move that cannot be performed after c.S.
+180/c.S/623P/-11f gap
+181/c.S/632146S/-9f gap
+182/c.S/632146H/18f gap
+183/f.S.1/5P/22f gap
+184/f.S.1/5K/24f gap
+185/f.S.1/c.S/24f gap
+186/f.S.1/f.S.1/33f gap
+187/f.S.1/f.S.2/31f gap
+188/f.S.1/f.S.3/29f gap
+189/f.S.1/f.S.BR/29f gap
+190/f.S.1/f.SS.1/0f gap
+191/f.S.1/f.SS.2/Nagoriyuki f.S.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.S.1.
+192/f.S.1/f.SS.3/Nagoriyuki f.S.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.S.1.
+193/f.S.1/f.SS.BR/Nagoriyuki f.S.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.S.1.
+194/f.S.1/f.SSS.1/Nagoriyuki f.S.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.S.1.
+195/f.S.1/f.SSS.2/Nagoriyuki f.S.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.S.1.
+196/f.S.1/f.SSS.3/Nagoriyuki f.S.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.S.1.
+197/f.S.1/f.SSS.BR/Nagoriyuki f.S.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.S.1.
+198/f.S.1/5H.1/7f gap
+199/f.S.1/5H.2/35f gap
+200/f.S.1/5H.3/33f gap
+201/f.S.1/5H.BR/33f gap
+202/f.S.1/2P/23f gap
+203/f.S.1/2K/24f gap
+204/f.S.1/2S.1/29f gap
+205/f.S.1/2S.2/28f gap
+206/f.S.1/2S.3/27f gap
+207/f.S.1/2S.BR/27f gap
+208/f.S.1/2H.1/6f gap
+209/f.S.1/2H.2/34f gap
+210/f.S.1/2H.3/32f gap
+211/f.S.1/2H.BR/32f gap
+212/f.S.1/j.P/29f gap
+213/f.S.1/j.K/29f gap
+214/f.S.1/j.S.1/35f gap
+215/f.S.1/j.S.2/34f gap
+216/f.S.1/j.S.3/33f gap
+217/f.S.1/j.S.BR/33f gap
+218/f.S.1/j.H.1/38f gap
+219/f.S.1/j.H.2/37f gap
+220/f.S.1/j.H.3/36f gap
+221/f.S.1/j.H.BR/36f gap
+222/f.S.1/j.D.1/37f gap
+223/f.S.1/j.D.2/35f gap
+224/f.S.1/j.D.3/33f gap
+225/f.S.1/j.D.BR/33f gap
+226/f.S.1/6P/29f gap
+227/f.S.1/6K/32f gap
+228/f.S.1/6H.1/34f gap
+229/f.S.1/6H.2/33f gap
+230/f.S.1/6H.3/32f gap
+231/f.S.1/6H.BR/32f gap
+232/f.S.1/2D/29f gap
+233/f.S.1/5D/37f gap
+234/f.S.1/5[D]/45f gap
+235/f.S.1/236S/35f gap
+236/f.S.1/236K/"N/A"
+237/f.S.1/214K/"N/A"
+238/f.S.1/214H/31f gap
+239/f.S.1/623H/28f gap
+240/f.S.1/623HH/Nagoriyuki f.S.1 > 623HH: 623HH is a follow-up move that cannot be performed after f.S.1.
+241/f.S.1/623P/24f gap
+242/f.S.1/632146S/26f gap
+243/f.S.1/632146H/38f gap
+244/f.S.2/5P/22f gap
+245/f.S.2/5K/24f gap
+246/f.S.2/c.S/24f gap
+247/f.S.2/f.S.1/33f gap
+248/f.S.2/f.S.2/31f gap
+249/f.S.2/f.S.3/29f gap
+250/f.S.2/f.S.BR/29f gap
+251/f.S.2/f.SS.1/Nagoriyuki f.S.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.S.2.
+252/f.S.2/f.SS.2/0f gap
+253/f.S.2/f.SS.3/Nagoriyuki f.S.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.S.2.
+254/f.S.2/f.SS.BR/Nagoriyuki f.S.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.S.2.
+255/f.S.2/f.SSS.1/Nagoriyuki f.S.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.S.2.
+256/f.S.2/f.SSS.2/Nagoriyuki f.S.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.S.2.
+257/f.S.2/f.SSS.3/Nagoriyuki f.S.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.S.2.
+258/f.S.2/f.SSS.BR/Nagoriyuki f.S.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.S.2.
+259/f.S.2/5H.1/37f gap
+260/f.S.2/5H.2/5f gap
+261/f.S.2/5H.3/33f gap
+262/f.S.2/5H.BR/33f gap
+263/f.S.2/2P/23f gap
+264/f.S.2/2K/24f gap
+265/f.S.2/2S.1/29f gap
+266/f.S.2/2S.2/28f gap
+267/f.S.2/2S.3/27f gap
+268/f.S.2/2S.BR/27f gap
+269/f.S.2/2H.1/36f gap
+270/f.S.2/2H.2/4f gap
+271/f.S.2/2H.3/32f gap
+272/f.S.2/2H.BR/32f gap
+273/f.S.2/j.P/29f gap
+274/f.S.2/j.K/29f gap
+275/f.S.2/j.S.1/35f gap
+276/f.S.2/j.S.2/34f gap
+277/f.S.2/j.S.3/33f gap
+278/f.S.2/j.S.BR/33f gap
+279/f.S.2/j.H.1/38f gap
+280/f.S.2/j.H.2/37f gap
+281/f.S.2/j.H.3/36f gap
+282/f.S.2/j.H.BR/36f gap
+283/f.S.2/j.D.1/37f gap
+284/f.S.2/j.D.2/35f gap
+285/f.S.2/j.D.3/33f gap
+286/f.S.2/j.D.BR/33f gap
+287/f.S.2/6P/29f gap
+288/f.S.2/6K/32f gap
+289/f.S.2/6H.1/34f gap
+290/f.S.2/6H.2/33f gap
+291/f.S.2/6H.3/32f gap
+292/f.S.2/6H.BR/32f gap
+293/f.S.2/2D/29f gap
+294/f.S.2/5D/37f gap
+295/f.S.2/5[D]/45f gap
+296/f.S.2/236S/35f gap
+297/f.S.2/236K/"N/A"
+298/f.S.2/214K/"N/A"
+299/f.S.2/214H/31f gap
+300/f.S.2/623H/28f gap
+301/f.S.2/623HH/Nagoriyuki f.S.2 > 623HH: 623HH is a follow-up move that cannot be performed after f.S.2.
+302/f.S.2/623P/24f gap
+303/f.S.2/632146S/26f gap
+304/f.S.2/632146H/38f gap
+305/f.S.3/5P/22f gap
+306/f.S.3/5K/24f gap
+307/f.S.3/c.S/24f gap
+308/f.S.3/f.S.1/33f gap
+309/f.S.3/f.S.2/31f gap
+310/f.S.3/f.S.3/29f gap
+311/f.S.3/f.S.BR/29f gap
+312/f.S.3/f.SS.1/Nagoriyuki f.S.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.S.3.
+313/f.S.3/f.SS.2/Nagoriyuki f.S.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.S.3.
+314/f.S.3/f.SS.3/0f gap
+315/f.S.3/f.SS.BR/Nagoriyuki f.S.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.S.3.
+316/f.S.3/f.SSS.1/Nagoriyuki f.S.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.S.3.
+317/f.S.3/f.SSS.2/Nagoriyuki f.S.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.S.3.
+318/f.S.3/f.SSS.3/Nagoriyuki f.S.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.S.3.
+319/f.S.3/f.SSS.BR/Nagoriyuki f.S.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.S.3.
+320/f.S.3/5H.1/37f gap
+321/f.S.3/5H.2/35f gap
+322/f.S.3/5H.3/3f gap
+323/f.S.3/5H.BR/33f gap
+324/f.S.3/2P/23f gap
+325/f.S.3/2K/24f gap
+326/f.S.3/2S.1/29f gap
+327/f.S.3/2S.2/28f gap
+328/f.S.3/2S.3/27f gap
+329/f.S.3/2S.BR/27f gap
+330/f.S.3/2H.1/36f gap
+331/f.S.3/2H.2/34f gap
+332/f.S.3/2H.3/2f gap
+333/f.S.3/2H.BR/32f gap
+334/f.S.3/j.P/29f gap
+335/f.S.3/j.K/29f gap
+336/f.S.3/j.S.1/35f gap
+337/f.S.3/j.S.2/34f gap
+338/f.S.3/j.S.3/33f gap
+339/f.S.3/j.S.BR/33f gap
+340/f.S.3/j.H.1/38f gap
+341/f.S.3/j.H.2/37f gap
+342/f.S.3/j.H.3/36f gap
+343/f.S.3/j.H.BR/36f gap
+344/f.S.3/j.D.1/37f gap
+345/f.S.3/j.D.2/35f gap
+346/f.S.3/j.D.3/33f gap
+347/f.S.3/j.D.BR/33f gap
+348/f.S.3/6P/29f gap
+349/f.S.3/6K/32f gap
+350/f.S.3/6H.1/34f gap
+351/f.S.3/6H.2/33f gap
+352/f.S.3/6H.3/32f gap
+353/f.S.3/6H.BR/32f gap
+354/f.S.3/2D/29f gap
+355/f.S.3/5D/37f gap
+356/f.S.3/5[D]/45f gap
+357/f.S.3/236S/35f gap
+358/f.S.3/236K/"N/A"
+359/f.S.3/214K/"N/A"
+360/f.S.3/214H/31f gap
+361/f.S.3/623H/28f gap
+362/f.S.3/623HH/Nagoriyuki f.S.3 > 623HH: 623HH is a follow-up move that cannot be performed after f.S.3.
+363/f.S.3/623P/24f gap
+364/f.S.3/632146S/26f gap
+365/f.S.3/632146H/38f gap
+366/f.S.BR/5P/22f gap
+367/f.S.BR/5K/24f gap
+368/f.S.BR/c.S/24f gap
+369/f.S.BR/f.S.1/33f gap
+370/f.S.BR/f.S.2/31f gap
+371/f.S.BR/f.S.3/29f gap
+372/f.S.BR/f.S.BR/29f gap
+373/f.S.BR/f.SS.1/Nagoriyuki f.S.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.S.BR.
+374/f.S.BR/f.SS.2/Nagoriyuki f.S.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.S.BR.
+375/f.S.BR/f.SS.3/Nagoriyuki f.S.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.S.BR.
+376/f.S.BR/f.SS.BR/0f gap
+377/f.S.BR/f.SSS.1/Nagoriyuki f.S.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.S.BR.
+378/f.S.BR/f.SSS.2/Nagoriyuki f.S.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.S.BR.
+379/f.S.BR/f.SSS.3/Nagoriyuki f.S.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.S.BR.
+380/f.S.BR/f.SSS.BR/Nagoriyuki f.S.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.S.BR.
+381/f.S.BR/5H.1/37f gap
+382/f.S.BR/5H.2/35f gap
+383/f.S.BR/5H.3/33f gap
+384/f.S.BR/5H.BR/3f gap
+385/f.S.BR/2P/23f gap
+386/f.S.BR/2K/24f gap
+387/f.S.BR/2S.1/29f gap
+388/f.S.BR/2S.2/28f gap
+389/f.S.BR/2S.3/27f gap
+390/f.S.BR/2S.BR/27f gap
+391/f.S.BR/2H.1/36f gap
+392/f.S.BR/2H.2/34f gap
+393/f.S.BR/2H.3/32f gap
+394/f.S.BR/2H.BR/2f gap
+395/f.S.BR/j.P/29f gap
+396/f.S.BR/j.K/29f gap
+397/f.S.BR/j.S.1/35f gap
+398/f.S.BR/j.S.2/34f gap
+399/f.S.BR/j.S.3/33f gap
+400/f.S.BR/j.S.BR/33f gap
+401/f.S.BR/j.H.1/38f gap
+402/f.S.BR/j.H.2/37f gap
+403/f.S.BR/j.H.3/36f gap
+404/f.S.BR/j.H.BR/36f gap
+405/f.S.BR/j.D.1/37f gap
+406/f.S.BR/j.D.2/35f gap
+407/f.S.BR/j.D.3/33f gap
+408/f.S.BR/j.D.BR/33f gap
+409/f.S.BR/6P/29f gap
+410/f.S.BR/6K/32f gap
+411/f.S.BR/6H.1/34f gap
+412/f.S.BR/6H.2/33f gap
+413/f.S.BR/6H.3/32f gap
+414/f.S.BR/6H.BR/32f gap
+415/f.S.BR/2D/29f gap
+416/f.S.BR/5D/37f gap
+417/f.S.BR/5[D]/45f gap
+418/f.S.BR/236S/35f gap
+419/f.S.BR/236K/"N/A"
+420/f.S.BR/214K/"N/A"
+421/f.S.BR/214H/31f gap
+422/f.S.BR/623H/28f gap
+423/f.S.BR/623HH/Nagoriyuki f.S.BR > 623HH: 623HH is a follow-up move that cannot be performed after f.S.BR.
+424/f.S.BR/623P/24f gap
+425/f.S.BR/632146S/26f gap
+426/f.S.BR/632146H/38f gap
+427/f.SS.1/5P/13f gap
+428/f.SS.1/5K/15f gap
+429/f.SS.1/c.S/15f gap
+430/f.SS.1/f.S.1/24f gap
+431/f.SS.1/f.S.2/22f gap
+432/f.SS.1/f.S.3/20f gap
+433/f.SS.1/f.S.BR/20f gap
+434/f.SS.1/f.SS.1/Nagoriyuki f.SS.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SS.1.
+435/f.SS.1/f.SS.2/Nagoriyuki f.SS.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SS.1.
+436/f.SS.1/f.SS.3/Nagoriyuki f.SS.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SS.1.
+437/f.SS.1/f.SS.BR/Nagoriyuki f.SS.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SS.1.
+438/f.SS.1/f.SSS.1/1f gap
+439/f.SS.1/f.SSS.2/Nagoriyuki f.SS.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.SS.1.
+440/f.SS.1/f.SSS.3/Nagoriyuki f.SS.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.SS.1.
+441/f.SS.1/f.SSS.BR/Nagoriyuki f.SS.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.SS.1.
+442/f.SS.1/5H.1/28f gap
+443/f.SS.1/5H.2/26f gap
+444/f.SS.1/5H.3/24f gap
+445/f.SS.1/5H.BR/24f gap
+446/f.SS.1/2P/14f gap
+447/f.SS.1/2K/15f gap
+448/f.SS.1/2S.1/20f gap
+449/f.SS.1/2S.2/19f gap
+450/f.SS.1/2S.3/18f gap
+451/f.SS.1/2S.BR/18f gap
+452/f.SS.1/2H.1/27f gap
+453/f.SS.1/2H.2/25f gap
+454/f.SS.1/2H.3/23f gap
+455/f.SS.1/2H.BR/23f gap
+456/f.SS.1/j.P/20f gap
+457/f.SS.1/j.K/20f gap
+458/f.SS.1/j.S.1/26f gap
+459/f.SS.1/j.S.2/25f gap
+460/f.SS.1/j.S.3/24f gap
+461/f.SS.1/j.S.BR/24f gap
+462/f.SS.1/j.H.1/29f gap
+463/f.SS.1/j.H.2/28f gap
+464/f.SS.1/j.H.3/27f gap
+465/f.SS.1/j.H.BR/27f gap
+466/f.SS.1/j.D.1/28f gap
+467/f.SS.1/j.D.2/26f gap
+468/f.SS.1/j.D.3/24f gap
+469/f.SS.1/j.D.BR/24f gap
+470/f.SS.1/6P/20f gap
+471/f.SS.1/6K/23f gap
+472/f.SS.1/6H.1/25f gap
+473/f.SS.1/6H.2/24f gap
+474/f.SS.1/6H.3/23f gap
+475/f.SS.1/6H.BR/23f gap
+476/f.SS.1/2D/20f gap
+477/f.SS.1/5D/28f gap
+478/f.SS.1/5[D]/36f gap
+479/f.SS.1/236S/26f gap
+480/f.SS.1/236K/"N/A"
+481/f.SS.1/214K/"N/A"
+482/f.SS.1/214H/22f gap
+483/f.SS.1/623H/19f gap
+484/f.SS.1/623HH/Nagoriyuki f.SS.1 > 623HH: 623HH is a follow-up move that cannot be performed after f.SS.1.
+485/f.SS.1/623P/15f gap
+486/f.SS.1/632146S/17f gap
+487/f.SS.1/632146H/29f gap
+488/f.SS.2/5P/13f gap
+489/f.SS.2/5K/15f gap
+490/f.SS.2/c.S/15f gap
+491/f.SS.2/f.S.1/24f gap
+492/f.SS.2/f.S.2/22f gap
+493/f.SS.2/f.S.3/20f gap
+494/f.SS.2/f.S.BR/20f gap
+495/f.SS.2/f.SS.1/Nagoriyuki f.SS.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SS.2.
+496/f.SS.2/f.SS.2/Nagoriyuki f.SS.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SS.2.
+497/f.SS.2/f.SS.3/Nagoriyuki f.SS.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SS.2.
+498/f.SS.2/f.SS.BR/Nagoriyuki f.SS.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SS.2.
+499/f.SS.2/f.SSS.1/Nagoriyuki f.SS.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.SS.2.
+500/f.SS.2/f.SSS.2/1f gap
+501/f.SS.2/f.SSS.3/Nagoriyuki f.SS.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.SS.2.
+502/f.SS.2/f.SSS.BR/Nagoriyuki f.SS.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.SS.2.
+503/f.SS.2/5H.1/28f gap
+504/f.SS.2/5H.2/26f gap
+505/f.SS.2/5H.3/24f gap
+506/f.SS.2/5H.BR/24f gap
+507/f.SS.2/2P/14f gap
+508/f.SS.2/2K/15f gap
+509/f.SS.2/2S.1/20f gap
+510/f.SS.2/2S.2/19f gap
+511/f.SS.2/2S.3/18f gap
+512/f.SS.2/2S.BR/18f gap
+513/f.SS.2/2H.1/27f gap
+514/f.SS.2/2H.2/25f gap
+515/f.SS.2/2H.3/23f gap
+516/f.SS.2/2H.BR/23f gap
+517/f.SS.2/j.P/20f gap
+518/f.SS.2/j.K/20f gap
+519/f.SS.2/j.S.1/26f gap
+520/f.SS.2/j.S.2/25f gap
+521/f.SS.2/j.S.3/24f gap
+522/f.SS.2/j.S.BR/24f gap
+523/f.SS.2/j.H.1/29f gap
+524/f.SS.2/j.H.2/28f gap
+525/f.SS.2/j.H.3/27f gap
+526/f.SS.2/j.H.BR/27f gap
+527/f.SS.2/j.D.1/28f gap
+528/f.SS.2/j.D.2/26f gap
+529/f.SS.2/j.D.3/24f gap
+530/f.SS.2/j.D.BR/24f gap
+531/f.SS.2/6P/20f gap
+532/f.SS.2/6K/23f gap
+533/f.SS.2/6H.1/25f gap
+534/f.SS.2/6H.2/24f gap
+535/f.SS.2/6H.3/23f gap
+536/f.SS.2/6H.BR/23f gap
+537/f.SS.2/2D/20f gap
+538/f.SS.2/5D/28f gap
+539/f.SS.2/5[D]/36f gap
+540/f.SS.2/236S/26f gap
+541/f.SS.2/236K/"N/A"
+542/f.SS.2/214K/"N/A"
+543/f.SS.2/214H/22f gap
+544/f.SS.2/623H/19f gap
+545/f.SS.2/623HH/Nagoriyuki f.SS.2 > 623HH: 623HH is a follow-up move that cannot be performed after f.SS.2.
+546/f.SS.2/623P/15f gap
+547/f.SS.2/632146S/17f gap
+548/f.SS.2/632146H/29f gap
+549/f.SS.3/5P/13f gap
+550/f.SS.3/5K/15f gap
+551/f.SS.3/c.S/15f gap
+552/f.SS.3/f.S.1/24f gap
+553/f.SS.3/f.S.2/22f gap
+554/f.SS.3/f.S.3/20f gap
+555/f.SS.3/f.S.BR/20f gap
+556/f.SS.3/f.SS.1/Nagoriyuki f.SS.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SS.3.
+557/f.SS.3/f.SS.2/Nagoriyuki f.SS.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SS.3.
+558/f.SS.3/f.SS.3/Nagoriyuki f.SS.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SS.3.
+559/f.SS.3/f.SS.BR/Nagoriyuki f.SS.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SS.3.
+560/f.SS.3/f.SSS.1/Nagoriyuki f.SS.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.SS.3.
+561/f.SS.3/f.SSS.2/Nagoriyuki f.SS.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.SS.3.
+562/f.SS.3/f.SSS.3/1f gap
+563/f.SS.3/f.SSS.BR/Nagoriyuki f.SS.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.SS.3.
+564/f.SS.3/5H.1/28f gap
+565/f.SS.3/5H.2/26f gap
+566/f.SS.3/5H.3/24f gap
+567/f.SS.3/5H.BR/24f gap
+568/f.SS.3/2P/14f gap
+569/f.SS.3/2K/15f gap
+570/f.SS.3/2S.1/20f gap
+571/f.SS.3/2S.2/19f gap
+572/f.SS.3/2S.3/18f gap
+573/f.SS.3/2S.BR/18f gap
+574/f.SS.3/2H.1/27f gap
+575/f.SS.3/2H.2/25f gap
+576/f.SS.3/2H.3/23f gap
+577/f.SS.3/2H.BR/23f gap
+578/f.SS.3/j.P/20f gap
+579/f.SS.3/j.K/20f gap
+580/f.SS.3/j.S.1/26f gap
+581/f.SS.3/j.S.2/25f gap
+582/f.SS.3/j.S.3/24f gap
+583/f.SS.3/j.S.BR/24f gap
+584/f.SS.3/j.H.1/29f gap
+585/f.SS.3/j.H.2/28f gap
+586/f.SS.3/j.H.3/27f gap
+587/f.SS.3/j.H.BR/27f gap
+588/f.SS.3/j.D.1/28f gap
+589/f.SS.3/j.D.2/26f gap
+590/f.SS.3/j.D.3/24f gap
+591/f.SS.3/j.D.BR/24f gap
+592/f.SS.3/6P/20f gap
+593/f.SS.3/6K/23f gap
+594/f.SS.3/6H.1/25f gap
+595/f.SS.3/6H.2/24f gap
+596/f.SS.3/6H.3/23f gap
+597/f.SS.3/6H.BR/23f gap
+598/f.SS.3/2D/20f gap
+599/f.SS.3/5D/28f gap
+600/f.SS.3/5[D]/36f gap
+601/f.SS.3/236S/26f gap
+602/f.SS.3/236K/"N/A"
+603/f.SS.3/214K/"N/A"
+604/f.SS.3/214H/22f gap
+605/f.SS.3/623H/19f gap
+606/f.SS.3/623HH/Nagoriyuki f.SS.3 > 623HH: 623HH is a follow-up move that cannot be performed after f.SS.3.
+607/f.SS.3/623P/15f gap
+608/f.SS.3/632146S/17f gap
+609/f.SS.3/632146H/29f gap
+610/f.SS.BR/5P/13f gap
+611/f.SS.BR/5K/15f gap
+612/f.SS.BR/c.S/15f gap
+613/f.SS.BR/f.S.1/24f gap
+614/f.SS.BR/f.S.2/22f gap
+615/f.SS.BR/f.S.3/20f gap
+616/f.SS.BR/f.S.BR/20f gap
+617/f.SS.BR/f.SS.1/Nagoriyuki f.SS.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SS.BR.
+618/f.SS.BR/f.SS.2/Nagoriyuki f.SS.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SS.BR.
+619/f.SS.BR/f.SS.3/Nagoriyuki f.SS.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SS.BR.
+620/f.SS.BR/f.SS.BR/Nagoriyuki f.SS.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SS.BR.
+621/f.SS.BR/f.SSS.1/Nagoriyuki f.SS.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.SS.BR.
+622/f.SS.BR/f.SSS.2/Nagoriyuki f.SS.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.SS.BR.
+623/f.SS.BR/f.SSS.3/Nagoriyuki f.SS.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.SS.BR.
+624/f.SS.BR/f.SSS.BR/1f gap
+625/f.SS.BR/5H.1/28f gap
+626/f.SS.BR/5H.2/26f gap
+627/f.SS.BR/5H.3/24f gap
+628/f.SS.BR/5H.BR/24f gap
+629/f.SS.BR/2P/14f gap
+630/f.SS.BR/2K/15f gap
+631/f.SS.BR/2S.1/20f gap
+632/f.SS.BR/2S.2/19f gap
+633/f.SS.BR/2S.3/18f gap
+634/f.SS.BR/2S.BR/18f gap
+635/f.SS.BR/2H.1/27f gap
+636/f.SS.BR/2H.2/25f gap
+637/f.SS.BR/2H.3/23f gap
+638/f.SS.BR/2H.BR/23f gap
+639/f.SS.BR/j.P/20f gap
+640/f.SS.BR/j.K/20f gap
+641/f.SS.BR/j.S.1/26f gap
+642/f.SS.BR/j.S.2/25f gap
+643/f.SS.BR/j.S.3/24f gap
+644/f.SS.BR/j.S.BR/24f gap
+645/f.SS.BR/j.H.1/29f gap
+646/f.SS.BR/j.H.2/28f gap
+647/f.SS.BR/j.H.3/27f gap
+648/f.SS.BR/j.H.BR/27f gap
+649/f.SS.BR/j.D.1/28f gap
+650/f.SS.BR/j.D.2/26f gap
+651/f.SS.BR/j.D.3/24f gap
+652/f.SS.BR/j.D.BR/24f gap
+653/f.SS.BR/6P/20f gap
+654/f.SS.BR/6K/23f gap
+655/f.SS.BR/6H.1/25f gap
+656/f.SS.BR/6H.2/24f gap
+657/f.SS.BR/6H.3/23f gap
+658/f.SS.BR/6H.BR/23f gap
+659/f.SS.BR/2D/20f gap
+660/f.SS.BR/5D/28f gap
+661/f.SS.BR/5[D]/36f gap
+662/f.SS.BR/236S/26f gap
+663/f.SS.BR/236K/"N/A"
+664/f.SS.BR/214K/"N/A"
+665/f.SS.BR/214H/22f gap
+666/f.SS.BR/623H/19f gap
+667/f.SS.BR/623HH/Nagoriyuki f.SS.BR > 623HH: 623HH is a follow-up move that cannot be performed after f.SS.BR.
+668/f.SS.BR/623P/15f gap
+669/f.SS.BR/632146S/17f gap
+670/f.SS.BR/632146H/29f gap
+671/f.SSS.1/5P/27f gap
+672/f.SSS.1/5K/29f gap
+673/f.SSS.1/c.S/29f gap
+674/f.SSS.1/f.S.1/38f gap
+675/f.SSS.1/f.S.2/36f gap
+676/f.SSS.1/f.S.3/34f gap
+677/f.SSS.1/f.S.BR/34f gap
+678/f.SSS.1/f.SS.1/Nagoriyuki f.SSS.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SSS.1.
+679/f.SSS.1/f.SS.2/Nagoriyuki f.SSS.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SSS.1.
+680/f.SSS.1/f.SS.3/Nagoriyuki f.SSS.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SSS.1.
+681/f.SSS.1/f.SS.BR/Nagoriyuki f.SSS.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SSS.1.
+682/f.SSS.1/f.SSS.1/-4f gap
+683/f.SSS.1/f.SSS.2/Nagoriyuki f.SSS.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.SSS.1.
+684/f.SSS.1/f.SSS.3/Nagoriyuki f.SSS.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.SSS.1.
+685/f.SSS.1/f.SSS.BR/Nagoriyuki f.SSS.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.SSS.1.
+686/f.SSS.1/5H.1/42f gap
+687/f.SSS.1/5H.2/40f gap
+688/f.SSS.1/5H.3/38f gap
+689/f.SSS.1/5H.BR/38f gap
+690/f.SSS.1/2P/28f gap
+691/f.SSS.1/2K/29f gap
+692/f.SSS.1/2S.1/34f gap
+693/f.SSS.1/2S.2/33f gap
+694/f.SSS.1/2S.3/32f gap
+695/f.SSS.1/2S.BR/32f gap
+696/f.SSS.1/2H.1/41f gap
+697/f.SSS.1/2H.2/39f gap
+698/f.SSS.1/2H.3/37f gap
+699/f.SSS.1/2H.BR/37f gap
+700/f.SSS.1/j.P/34f gap
+701/f.SSS.1/j.K/34f gap
+702/f.SSS.1/j.S.1/40f gap
+703/f.SSS.1/j.S.2/39f gap
+704/f.SSS.1/j.S.3/38f gap
+705/f.SSS.1/j.S.BR/38f gap
+706/f.SSS.1/j.H.1/43f gap
+707/f.SSS.1/j.H.2/42f gap
+708/f.SSS.1/j.H.3/41f gap
+709/f.SSS.1/j.H.BR/41f gap
+710/f.SSS.1/j.D.1/42f gap
+711/f.SSS.1/j.D.2/40f gap
+712/f.SSS.1/j.D.3/38f gap
+713/f.SSS.1/j.D.BR/38f gap
+714/f.SSS.1/6P/34f gap
+715/f.SSS.1/6K/37f gap
+716/f.SSS.1/6H.1/39f gap
+717/f.SSS.1/6H.2/38f gap
+718/f.SSS.1/6H.3/37f gap
+719/f.SSS.1/6H.BR/37f gap
+720/f.SSS.1/2D/34f gap
+721/f.SSS.1/5D/42f gap
+722/f.SSS.1/5[D]/50f gap
+723/f.SSS.1/236S/40f gap
+724/f.SSS.1/236K/"N/A"
+725/f.SSS.1/214K/"N/A"
+726/f.SSS.1/214H/36f gap
+727/f.SSS.1/623H/33f gap
+728/f.SSS.1/623HH/Nagoriyuki f.SSS.1 > 623HH: 623HH is a follow-up move that cannot be performed after f.SSS.1.
+729/f.SSS.1/623P/29f gap
+730/f.SSS.1/632146S/31f gap
+731/f.SSS.1/632146H/43f gap
+732/f.SSS.2/5P/27f gap
+733/f.SSS.2/5K/29f gap
+734/f.SSS.2/c.S/29f gap
+735/f.SSS.2/f.S.1/38f gap
+736/f.SSS.2/f.S.2/36f gap
+737/f.SSS.2/f.S.3/34f gap
+738/f.SSS.2/f.S.BR/34f gap
+739/f.SSS.2/f.SS.1/Nagoriyuki f.SSS.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SSS.2.
+740/f.SSS.2/f.SS.2/Nagoriyuki f.SSS.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SSS.2.
+741/f.SSS.2/f.SS.3/Nagoriyuki f.SSS.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SSS.2.
+742/f.SSS.2/f.SS.BR/Nagoriyuki f.SSS.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SSS.2.
+743/f.SSS.2/f.SSS.1/Nagoriyuki f.SSS.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.SSS.2.
+744/f.SSS.2/f.SSS.2/-4f gap
+745/f.SSS.2/f.SSS.3/Nagoriyuki f.SSS.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.SSS.2.
+746/f.SSS.2/f.SSS.BR/Nagoriyuki f.SSS.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.SSS.2.
+747/f.SSS.2/5H.1/42f gap
+748/f.SSS.2/5H.2/40f gap
+749/f.SSS.2/5H.3/38f gap
+750/f.SSS.2/5H.BR/38f gap
+751/f.SSS.2/2P/28f gap
+752/f.SSS.2/2K/29f gap
+753/f.SSS.2/2S.1/34f gap
+754/f.SSS.2/2S.2/33f gap
+755/f.SSS.2/2S.3/32f gap
+756/f.SSS.2/2S.BR/32f gap
+757/f.SSS.2/2H.1/41f gap
+758/f.SSS.2/2H.2/39f gap
+759/f.SSS.2/2H.3/37f gap
+760/f.SSS.2/2H.BR/37f gap
+761/f.SSS.2/j.P/34f gap
+762/f.SSS.2/j.K/34f gap
+763/f.SSS.2/j.S.1/40f gap
+764/f.SSS.2/j.S.2/39f gap
+765/f.SSS.2/j.S.3/38f gap
+766/f.SSS.2/j.S.BR/38f gap
+767/f.SSS.2/j.H.1/43f gap
+768/f.SSS.2/j.H.2/42f gap
+769/f.SSS.2/j.H.3/41f gap
+770/f.SSS.2/j.H.BR/41f gap
+771/f.SSS.2/j.D.1/42f gap
+772/f.SSS.2/j.D.2/40f gap
+773/f.SSS.2/j.D.3/38f gap
+774/f.SSS.2/j.D.BR/38f gap
+775/f.SSS.2/6P/34f gap
+776/f.SSS.2/6K/37f gap
+777/f.SSS.2/6H.1/39f gap
+778/f.SSS.2/6H.2/38f gap
+779/f.SSS.2/6H.3/37f gap
+780/f.SSS.2/6H.BR/37f gap
+781/f.SSS.2/2D/34f gap
+782/f.SSS.2/5D/42f gap
+783/f.SSS.2/5[D]/50f gap
+784/f.SSS.2/236S/40f gap
+785/f.SSS.2/236K/"N/A"
+786/f.SSS.2/214K/"N/A"
+787/f.SSS.2/214H/36f gap
+788/f.SSS.2/623H/33f gap
+789/f.SSS.2/623HH/Nagoriyuki f.SSS.2 > 623HH: 623HH is a follow-up move that cannot be performed after f.SSS.2.
+790/f.SSS.2/623P/29f gap
+791/f.SSS.2/632146S/31f gap
+792/f.SSS.2/632146H/43f gap
+793/f.SSS.3/5P/27f gap
+794/f.SSS.3/5K/29f gap
+795/f.SSS.3/c.S/29f gap
+796/f.SSS.3/f.S.1/38f gap
+797/f.SSS.3/f.S.2/36f gap
+798/f.SSS.3/f.S.3/34f gap
+799/f.SSS.3/f.S.BR/34f gap
+800/f.SSS.3/f.SS.1/Nagoriyuki f.SSS.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SSS.3.
+801/f.SSS.3/f.SS.2/Nagoriyuki f.SSS.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SSS.3.
+802/f.SSS.3/f.SS.3/Nagoriyuki f.SSS.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SSS.3.
+803/f.SSS.3/f.SS.BR/Nagoriyuki f.SSS.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SSS.3.
+804/f.SSS.3/f.SSS.1/Nagoriyuki f.SSS.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.SSS.3.
+805/f.SSS.3/f.SSS.2/Nagoriyuki f.SSS.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.SSS.3.
+806/f.SSS.3/f.SSS.3/-4f gap
+807/f.SSS.3/f.SSS.BR/Nagoriyuki f.SSS.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after f.SSS.3.
+808/f.SSS.3/5H.1/42f gap
+809/f.SSS.3/5H.2/40f gap
+810/f.SSS.3/5H.3/38f gap
+811/f.SSS.3/5H.BR/38f gap
+812/f.SSS.3/2P/28f gap
+813/f.SSS.3/2K/29f gap
+814/f.SSS.3/2S.1/34f gap
+815/f.SSS.3/2S.2/33f gap
+816/f.SSS.3/2S.3/32f gap
+817/f.SSS.3/2S.BR/32f gap
+818/f.SSS.3/2H.1/41f gap
+819/f.SSS.3/2H.2/39f gap
+820/f.SSS.3/2H.3/37f gap
+821/f.SSS.3/2H.BR/37f gap
+822/f.SSS.3/j.P/34f gap
+823/f.SSS.3/j.K/34f gap
+824/f.SSS.3/j.S.1/40f gap
+825/f.SSS.3/j.S.2/39f gap
+826/f.SSS.3/j.S.3/38f gap
+827/f.SSS.3/j.S.BR/38f gap
+828/f.SSS.3/j.H.1/43f gap
+829/f.SSS.3/j.H.2/42f gap
+830/f.SSS.3/j.H.3/41f gap
+831/f.SSS.3/j.H.BR/41f gap
+832/f.SSS.3/j.D.1/42f gap
+833/f.SSS.3/j.D.2/40f gap
+834/f.SSS.3/j.D.3/38f gap
+835/f.SSS.3/j.D.BR/38f gap
+836/f.SSS.3/6P/34f gap
+837/f.SSS.3/6K/37f gap
+838/f.SSS.3/6H.1/39f gap
+839/f.SSS.3/6H.2/38f gap
+840/f.SSS.3/6H.3/37f gap
+841/f.SSS.3/6H.BR/37f gap
+842/f.SSS.3/2D/34f gap
+843/f.SSS.3/5D/42f gap
+844/f.SSS.3/5[D]/50f gap
+845/f.SSS.3/236S/40f gap
+846/f.SSS.3/236K/"N/A"
+847/f.SSS.3/214K/"N/A"
+848/f.SSS.3/214H/36f gap
+849/f.SSS.3/623H/33f gap
+850/f.SSS.3/623HH/Nagoriyuki f.SSS.3 > 623HH: 623HH is a follow-up move that cannot be performed after f.SSS.3.
+851/f.SSS.3/623P/29f gap
+852/f.SSS.3/632146S/31f gap
+853/f.SSS.3/632146H/43f gap
+854/f.SSS.BR/5P/27f gap
+855/f.SSS.BR/5K/29f gap
+856/f.SSS.BR/c.S/29f gap
+857/f.SSS.BR/f.S.1/38f gap
+858/f.SSS.BR/f.S.2/36f gap
+859/f.SSS.BR/f.S.3/34f gap
+860/f.SSS.BR/f.S.BR/34f gap
+861/f.SSS.BR/f.SS.1/Nagoriyuki f.SSS.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after f.SSS.BR.
+862/f.SSS.BR/f.SS.2/Nagoriyuki f.SSS.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after f.SSS.BR.
+863/f.SSS.BR/f.SS.3/Nagoriyuki f.SSS.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after f.SSS.BR.
+864/f.SSS.BR/f.SS.BR/Nagoriyuki f.SSS.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after f.SSS.BR.
+865/f.SSS.BR/f.SSS.1/Nagoriyuki f.SSS.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after f.SSS.BR.
+866/f.SSS.BR/f.SSS.2/Nagoriyuki f.SSS.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after f.SSS.BR.
+867/f.SSS.BR/f.SSS.3/Nagoriyuki f.SSS.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after f.SSS.BR.
+868/f.SSS.BR/f.SSS.BR/-4f gap
+869/f.SSS.BR/5H.1/42f gap
+870/f.SSS.BR/5H.2/40f gap
+871/f.SSS.BR/5H.3/38f gap
+872/f.SSS.BR/5H.BR/38f gap
+873/f.SSS.BR/2P/28f gap
+874/f.SSS.BR/2K/29f gap
+875/f.SSS.BR/2S.1/34f gap
+876/f.SSS.BR/2S.2/33f gap
+877/f.SSS.BR/2S.3/32f gap
+878/f.SSS.BR/2S.BR/32f gap
+879/f.SSS.BR/2H.1/41f gap
+880/f.SSS.BR/2H.2/39f gap
+881/f.SSS.BR/2H.3/37f gap
+882/f.SSS.BR/2H.BR/37f gap
+883/f.SSS.BR/j.P/34f gap
+884/f.SSS.BR/j.K/34f gap
+885/f.SSS.BR/j.S.1/40f gap
+886/f.SSS.BR/j.S.2/39f gap
+887/f.SSS.BR/j.S.3/38f gap
+888/f.SSS.BR/j.S.BR/38f gap
+889/f.SSS.BR/j.H.1/43f gap
+890/f.SSS.BR/j.H.2/42f gap
+891/f.SSS.BR/j.H.3/41f gap
+892/f.SSS.BR/j.H.BR/41f gap
+893/f.SSS.BR/j.D.1/42f gap
+894/f.SSS.BR/j.D.2/40f gap
+895/f.SSS.BR/j.D.3/38f gap
+896/f.SSS.BR/j.D.BR/38f gap
+897/f.SSS.BR/6P/34f gap
+898/f.SSS.BR/6K/37f gap
+899/f.SSS.BR/6H.1/39f gap
+900/f.SSS.BR/6H.2/38f gap
+901/f.SSS.BR/6H.3/37f gap
+902/f.SSS.BR/6H.BR/37f gap
+903/f.SSS.BR/2D/34f gap
+904/f.SSS.BR/5D/42f gap
+905/f.SSS.BR/5[D]/50f gap
+906/f.SSS.BR/236S/40f gap
+907/f.SSS.BR/236K/"N/A"
+908/f.SSS.BR/214K/"N/A"
+909/f.SSS.BR/214H/36f gap
+910/f.SSS.BR/623H/33f gap
+911/f.SSS.BR/623HH/Nagoriyuki f.SSS.BR > 623HH: 623HH is a follow-up move that cannot be performed after f.SSS.BR.
+912/f.SSS.BR/623P/29f gap
+913/f.SSS.BR/632146S/31f gap
+914/f.SSS.BR/632146H/43f gap
+915/5H.1/5P/19f gap
+916/5H.1/5K/21f gap
+917/5H.1/c.S/21f gap
+918/5H.1/f.S.1/30f gap
+919/5H.1/f.S.2/28f gap
+920/5H.1/f.S.3/26f gap
+921/5H.1/f.S.BR/26f gap
+922/5H.1/f.SS.1/Nagoriyuki 5H.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5H.1.
+923/5H.1/f.SS.2/Nagoriyuki 5H.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5H.1.
+924/5H.1/f.SS.3/Nagoriyuki 5H.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5H.1.
+925/5H.1/f.SS.BR/Nagoriyuki 5H.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5H.1.
+926/5H.1/f.SSS.1/Nagoriyuki 5H.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5H.1.
+927/5H.1/f.SSS.2/Nagoriyuki 5H.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5H.1.
+928/5H.1/f.SSS.3/Nagoriyuki 5H.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5H.1.
+929/5H.1/f.SSS.BR/Nagoriyuki 5H.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5H.1.
+930/5H.1/5H.1/34f gap
+931/5H.1/5H.2/32f gap
+932/5H.1/5H.3/30f gap
+933/5H.1/5H.BR/30f gap
+934/5H.1/2P/20f gap
+935/5H.1/2K/21f gap
+936/5H.1/2S.1/26f gap
+937/5H.1/2S.2/25f gap
+938/5H.1/2S.3/24f gap
+939/5H.1/2S.BR/24f gap
+940/5H.1/2H.1/33f gap
+941/5H.1/2H.2/31f gap
+942/5H.1/2H.3/29f gap
+943/5H.1/2H.BR/29f gap
+944/5H.1/j.P/26f gap
+945/5H.1/j.K/26f gap
+946/5H.1/j.S.1/32f gap
+947/5H.1/j.S.2/31f gap
+948/5H.1/j.S.3/30f gap
+949/5H.1/j.S.BR/30f gap
+950/5H.1/j.H.1/35f gap
+951/5H.1/j.H.2/34f gap
+952/5H.1/j.H.3/33f gap
+953/5H.1/j.H.BR/33f gap
+954/5H.1/j.D.1/34f gap
+955/5H.1/j.D.2/32f gap
+956/5H.1/j.D.3/30f gap
+957/5H.1/j.D.BR/30f gap
+958/5H.1/6P/26f gap
+959/5H.1/6K/29f gap
+960/5H.1/6H.1/31f gap
+961/5H.1/6H.2/30f gap
+962/5H.1/6H.3/29f gap
+963/5H.1/6H.BR/29f gap
+964/5H.1/2D/26f gap
+965/5H.1/5D/34f gap
+966/5H.1/5[D]/42f gap
+967/5H.1/236S/0f gap
+968/5H.1/236K/"N/A"
+969/5H.1/214K/"N/A"
+970/5H.1/214H/-4f gap
+971/5H.1/623H/-7f gap
+972/5H.1/623HH/Nagoriyuki 5H.1 > 623HH: 623HH is a follow-up move that cannot be performed after 5H.1.
+973/5H.1/623P/-11f gap
+974/5H.1/632146S/-9f gap
+975/5H.1/632146H/35f gap
+976/5H.2/5P/19f gap
+977/5H.2/5K/21f gap
+978/5H.2/c.S/21f gap
+979/5H.2/f.S.1/30f gap
+980/5H.2/f.S.2/28f gap
+981/5H.2/f.S.3/26f gap
+982/5H.2/f.S.BR/26f gap
+983/5H.2/f.SS.1/Nagoriyuki 5H.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5H.2.
+984/5H.2/f.SS.2/Nagoriyuki 5H.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5H.2.
+985/5H.2/f.SS.3/Nagoriyuki 5H.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5H.2.
+986/5H.2/f.SS.BR/Nagoriyuki 5H.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5H.2.
+987/5H.2/f.SSS.1/Nagoriyuki 5H.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5H.2.
+988/5H.2/f.SSS.2/Nagoriyuki 5H.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5H.2.
+989/5H.2/f.SSS.3/Nagoriyuki 5H.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5H.2.
+990/5H.2/f.SSS.BR/Nagoriyuki 5H.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5H.2.
+991/5H.2/5H.1/34f gap
+992/5H.2/5H.2/32f gap
+993/5H.2/5H.3/30f gap
+994/5H.2/5H.BR/30f gap
+995/5H.2/2P/20f gap
+996/5H.2/2K/21f gap
+997/5H.2/2S.1/26f gap
+998/5H.2/2S.2/25f gap
+999/5H.2/2S.3/24f gap
+1000/5H.2/2S.BR/24f gap
+1001/5H.2/2H.1/33f gap
+1002/5H.2/2H.2/31f gap
+1003/5H.2/2H.3/29f gap
+1004/5H.2/2H.BR/29f gap
+1005/5H.2/j.P/26f gap
+1006/5H.2/j.K/26f gap
+1007/5H.2/j.S.1/32f gap
+1008/5H.2/j.S.2/31f gap
+1009/5H.2/j.S.3/30f gap
+1010/5H.2/j.S.BR/30f gap
+1011/5H.2/j.H.1/35f gap
+1012/5H.2/j.H.2/34f gap
+1013/5H.2/j.H.3/33f gap
+1014/5H.2/j.H.BR/33f gap
+1015/5H.2/j.D.1/34f gap
+1016/5H.2/j.D.2/32f gap
+1017/5H.2/j.D.3/30f gap
+1018/5H.2/j.D.BR/30f gap
+1019/5H.2/6P/26f gap
+1020/5H.2/6K/29f gap
+1021/5H.2/6H.1/31f gap
+1022/5H.2/6H.2/30f gap
+1023/5H.2/6H.3/29f gap
+1024/5H.2/6H.BR/29f gap
+1025/5H.2/2D/26f gap
+1026/5H.2/5D/34f gap
+1027/5H.2/5[D]/42f gap
+1028/5H.2/236S/0f gap
+1029/5H.2/236K/"N/A"
+1030/5H.2/214K/"N/A"
+1031/5H.2/214H/-4f gap
+1032/5H.2/623H/-7f gap
+1033/5H.2/623HH/Nagoriyuki 5H.2 > 623HH: 623HH is a follow-up move that cannot be performed after 5H.2.
+1034/5H.2/623P/-11f gap
+1035/5H.2/632146S/-9f gap
+1036/5H.2/632146H/35f gap
+1037/5H.3/5P/19f gap
+1038/5H.3/5K/21f gap
+1039/5H.3/c.S/21f gap
+1040/5H.3/f.S.1/30f gap
+1041/5H.3/f.S.2/28f gap
+1042/5H.3/f.S.3/26f gap
+1043/5H.3/f.S.BR/26f gap
+1044/5H.3/f.SS.1/Nagoriyuki 5H.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5H.3.
+1045/5H.3/f.SS.2/Nagoriyuki 5H.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5H.3.
+1046/5H.3/f.SS.3/Nagoriyuki 5H.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5H.3.
+1047/5H.3/f.SS.BR/Nagoriyuki 5H.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5H.3.
+1048/5H.3/f.SSS.1/Nagoriyuki 5H.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5H.3.
+1049/5H.3/f.SSS.2/Nagoriyuki 5H.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5H.3.
+1050/5H.3/f.SSS.3/Nagoriyuki 5H.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5H.3.
+1051/5H.3/f.SSS.BR/Nagoriyuki 5H.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5H.3.
+1052/5H.3/5H.1/34f gap
+1053/5H.3/5H.2/32f gap
+1054/5H.3/5H.3/30f gap
+1055/5H.3/5H.BR/30f gap
+1056/5H.3/2P/20f gap
+1057/5H.3/2K/21f gap
+1058/5H.3/2S.1/26f gap
+1059/5H.3/2S.2/25f gap
+1060/5H.3/2S.3/24f gap
+1061/5H.3/2S.BR/24f gap
+1062/5H.3/2H.1/33f gap
+1063/5H.3/2H.2/31f gap
+1064/5H.3/2H.3/29f gap
+1065/5H.3/2H.BR/29f gap
+1066/5H.3/j.P/26f gap
+1067/5H.3/j.K/26f gap
+1068/5H.3/j.S.1/32f gap
+1069/5H.3/j.S.2/31f gap
+1070/5H.3/j.S.3/30f gap
+1071/5H.3/j.S.BR/30f gap
+1072/5H.3/j.H.1/35f gap
+1073/5H.3/j.H.2/34f gap
+1074/5H.3/j.H.3/33f gap
+1075/5H.3/j.H.BR/33f gap
+1076/5H.3/j.D.1/34f gap
+1077/5H.3/j.D.2/32f gap
+1078/5H.3/j.D.3/30f gap
+1079/5H.3/j.D.BR/30f gap
+1080/5H.3/6P/26f gap
+1081/5H.3/6K/29f gap
+1082/5H.3/6H.1/31f gap
+1083/5H.3/6H.2/30f gap
+1084/5H.3/6H.3/29f gap
+1085/5H.3/6H.BR/29f gap
+1086/5H.3/2D/26f gap
+1087/5H.3/5D/34f gap
+1088/5H.3/5[D]/42f gap
+1089/5H.3/236S/0f gap
+1090/5H.3/236K/"N/A"
+1091/5H.3/214K/"N/A"
+1092/5H.3/214H/-4f gap
+1093/5H.3/623H/-7f gap
+1094/5H.3/623HH/Nagoriyuki 5H.3 > 623HH: 623HH is a follow-up move that cannot be performed after 5H.3.
+1095/5H.3/623P/-11f gap
+1096/5H.3/632146S/-9f gap
+1097/5H.3/632146H/35f gap
+1098/5H.BR/5P/19f gap
+1099/5H.BR/5K/21f gap
+1100/5H.BR/c.S/21f gap
+1101/5H.BR/f.S.1/30f gap
+1102/5H.BR/f.S.2/28f gap
+1103/5H.BR/f.S.3/26f gap
+1104/5H.BR/f.S.BR/26f gap
+1105/5H.BR/f.SS.1/Nagoriyuki 5H.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5H.BR.
+1106/5H.BR/f.SS.2/Nagoriyuki 5H.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5H.BR.
+1107/5H.BR/f.SS.3/Nagoriyuki 5H.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5H.BR.
+1108/5H.BR/f.SS.BR/Nagoriyuki 5H.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5H.BR.
+1109/5H.BR/f.SSS.1/Nagoriyuki 5H.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5H.BR.
+1110/5H.BR/f.SSS.2/Nagoriyuki 5H.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5H.BR.
+1111/5H.BR/f.SSS.3/Nagoriyuki 5H.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5H.BR.
+1112/5H.BR/f.SSS.BR/Nagoriyuki 5H.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5H.BR.
+1113/5H.BR/5H.1/34f gap
+1114/5H.BR/5H.2/32f gap
+1115/5H.BR/5H.3/30f gap
+1116/5H.BR/5H.BR/30f gap
+1117/5H.BR/2P/20f gap
+1118/5H.BR/2K/21f gap
+1119/5H.BR/2S.1/26f gap
+1120/5H.BR/2S.2/25f gap
+1121/5H.BR/2S.3/24f gap
+1122/5H.BR/2S.BR/24f gap
+1123/5H.BR/2H.1/33f gap
+1124/5H.BR/2H.2/31f gap
+1125/5H.BR/2H.3/29f gap
+1126/5H.BR/2H.BR/29f gap
+1127/5H.BR/j.P/26f gap
+1128/5H.BR/j.K/26f gap
+1129/5H.BR/j.S.1/32f gap
+1130/5H.BR/j.S.2/31f gap
+1131/5H.BR/j.S.3/30f gap
+1132/5H.BR/j.S.BR/30f gap
+1133/5H.BR/j.H.1/35f gap
+1134/5H.BR/j.H.2/34f gap
+1135/5H.BR/j.H.3/33f gap
+1136/5H.BR/j.H.BR/33f gap
+1137/5H.BR/j.D.1/34f gap
+1138/5H.BR/j.D.2/32f gap
+1139/5H.BR/j.D.3/30f gap
+1140/5H.BR/j.D.BR/30f gap
+1141/5H.BR/6P/26f gap
+1142/5H.BR/6K/29f gap
+1143/5H.BR/6H.1/31f gap
+1144/5H.BR/6H.2/30f gap
+1145/5H.BR/6H.3/29f gap
+1146/5H.BR/6H.BR/29f gap
+1147/5H.BR/2D/26f gap
+1148/5H.BR/5D/34f gap
+1149/5H.BR/5[D]/42f gap
+1150/5H.BR/236S/0f gap
+1151/5H.BR/236K/"N/A"
+1152/5H.BR/214K/"N/A"
+1153/5H.BR/214H/-4f gap
+1154/5H.BR/623H/-7f gap
+1155/5H.BR/623HH/Nagoriyuki 5H.BR > 623HH: 623HH is a follow-up move that cannot be performed after 5H.BR.
+1156/5H.BR/623P/-11f gap
+1157/5H.BR/632146S/-9f gap
+1158/5H.BR/632146H/35f gap
+1159/2P/5P/-6f gap
+1160/2P/5K/9f gap
+1161/2P/c.S/9f gap
+1162/2P/f.S.1/18f gap
+1163/2P/f.S.2/16f gap
+1164/2P/f.S.3/14f gap
+1165/2P/f.S.BR/14f gap
+1166/2P/f.SS.1/Nagoriyuki 2P > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2P.
+1167/2P/f.SS.2/Nagoriyuki 2P > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2P.
+1168/2P/f.SS.3/Nagoriyuki 2P > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2P.
+1169/2P/f.SS.BR/Nagoriyuki 2P > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2P.
+1170/2P/f.SSS.1/Nagoriyuki 2P > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2P.
+1171/2P/f.SSS.2/Nagoriyuki 2P > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2P.
+1172/2P/f.SSS.3/Nagoriyuki 2P > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2P.
+1173/2P/f.SSS.BR/Nagoriyuki 2P > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2P.
+1174/2P/5H.1/22f gap
+1175/2P/5H.2/20f gap
+1176/2P/5H.3/18f gap
+1177/2P/5H.BR/18f gap
+1178/2P/2P/-5f gap
+1179/2P/2K/9f gap
+1180/2P/2S.1/14f gap
+1181/2P/2S.2/13f gap
+1182/2P/2S.3/12f gap
+1183/2P/2S.BR/12f gap
+1184/2P/2H.1/21f gap
+1185/2P/2H.2/19f gap
+1186/2P/2H.3/17f gap
+1187/2P/2H.BR/17f gap
+1188/2P/j.P/14f gap
+1189/2P/j.K/14f gap
+1190/2P/j.S.1/20f gap
+1191/2P/j.S.2/19f gap
+1192/2P/j.S.3/18f gap
+1193/2P/j.S.BR/18f gap
+1194/2P/j.H.1/23f gap
+1195/2P/j.H.2/22f gap
+1196/2P/j.H.3/21f gap
+1197/2P/j.H.BR/21f gap
+1198/2P/j.D.1/22f gap
+1199/2P/j.D.2/20f gap
+1200/2P/j.D.3/18f gap
+1201/2P/j.D.BR/18f gap
+1202/2P/6P/1f gap
+1203/2P/6K/4f gap
+1204/2P/6H.1/6f gap
+1205/2P/6H.2/5f gap
+1206/2P/6H.3/4f gap
+1207/2P/6H.BR/4f gap
+1208/2P/2D/14f gap
+1209/2P/5D/22f gap
+1210/2P/5[D]/30f gap
+1211/2P/236S/7f gap
+1212/2P/236K/"N/A"
+1213/2P/214K/"N/A"
+1214/2P/214H/3f gap
+1215/2P/623H/0f gap
+1216/2P/623HH/Nagoriyuki 2P > 623HH: 623HH is a follow-up move that cannot be performed after 2P.
+1217/2P/623P/-4f gap
+1218/2P/632146S/-2f gap
+1219/2P/632146H/23f gap
+1220/2K/5P/6f gap
+1221/2K/5K/8f gap
+1222/2K/c.S/8f gap
+1223/2K/f.S.1/17f gap
+1224/2K/f.S.2/15f gap
+1225/2K/f.S.3/13f gap
+1226/2K/f.S.BR/13f gap
+1227/2K/f.SS.1/Nagoriyuki 2K > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2K.
+1228/2K/f.SS.2/Nagoriyuki 2K > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2K.
+1229/2K/f.SS.3/Nagoriyuki 2K > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2K.
+1230/2K/f.SS.BR/Nagoriyuki 2K > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2K.
+1231/2K/f.SSS.1/Nagoriyuki 2K > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2K.
+1232/2K/f.SSS.2/Nagoriyuki 2K > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2K.
+1233/2K/f.SSS.3/Nagoriyuki 2K > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2K.
+1234/2K/f.SSS.BR/Nagoriyuki 2K > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2K.
+1235/2K/5H.1/21f gap
+1236/2K/5H.2/19f gap
+1237/2K/5H.3/17f gap
+1238/2K/5H.BR/17f gap
+1239/2K/2P/7f gap
+1240/2K/2K/8f gap
+1241/2K/2S.1/13f gap
+1242/2K/2S.2/12f gap
+1243/2K/2S.3/11f gap
+1244/2K/2S.BR/11f gap
+1245/2K/2H.1/20f gap
+1246/2K/2H.2/18f gap
+1247/2K/2H.3/16f gap
+1248/2K/2H.BR/16f gap
+1249/2K/j.P/13f gap
+1250/2K/j.K/13f gap
+1251/2K/j.S.1/19f gap
+1252/2K/j.S.2/18f gap
+1253/2K/j.S.3/17f gap
+1254/2K/j.S.BR/17f gap
+1255/2K/j.H.1/22f gap
+1256/2K/j.H.2/21f gap
+1257/2K/j.H.3/20f gap
+1258/2K/j.H.BR/20f gap
+1259/2K/j.D.1/21f gap
+1260/2K/j.D.2/19f gap
+1261/2K/j.D.3/17f gap
+1262/2K/j.D.BR/17f gap
+1263/2K/6P/1f gap
+1264/2K/6K/4f gap
+1265/2K/6H.1/6f gap
+1266/2K/6H.2/5f gap
+1267/2K/6H.3/4f gap
+1268/2K/6H.BR/4f gap
+1269/2K/2D/1f gap
+1270/2K/5D/9f gap
+1271/2K/5[D]/29f gap
+1272/2K/236S/7f gap
+1273/2K/236K/"N/A"
+1274/2K/214K/"N/A"
+1275/2K/214H/3f gap
+1276/2K/623H/0f gap
+1277/2K/623HH/Nagoriyuki 2K > 623HH: 623HH is a follow-up move that cannot be performed after 2K.
+1278/2K/623P/-4f gap
+1279/2K/632146S/-2f gap
+1280/2K/632146H/22f gap
+1281/2S.1/5P/16f gap
+1282/2S.1/5K/18f gap
+1283/2S.1/c.S/18f gap
+1284/2S.1/f.S.1/27f gap
+1285/2S.1/f.S.2/25f gap
+1286/2S.1/f.S.3/23f gap
+1287/2S.1/f.S.BR/23f gap
+1288/2S.1/f.SS.1/Nagoriyuki 2S.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2S.1.
+1289/2S.1/f.SS.2/Nagoriyuki 2S.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2S.1.
+1290/2S.1/f.SS.3/Nagoriyuki 2S.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2S.1.
+1291/2S.1/f.SS.BR/Nagoriyuki 2S.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2S.1.
+1292/2S.1/f.SSS.1/Nagoriyuki 2S.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2S.1.
+1293/2S.1/f.SSS.2/Nagoriyuki 2S.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2S.1.
+1294/2S.1/f.SSS.3/Nagoriyuki 2S.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2S.1.
+1295/2S.1/f.SSS.BR/Nagoriyuki 2S.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2S.1.
+1296/2S.1/5H.1/7f gap
+1297/2S.1/5H.2/29f gap
+1298/2S.1/5H.3/27f gap
+1299/2S.1/5H.BR/27f gap
+1300/2S.1/2P/17f gap
+1301/2S.1/2K/18f gap
+1302/2S.1/2S.1/23f gap
+1303/2S.1/2S.2/22f gap
+1304/2S.1/2S.3/21f gap
+1305/2S.1/2S.BR/21f gap
+1306/2S.1/2H.1/6f gap
+1307/2S.1/2H.2/28f gap
+1308/2S.1/2H.3/26f gap
+1309/2S.1/2H.BR/26f gap
+1310/2S.1/j.P/23f gap
+1311/2S.1/j.K/23f gap
+1312/2S.1/j.S.1/29f gap
+1313/2S.1/j.S.2/28f gap
+1314/2S.1/j.S.3/27f gap
+1315/2S.1/j.S.BR/27f gap
+1316/2S.1/j.H.1/32f gap
+1317/2S.1/j.H.2/31f gap
+1318/2S.1/j.H.3/30f gap
+1319/2S.1/j.H.BR/30f gap
+1320/2S.1/j.D.1/31f gap
+1321/2S.1/j.D.2/29f gap
+1322/2S.1/j.D.3/27f gap
+1323/2S.1/j.D.BR/27f gap
+1324/2S.1/6P/23f gap
+1325/2S.1/6K/26f gap
+1326/2S.1/6H.1/28f gap
+1327/2S.1/6H.2/27f gap
+1328/2S.1/6H.3/26f gap
+1329/2S.1/6H.BR/26f gap
+1330/2S.1/2D/23f gap
+1331/2S.1/5D/31f gap
+1332/2S.1/5[D]/39f gap
+1333/2S.1/236S/5f gap
+1334/2S.1/236K/"N/A"
+1335/2S.1/214K/"N/A"
+1336/2S.1/214H/1f gap
+1337/2S.1/623H/-2f gap
+1338/2S.1/623HH/Nagoriyuki 2S.1 > 623HH: 623HH is a follow-up move that cannot be performed after 2S.1.
+1339/2S.1/623P/-6f gap
+1340/2S.1/632146S/-4f gap
+1341/2S.1/632146H/32f gap
+1342/2S.2/5P/16f gap
+1343/2S.2/5K/18f gap
+1344/2S.2/c.S/18f gap
+1345/2S.2/f.S.1/27f gap
+1346/2S.2/f.S.2/25f gap
+1347/2S.2/f.S.3/23f gap
+1348/2S.2/f.S.BR/23f gap
+1349/2S.2/f.SS.1/Nagoriyuki 2S.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2S.2.
+1350/2S.2/f.SS.2/Nagoriyuki 2S.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2S.2.
+1351/2S.2/f.SS.3/Nagoriyuki 2S.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2S.2.
+1352/2S.2/f.SS.BR/Nagoriyuki 2S.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2S.2.
+1353/2S.2/f.SSS.1/Nagoriyuki 2S.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2S.2.
+1354/2S.2/f.SSS.2/Nagoriyuki 2S.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2S.2.
+1355/2S.2/f.SSS.3/Nagoriyuki 2S.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2S.2.
+1356/2S.2/f.SSS.BR/Nagoriyuki 2S.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2S.2.
+1357/2S.2/5H.1/31f gap
+1358/2S.2/5H.2/5f gap
+1359/2S.2/5H.3/27f gap
+1360/2S.2/5H.BR/27f gap
+1361/2S.2/2P/17f gap
+1362/2S.2/2K/18f gap
+1363/2S.2/2S.1/23f gap
+1364/2S.2/2S.2/22f gap
+1365/2S.2/2S.3/21f gap
+1366/2S.2/2S.BR/21f gap
+1367/2S.2/2H.1/30f gap
+1368/2S.2/2H.2/4f gap
+1369/2S.2/2H.3/26f gap
+1370/2S.2/2H.BR/26f gap
+1371/2S.2/j.P/23f gap
+1372/2S.2/j.K/23f gap
+1373/2S.2/j.S.1/29f gap
+1374/2S.2/j.S.2/28f gap
+1375/2S.2/j.S.3/27f gap
+1376/2S.2/j.S.BR/27f gap
+1377/2S.2/j.H.1/32f gap
+1378/2S.2/j.H.2/31f gap
+1379/2S.2/j.H.3/30f gap
+1380/2S.2/j.H.BR/30f gap
+1381/2S.2/j.D.1/31f gap
+1382/2S.2/j.D.2/29f gap
+1383/2S.2/j.D.3/27f gap
+1384/2S.2/j.D.BR/27f gap
+1385/2S.2/6P/23f gap
+1386/2S.2/6K/26f gap
+1387/2S.2/6H.1/28f gap
+1388/2S.2/6H.2/27f gap
+1389/2S.2/6H.3/26f gap
+1390/2S.2/6H.BR/26f gap
+1391/2S.2/2D/23f gap
+1392/2S.2/5D/31f gap
+1393/2S.2/5[D]/39f gap
+1394/2S.2/236S/5f gap
+1395/2S.2/236K/"N/A"
+1396/2S.2/214K/"N/A"
+1397/2S.2/214H/1f gap
+1398/2S.2/623H/-2f gap
+1399/2S.2/623HH/Nagoriyuki 2S.2 > 623HH: 623HH is a follow-up move that cannot be performed after 2S.2.
+1400/2S.2/623P/-6f gap
+1401/2S.2/632146S/-4f gap
+1402/2S.2/632146H/32f gap
+1403/2S.3/5P/16f gap
+1404/2S.3/5K/18f gap
+1405/2S.3/c.S/18f gap
+1406/2S.3/f.S.1/27f gap
+1407/2S.3/f.S.2/25f gap
+1408/2S.3/f.S.3/23f gap
+1409/2S.3/f.S.BR/23f gap
+1410/2S.3/f.SS.1/Nagoriyuki 2S.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2S.3.
+1411/2S.3/f.SS.2/Nagoriyuki 2S.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2S.3.
+1412/2S.3/f.SS.3/Nagoriyuki 2S.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2S.3.
+1413/2S.3/f.SS.BR/Nagoriyuki 2S.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2S.3.
+1414/2S.3/f.SSS.1/Nagoriyuki 2S.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2S.3.
+1415/2S.3/f.SSS.2/Nagoriyuki 2S.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2S.3.
+1416/2S.3/f.SSS.3/Nagoriyuki 2S.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2S.3.
+1417/2S.3/f.SSS.BR/Nagoriyuki 2S.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2S.3.
+1418/2S.3/5H.1/31f gap
+1419/2S.3/5H.2/29f gap
+1420/2S.3/5H.3/3f gap
+1421/2S.3/5H.BR/27f gap
+1422/2S.3/2P/17f gap
+1423/2S.3/2K/18f gap
+1424/2S.3/2S.1/23f gap
+1425/2S.3/2S.2/22f gap
+1426/2S.3/2S.3/21f gap
+1427/2S.3/2S.BR/21f gap
+1428/2S.3/2H.1/30f gap
+1429/2S.3/2H.2/28f gap
+1430/2S.3/2H.3/2f gap
+1431/2S.3/2H.BR/26f gap
+1432/2S.3/j.P/23f gap
+1433/2S.3/j.K/23f gap
+1434/2S.3/j.S.1/29f gap
+1435/2S.3/j.S.2/28f gap
+1436/2S.3/j.S.3/27f gap
+1437/2S.3/j.S.BR/27f gap
+1438/2S.3/j.H.1/32f gap
+1439/2S.3/j.H.2/31f gap
+1440/2S.3/j.H.3/30f gap
+1441/2S.3/j.H.BR/30f gap
+1442/2S.3/j.D.1/31f gap
+1443/2S.3/j.D.2/29f gap
+1444/2S.3/j.D.3/27f gap
+1445/2S.3/j.D.BR/27f gap
+1446/2S.3/6P/23f gap
+1447/2S.3/6K/26f gap
+1448/2S.3/6H.1/28f gap
+1449/2S.3/6H.2/27f gap
+1450/2S.3/6H.3/26f gap
+1451/2S.3/6H.BR/26f gap
+1452/2S.3/2D/23f gap
+1453/2S.3/5D/31f gap
+1454/2S.3/5[D]/39f gap
+1455/2S.3/236S/5f gap
+1456/2S.3/236K/"N/A"
+1457/2S.3/214K/"N/A"
+1458/2S.3/214H/1f gap
+1459/2S.3/623H/-2f gap
+1460/2S.3/623HH/Nagoriyuki 2S.3 > 623HH: 623HH is a follow-up move that cannot be performed after 2S.3.
+1461/2S.3/623P/-6f gap
+1462/2S.3/632146S/-4f gap
+1463/2S.3/632146H/32f gap
+1464/2S.BR/5P/16f gap
+1465/2S.BR/5K/18f gap
+1466/2S.BR/c.S/18f gap
+1467/2S.BR/f.S.1/27f gap
+1468/2S.BR/f.S.2/25f gap
+1469/2S.BR/f.S.3/23f gap
+1470/2S.BR/f.S.BR/23f gap
+1471/2S.BR/f.SS.1/Nagoriyuki 2S.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2S.BR.
+1472/2S.BR/f.SS.2/Nagoriyuki 2S.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2S.BR.
+1473/2S.BR/f.SS.3/Nagoriyuki 2S.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2S.BR.
+1474/2S.BR/f.SS.BR/Nagoriyuki 2S.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2S.BR.
+1475/2S.BR/f.SSS.1/Nagoriyuki 2S.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2S.BR.
+1476/2S.BR/f.SSS.2/Nagoriyuki 2S.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2S.BR.
+1477/2S.BR/f.SSS.3/Nagoriyuki 2S.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2S.BR.
+1478/2S.BR/f.SSS.BR/Nagoriyuki 2S.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2S.BR.
+1479/2S.BR/5H.1/31f gap
+1480/2S.BR/5H.2/29f gap
+1481/2S.BR/5H.3/27f gap
+1482/2S.BR/5H.BR/3f gap
+1483/2S.BR/2P/17f gap
+1484/2S.BR/2K/18f gap
+1485/2S.BR/2S.1/23f gap
+1486/2S.BR/2S.2/22f gap
+1487/2S.BR/2S.3/21f gap
+1488/2S.BR/2S.BR/21f gap
+1489/2S.BR/2H.1/30f gap
+1490/2S.BR/2H.2/28f gap
+1491/2S.BR/2H.3/26f gap
+1492/2S.BR/2H.BR/2f gap
+1493/2S.BR/j.P/23f gap
+1494/2S.BR/j.K/23f gap
+1495/2S.BR/j.S.1/29f gap
+1496/2S.BR/j.S.2/28f gap
+1497/2S.BR/j.S.3/27f gap
+1498/2S.BR/j.S.BR/27f gap
+1499/2S.BR/j.H.1/32f gap
+1500/2S.BR/j.H.2/31f gap
+1501/2S.BR/j.H.3/30f gap
+1502/2S.BR/j.H.BR/30f gap
+1503/2S.BR/j.D.1/31f gap
+1504/2S.BR/j.D.2/29f gap
+1505/2S.BR/j.D.3/27f gap
+1506/2S.BR/j.D.BR/27f gap
+1507/2S.BR/6P/23f gap
+1508/2S.BR/6K/26f gap
+1509/2S.BR/6H.1/28f gap
+1510/2S.BR/6H.2/27f gap
+1511/2S.BR/6H.3/26f gap
+1512/2S.BR/6H.BR/26f gap
+1513/2S.BR/2D/23f gap
+1514/2S.BR/5D/31f gap
+1515/2S.BR/5[D]/39f gap
+1516/2S.BR/236S/5f gap
+1517/2S.BR/236K/"N/A"
+1518/2S.BR/214K/"N/A"
+1519/2S.BR/214H/1f gap
+1520/2S.BR/623H/-2f gap
+1521/2S.BR/623HH/Nagoriyuki 2S.BR > 623HH: 623HH is a follow-up move that cannot be performed after 2S.BR.
+1522/2S.BR/623P/-6f gap
+1523/2S.BR/632146S/-4f gap
+1524/2S.BR/632146H/32f gap
+1525/2H.1/5P/22f gap
+1526/2H.1/5K/24f gap
+1527/2H.1/c.S/24f gap
+1528/2H.1/f.S.1/33f gap
+1529/2H.1/f.S.2/31f gap
+1530/2H.1/f.S.3/29f gap
+1531/2H.1/f.S.BR/29f gap
+1532/2H.1/f.SS.1/Nagoriyuki 2H.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2H.1.
+1533/2H.1/f.SS.2/Nagoriyuki 2H.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2H.1.
+1534/2H.1/f.SS.3/Nagoriyuki 2H.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2H.1.
+1535/2H.1/f.SS.BR/Nagoriyuki 2H.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2H.1.
+1536/2H.1/f.SSS.1/Nagoriyuki 2H.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2H.1.
+1537/2H.1/f.SSS.2/Nagoriyuki 2H.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2H.1.
+1538/2H.1/f.SSS.3/Nagoriyuki 2H.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2H.1.
+1539/2H.1/f.SSS.BR/Nagoriyuki 2H.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2H.1.
+1540/2H.1/5H.1/37f gap
+1541/2H.1/5H.2/35f gap
+1542/2H.1/5H.3/33f gap
+1543/2H.1/5H.BR/33f gap
+1544/2H.1/2P/23f gap
+1545/2H.1/2K/24f gap
+1546/2H.1/2S.1/29f gap
+1547/2H.1/2S.2/28f gap
+1548/2H.1/2S.3/27f gap
+1549/2H.1/2S.BR/27f gap
+1550/2H.1/2H.1/36f gap
+1551/2H.1/2H.2/34f gap
+1552/2H.1/2H.3/32f gap
+1553/2H.1/2H.BR/32f gap
+1554/2H.1/j.P/29f gap
+1555/2H.1/j.K/29f gap
+1556/2H.1/j.S.1/35f gap
+1557/2H.1/j.S.2/34f gap
+1558/2H.1/j.S.3/33f gap
+1559/2H.1/j.S.BR/33f gap
+1560/2H.1/j.H.1/38f gap
+1561/2H.1/j.H.2/37f gap
+1562/2H.1/j.H.3/36f gap
+1563/2H.1/j.H.BR/36f gap
+1564/2H.1/j.D.1/37f gap
+1565/2H.1/j.D.2/35f gap
+1566/2H.1/j.D.3/33f gap
+1567/2H.1/j.D.BR/33f gap
+1568/2H.1/6P/29f gap
+1569/2H.1/6K/32f gap
+1570/2H.1/6H.1/34f gap
+1571/2H.1/6H.2/33f gap
+1572/2H.1/6H.3/32f gap
+1573/2H.1/6H.BR/32f gap
+1574/2H.1/2D/29f gap
+1575/2H.1/5D/37f gap
+1576/2H.1/5[D]/45f gap
+1577/2H.1/236S/0f gap
+1578/2H.1/236K/"N/A"
+1579/2H.1/214K/"N/A"
+1580/2H.1/214H/-4f gap
+1581/2H.1/623H/-7f gap
+1582/2H.1/623HH/Nagoriyuki 2H.1 > 623HH: 623HH is a follow-up move that cannot be performed after 2H.1.
+1583/2H.1/623P/-11f gap
+1584/2H.1/632146S/-9f gap
+1585/2H.1/632146H/38f gap
+1586/2H.2/5P/22f gap
+1587/2H.2/5K/24f gap
+1588/2H.2/c.S/24f gap
+1589/2H.2/f.S.1/33f gap
+1590/2H.2/f.S.2/31f gap
+1591/2H.2/f.S.3/29f gap
+1592/2H.2/f.S.BR/29f gap
+1593/2H.2/f.SS.1/Nagoriyuki 2H.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2H.2.
+1594/2H.2/f.SS.2/Nagoriyuki 2H.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2H.2.
+1595/2H.2/f.SS.3/Nagoriyuki 2H.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2H.2.
+1596/2H.2/f.SS.BR/Nagoriyuki 2H.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2H.2.
+1597/2H.2/f.SSS.1/Nagoriyuki 2H.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2H.2.
+1598/2H.2/f.SSS.2/Nagoriyuki 2H.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2H.2.
+1599/2H.2/f.SSS.3/Nagoriyuki 2H.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2H.2.
+1600/2H.2/f.SSS.BR/Nagoriyuki 2H.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2H.2.
+1601/2H.2/5H.1/37f gap
+1602/2H.2/5H.2/35f gap
+1603/2H.2/5H.3/33f gap
+1604/2H.2/5H.BR/33f gap
+1605/2H.2/2P/23f gap
+1606/2H.2/2K/24f gap
+1607/2H.2/2S.1/29f gap
+1608/2H.2/2S.2/28f gap
+1609/2H.2/2S.3/27f gap
+1610/2H.2/2S.BR/27f gap
+1611/2H.2/2H.1/36f gap
+1612/2H.2/2H.2/34f gap
+1613/2H.2/2H.3/32f gap
+1614/2H.2/2H.BR/32f gap
+1615/2H.2/j.P/29f gap
+1616/2H.2/j.K/29f gap
+1617/2H.2/j.S.1/35f gap
+1618/2H.2/j.S.2/34f gap
+1619/2H.2/j.S.3/33f gap
+1620/2H.2/j.S.BR/33f gap
+1621/2H.2/j.H.1/38f gap
+1622/2H.2/j.H.2/37f gap
+1623/2H.2/j.H.3/36f gap
+1624/2H.2/j.H.BR/36f gap
+1625/2H.2/j.D.1/37f gap
+1626/2H.2/j.D.2/35f gap
+1627/2H.2/j.D.3/33f gap
+1628/2H.2/j.D.BR/33f gap
+1629/2H.2/6P/29f gap
+1630/2H.2/6K/32f gap
+1631/2H.2/6H.1/34f gap
+1632/2H.2/6H.2/33f gap
+1633/2H.2/6H.3/32f gap
+1634/2H.2/6H.BR/32f gap
+1635/2H.2/2D/29f gap
+1636/2H.2/5D/37f gap
+1637/2H.2/5[D]/45f gap
+1638/2H.2/236S/0f gap
+1639/2H.2/236K/"N/A"
+1640/2H.2/214K/"N/A"
+1641/2H.2/214H/-4f gap
+1642/2H.2/623H/-7f gap
+1643/2H.2/623HH/Nagoriyuki 2H.2 > 623HH: 623HH is a follow-up move that cannot be performed after 2H.2.
+1644/2H.2/623P/-11f gap
+1645/2H.2/632146S/-9f gap
+1646/2H.2/632146H/38f gap
+1647/2H.3/5P/22f gap
+1648/2H.3/5K/24f gap
+1649/2H.3/c.S/24f gap
+1650/2H.3/f.S.1/33f gap
+1651/2H.3/f.S.2/31f gap
+1652/2H.3/f.S.3/29f gap
+1653/2H.3/f.S.BR/29f gap
+1654/2H.3/f.SS.1/Nagoriyuki 2H.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2H.3.
+1655/2H.3/f.SS.2/Nagoriyuki 2H.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2H.3.
+1656/2H.3/f.SS.3/Nagoriyuki 2H.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2H.3.
+1657/2H.3/f.SS.BR/Nagoriyuki 2H.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2H.3.
+1658/2H.3/f.SSS.1/Nagoriyuki 2H.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2H.3.
+1659/2H.3/f.SSS.2/Nagoriyuki 2H.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2H.3.
+1660/2H.3/f.SSS.3/Nagoriyuki 2H.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2H.3.
+1661/2H.3/f.SSS.BR/Nagoriyuki 2H.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2H.3.
+1662/2H.3/5H.1/37f gap
+1663/2H.3/5H.2/35f gap
+1664/2H.3/5H.3/33f gap
+1665/2H.3/5H.BR/33f gap
+1666/2H.3/2P/23f gap
+1667/2H.3/2K/24f gap
+1668/2H.3/2S.1/29f gap
+1669/2H.3/2S.2/28f gap
+1670/2H.3/2S.3/27f gap
+1671/2H.3/2S.BR/27f gap
+1672/2H.3/2H.1/36f gap
+1673/2H.3/2H.2/34f gap
+1674/2H.3/2H.3/32f gap
+1675/2H.3/2H.BR/32f gap
+1676/2H.3/j.P/29f gap
+1677/2H.3/j.K/29f gap
+1678/2H.3/j.S.1/35f gap
+1679/2H.3/j.S.2/34f gap
+1680/2H.3/j.S.3/33f gap
+1681/2H.3/j.S.BR/33f gap
+1682/2H.3/j.H.1/38f gap
+1683/2H.3/j.H.2/37f gap
+1684/2H.3/j.H.3/36f gap
+1685/2H.3/j.H.BR/36f gap
+1686/2H.3/j.D.1/37f gap
+1687/2H.3/j.D.2/35f gap
+1688/2H.3/j.D.3/33f gap
+1689/2H.3/j.D.BR/33f gap
+1690/2H.3/6P/29f gap
+1691/2H.3/6K/32f gap
+1692/2H.3/6H.1/34f gap
+1693/2H.3/6H.2/33f gap
+1694/2H.3/6H.3/32f gap
+1695/2H.3/6H.BR/32f gap
+1696/2H.3/2D/29f gap
+1697/2H.3/5D/37f gap
+1698/2H.3/5[D]/45f gap
+1699/2H.3/236S/0f gap
+1700/2H.3/236K/"N/A"
+1701/2H.3/214K/"N/A"
+1702/2H.3/214H/-4f gap
+1703/2H.3/623H/-7f gap
+1704/2H.3/623HH/Nagoriyuki 2H.3 > 623HH: 623HH is a follow-up move that cannot be performed after 2H.3.
+1705/2H.3/623P/-11f gap
+1706/2H.3/632146S/-9f gap
+1707/2H.3/632146H/38f gap
+1708/2H.BR/5P/22f gap
+1709/2H.BR/5K/24f gap
+1710/2H.BR/c.S/24f gap
+1711/2H.BR/f.S.1/33f gap
+1712/2H.BR/f.S.2/31f gap
+1713/2H.BR/f.S.3/29f gap
+1714/2H.BR/f.S.BR/29f gap
+1715/2H.BR/f.SS.1/Nagoriyuki 2H.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2H.BR.
+1716/2H.BR/f.SS.2/Nagoriyuki 2H.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2H.BR.
+1717/2H.BR/f.SS.3/Nagoriyuki 2H.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2H.BR.
+1718/2H.BR/f.SS.BR/Nagoriyuki 2H.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2H.BR.
+1719/2H.BR/f.SSS.1/Nagoriyuki 2H.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2H.BR.
+1720/2H.BR/f.SSS.2/Nagoriyuki 2H.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2H.BR.
+1721/2H.BR/f.SSS.3/Nagoriyuki 2H.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2H.BR.
+1722/2H.BR/f.SSS.BR/Nagoriyuki 2H.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2H.BR.
+1723/2H.BR/5H.1/37f gap
+1724/2H.BR/5H.2/35f gap
+1725/2H.BR/5H.3/33f gap
+1726/2H.BR/5H.BR/33f gap
+1727/2H.BR/2P/23f gap
+1728/2H.BR/2K/24f gap
+1729/2H.BR/2S.1/29f gap
+1730/2H.BR/2S.2/28f gap
+1731/2H.BR/2S.3/27f gap
+1732/2H.BR/2S.BR/27f gap
+1733/2H.BR/2H.1/36f gap
+1734/2H.BR/2H.2/34f gap
+1735/2H.BR/2H.3/32f gap
+1736/2H.BR/2H.BR/32f gap
+1737/2H.BR/j.P/29f gap
+1738/2H.BR/j.K/29f gap
+1739/2H.BR/j.S.1/35f gap
+1740/2H.BR/j.S.2/34f gap
+1741/2H.BR/j.S.3/33f gap
+1742/2H.BR/j.S.BR/33f gap
+1743/2H.BR/j.H.1/38f gap
+1744/2H.BR/j.H.2/37f gap
+1745/2H.BR/j.H.3/36f gap
+1746/2H.BR/j.H.BR/36f gap
+1747/2H.BR/j.D.1/37f gap
+1748/2H.BR/j.D.2/35f gap
+1749/2H.BR/j.D.3/33f gap
+1750/2H.BR/j.D.BR/33f gap
+1751/2H.BR/6P/29f gap
+1752/2H.BR/6K/32f gap
+1753/2H.BR/6H.1/34f gap
+1754/2H.BR/6H.2/33f gap
+1755/2H.BR/6H.3/32f gap
+1756/2H.BR/6H.BR/32f gap
+1757/2H.BR/2D/29f gap
+1758/2H.BR/5D/37f gap
+1759/2H.BR/5[D]/45f gap
+1760/2H.BR/236S/0f gap
+1761/2H.BR/236K/"N/A"
+1762/2H.BR/214K/"N/A"
+1763/2H.BR/214H/-4f gap
+1764/2H.BR/623H/-7f gap
+1765/2H.BR/623HH/Nagoriyuki 2H.BR > 623HH: 623HH is a follow-up move that cannot be performed after 2H.BR.
+1766/2H.BR/623P/-11f gap
+1767/2H.BR/632146S/-9f gap
+1768/2H.BR/632146H/38f gap
+1769/j.P/5P/j.P has 9f of blockstun, while 5P has 5.0f of startup
+1770/j.P/5K/j.P has 9f of blockstun, while 5K has 7.0f of startup
+1771/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
+1772/j.P/f.S.1/j.P has 9f of blockstun, while f.S.1 has 16.0f of startup
+1773/j.P/f.S.2/j.P has 9f of blockstun, while f.S.2 has 14.0f of startup
+1774/j.P/f.S.3/j.P has 9f of blockstun, while f.S.3 has 12.0f of startup
+1775/j.P/f.S.BR/j.P has 9f of blockstun, while f.S.BR has 12.0f of startup
+1776/j.P/f.SS.1/Nagoriyuki j.P > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.P.
+1777/j.P/f.SS.2/Nagoriyuki j.P > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.P.
+1778/j.P/f.SS.3/Nagoriyuki j.P > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.P.
+1779/j.P/f.SS.BR/Nagoriyuki j.P > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.P.
+1780/j.P/f.SSS.1/Nagoriyuki j.P > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.P.
+1781/j.P/f.SSS.2/Nagoriyuki j.P > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.P.
+1782/j.P/f.SSS.3/Nagoriyuki j.P > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.P.
+1783/j.P/f.SSS.BR/Nagoriyuki j.P > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.P.
+1784/j.P/5H.1/j.P has 9f of blockstun, while 5H.1 has 20.0f of startup
+1785/j.P/5H.2/j.P has 9f of blockstun, while 5H.2 has 18.0f of startup
+1786/j.P/5H.3/j.P has 9f of blockstun, while 5H.3 has 16.0f of startup
+1787/j.P/5H.BR/j.P has 9f of blockstun, while 5H.BR has 16.0f of startup
+1788/j.P/2P/j.P has 9f of blockstun, while 2P has 6.0f of startup
+1789/j.P/2K/j.P has 9f of blockstun, while 2K has 7.0f of startup
+1790/j.P/2S.1/j.P has 9f of blockstun, while 2S.1 has 12.0f of startup
+1791/j.P/2S.2/j.P has 9f of blockstun, while 2S.2 has 11.0f of startup
+1792/j.P/2S.3/j.P has 9f of blockstun, while 2S.3 has 10.0f of startup
+1793/j.P/2S.BR/j.P has 9f of blockstun, while 2S.BR has 10.0f of startup
+1794/j.P/2H.1/j.P has 9f of blockstun, while 2H.1 has 19.0f of startup
+1795/j.P/2H.2/j.P has 9f of blockstun, while 2H.2 has 17.0f of startup
+1796/j.P/2H.3/j.P has 9f of blockstun, while 2H.3 has 15.0f of startup
+1797/j.P/2H.BR/j.P has 9f of blockstun, while 2H.BR has 15.0f of startup
+1798/j.P/j.P/-2f gap
+1799/j.P/j.K/j.P has 9f of blockstun, while j.K has 7.0f of startup
+1800/j.P/j.S.1/j.P has 9f of blockstun, while j.S.1 has 13.0f of startup
+1801/j.P/j.S.2/j.P has 9f of blockstun, while j.S.2 has 12.0f of startup
+1802/j.P/j.S.3/j.P has 9f of blockstun, while j.S.3 has 11.0f of startup
+1803/j.P/j.S.BR/j.P has 9f of blockstun, while j.S.BR has 11.0f of startup
+1804/j.P/j.H.1/j.P has 9f of blockstun, while j.H.1 has 16.0f of startup
+1805/j.P/j.H.2/j.P has 9f of blockstun, while j.H.2 has 15.0f of startup
+1806/j.P/j.H.3/j.P has 9f of blockstun, while j.H.3 has 14.0f of startup
+1807/j.P/j.H.BR/j.P has 9f of blockstun, while j.H.BR has 14.0f of startup
+1808/j.P/j.D.1/j.P has 9f of blockstun, while j.D.1 has 15.0f of startup
+1809/j.P/j.D.2/j.P has 9f of blockstun, while j.D.2 has 13.0f of startup
+1810/j.P/j.D.3/j.P has 9f of blockstun, while j.D.3 has 11.0f of startup
+1811/j.P/j.D.BR/j.P has 9f of blockstun, while j.D.BR has 11.0f of startup
+1812/j.P/6P/j.P has 9f of blockstun, while 6P has 12.0f of startup
+1813/j.P/6K/j.P has 9f of blockstun, while 6K has 15.0f of startup
+1814/j.P/6H.1/j.P has 9f of blockstun, while 6H.1 has 17.0f of startup
+1815/j.P/6H.2/j.P has 9f of blockstun, while 6H.2 has 16.0f of startup
+1816/j.P/6H.3/j.P has 9f of blockstun, while 6H.3 has 15.0f of startup
+1817/j.P/6H.BR/j.P has 9f of blockstun, while 6H.BR has 15.0f of startup
+1818/j.P/2D/j.P has 9f of blockstun, while 2D has 12.0f of startup
+1819/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
+1820/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
+1821/j.P/236S/j.P has 9f of blockstun, while 236S has 18.0f of startup
+1822/j.P/236K/j.P has 9f of blockstun, while 236K has f of startup
+1823/j.P/214K/j.P has 9f of blockstun, while 214K has f of startup
+1824/j.P/214H/j.P has 9f of blockstun, while 214H has 14.0f of startup
+1825/j.P/623H/j.P has 9f of blockstun, while 623H has 11.0f of startup
+1826/j.P/623HH/Nagoriyuki j.P > 623HH: 623HH is a follow-up move that cannot be performed after j.P.
+1827/j.P/623P/j.P has 9f of blockstun, while 623P has 7.0f of startup
+1828/j.P/632146S/j.P has 9f of blockstun, while 632146S has 9.0f of startup
+1829/j.P/632146H/j.P has 9f of blockstun, while 632146H has 21.0f of startup
+1830/j.K/5P/j.K has 11f of blockstun, while 5P has 5.0f of startup
+1831/j.K/5K/j.K has 11f of blockstun, while 5K has 7.0f of startup
+1832/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
+1833/j.K/f.S.1/j.K has 11f of blockstun, while f.S.1 has 16.0f of startup
+1834/j.K/f.S.2/j.K has 11f of blockstun, while f.S.2 has 14.0f of startup
+1835/j.K/f.S.3/j.K has 11f of blockstun, while f.S.3 has 12.0f of startup
+1836/j.K/f.S.BR/j.K has 11f of blockstun, while f.S.BR has 12.0f of startup
+1837/j.K/f.SS.1/Nagoriyuki j.K > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.K.
+1838/j.K/f.SS.2/Nagoriyuki j.K > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.K.
+1839/j.K/f.SS.3/Nagoriyuki j.K > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.K.
+1840/j.K/f.SS.BR/Nagoriyuki j.K > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.K.
+1841/j.K/f.SSS.1/Nagoriyuki j.K > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.K.
+1842/j.K/f.SSS.2/Nagoriyuki j.K > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.K.
+1843/j.K/f.SSS.3/Nagoriyuki j.K > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.K.
+1844/j.K/f.SSS.BR/Nagoriyuki j.K > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.K.
+1845/j.K/5H.1/j.K has 11f of blockstun, while 5H.1 has 20.0f of startup
+1846/j.K/5H.2/j.K has 11f of blockstun, while 5H.2 has 18.0f of startup
+1847/j.K/5H.3/j.K has 11f of blockstun, while 5H.3 has 16.0f of startup
+1848/j.K/5H.BR/j.K has 11f of blockstun, while 5H.BR has 16.0f of startup
+1849/j.K/2P/j.K has 11f of blockstun, while 2P has 6.0f of startup
+1850/j.K/2K/j.K has 11f of blockstun, while 2K has 7.0f of startup
+1851/j.K/2S.1/j.K has 11f of blockstun, while 2S.1 has 12.0f of startup
+1852/j.K/2S.2/j.K has 11f of blockstun, while 2S.2 has 11.0f of startup
+1853/j.K/2S.3/j.K has 11f of blockstun, while 2S.3 has 10.0f of startup
+1854/j.K/2S.BR/j.K has 11f of blockstun, while 2S.BR has 10.0f of startup
+1855/j.K/2H.1/j.K has 11f of blockstun, while 2H.1 has 19.0f of startup
+1856/j.K/2H.2/j.K has 11f of blockstun, while 2H.2 has 17.0f of startup
+1857/j.K/2H.3/j.K has 11f of blockstun, while 2H.3 has 15.0f of startup
+1858/j.K/2H.BR/j.K has 11f of blockstun, while 2H.BR has 15.0f of startup
+1859/j.K/j.P/j.K has 11f of blockstun, while j.P has 7.0f of startup
+1860/j.K/j.K/j.K has 11f of blockstun, while j.K has 7.0f of startup
+1861/j.K/j.S.1/j.K has 11f of blockstun, while j.S.1 has 13.0f of startup
+1862/j.K/j.S.2/j.K has 11f of blockstun, while j.S.2 has 12.0f of startup
+1863/j.K/j.S.3/j.K has 11f of blockstun, while j.S.3 has 11.0f of startup
+1864/j.K/j.S.BR/j.K has 11f of blockstun, while j.S.BR has 11.0f of startup
+1865/j.K/j.H.1/j.K has 11f of blockstun, while j.H.1 has 16.0f of startup
+1866/j.K/j.H.2/j.K has 11f of blockstun, while j.H.2 has 15.0f of startup
+1867/j.K/j.H.3/j.K has 11f of blockstun, while j.H.3 has 14.0f of startup
+1868/j.K/j.H.BR/j.K has 11f of blockstun, while j.H.BR has 14.0f of startup
+1869/j.K/j.D.1/j.K has 11f of blockstun, while j.D.1 has 15.0f of startup
+1870/j.K/j.D.2/j.K has 11f of blockstun, while j.D.2 has 13.0f of startup
+1871/j.K/j.D.3/j.K has 11f of blockstun, while j.D.3 has 11.0f of startup
+1872/j.K/j.D.BR/j.K has 11f of blockstun, while j.D.BR has 11.0f of startup
+1873/j.K/6P/j.K has 11f of blockstun, while 6P has 12.0f of startup
+1874/j.K/6K/j.K has 11f of blockstun, while 6K has 15.0f of startup
+1875/j.K/6H.1/j.K has 11f of blockstun, while 6H.1 has 17.0f of startup
+1876/j.K/6H.2/j.K has 11f of blockstun, while 6H.2 has 16.0f of startup
+1877/j.K/6H.3/j.K has 11f of blockstun, while 6H.3 has 15.0f of startup
+1878/j.K/6H.BR/j.K has 11f of blockstun, while 6H.BR has 15.0f of startup
+1879/j.K/2D/j.K has 11f of blockstun, while 2D has 12.0f of startup
+1880/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
+1881/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
+1882/j.K/236S/j.K has 11f of blockstun, while 236S has 18.0f of startup
+1883/j.K/236K/j.K has 11f of blockstun, while 236K has f of startup
+1884/j.K/214K/j.K has 11f of blockstun, while 214K has f of startup
+1885/j.K/214H/j.K has 11f of blockstun, while 214H has 14.0f of startup
+1886/j.K/623H/j.K has 11f of blockstun, while 623H has 11.0f of startup
+1887/j.K/623HH/Nagoriyuki j.K > 623HH: 623HH is a follow-up move that cannot be performed after j.K.
+1888/j.K/623P/j.K has 11f of blockstun, while 623P has 7.0f of startup
+1889/j.K/632146S/j.K has 11f of blockstun, while 632146S has 9.0f of startup
+1890/j.K/632146H/j.K has 11f of blockstun, while 632146H has 21.0f of startup
+1891/j.S.1/5P/j.S.1 has 13f of blockstun, while 5P has 5.0f of startup
+1892/j.S.1/5K/j.S.1 has 13f of blockstun, while 5K has 7.0f of startup
+1893/j.S.1/c.S/j.S.1 has 13f of blockstun, while c.S has 7.0f of startup
+1894/j.S.1/f.S.1/j.S.1 has 13f of blockstun, while f.S.1 has 16.0f of startup
+1895/j.S.1/f.S.2/j.S.1 has 13f of blockstun, while f.S.2 has 14.0f of startup
+1896/j.S.1/f.S.3/j.S.1 has 13f of blockstun, while f.S.3 has 12.0f of startup
+1897/j.S.1/f.S.BR/j.S.1 has 13f of blockstun, while f.S.BR has 12.0f of startup
+1898/j.S.1/f.SS.1/Nagoriyuki j.S.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.S.1.
+1899/j.S.1/f.SS.2/Nagoriyuki j.S.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.S.1.
+1900/j.S.1/f.SS.3/Nagoriyuki j.S.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.S.1.
+1901/j.S.1/f.SS.BR/Nagoriyuki j.S.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.S.1.
+1902/j.S.1/f.SSS.1/Nagoriyuki j.S.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.S.1.
+1903/j.S.1/f.SSS.2/Nagoriyuki j.S.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.S.1.
+1904/j.S.1/f.SSS.3/Nagoriyuki j.S.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.S.1.
+1905/j.S.1/f.SSS.BR/Nagoriyuki j.S.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.S.1.
+1906/j.S.1/5H.1/j.S.1 has 13f of blockstun, while 5H.1 has 20.0f of startup
+1907/j.S.1/5H.2/j.S.1 has 13f of blockstun, while 5H.2 has 18.0f of startup
+1908/j.S.1/5H.3/j.S.1 has 13f of blockstun, while 5H.3 has 16.0f of startup
+1909/j.S.1/5H.BR/j.S.1 has 13f of blockstun, while 5H.BR has 16.0f of startup
+1910/j.S.1/2P/j.S.1 has 13f of blockstun, while 2P has 6.0f of startup
+1911/j.S.1/2K/j.S.1 has 13f of blockstun, while 2K has 7.0f of startup
+1912/j.S.1/2S.1/j.S.1 has 13f of blockstun, while 2S.1 has 12.0f of startup
+1913/j.S.1/2S.2/j.S.1 has 13f of blockstun, while 2S.2 has 11.0f of startup
+1914/j.S.1/2S.3/j.S.1 has 13f of blockstun, while 2S.3 has 10.0f of startup
+1915/j.S.1/2S.BR/j.S.1 has 13f of blockstun, while 2S.BR has 10.0f of startup
+1916/j.S.1/2H.1/j.S.1 has 13f of blockstun, while 2H.1 has 19.0f of startup
+1917/j.S.1/2H.2/j.S.1 has 13f of blockstun, while 2H.2 has 17.0f of startup
+1918/j.S.1/2H.3/j.S.1 has 13f of blockstun, while 2H.3 has 15.0f of startup
+1919/j.S.1/2H.BR/j.S.1 has 13f of blockstun, while 2H.BR has 15.0f of startup
+1920/j.S.1/j.P/j.S.1 has 13f of blockstun, while j.P has 7.0f of startup
+1921/j.S.1/j.K/j.S.1 has 13f of blockstun, while j.K has 7.0f of startup
+1922/j.S.1/j.S.1/j.S.1 has 13f of blockstun, while j.S.1 has 13.0f of startup
+1923/j.S.1/j.S.2/j.S.1 has 13f of blockstun, while j.S.2 has 12.0f of startup
+1924/j.S.1/j.S.3/j.S.1 has 13f of blockstun, while j.S.3 has 11.0f of startup
+1925/j.S.1/j.S.BR/j.S.1 has 13f of blockstun, while j.S.BR has 11.0f of startup
+1926/j.S.1/j.H.1/3f gap
+1927/j.S.1/j.H.2/j.S.1 has 13f of blockstun, while j.H.2 has 15.0f of startup
+1928/j.S.1/j.H.3/j.S.1 has 13f of blockstun, while j.H.3 has 14.0f of startup
+1929/j.S.1/j.H.BR/j.S.1 has 13f of blockstun, while j.H.BR has 14.0f of startup
+1930/j.S.1/j.D.1/2f gap
+1931/j.S.1/j.D.2/j.S.1 has 13f of blockstun, while j.D.2 has 13.0f of startup
+1932/j.S.1/j.D.3/j.S.1 has 13f of blockstun, while j.D.3 has 11.0f of startup
+1933/j.S.1/j.D.BR/j.S.1 has 13f of blockstun, while j.D.BR has 11.0f of startup
+1934/j.S.1/6P/j.S.1 has 13f of blockstun, while 6P has 12.0f of startup
+1935/j.S.1/6K/j.S.1 has 13f of blockstun, while 6K has 15.0f of startup
+1936/j.S.1/6H.1/j.S.1 has 13f of blockstun, while 6H.1 has 17.0f of startup
+1937/j.S.1/6H.2/j.S.1 has 13f of blockstun, while 6H.2 has 16.0f of startup
+1938/j.S.1/6H.3/j.S.1 has 13f of blockstun, while 6H.3 has 15.0f of startup
+1939/j.S.1/6H.BR/j.S.1 has 13f of blockstun, while 6H.BR has 15.0f of startup
+1940/j.S.1/2D/j.S.1 has 13f of blockstun, while 2D has 12.0f of startup
+1941/j.S.1/5D/j.S.1 has 13f of blockstun, while 5D has 20.0f of startup
+1942/j.S.1/5[D]/j.S.1 has 13f of blockstun, while 5[D] has 28.0f of startup
+1943/j.S.1/236S/j.S.1 has 13f of blockstun, while 236S has 18.0f of startup
+1944/j.S.1/236K/j.S.1 has 13f of blockstun, while 236K has f of startup
+1945/j.S.1/214K/j.S.1 has 13f of blockstun, while 214K has f of startup
+1946/j.S.1/214H/j.S.1 has 13f of blockstun, while 214H has 14.0f of startup
+1947/j.S.1/623H/j.S.1 has 13f of blockstun, while 623H has 11.0f of startup
+1948/j.S.1/623HH/Nagoriyuki j.S.1 > 623HH: 623HH is a follow-up move that cannot be performed after j.S.1.
+1949/j.S.1/623P/j.S.1 has 13f of blockstun, while 623P has 7.0f of startup
+1950/j.S.1/632146S/j.S.1 has 13f of blockstun, while 632146S has 9.0f of startup
+1951/j.S.1/632146H/j.S.1 has 13f of blockstun, while 632146H has 21.0f of startup
+1952/j.S.2/5P/j.S.2 has 13f of blockstun, while 5P has 5.0f of startup
+1953/j.S.2/5K/j.S.2 has 13f of blockstun, while 5K has 7.0f of startup
+1954/j.S.2/c.S/j.S.2 has 13f of blockstun, while c.S has 7.0f of startup
+1955/j.S.2/f.S.1/j.S.2 has 13f of blockstun, while f.S.1 has 16.0f of startup
+1956/j.S.2/f.S.2/j.S.2 has 13f of blockstun, while f.S.2 has 14.0f of startup
+1957/j.S.2/f.S.3/j.S.2 has 13f of blockstun, while f.S.3 has 12.0f of startup
+1958/j.S.2/f.S.BR/j.S.2 has 13f of blockstun, while f.S.BR has 12.0f of startup
+1959/j.S.2/f.SS.1/Nagoriyuki j.S.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.S.2.
+1960/j.S.2/f.SS.2/Nagoriyuki j.S.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.S.2.
+1961/j.S.2/f.SS.3/Nagoriyuki j.S.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.S.2.
+1962/j.S.2/f.SS.BR/Nagoriyuki j.S.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.S.2.
+1963/j.S.2/f.SSS.1/Nagoriyuki j.S.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.S.2.
+1964/j.S.2/f.SSS.2/Nagoriyuki j.S.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.S.2.
+1965/j.S.2/f.SSS.3/Nagoriyuki j.S.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.S.2.
+1966/j.S.2/f.SSS.BR/Nagoriyuki j.S.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.S.2.
+1967/j.S.2/5H.1/j.S.2 has 13f of blockstun, while 5H.1 has 20.0f of startup
+1968/j.S.2/5H.2/j.S.2 has 13f of blockstun, while 5H.2 has 18.0f of startup
+1969/j.S.2/5H.3/j.S.2 has 13f of blockstun, while 5H.3 has 16.0f of startup
+1970/j.S.2/5H.BR/j.S.2 has 13f of blockstun, while 5H.BR has 16.0f of startup
+1971/j.S.2/2P/j.S.2 has 13f of blockstun, while 2P has 6.0f of startup
+1972/j.S.2/2K/j.S.2 has 13f of blockstun, while 2K has 7.0f of startup
+1973/j.S.2/2S.1/j.S.2 has 13f of blockstun, while 2S.1 has 12.0f of startup
+1974/j.S.2/2S.2/j.S.2 has 13f of blockstun, while 2S.2 has 11.0f of startup
+1975/j.S.2/2S.3/j.S.2 has 13f of blockstun, while 2S.3 has 10.0f of startup
+1976/j.S.2/2S.BR/j.S.2 has 13f of blockstun, while 2S.BR has 10.0f of startup
+1977/j.S.2/2H.1/j.S.2 has 13f of blockstun, while 2H.1 has 19.0f of startup
+1978/j.S.2/2H.2/j.S.2 has 13f of blockstun, while 2H.2 has 17.0f of startup
+1979/j.S.2/2H.3/j.S.2 has 13f of blockstun, while 2H.3 has 15.0f of startup
+1980/j.S.2/2H.BR/j.S.2 has 13f of blockstun, while 2H.BR has 15.0f of startup
+1981/j.S.2/j.P/j.S.2 has 13f of blockstun, while j.P has 7.0f of startup
+1982/j.S.2/j.K/j.S.2 has 13f of blockstun, while j.K has 7.0f of startup
+1983/j.S.2/j.S.1/j.S.2 has 13f of blockstun, while j.S.1 has 13.0f of startup
+1984/j.S.2/j.S.2/j.S.2 has 13f of blockstun, while j.S.2 has 12.0f of startup
+1985/j.S.2/j.S.3/j.S.2 has 13f of blockstun, while j.S.3 has 11.0f of startup
+1986/j.S.2/j.S.BR/j.S.2 has 13f of blockstun, while j.S.BR has 11.0f of startup
+1987/j.S.2/j.H.1/j.S.2 has 13f of blockstun, while j.H.1 has 16.0f of startup
+1988/j.S.2/j.H.2/2f gap
+1989/j.S.2/j.H.3/j.S.2 has 13f of blockstun, while j.H.3 has 14.0f of startup
+1990/j.S.2/j.H.BR/j.S.2 has 13f of blockstun, while j.H.BR has 14.0f of startup
+1991/j.S.2/j.D.1/j.S.2 has 13f of blockstun, while j.D.1 has 15.0f of startup
+1992/j.S.2/j.D.2/0f gap
+1993/j.S.2/j.D.3/j.S.2 has 13f of blockstun, while j.D.3 has 11.0f of startup
+1994/j.S.2/j.D.BR/j.S.2 has 13f of blockstun, while j.D.BR has 11.0f of startup
+1995/j.S.2/6P/j.S.2 has 13f of blockstun, while 6P has 12.0f of startup
+1996/j.S.2/6K/j.S.2 has 13f of blockstun, while 6K has 15.0f of startup
+1997/j.S.2/6H.1/j.S.2 has 13f of blockstun, while 6H.1 has 17.0f of startup
+1998/j.S.2/6H.2/j.S.2 has 13f of blockstun, while 6H.2 has 16.0f of startup
+1999/j.S.2/6H.3/j.S.2 has 13f of blockstun, while 6H.3 has 15.0f of startup
+2000/j.S.2/6H.BR/j.S.2 has 13f of blockstun, while 6H.BR has 15.0f of startup
+2001/j.S.2/2D/j.S.2 has 13f of blockstun, while 2D has 12.0f of startup
+2002/j.S.2/5D/j.S.2 has 13f of blockstun, while 5D has 20.0f of startup
+2003/j.S.2/5[D]/j.S.2 has 13f of blockstun, while 5[D] has 28.0f of startup
+2004/j.S.2/236S/j.S.2 has 13f of blockstun, while 236S has 18.0f of startup
+2005/j.S.2/236K/j.S.2 has 13f of blockstun, while 236K has f of startup
+2006/j.S.2/214K/j.S.2 has 13f of blockstun, while 214K has f of startup
+2007/j.S.2/214H/j.S.2 has 13f of blockstun, while 214H has 14.0f of startup
+2008/j.S.2/623H/j.S.2 has 13f of blockstun, while 623H has 11.0f of startup
+2009/j.S.2/623HH/Nagoriyuki j.S.2 > 623HH: 623HH is a follow-up move that cannot be performed after j.S.2.
+2010/j.S.2/623P/j.S.2 has 13f of blockstun, while 623P has 7.0f of startup
+2011/j.S.2/632146S/j.S.2 has 13f of blockstun, while 632146S has 9.0f of startup
+2012/j.S.2/632146H/j.S.2 has 13f of blockstun, while 632146H has 21.0f of startup
+2013/j.S.3/5P/j.S.3 has 13f of blockstun, while 5P has 5.0f of startup
+2014/j.S.3/5K/j.S.3 has 13f of blockstun, while 5K has 7.0f of startup
+2015/j.S.3/c.S/j.S.3 has 13f of blockstun, while c.S has 7.0f of startup
+2016/j.S.3/f.S.1/j.S.3 has 13f of blockstun, while f.S.1 has 16.0f of startup
+2017/j.S.3/f.S.2/j.S.3 has 13f of blockstun, while f.S.2 has 14.0f of startup
+2018/j.S.3/f.S.3/j.S.3 has 13f of blockstun, while f.S.3 has 12.0f of startup
+2019/j.S.3/f.S.BR/j.S.3 has 13f of blockstun, while f.S.BR has 12.0f of startup
+2020/j.S.3/f.SS.1/Nagoriyuki j.S.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.S.3.
+2021/j.S.3/f.SS.2/Nagoriyuki j.S.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.S.3.
+2022/j.S.3/f.SS.3/Nagoriyuki j.S.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.S.3.
+2023/j.S.3/f.SS.BR/Nagoriyuki j.S.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.S.3.
+2024/j.S.3/f.SSS.1/Nagoriyuki j.S.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.S.3.
+2025/j.S.3/f.SSS.2/Nagoriyuki j.S.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.S.3.
+2026/j.S.3/f.SSS.3/Nagoriyuki j.S.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.S.3.
+2027/j.S.3/f.SSS.BR/Nagoriyuki j.S.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.S.3.
+2028/j.S.3/5H.1/j.S.3 has 13f of blockstun, while 5H.1 has 20.0f of startup
+2029/j.S.3/5H.2/j.S.3 has 13f of blockstun, while 5H.2 has 18.0f of startup
+2030/j.S.3/5H.3/j.S.3 has 13f of blockstun, while 5H.3 has 16.0f of startup
+2031/j.S.3/5H.BR/j.S.3 has 13f of blockstun, while 5H.BR has 16.0f of startup
+2032/j.S.3/2P/j.S.3 has 13f of blockstun, while 2P has 6.0f of startup
+2033/j.S.3/2K/j.S.3 has 13f of blockstun, while 2K has 7.0f of startup
+2034/j.S.3/2S.1/j.S.3 has 13f of blockstun, while 2S.1 has 12.0f of startup
+2035/j.S.3/2S.2/j.S.3 has 13f of blockstun, while 2S.2 has 11.0f of startup
+2036/j.S.3/2S.3/j.S.3 has 13f of blockstun, while 2S.3 has 10.0f of startup
+2037/j.S.3/2S.BR/j.S.3 has 13f of blockstun, while 2S.BR has 10.0f of startup
+2038/j.S.3/2H.1/j.S.3 has 13f of blockstun, while 2H.1 has 19.0f of startup
+2039/j.S.3/2H.2/j.S.3 has 13f of blockstun, while 2H.2 has 17.0f of startup
+2040/j.S.3/2H.3/j.S.3 has 13f of blockstun, while 2H.3 has 15.0f of startup
+2041/j.S.3/2H.BR/j.S.3 has 13f of blockstun, while 2H.BR has 15.0f of startup
+2042/j.S.3/j.P/j.S.3 has 13f of blockstun, while j.P has 7.0f of startup
+2043/j.S.3/j.K/j.S.3 has 13f of blockstun, while j.K has 7.0f of startup
+2044/j.S.3/j.S.1/j.S.3 has 13f of blockstun, while j.S.1 has 13.0f of startup
+2045/j.S.3/j.S.2/j.S.3 has 13f of blockstun, while j.S.2 has 12.0f of startup
+2046/j.S.3/j.S.3/j.S.3 has 13f of blockstun, while j.S.3 has 11.0f of startup
+2047/j.S.3/j.S.BR/j.S.3 has 13f of blockstun, while j.S.BR has 11.0f of startup
+2048/j.S.3/j.H.1/j.S.3 has 13f of blockstun, while j.H.1 has 16.0f of startup
+2049/j.S.3/j.H.2/j.S.3 has 13f of blockstun, while j.H.2 has 15.0f of startup
+2050/j.S.3/j.H.3/1f gap
+2051/j.S.3/j.H.BR/j.S.3 has 13f of blockstun, while j.H.BR has 14.0f of startup
+2052/j.S.3/j.D.1/j.S.3 has 13f of blockstun, while j.D.1 has 15.0f of startup
+2053/j.S.3/j.D.2/j.S.3 has 13f of blockstun, while j.D.2 has 13.0f of startup
+2054/j.S.3/j.D.3/-2f gap
+2055/j.S.3/j.D.BR/j.S.3 has 13f of blockstun, while j.D.BR has 11.0f of startup
+2056/j.S.3/6P/j.S.3 has 13f of blockstun, while 6P has 12.0f of startup
+2057/j.S.3/6K/j.S.3 has 13f of blockstun, while 6K has 15.0f of startup
+2058/j.S.3/6H.1/j.S.3 has 13f of blockstun, while 6H.1 has 17.0f of startup
+2059/j.S.3/6H.2/j.S.3 has 13f of blockstun, while 6H.2 has 16.0f of startup
+2060/j.S.3/6H.3/j.S.3 has 13f of blockstun, while 6H.3 has 15.0f of startup
+2061/j.S.3/6H.BR/j.S.3 has 13f of blockstun, while 6H.BR has 15.0f of startup
+2062/j.S.3/2D/j.S.3 has 13f of blockstun, while 2D has 12.0f of startup
+2063/j.S.3/5D/j.S.3 has 13f of blockstun, while 5D has 20.0f of startup
+2064/j.S.3/5[D]/j.S.3 has 13f of blockstun, while 5[D] has 28.0f of startup
+2065/j.S.3/236S/j.S.3 has 13f of blockstun, while 236S has 18.0f of startup
+2066/j.S.3/236K/j.S.3 has 13f of blockstun, while 236K has f of startup
+2067/j.S.3/214K/j.S.3 has 13f of blockstun, while 214K has f of startup
+2068/j.S.3/214H/j.S.3 has 13f of blockstun, while 214H has 14.0f of startup
+2069/j.S.3/623H/j.S.3 has 13f of blockstun, while 623H has 11.0f of startup
+2070/j.S.3/623HH/Nagoriyuki j.S.3 > 623HH: 623HH is a follow-up move that cannot be performed after j.S.3.
+2071/j.S.3/623P/j.S.3 has 13f of blockstun, while 623P has 7.0f of startup
+2072/j.S.3/632146S/j.S.3 has 13f of blockstun, while 632146S has 9.0f of startup
+2073/j.S.3/632146H/j.S.3 has 13f of blockstun, while 632146H has 21.0f of startup
+2074/j.S.BR/5P/j.S.BR has 13f of blockstun, while 5P has 5.0f of startup
+2075/j.S.BR/5K/j.S.BR has 13f of blockstun, while 5K has 7.0f of startup
+2076/j.S.BR/c.S/j.S.BR has 13f of blockstun, while c.S has 7.0f of startup
+2077/j.S.BR/f.S.1/j.S.BR has 13f of blockstun, while f.S.1 has 16.0f of startup
+2078/j.S.BR/f.S.2/j.S.BR has 13f of blockstun, while f.S.2 has 14.0f of startup
+2079/j.S.BR/f.S.3/j.S.BR has 13f of blockstun, while f.S.3 has 12.0f of startup
+2080/j.S.BR/f.S.BR/j.S.BR has 13f of blockstun, while f.S.BR has 12.0f of startup
+2081/j.S.BR/f.SS.1/Nagoriyuki j.S.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.S.BR.
+2082/j.S.BR/f.SS.2/Nagoriyuki j.S.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.S.BR.
+2083/j.S.BR/f.SS.3/Nagoriyuki j.S.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.S.BR.
+2084/j.S.BR/f.SS.BR/Nagoriyuki j.S.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.S.BR.
+2085/j.S.BR/f.SSS.1/Nagoriyuki j.S.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.S.BR.
+2086/j.S.BR/f.SSS.2/Nagoriyuki j.S.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.S.BR.
+2087/j.S.BR/f.SSS.3/Nagoriyuki j.S.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.S.BR.
+2088/j.S.BR/f.SSS.BR/Nagoriyuki j.S.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.S.BR.
+2089/j.S.BR/5H.1/j.S.BR has 13f of blockstun, while 5H.1 has 20.0f of startup
+2090/j.S.BR/5H.2/j.S.BR has 13f of blockstun, while 5H.2 has 18.0f of startup
+2091/j.S.BR/5H.3/j.S.BR has 13f of blockstun, while 5H.3 has 16.0f of startup
+2092/j.S.BR/5H.BR/j.S.BR has 13f of blockstun, while 5H.BR has 16.0f of startup
+2093/j.S.BR/2P/j.S.BR has 13f of blockstun, while 2P has 6.0f of startup
+2094/j.S.BR/2K/j.S.BR has 13f of blockstun, while 2K has 7.0f of startup
+2095/j.S.BR/2S.1/j.S.BR has 13f of blockstun, while 2S.1 has 12.0f of startup
+2096/j.S.BR/2S.2/j.S.BR has 13f of blockstun, while 2S.2 has 11.0f of startup
+2097/j.S.BR/2S.3/j.S.BR has 13f of blockstun, while 2S.3 has 10.0f of startup
+2098/j.S.BR/2S.BR/j.S.BR has 13f of blockstun, while 2S.BR has 10.0f of startup
+2099/j.S.BR/2H.1/j.S.BR has 13f of blockstun, while 2H.1 has 19.0f of startup
+2100/j.S.BR/2H.2/j.S.BR has 13f of blockstun, while 2H.2 has 17.0f of startup
+2101/j.S.BR/2H.3/j.S.BR has 13f of blockstun, while 2H.3 has 15.0f of startup
+2102/j.S.BR/2H.BR/j.S.BR has 13f of blockstun, while 2H.BR has 15.0f of startup
+2103/j.S.BR/j.P/j.S.BR has 13f of blockstun, while j.P has 7.0f of startup
+2104/j.S.BR/j.K/j.S.BR has 13f of blockstun, while j.K has 7.0f of startup
+2105/j.S.BR/j.S.1/j.S.BR has 13f of blockstun, while j.S.1 has 13.0f of startup
+2106/j.S.BR/j.S.2/j.S.BR has 13f of blockstun, while j.S.2 has 12.0f of startup
+2107/j.S.BR/j.S.3/j.S.BR has 13f of blockstun, while j.S.3 has 11.0f of startup
+2108/j.S.BR/j.S.BR/j.S.BR has 13f of blockstun, while j.S.BR has 11.0f of startup
+2109/j.S.BR/j.H.1/j.S.BR has 13f of blockstun, while j.H.1 has 16.0f of startup
+2110/j.S.BR/j.H.2/j.S.BR has 13f of blockstun, while j.H.2 has 15.0f of startup
+2111/j.S.BR/j.H.3/j.S.BR has 13f of blockstun, while j.H.3 has 14.0f of startup
+2112/j.S.BR/j.H.BR/1f gap
+2113/j.S.BR/j.D.1/j.S.BR has 13f of blockstun, while j.D.1 has 15.0f of startup
+2114/j.S.BR/j.D.2/j.S.BR has 13f of blockstun, while j.D.2 has 13.0f of startup
+2115/j.S.BR/j.D.3/j.S.BR has 13f of blockstun, while j.D.3 has 11.0f of startup
+2116/j.S.BR/j.D.BR/-2f gap
+2117/j.S.BR/6P/j.S.BR has 13f of blockstun, while 6P has 12.0f of startup
+2118/j.S.BR/6K/j.S.BR has 13f of blockstun, while 6K has 15.0f of startup
+2119/j.S.BR/6H.1/j.S.BR has 13f of blockstun, while 6H.1 has 17.0f of startup
+2120/j.S.BR/6H.2/j.S.BR has 13f of blockstun, while 6H.2 has 16.0f of startup
+2121/j.S.BR/6H.3/j.S.BR has 13f of blockstun, while 6H.3 has 15.0f of startup
+2122/j.S.BR/6H.BR/j.S.BR has 13f of blockstun, while 6H.BR has 15.0f of startup
+2123/j.S.BR/2D/j.S.BR has 13f of blockstun, while 2D has 12.0f of startup
+2124/j.S.BR/5D/j.S.BR has 13f of blockstun, while 5D has 20.0f of startup
+2125/j.S.BR/5[D]/j.S.BR has 13f of blockstun, while 5[D] has 28.0f of startup
+2126/j.S.BR/236S/j.S.BR has 13f of blockstun, while 236S has 18.0f of startup
+2127/j.S.BR/236K/j.S.BR has 13f of blockstun, while 236K has f of startup
+2128/j.S.BR/214K/j.S.BR has 13f of blockstun, while 214K has f of startup
+2129/j.S.BR/214H/j.S.BR has 13f of blockstun, while 214H has 14.0f of startup
+2130/j.S.BR/623H/j.S.BR has 13f of blockstun, while 623H has 11.0f of startup
+2131/j.S.BR/623HH/Nagoriyuki j.S.BR > 623HH: 623HH is a follow-up move that cannot be performed after j.S.BR.
+2132/j.S.BR/623P/j.S.BR has 13f of blockstun, while 623P has 7.0f of startup
+2133/j.S.BR/632146S/j.S.BR has 13f of blockstun, while 632146S has 9.0f of startup
+2134/j.S.BR/632146H/j.S.BR has 13f of blockstun, while 632146H has 21.0f of startup
+2135/j.H.1/5P/j.H.1 has 16f of blockstun, while 5P has 5.0f of startup
+2136/j.H.1/5K/j.H.1 has 16f of blockstun, while 5K has 7.0f of startup
+2137/j.H.1/c.S/j.H.1 has 16f of blockstun, while c.S has 7.0f of startup
+2138/j.H.1/f.S.1/j.H.1 has 16f of blockstun, while f.S.1 has 16.0f of startup
+2139/j.H.1/f.S.2/j.H.1 has 16f of blockstun, while f.S.2 has 14.0f of startup
+2140/j.H.1/f.S.3/j.H.1 has 16f of blockstun, while f.S.3 has 12.0f of startup
+2141/j.H.1/f.S.BR/j.H.1 has 16f of blockstun, while f.S.BR has 12.0f of startup
+2142/j.H.1/f.SS.1/Nagoriyuki j.H.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.H.1.
+2143/j.H.1/f.SS.2/Nagoriyuki j.H.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.H.1.
+2144/j.H.1/f.SS.3/Nagoriyuki j.H.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.H.1.
+2145/j.H.1/f.SS.BR/Nagoriyuki j.H.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.H.1.
+2146/j.H.1/f.SSS.1/Nagoriyuki j.H.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.H.1.
+2147/j.H.1/f.SSS.2/Nagoriyuki j.H.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.H.1.
+2148/j.H.1/f.SSS.3/Nagoriyuki j.H.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.H.1.
+2149/j.H.1/f.SSS.BR/Nagoriyuki j.H.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.H.1.
+2150/j.H.1/5H.1/j.H.1 has 16f of blockstun, while 5H.1 has 20.0f of startup
+2151/j.H.1/5H.2/j.H.1 has 16f of blockstun, while 5H.2 has 18.0f of startup
+2152/j.H.1/5H.3/j.H.1 has 16f of blockstun, while 5H.3 has 16.0f of startup
+2153/j.H.1/5H.BR/j.H.1 has 16f of blockstun, while 5H.BR has 16.0f of startup
+2154/j.H.1/2P/j.H.1 has 16f of blockstun, while 2P has 6.0f of startup
+2155/j.H.1/2K/j.H.1 has 16f of blockstun, while 2K has 7.0f of startup
+2156/j.H.1/2S.1/j.H.1 has 16f of blockstun, while 2S.1 has 12.0f of startup
+2157/j.H.1/2S.2/j.H.1 has 16f of blockstun, while 2S.2 has 11.0f of startup
+2158/j.H.1/2S.3/j.H.1 has 16f of blockstun, while 2S.3 has 10.0f of startup
+2159/j.H.1/2S.BR/j.H.1 has 16f of blockstun, while 2S.BR has 10.0f of startup
+2160/j.H.1/2H.1/j.H.1 has 16f of blockstun, while 2H.1 has 19.0f of startup
+2161/j.H.1/2H.2/j.H.1 has 16f of blockstun, while 2H.2 has 17.0f of startup
+2162/j.H.1/2H.3/j.H.1 has 16f of blockstun, while 2H.3 has 15.0f of startup
+2163/j.H.1/2H.BR/j.H.1 has 16f of blockstun, while 2H.BR has 15.0f of startup
+2164/j.H.1/j.P/j.H.1 has 16f of blockstun, while j.P has 7.0f of startup
+2165/j.H.1/j.K/j.H.1 has 16f of blockstun, while j.K has 7.0f of startup
+2166/j.H.1/j.S.1/j.H.1 has 16f of blockstun, while j.S.1 has 13.0f of startup
+2167/j.H.1/j.S.2/j.H.1 has 16f of blockstun, while j.S.2 has 12.0f of startup
+2168/j.H.1/j.S.3/j.H.1 has 16f of blockstun, while j.S.3 has 11.0f of startup
+2169/j.H.1/j.S.BR/j.H.1 has 16f of blockstun, while j.S.BR has 11.0f of startup
+2170/j.H.1/j.H.1/j.H.1 has 16f of blockstun, while j.H.1 has 16.0f of startup
+2171/j.H.1/j.H.2/j.H.1 has 16f of blockstun, while j.H.2 has 15.0f of startup
+2172/j.H.1/j.H.3/j.H.1 has 16f of blockstun, while j.H.3 has 14.0f of startup
+2173/j.H.1/j.H.BR/j.H.1 has 16f of blockstun, while j.H.BR has 14.0f of startup
+2174/j.H.1/j.D.1/-1f gap
+2175/j.H.1/j.D.2/j.H.1 has 16f of blockstun, while j.D.2 has 13.0f of startup
+2176/j.H.1/j.D.3/j.H.1 has 16f of blockstun, while j.D.3 has 11.0f of startup
+2177/j.H.1/j.D.BR/j.H.1 has 16f of blockstun, while j.D.BR has 11.0f of startup
+2178/j.H.1/6P/j.H.1 has 16f of blockstun, while 6P has 12.0f of startup
+2179/j.H.1/6K/j.H.1 has 16f of blockstun, while 6K has 15.0f of startup
+2180/j.H.1/6H.1/j.H.1 has 16f of blockstun, while 6H.1 has 17.0f of startup
+2181/j.H.1/6H.2/j.H.1 has 16f of blockstun, while 6H.2 has 16.0f of startup
+2182/j.H.1/6H.3/j.H.1 has 16f of blockstun, while 6H.3 has 15.0f of startup
+2183/j.H.1/6H.BR/j.H.1 has 16f of blockstun, while 6H.BR has 15.0f of startup
+2184/j.H.1/2D/j.H.1 has 16f of blockstun, while 2D has 12.0f of startup
+2185/j.H.1/5D/j.H.1 has 16f of blockstun, while 5D has 20.0f of startup
+2186/j.H.1/5[D]/j.H.1 has 16f of blockstun, while 5[D] has 28.0f of startup
+2187/j.H.1/236S/j.H.1 has 16f of blockstun, while 236S has 18.0f of startup
+2188/j.H.1/236K/j.H.1 has 16f of blockstun, while 236K has f of startup
+2189/j.H.1/214K/j.H.1 has 16f of blockstun, while 214K has f of startup
+2190/j.H.1/214H/j.H.1 has 16f of blockstun, while 214H has 14.0f of startup
+2191/j.H.1/623H/j.H.1 has 16f of blockstun, while 623H has 11.0f of startup
+2192/j.H.1/623HH/Nagoriyuki j.H.1 > 623HH: 623HH is a follow-up move that cannot be performed after j.H.1.
+2193/j.H.1/623P/j.H.1 has 16f of blockstun, while 623P has 7.0f of startup
+2194/j.H.1/632146S/j.H.1 has 16f of blockstun, while 632146S has 9.0f of startup
+2195/j.H.1/632146H/j.H.1 has 16f of blockstun, while 632146H has 21.0f of startup
+2196/j.H.2/5P/j.H.2 has 16f of blockstun, while 5P has 5.0f of startup
+2197/j.H.2/5K/j.H.2 has 16f of blockstun, while 5K has 7.0f of startup
+2198/j.H.2/c.S/j.H.2 has 16f of blockstun, while c.S has 7.0f of startup
+2199/j.H.2/f.S.1/j.H.2 has 16f of blockstun, while f.S.1 has 16.0f of startup
+2200/j.H.2/f.S.2/j.H.2 has 16f of blockstun, while f.S.2 has 14.0f of startup
+2201/j.H.2/f.S.3/j.H.2 has 16f of blockstun, while f.S.3 has 12.0f of startup
+2202/j.H.2/f.S.BR/j.H.2 has 16f of blockstun, while f.S.BR has 12.0f of startup
+2203/j.H.2/f.SS.1/Nagoriyuki j.H.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.H.2.
+2204/j.H.2/f.SS.2/Nagoriyuki j.H.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.H.2.
+2205/j.H.2/f.SS.3/Nagoriyuki j.H.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.H.2.
+2206/j.H.2/f.SS.BR/Nagoriyuki j.H.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.H.2.
+2207/j.H.2/f.SSS.1/Nagoriyuki j.H.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.H.2.
+2208/j.H.2/f.SSS.2/Nagoriyuki j.H.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.H.2.
+2209/j.H.2/f.SSS.3/Nagoriyuki j.H.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.H.2.
+2210/j.H.2/f.SSS.BR/Nagoriyuki j.H.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.H.2.
+2211/j.H.2/5H.1/j.H.2 has 16f of blockstun, while 5H.1 has 20.0f of startup
+2212/j.H.2/5H.2/j.H.2 has 16f of blockstun, while 5H.2 has 18.0f of startup
+2213/j.H.2/5H.3/j.H.2 has 16f of blockstun, while 5H.3 has 16.0f of startup
+2214/j.H.2/5H.BR/j.H.2 has 16f of blockstun, while 5H.BR has 16.0f of startup
+2215/j.H.2/2P/j.H.2 has 16f of blockstun, while 2P has 6.0f of startup
+2216/j.H.2/2K/j.H.2 has 16f of blockstun, while 2K has 7.0f of startup
+2217/j.H.2/2S.1/j.H.2 has 16f of blockstun, while 2S.1 has 12.0f of startup
+2218/j.H.2/2S.2/j.H.2 has 16f of blockstun, while 2S.2 has 11.0f of startup
+2219/j.H.2/2S.3/j.H.2 has 16f of blockstun, while 2S.3 has 10.0f of startup
+2220/j.H.2/2S.BR/j.H.2 has 16f of blockstun, while 2S.BR has 10.0f of startup
+2221/j.H.2/2H.1/j.H.2 has 16f of blockstun, while 2H.1 has 19.0f of startup
+2222/j.H.2/2H.2/j.H.2 has 16f of blockstun, while 2H.2 has 17.0f of startup
+2223/j.H.2/2H.3/j.H.2 has 16f of blockstun, while 2H.3 has 15.0f of startup
+2224/j.H.2/2H.BR/j.H.2 has 16f of blockstun, while 2H.BR has 15.0f of startup
+2225/j.H.2/j.P/j.H.2 has 16f of blockstun, while j.P has 7.0f of startup
+2226/j.H.2/j.K/j.H.2 has 16f of blockstun, while j.K has 7.0f of startup
+2227/j.H.2/j.S.1/j.H.2 has 16f of blockstun, while j.S.1 has 13.0f of startup
+2228/j.H.2/j.S.2/j.H.2 has 16f of blockstun, while j.S.2 has 12.0f of startup
+2229/j.H.2/j.S.3/j.H.2 has 16f of blockstun, while j.S.3 has 11.0f of startup
+2230/j.H.2/j.S.BR/j.H.2 has 16f of blockstun, while j.S.BR has 11.0f of startup
+2231/j.H.2/j.H.1/j.H.2 has 16f of blockstun, while j.H.1 has 16.0f of startup
+2232/j.H.2/j.H.2/j.H.2 has 16f of blockstun, while j.H.2 has 15.0f of startup
+2233/j.H.2/j.H.3/j.H.2 has 16f of blockstun, while j.H.3 has 14.0f of startup
+2234/j.H.2/j.H.BR/j.H.2 has 16f of blockstun, while j.H.BR has 14.0f of startup
+2235/j.H.2/j.D.1/j.H.2 has 16f of blockstun, while j.D.1 has 15.0f of startup
+2236/j.H.2/j.D.2/-3f gap
+2237/j.H.2/j.D.3/j.H.2 has 16f of blockstun, while j.D.3 has 11.0f of startup
+2238/j.H.2/j.D.BR/j.H.2 has 16f of blockstun, while j.D.BR has 11.0f of startup
+2239/j.H.2/6P/j.H.2 has 16f of blockstun, while 6P has 12.0f of startup
+2240/j.H.2/6K/j.H.2 has 16f of blockstun, while 6K has 15.0f of startup
+2241/j.H.2/6H.1/j.H.2 has 16f of blockstun, while 6H.1 has 17.0f of startup
+2242/j.H.2/6H.2/j.H.2 has 16f of blockstun, while 6H.2 has 16.0f of startup
+2243/j.H.2/6H.3/j.H.2 has 16f of blockstun, while 6H.3 has 15.0f of startup
+2244/j.H.2/6H.BR/j.H.2 has 16f of blockstun, while 6H.BR has 15.0f of startup
+2245/j.H.2/2D/j.H.2 has 16f of blockstun, while 2D has 12.0f of startup
+2246/j.H.2/5D/j.H.2 has 16f of blockstun, while 5D has 20.0f of startup
+2247/j.H.2/5[D]/j.H.2 has 16f of blockstun, while 5[D] has 28.0f of startup
+2248/j.H.2/236S/j.H.2 has 16f of blockstun, while 236S has 18.0f of startup
+2249/j.H.2/236K/j.H.2 has 16f of blockstun, while 236K has f of startup
+2250/j.H.2/214K/j.H.2 has 16f of blockstun, while 214K has f of startup
+2251/j.H.2/214H/j.H.2 has 16f of blockstun, while 214H has 14.0f of startup
+2252/j.H.2/623H/j.H.2 has 16f of blockstun, while 623H has 11.0f of startup
+2253/j.H.2/623HH/Nagoriyuki j.H.2 > 623HH: 623HH is a follow-up move that cannot be performed after j.H.2.
+2254/j.H.2/623P/j.H.2 has 16f of blockstun, while 623P has 7.0f of startup
+2255/j.H.2/632146S/j.H.2 has 16f of blockstun, while 632146S has 9.0f of startup
+2256/j.H.2/632146H/j.H.2 has 16f of blockstun, while 632146H has 21.0f of startup
+2257/j.H.3/5P/j.H.3 has 16f of blockstun, while 5P has 5.0f of startup
+2258/j.H.3/5K/j.H.3 has 16f of blockstun, while 5K has 7.0f of startup
+2259/j.H.3/c.S/j.H.3 has 16f of blockstun, while c.S has 7.0f of startup
+2260/j.H.3/f.S.1/j.H.3 has 16f of blockstun, while f.S.1 has 16.0f of startup
+2261/j.H.3/f.S.2/j.H.3 has 16f of blockstun, while f.S.2 has 14.0f of startup
+2262/j.H.3/f.S.3/j.H.3 has 16f of blockstun, while f.S.3 has 12.0f of startup
+2263/j.H.3/f.S.BR/j.H.3 has 16f of blockstun, while f.S.BR has 12.0f of startup
+2264/j.H.3/f.SS.1/Nagoriyuki j.H.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.H.3.
+2265/j.H.3/f.SS.2/Nagoriyuki j.H.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.H.3.
+2266/j.H.3/f.SS.3/Nagoriyuki j.H.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.H.3.
+2267/j.H.3/f.SS.BR/Nagoriyuki j.H.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.H.3.
+2268/j.H.3/f.SSS.1/Nagoriyuki j.H.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.H.3.
+2269/j.H.3/f.SSS.2/Nagoriyuki j.H.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.H.3.
+2270/j.H.3/f.SSS.3/Nagoriyuki j.H.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.H.3.
+2271/j.H.3/f.SSS.BR/Nagoriyuki j.H.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.H.3.
+2272/j.H.3/5H.1/j.H.3 has 16f of blockstun, while 5H.1 has 20.0f of startup
+2273/j.H.3/5H.2/j.H.3 has 16f of blockstun, while 5H.2 has 18.0f of startup
+2274/j.H.3/5H.3/j.H.3 has 16f of blockstun, while 5H.3 has 16.0f of startup
+2275/j.H.3/5H.BR/j.H.3 has 16f of blockstun, while 5H.BR has 16.0f of startup
+2276/j.H.3/2P/j.H.3 has 16f of blockstun, while 2P has 6.0f of startup
+2277/j.H.3/2K/j.H.3 has 16f of blockstun, while 2K has 7.0f of startup
+2278/j.H.3/2S.1/j.H.3 has 16f of blockstun, while 2S.1 has 12.0f of startup
+2279/j.H.3/2S.2/j.H.3 has 16f of blockstun, while 2S.2 has 11.0f of startup
+2280/j.H.3/2S.3/j.H.3 has 16f of blockstun, while 2S.3 has 10.0f of startup
+2281/j.H.3/2S.BR/j.H.3 has 16f of blockstun, while 2S.BR has 10.0f of startup
+2282/j.H.3/2H.1/j.H.3 has 16f of blockstun, while 2H.1 has 19.0f of startup
+2283/j.H.3/2H.2/j.H.3 has 16f of blockstun, while 2H.2 has 17.0f of startup
+2284/j.H.3/2H.3/j.H.3 has 16f of blockstun, while 2H.3 has 15.0f of startup
+2285/j.H.3/2H.BR/j.H.3 has 16f of blockstun, while 2H.BR has 15.0f of startup
+2286/j.H.3/j.P/j.H.3 has 16f of blockstun, while j.P has 7.0f of startup
+2287/j.H.3/j.K/j.H.3 has 16f of blockstun, while j.K has 7.0f of startup
+2288/j.H.3/j.S.1/j.H.3 has 16f of blockstun, while j.S.1 has 13.0f of startup
+2289/j.H.3/j.S.2/j.H.3 has 16f of blockstun, while j.S.2 has 12.0f of startup
+2290/j.H.3/j.S.3/j.H.3 has 16f of blockstun, while j.S.3 has 11.0f of startup
+2291/j.H.3/j.S.BR/j.H.3 has 16f of blockstun, while j.S.BR has 11.0f of startup
+2292/j.H.3/j.H.1/j.H.3 has 16f of blockstun, while j.H.1 has 16.0f of startup
+2293/j.H.3/j.H.2/j.H.3 has 16f of blockstun, while j.H.2 has 15.0f of startup
+2294/j.H.3/j.H.3/j.H.3 has 16f of blockstun, while j.H.3 has 14.0f of startup
+2295/j.H.3/j.H.BR/j.H.3 has 16f of blockstun, while j.H.BR has 14.0f of startup
+2296/j.H.3/j.D.1/j.H.3 has 16f of blockstun, while j.D.1 has 15.0f of startup
+2297/j.H.3/j.D.2/j.H.3 has 16f of blockstun, while j.D.2 has 13.0f of startup
+2298/j.H.3/j.D.3/-5f gap
+2299/j.H.3/j.D.BR/j.H.3 has 16f of blockstun, while j.D.BR has 11.0f of startup
+2300/j.H.3/6P/j.H.3 has 16f of blockstun, while 6P has 12.0f of startup
+2301/j.H.3/6K/j.H.3 has 16f of blockstun, while 6K has 15.0f of startup
+2302/j.H.3/6H.1/j.H.3 has 16f of blockstun, while 6H.1 has 17.0f of startup
+2303/j.H.3/6H.2/j.H.3 has 16f of blockstun, while 6H.2 has 16.0f of startup
+2304/j.H.3/6H.3/j.H.3 has 16f of blockstun, while 6H.3 has 15.0f of startup
+2305/j.H.3/6H.BR/j.H.3 has 16f of blockstun, while 6H.BR has 15.0f of startup
+2306/j.H.3/2D/j.H.3 has 16f of blockstun, while 2D has 12.0f of startup
+2307/j.H.3/5D/j.H.3 has 16f of blockstun, while 5D has 20.0f of startup
+2308/j.H.3/5[D]/j.H.3 has 16f of blockstun, while 5[D] has 28.0f of startup
+2309/j.H.3/236S/j.H.3 has 16f of blockstun, while 236S has 18.0f of startup
+2310/j.H.3/236K/j.H.3 has 16f of blockstun, while 236K has f of startup
+2311/j.H.3/214K/j.H.3 has 16f of blockstun, while 214K has f of startup
+2312/j.H.3/214H/j.H.3 has 16f of blockstun, while 214H has 14.0f of startup
+2313/j.H.3/623H/j.H.3 has 16f of blockstun, while 623H has 11.0f of startup
+2314/j.H.3/623HH/Nagoriyuki j.H.3 > 623HH: 623HH is a follow-up move that cannot be performed after j.H.3.
+2315/j.H.3/623P/j.H.3 has 16f of blockstun, while 623P has 7.0f of startup
+2316/j.H.3/632146S/j.H.3 has 16f of blockstun, while 632146S has 9.0f of startup
+2317/j.H.3/632146H/j.H.3 has 16f of blockstun, while 632146H has 21.0f of startup
+2318/j.H.BR/5P/j.H.BR has 16f of blockstun, while 5P has 5.0f of startup
+2319/j.H.BR/5K/j.H.BR has 16f of blockstun, while 5K has 7.0f of startup
+2320/j.H.BR/c.S/j.H.BR has 16f of blockstun, while c.S has 7.0f of startup
+2321/j.H.BR/f.S.1/j.H.BR has 16f of blockstun, while f.S.1 has 16.0f of startup
+2322/j.H.BR/f.S.2/j.H.BR has 16f of blockstun, while f.S.2 has 14.0f of startup
+2323/j.H.BR/f.S.3/j.H.BR has 16f of blockstun, while f.S.3 has 12.0f of startup
+2324/j.H.BR/f.S.BR/j.H.BR has 16f of blockstun, while f.S.BR has 12.0f of startup
+2325/j.H.BR/f.SS.1/Nagoriyuki j.H.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.H.BR.
+2326/j.H.BR/f.SS.2/Nagoriyuki j.H.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.H.BR.
+2327/j.H.BR/f.SS.3/Nagoriyuki j.H.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.H.BR.
+2328/j.H.BR/f.SS.BR/Nagoriyuki j.H.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.H.BR.
+2329/j.H.BR/f.SSS.1/Nagoriyuki j.H.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.H.BR.
+2330/j.H.BR/f.SSS.2/Nagoriyuki j.H.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.H.BR.
+2331/j.H.BR/f.SSS.3/Nagoriyuki j.H.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.H.BR.
+2332/j.H.BR/f.SSS.BR/Nagoriyuki j.H.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.H.BR.
+2333/j.H.BR/5H.1/j.H.BR has 16f of blockstun, while 5H.1 has 20.0f of startup
+2334/j.H.BR/5H.2/j.H.BR has 16f of blockstun, while 5H.2 has 18.0f of startup
+2335/j.H.BR/5H.3/j.H.BR has 16f of blockstun, while 5H.3 has 16.0f of startup
+2336/j.H.BR/5H.BR/j.H.BR has 16f of blockstun, while 5H.BR has 16.0f of startup
+2337/j.H.BR/2P/j.H.BR has 16f of blockstun, while 2P has 6.0f of startup
+2338/j.H.BR/2K/j.H.BR has 16f of blockstun, while 2K has 7.0f of startup
+2339/j.H.BR/2S.1/j.H.BR has 16f of blockstun, while 2S.1 has 12.0f of startup
+2340/j.H.BR/2S.2/j.H.BR has 16f of blockstun, while 2S.2 has 11.0f of startup
+2341/j.H.BR/2S.3/j.H.BR has 16f of blockstun, while 2S.3 has 10.0f of startup
+2342/j.H.BR/2S.BR/j.H.BR has 16f of blockstun, while 2S.BR has 10.0f of startup
+2343/j.H.BR/2H.1/j.H.BR has 16f of blockstun, while 2H.1 has 19.0f of startup
+2344/j.H.BR/2H.2/j.H.BR has 16f of blockstun, while 2H.2 has 17.0f of startup
+2345/j.H.BR/2H.3/j.H.BR has 16f of blockstun, while 2H.3 has 15.0f of startup
+2346/j.H.BR/2H.BR/j.H.BR has 16f of blockstun, while 2H.BR has 15.0f of startup
+2347/j.H.BR/j.P/j.H.BR has 16f of blockstun, while j.P has 7.0f of startup
+2348/j.H.BR/j.K/j.H.BR has 16f of blockstun, while j.K has 7.0f of startup
+2349/j.H.BR/j.S.1/j.H.BR has 16f of blockstun, while j.S.1 has 13.0f of startup
+2350/j.H.BR/j.S.2/j.H.BR has 16f of blockstun, while j.S.2 has 12.0f of startup
+2351/j.H.BR/j.S.3/j.H.BR has 16f of blockstun, while j.S.3 has 11.0f of startup
+2352/j.H.BR/j.S.BR/j.H.BR has 16f of blockstun, while j.S.BR has 11.0f of startup
+2353/j.H.BR/j.H.1/j.H.BR has 16f of blockstun, while j.H.1 has 16.0f of startup
+2354/j.H.BR/j.H.2/j.H.BR has 16f of blockstun, while j.H.2 has 15.0f of startup
+2355/j.H.BR/j.H.3/j.H.BR has 16f of blockstun, while j.H.3 has 14.0f of startup
+2356/j.H.BR/j.H.BR/j.H.BR has 16f of blockstun, while j.H.BR has 14.0f of startup
+2357/j.H.BR/j.D.1/j.H.BR has 16f of blockstun, while j.D.1 has 15.0f of startup
+2358/j.H.BR/j.D.2/j.H.BR has 16f of blockstun, while j.D.2 has 13.0f of startup
+2359/j.H.BR/j.D.3/j.H.BR has 16f of blockstun, while j.D.3 has 11.0f of startup
+2360/j.H.BR/j.D.BR/-5f gap
+2361/j.H.BR/6P/j.H.BR has 16f of blockstun, while 6P has 12.0f of startup
+2362/j.H.BR/6K/j.H.BR has 16f of blockstun, while 6K has 15.0f of startup
+2363/j.H.BR/6H.1/j.H.BR has 16f of blockstun, while 6H.1 has 17.0f of startup
+2364/j.H.BR/6H.2/j.H.BR has 16f of blockstun, while 6H.2 has 16.0f of startup
+2365/j.H.BR/6H.3/j.H.BR has 16f of blockstun, while 6H.3 has 15.0f of startup
+2366/j.H.BR/6H.BR/j.H.BR has 16f of blockstun, while 6H.BR has 15.0f of startup
+2367/j.H.BR/2D/j.H.BR has 16f of blockstun, while 2D has 12.0f of startup
+2368/j.H.BR/5D/j.H.BR has 16f of blockstun, while 5D has 20.0f of startup
+2369/j.H.BR/5[D]/j.H.BR has 16f of blockstun, while 5[D] has 28.0f of startup
+2370/j.H.BR/236S/j.H.BR has 16f of blockstun, while 236S has 18.0f of startup
+2371/j.H.BR/236K/j.H.BR has 16f of blockstun, while 236K has f of startup
+2372/j.H.BR/214K/j.H.BR has 16f of blockstun, while 214K has f of startup
+2373/j.H.BR/214H/j.H.BR has 16f of blockstun, while 214H has 14.0f of startup
+2374/j.H.BR/623H/j.H.BR has 16f of blockstun, while 623H has 11.0f of startup
+2375/j.H.BR/623HH/Nagoriyuki j.H.BR > 623HH: 623HH is a follow-up move that cannot be performed after j.H.BR.
+2376/j.H.BR/623P/j.H.BR has 16f of blockstun, while 623P has 7.0f of startup
+2377/j.H.BR/632146S/j.H.BR has 16f of blockstun, while 632146S has 9.0f of startup
+2378/j.H.BR/632146H/j.H.BR has 16f of blockstun, while 632146H has 21.0f of startup
+2379/j.D.1/5P/j.D.1 has 16f of blockstun, while 5P has 5.0f of startup
+2380/j.D.1/5K/j.D.1 has 16f of blockstun, while 5K has 7.0f of startup
+2381/j.D.1/c.S/j.D.1 has 16f of blockstun, while c.S has 7.0f of startup
+2382/j.D.1/f.S.1/j.D.1 has 16f of blockstun, while f.S.1 has 16.0f of startup
+2383/j.D.1/f.S.2/j.D.1 has 16f of blockstun, while f.S.2 has 14.0f of startup
+2384/j.D.1/f.S.3/j.D.1 has 16f of blockstun, while f.S.3 has 12.0f of startup
+2385/j.D.1/f.S.BR/j.D.1 has 16f of blockstun, while f.S.BR has 12.0f of startup
+2386/j.D.1/f.SS.1/Nagoriyuki j.D.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.D.1.
+2387/j.D.1/f.SS.2/Nagoriyuki j.D.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.D.1.
+2388/j.D.1/f.SS.3/Nagoriyuki j.D.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.D.1.
+2389/j.D.1/f.SS.BR/Nagoriyuki j.D.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.D.1.
+2390/j.D.1/f.SSS.1/Nagoriyuki j.D.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.D.1.
+2391/j.D.1/f.SSS.2/Nagoriyuki j.D.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.D.1.
+2392/j.D.1/f.SSS.3/Nagoriyuki j.D.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.D.1.
+2393/j.D.1/f.SSS.BR/Nagoriyuki j.D.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.D.1.
+2394/j.D.1/5H.1/j.D.1 has 16f of blockstun, while 5H.1 has 20.0f of startup
+2395/j.D.1/5H.2/j.D.1 has 16f of blockstun, while 5H.2 has 18.0f of startup
+2396/j.D.1/5H.3/j.D.1 has 16f of blockstun, while 5H.3 has 16.0f of startup
+2397/j.D.1/5H.BR/j.D.1 has 16f of blockstun, while 5H.BR has 16.0f of startup
+2398/j.D.1/2P/j.D.1 has 16f of blockstun, while 2P has 6.0f of startup
+2399/j.D.1/2K/j.D.1 has 16f of blockstun, while 2K has 7.0f of startup
+2400/j.D.1/2S.1/j.D.1 has 16f of blockstun, while 2S.1 has 12.0f of startup
+2401/j.D.1/2S.2/j.D.1 has 16f of blockstun, while 2S.2 has 11.0f of startup
+2402/j.D.1/2S.3/j.D.1 has 16f of blockstun, while 2S.3 has 10.0f of startup
+2403/j.D.1/2S.BR/j.D.1 has 16f of blockstun, while 2S.BR has 10.0f of startup
+2404/j.D.1/2H.1/j.D.1 has 16f of blockstun, while 2H.1 has 19.0f of startup
+2405/j.D.1/2H.2/j.D.1 has 16f of blockstun, while 2H.2 has 17.0f of startup
+2406/j.D.1/2H.3/j.D.1 has 16f of blockstun, while 2H.3 has 15.0f of startup
+2407/j.D.1/2H.BR/j.D.1 has 16f of blockstun, while 2H.BR has 15.0f of startup
+2408/j.D.1/j.P/j.D.1 has 16f of blockstun, while j.P has 7.0f of startup
+2409/j.D.1/j.K/j.D.1 has 16f of blockstun, while j.K has 7.0f of startup
+2410/j.D.1/j.S.1/j.D.1 has 16f of blockstun, while j.S.1 has 13.0f of startup
+2411/j.D.1/j.S.2/j.D.1 has 16f of blockstun, while j.S.2 has 12.0f of startup
+2412/j.D.1/j.S.3/j.D.1 has 16f of blockstun, while j.S.3 has 11.0f of startup
+2413/j.D.1/j.S.BR/j.D.1 has 16f of blockstun, while j.S.BR has 11.0f of startup
+2414/j.D.1/j.H.1/j.D.1 has 16f of blockstun, while j.H.1 has 16.0f of startup
+2415/j.D.1/j.H.2/j.D.1 has 16f of blockstun, while j.H.2 has 15.0f of startup
+2416/j.D.1/j.H.3/j.D.1 has 16f of blockstun, while j.H.3 has 14.0f of startup
+2417/j.D.1/j.H.BR/j.D.1 has 16f of blockstun, while j.H.BR has 14.0f of startup
+2418/j.D.1/j.D.1/j.D.1 has 16f of blockstun, while j.D.1 has 15.0f of startup
+2419/j.D.1/j.D.2/j.D.1 has 16f of blockstun, while j.D.2 has 13.0f of startup
+2420/j.D.1/j.D.3/j.D.1 has 16f of blockstun, while j.D.3 has 11.0f of startup
+2421/j.D.1/j.D.BR/j.D.1 has 16f of blockstun, while j.D.BR has 11.0f of startup
+2422/j.D.1/6P/j.D.1 has 16f of blockstun, while 6P has 12.0f of startup
+2423/j.D.1/6K/j.D.1 has 16f of blockstun, while 6K has 15.0f of startup
+2424/j.D.1/6H.1/j.D.1 has 16f of blockstun, while 6H.1 has 17.0f of startup
+2425/j.D.1/6H.2/j.D.1 has 16f of blockstun, while 6H.2 has 16.0f of startup
+2426/j.D.1/6H.3/j.D.1 has 16f of blockstun, while 6H.3 has 15.0f of startup
+2427/j.D.1/6H.BR/j.D.1 has 16f of blockstun, while 6H.BR has 15.0f of startup
+2428/j.D.1/2D/j.D.1 has 16f of blockstun, while 2D has 12.0f of startup
+2429/j.D.1/5D/j.D.1 has 16f of blockstun, while 5D has 20.0f of startup
+2430/j.D.1/5[D]/j.D.1 has 16f of blockstun, while 5[D] has 28.0f of startup
+2431/j.D.1/236S/j.D.1 has 16f of blockstun, while 236S has 18.0f of startup
+2432/j.D.1/236K/j.D.1 has 16f of blockstun, while 236K has f of startup
+2433/j.D.1/214K/j.D.1 has 16f of blockstun, while 214K has f of startup
+2434/j.D.1/214H/j.D.1 has 16f of blockstun, while 214H has 14.0f of startup
+2435/j.D.1/623H/j.D.1 has 16f of blockstun, while 623H has 11.0f of startup
+2436/j.D.1/623HH/Nagoriyuki j.D.1 > 623HH: 623HH is a follow-up move that cannot be performed after j.D.1.
+2437/j.D.1/623P/j.D.1 has 16f of blockstun, while 623P has 7.0f of startup
+2438/j.D.1/632146S/j.D.1 has 16f of blockstun, while 632146S has 9.0f of startup
+2439/j.D.1/632146H/j.D.1 has 16f of blockstun, while 632146H has 21.0f of startup
+2440/j.D.2/5P/j.D.2 has 16f of blockstun, while 5P has 5.0f of startup
+2441/j.D.2/5K/j.D.2 has 16f of blockstun, while 5K has 7.0f of startup
+2442/j.D.2/c.S/j.D.2 has 16f of blockstun, while c.S has 7.0f of startup
+2443/j.D.2/f.S.1/j.D.2 has 16f of blockstun, while f.S.1 has 16.0f of startup
+2444/j.D.2/f.S.2/j.D.2 has 16f of blockstun, while f.S.2 has 14.0f of startup
+2445/j.D.2/f.S.3/j.D.2 has 16f of blockstun, while f.S.3 has 12.0f of startup
+2446/j.D.2/f.S.BR/j.D.2 has 16f of blockstun, while f.S.BR has 12.0f of startup
+2447/j.D.2/f.SS.1/Nagoriyuki j.D.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.D.2.
+2448/j.D.2/f.SS.2/Nagoriyuki j.D.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.D.2.
+2449/j.D.2/f.SS.3/Nagoriyuki j.D.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.D.2.
+2450/j.D.2/f.SS.BR/Nagoriyuki j.D.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.D.2.
+2451/j.D.2/f.SSS.1/Nagoriyuki j.D.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.D.2.
+2452/j.D.2/f.SSS.2/Nagoriyuki j.D.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.D.2.
+2453/j.D.2/f.SSS.3/Nagoriyuki j.D.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.D.2.
+2454/j.D.2/f.SSS.BR/Nagoriyuki j.D.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.D.2.
+2455/j.D.2/5H.1/j.D.2 has 16f of blockstun, while 5H.1 has 20.0f of startup
+2456/j.D.2/5H.2/j.D.2 has 16f of blockstun, while 5H.2 has 18.0f of startup
+2457/j.D.2/5H.3/j.D.2 has 16f of blockstun, while 5H.3 has 16.0f of startup
+2458/j.D.2/5H.BR/j.D.2 has 16f of blockstun, while 5H.BR has 16.0f of startup
+2459/j.D.2/2P/j.D.2 has 16f of blockstun, while 2P has 6.0f of startup
+2460/j.D.2/2K/j.D.2 has 16f of blockstun, while 2K has 7.0f of startup
+2461/j.D.2/2S.1/j.D.2 has 16f of blockstun, while 2S.1 has 12.0f of startup
+2462/j.D.2/2S.2/j.D.2 has 16f of blockstun, while 2S.2 has 11.0f of startup
+2463/j.D.2/2S.3/j.D.2 has 16f of blockstun, while 2S.3 has 10.0f of startup
+2464/j.D.2/2S.BR/j.D.2 has 16f of blockstun, while 2S.BR has 10.0f of startup
+2465/j.D.2/2H.1/j.D.2 has 16f of blockstun, while 2H.1 has 19.0f of startup
+2466/j.D.2/2H.2/j.D.2 has 16f of blockstun, while 2H.2 has 17.0f of startup
+2467/j.D.2/2H.3/j.D.2 has 16f of blockstun, while 2H.3 has 15.0f of startup
+2468/j.D.2/2H.BR/j.D.2 has 16f of blockstun, while 2H.BR has 15.0f of startup
+2469/j.D.2/j.P/j.D.2 has 16f of blockstun, while j.P has 7.0f of startup
+2470/j.D.2/j.K/j.D.2 has 16f of blockstun, while j.K has 7.0f of startup
+2471/j.D.2/j.S.1/j.D.2 has 16f of blockstun, while j.S.1 has 13.0f of startup
+2472/j.D.2/j.S.2/j.D.2 has 16f of blockstun, while j.S.2 has 12.0f of startup
+2473/j.D.2/j.S.3/j.D.2 has 16f of blockstun, while j.S.3 has 11.0f of startup
+2474/j.D.2/j.S.BR/j.D.2 has 16f of blockstun, while j.S.BR has 11.0f of startup
+2475/j.D.2/j.H.1/j.D.2 has 16f of blockstun, while j.H.1 has 16.0f of startup
+2476/j.D.2/j.H.2/j.D.2 has 16f of blockstun, while j.H.2 has 15.0f of startup
+2477/j.D.2/j.H.3/j.D.2 has 16f of blockstun, while j.H.3 has 14.0f of startup
+2478/j.D.2/j.H.BR/j.D.2 has 16f of blockstun, while j.H.BR has 14.0f of startup
+2479/j.D.2/j.D.1/j.D.2 has 16f of blockstun, while j.D.1 has 15.0f of startup
+2480/j.D.2/j.D.2/j.D.2 has 16f of blockstun, while j.D.2 has 13.0f of startup
+2481/j.D.2/j.D.3/j.D.2 has 16f of blockstun, while j.D.3 has 11.0f of startup
+2482/j.D.2/j.D.BR/j.D.2 has 16f of blockstun, while j.D.BR has 11.0f of startup
+2483/j.D.2/6P/j.D.2 has 16f of blockstun, while 6P has 12.0f of startup
+2484/j.D.2/6K/j.D.2 has 16f of blockstun, while 6K has 15.0f of startup
+2485/j.D.2/6H.1/j.D.2 has 16f of blockstun, while 6H.1 has 17.0f of startup
+2486/j.D.2/6H.2/j.D.2 has 16f of blockstun, while 6H.2 has 16.0f of startup
+2487/j.D.2/6H.3/j.D.2 has 16f of blockstun, while 6H.3 has 15.0f of startup
+2488/j.D.2/6H.BR/j.D.2 has 16f of blockstun, while 6H.BR has 15.0f of startup
+2489/j.D.2/2D/j.D.2 has 16f of blockstun, while 2D has 12.0f of startup
+2490/j.D.2/5D/j.D.2 has 16f of blockstun, while 5D has 20.0f of startup
+2491/j.D.2/5[D]/j.D.2 has 16f of blockstun, while 5[D] has 28.0f of startup
+2492/j.D.2/236S/j.D.2 has 16f of blockstun, while 236S has 18.0f of startup
+2493/j.D.2/236K/j.D.2 has 16f of blockstun, while 236K has f of startup
+2494/j.D.2/214K/j.D.2 has 16f of blockstun, while 214K has f of startup
+2495/j.D.2/214H/j.D.2 has 16f of blockstun, while 214H has 14.0f of startup
+2496/j.D.2/623H/j.D.2 has 16f of blockstun, while 623H has 11.0f of startup
+2497/j.D.2/623HH/Nagoriyuki j.D.2 > 623HH: 623HH is a follow-up move that cannot be performed after j.D.2.
+2498/j.D.2/623P/j.D.2 has 16f of blockstun, while 623P has 7.0f of startup
+2499/j.D.2/632146S/j.D.2 has 16f of blockstun, while 632146S has 9.0f of startup
+2500/j.D.2/632146H/j.D.2 has 16f of blockstun, while 632146H has 21.0f of startup
+2501/j.D.3/5P/j.D.3 has 16f of blockstun, while 5P has 5.0f of startup
+2502/j.D.3/5K/j.D.3 has 16f of blockstun, while 5K has 7.0f of startup
+2503/j.D.3/c.S/j.D.3 has 16f of blockstun, while c.S has 7.0f of startup
+2504/j.D.3/f.S.1/j.D.3 has 16f of blockstun, while f.S.1 has 16.0f of startup
+2505/j.D.3/f.S.2/j.D.3 has 16f of blockstun, while f.S.2 has 14.0f of startup
+2506/j.D.3/f.S.3/j.D.3 has 16f of blockstun, while f.S.3 has 12.0f of startup
+2507/j.D.3/f.S.BR/j.D.3 has 16f of blockstun, while f.S.BR has 12.0f of startup
+2508/j.D.3/f.SS.1/Nagoriyuki j.D.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.D.3.
+2509/j.D.3/f.SS.2/Nagoriyuki j.D.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.D.3.
+2510/j.D.3/f.SS.3/Nagoriyuki j.D.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.D.3.
+2511/j.D.3/f.SS.BR/Nagoriyuki j.D.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.D.3.
+2512/j.D.3/f.SSS.1/Nagoriyuki j.D.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.D.3.
+2513/j.D.3/f.SSS.2/Nagoriyuki j.D.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.D.3.
+2514/j.D.3/f.SSS.3/Nagoriyuki j.D.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.D.3.
+2515/j.D.3/f.SSS.BR/Nagoriyuki j.D.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.D.3.
+2516/j.D.3/5H.1/j.D.3 has 16f of blockstun, while 5H.1 has 20.0f of startup
+2517/j.D.3/5H.2/j.D.3 has 16f of blockstun, while 5H.2 has 18.0f of startup
+2518/j.D.3/5H.3/j.D.3 has 16f of blockstun, while 5H.3 has 16.0f of startup
+2519/j.D.3/5H.BR/j.D.3 has 16f of blockstun, while 5H.BR has 16.0f of startup
+2520/j.D.3/2P/j.D.3 has 16f of blockstun, while 2P has 6.0f of startup
+2521/j.D.3/2K/j.D.3 has 16f of blockstun, while 2K has 7.0f of startup
+2522/j.D.3/2S.1/j.D.3 has 16f of blockstun, while 2S.1 has 12.0f of startup
+2523/j.D.3/2S.2/j.D.3 has 16f of blockstun, while 2S.2 has 11.0f of startup
+2524/j.D.3/2S.3/j.D.3 has 16f of blockstun, while 2S.3 has 10.0f of startup
+2525/j.D.3/2S.BR/j.D.3 has 16f of blockstun, while 2S.BR has 10.0f of startup
+2526/j.D.3/2H.1/j.D.3 has 16f of blockstun, while 2H.1 has 19.0f of startup
+2527/j.D.3/2H.2/j.D.3 has 16f of blockstun, while 2H.2 has 17.0f of startup
+2528/j.D.3/2H.3/j.D.3 has 16f of blockstun, while 2H.3 has 15.0f of startup
+2529/j.D.3/2H.BR/j.D.3 has 16f of blockstun, while 2H.BR has 15.0f of startup
+2530/j.D.3/j.P/j.D.3 has 16f of blockstun, while j.P has 7.0f of startup
+2531/j.D.3/j.K/j.D.3 has 16f of blockstun, while j.K has 7.0f of startup
+2532/j.D.3/j.S.1/j.D.3 has 16f of blockstun, while j.S.1 has 13.0f of startup
+2533/j.D.3/j.S.2/j.D.3 has 16f of blockstun, while j.S.2 has 12.0f of startup
+2534/j.D.3/j.S.3/j.D.3 has 16f of blockstun, while j.S.3 has 11.0f of startup
+2535/j.D.3/j.S.BR/j.D.3 has 16f of blockstun, while j.S.BR has 11.0f of startup
+2536/j.D.3/j.H.1/j.D.3 has 16f of blockstun, while j.H.1 has 16.0f of startup
+2537/j.D.3/j.H.2/j.D.3 has 16f of blockstun, while j.H.2 has 15.0f of startup
+2538/j.D.3/j.H.3/j.D.3 has 16f of blockstun, while j.H.3 has 14.0f of startup
+2539/j.D.3/j.H.BR/j.D.3 has 16f of blockstun, while j.H.BR has 14.0f of startup
+2540/j.D.3/j.D.1/j.D.3 has 16f of blockstun, while j.D.1 has 15.0f of startup
+2541/j.D.3/j.D.2/j.D.3 has 16f of blockstun, while j.D.2 has 13.0f of startup
+2542/j.D.3/j.D.3/j.D.3 has 16f of blockstun, while j.D.3 has 11.0f of startup
+2543/j.D.3/j.D.BR/j.D.3 has 16f of blockstun, while j.D.BR has 11.0f of startup
+2544/j.D.3/6P/j.D.3 has 16f of blockstun, while 6P has 12.0f of startup
+2545/j.D.3/6K/j.D.3 has 16f of blockstun, while 6K has 15.0f of startup
+2546/j.D.3/6H.1/j.D.3 has 16f of blockstun, while 6H.1 has 17.0f of startup
+2547/j.D.3/6H.2/j.D.3 has 16f of blockstun, while 6H.2 has 16.0f of startup
+2548/j.D.3/6H.3/j.D.3 has 16f of blockstun, while 6H.3 has 15.0f of startup
+2549/j.D.3/6H.BR/j.D.3 has 16f of blockstun, while 6H.BR has 15.0f of startup
+2550/j.D.3/2D/j.D.3 has 16f of blockstun, while 2D has 12.0f of startup
+2551/j.D.3/5D/j.D.3 has 16f of blockstun, while 5D has 20.0f of startup
+2552/j.D.3/5[D]/j.D.3 has 16f of blockstun, while 5[D] has 28.0f of startup
+2553/j.D.3/236S/j.D.3 has 16f of blockstun, while 236S has 18.0f of startup
+2554/j.D.3/236K/j.D.3 has 16f of blockstun, while 236K has f of startup
+2555/j.D.3/214K/j.D.3 has 16f of blockstun, while 214K has f of startup
+2556/j.D.3/214H/j.D.3 has 16f of blockstun, while 214H has 14.0f of startup
+2557/j.D.3/623H/j.D.3 has 16f of blockstun, while 623H has 11.0f of startup
+2558/j.D.3/623HH/Nagoriyuki j.D.3 > 623HH: 623HH is a follow-up move that cannot be performed after j.D.3.
+2559/j.D.3/623P/j.D.3 has 16f of blockstun, while 623P has 7.0f of startup
+2560/j.D.3/632146S/j.D.3 has 16f of blockstun, while 632146S has 9.0f of startup
+2561/j.D.3/632146H/j.D.3 has 16f of blockstun, while 632146H has 21.0f of startup
+2562/j.D.BR/5P/j.D.BR has 16f of blockstun, while 5P has 5.0f of startup
+2563/j.D.BR/5K/j.D.BR has 16f of blockstun, while 5K has 7.0f of startup
+2564/j.D.BR/c.S/j.D.BR has 16f of blockstun, while c.S has 7.0f of startup
+2565/j.D.BR/f.S.1/j.D.BR has 16f of blockstun, while f.S.1 has 16.0f of startup
+2566/j.D.BR/f.S.2/j.D.BR has 16f of blockstun, while f.S.2 has 14.0f of startup
+2567/j.D.BR/f.S.3/j.D.BR has 16f of blockstun, while f.S.3 has 12.0f of startup
+2568/j.D.BR/f.S.BR/j.D.BR has 16f of blockstun, while f.S.BR has 12.0f of startup
+2569/j.D.BR/f.SS.1/Nagoriyuki j.D.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after j.D.BR.
+2570/j.D.BR/f.SS.2/Nagoriyuki j.D.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after j.D.BR.
+2571/j.D.BR/f.SS.3/Nagoriyuki j.D.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after j.D.BR.
+2572/j.D.BR/f.SS.BR/Nagoriyuki j.D.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after j.D.BR.
+2573/j.D.BR/f.SSS.1/Nagoriyuki j.D.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after j.D.BR.
+2574/j.D.BR/f.SSS.2/Nagoriyuki j.D.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after j.D.BR.
+2575/j.D.BR/f.SSS.3/Nagoriyuki j.D.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after j.D.BR.
+2576/j.D.BR/f.SSS.BR/Nagoriyuki j.D.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after j.D.BR.
+2577/j.D.BR/5H.1/j.D.BR has 16f of blockstun, while 5H.1 has 20.0f of startup
+2578/j.D.BR/5H.2/j.D.BR has 16f of blockstun, while 5H.2 has 18.0f of startup
+2579/j.D.BR/5H.3/j.D.BR has 16f of blockstun, while 5H.3 has 16.0f of startup
+2580/j.D.BR/5H.BR/j.D.BR has 16f of blockstun, while 5H.BR has 16.0f of startup
+2581/j.D.BR/2P/j.D.BR has 16f of blockstun, while 2P has 6.0f of startup
+2582/j.D.BR/2K/j.D.BR has 16f of blockstun, while 2K has 7.0f of startup
+2583/j.D.BR/2S.1/j.D.BR has 16f of blockstun, while 2S.1 has 12.0f of startup
+2584/j.D.BR/2S.2/j.D.BR has 16f of blockstun, while 2S.2 has 11.0f of startup
+2585/j.D.BR/2S.3/j.D.BR has 16f of blockstun, while 2S.3 has 10.0f of startup
+2586/j.D.BR/2S.BR/j.D.BR has 16f of blockstun, while 2S.BR has 10.0f of startup
+2587/j.D.BR/2H.1/j.D.BR has 16f of blockstun, while 2H.1 has 19.0f of startup
+2588/j.D.BR/2H.2/j.D.BR has 16f of blockstun, while 2H.2 has 17.0f of startup
+2589/j.D.BR/2H.3/j.D.BR has 16f of blockstun, while 2H.3 has 15.0f of startup
+2590/j.D.BR/2H.BR/j.D.BR has 16f of blockstun, while 2H.BR has 15.0f of startup
+2591/j.D.BR/j.P/j.D.BR has 16f of blockstun, while j.P has 7.0f of startup
+2592/j.D.BR/j.K/j.D.BR has 16f of blockstun, while j.K has 7.0f of startup
+2593/j.D.BR/j.S.1/j.D.BR has 16f of blockstun, while j.S.1 has 13.0f of startup
+2594/j.D.BR/j.S.2/j.D.BR has 16f of blockstun, while j.S.2 has 12.0f of startup
+2595/j.D.BR/j.S.3/j.D.BR has 16f of blockstun, while j.S.3 has 11.0f of startup
+2596/j.D.BR/j.S.BR/j.D.BR has 16f of blockstun, while j.S.BR has 11.0f of startup
+2597/j.D.BR/j.H.1/j.D.BR has 16f of blockstun, while j.H.1 has 16.0f of startup
+2598/j.D.BR/j.H.2/j.D.BR has 16f of blockstun, while j.H.2 has 15.0f of startup
+2599/j.D.BR/j.H.3/j.D.BR has 16f of blockstun, while j.H.3 has 14.0f of startup
+2600/j.D.BR/j.H.BR/j.D.BR has 16f of blockstun, while j.H.BR has 14.0f of startup
+2601/j.D.BR/j.D.1/j.D.BR has 16f of blockstun, while j.D.1 has 15.0f of startup
+2602/j.D.BR/j.D.2/j.D.BR has 16f of blockstun, while j.D.2 has 13.0f of startup
+2603/j.D.BR/j.D.3/j.D.BR has 16f of blockstun, while j.D.3 has 11.0f of startup
+2604/j.D.BR/j.D.BR/j.D.BR has 16f of blockstun, while j.D.BR has 11.0f of startup
+2605/j.D.BR/6P/j.D.BR has 16f of blockstun, while 6P has 12.0f of startup
+2606/j.D.BR/6K/j.D.BR has 16f of blockstun, while 6K has 15.0f of startup
+2607/j.D.BR/6H.1/j.D.BR has 16f of blockstun, while 6H.1 has 17.0f of startup
+2608/j.D.BR/6H.2/j.D.BR has 16f of blockstun, while 6H.2 has 16.0f of startup
+2609/j.D.BR/6H.3/j.D.BR has 16f of blockstun, while 6H.3 has 15.0f of startup
+2610/j.D.BR/6H.BR/j.D.BR has 16f of blockstun, while 6H.BR has 15.0f of startup
+2611/j.D.BR/2D/j.D.BR has 16f of blockstun, while 2D has 12.0f of startup
+2612/j.D.BR/5D/j.D.BR has 16f of blockstun, while 5D has 20.0f of startup
+2613/j.D.BR/5[D]/j.D.BR has 16f of blockstun, while 5[D] has 28.0f of startup
+2614/j.D.BR/236S/j.D.BR has 16f of blockstun, while 236S has 18.0f of startup
+2615/j.D.BR/236K/j.D.BR has 16f of blockstun, while 236K has f of startup
+2616/j.D.BR/214K/j.D.BR has 16f of blockstun, while 214K has f of startup
+2617/j.D.BR/214H/j.D.BR has 16f of blockstun, while 214H has 14.0f of startup
+2618/j.D.BR/623H/j.D.BR has 16f of blockstun, while 623H has 11.0f of startup
+2619/j.D.BR/623HH/Nagoriyuki j.D.BR > 623HH: 623HH is a follow-up move that cannot be performed after j.D.BR.
+2620/j.D.BR/623P/j.D.BR has 16f of blockstun, while 623P has 7.0f of startup
+2621/j.D.BR/632146S/j.D.BR has 16f of blockstun, while 632146S has 9.0f of startup
+2622/j.D.BR/632146H/j.D.BR has 16f of blockstun, while 632146H has 21.0f of startup
+2623/6P/5P/11f gap
+2624/6P/5K/13f gap
+2625/6P/c.S/13f gap
+2626/6P/f.S.1/22f gap
+2627/6P/f.S.2/20f gap
+2628/6P/f.S.3/18f gap
+2629/6P/f.S.BR/18f gap
+2630/6P/f.SS.1/Nagoriyuki 6P > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 6P.
+2631/6P/f.SS.2/Nagoriyuki 6P > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 6P.
+2632/6P/f.SS.3/Nagoriyuki 6P > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 6P.
+2633/6P/f.SS.BR/Nagoriyuki 6P > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 6P.
+2634/6P/f.SSS.1/Nagoriyuki 6P > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 6P.
+2635/6P/f.SSS.2/Nagoriyuki 6P > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 6P.
+2636/6P/f.SSS.3/Nagoriyuki 6P > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 6P.
+2637/6P/f.SSS.BR/Nagoriyuki 6P > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 6P.
+2638/6P/5H.1/26f gap
+2639/6P/5H.2/24f gap
+2640/6P/5H.3/22f gap
+2641/6P/5H.BR/22f gap
+2642/6P/2P/12f gap
+2643/6P/2K/13f gap
+2644/6P/2S.1/18f gap
+2645/6P/2S.2/17f gap
+2646/6P/2S.3/16f gap
+2647/6P/2S.BR/16f gap
+2648/6P/2H.1/25f gap
+2649/6P/2H.2/23f gap
+2650/6P/2H.3/21f gap
+2651/6P/2H.BR/21f gap
+2652/6P/j.P/18f gap
+2653/6P/j.K/18f gap
+2654/6P/j.S.1/24f gap
+2655/6P/j.S.2/23f gap
+2656/6P/j.S.3/22f gap
+2657/6P/j.S.BR/22f gap
+2658/6P/j.H.1/27f gap
+2659/6P/j.H.2/26f gap
+2660/6P/j.H.3/25f gap
+2661/6P/j.H.BR/25f gap
+2662/6P/j.D.1/26f gap
+2663/6P/j.D.2/24f gap
+2664/6P/j.D.3/22f gap
+2665/6P/j.D.BR/22f gap
+2666/6P/6P/18f gap
+2667/6P/6K/21f gap
+2668/6P/6H.1/23f gap
+2669/6P/6H.2/22f gap
+2670/6P/6H.3/21f gap
+2671/6P/6H.BR/21f gap
+2672/6P/2D/18f gap
+2673/6P/5D/26f gap
+2674/6P/5[D]/34f gap
+2675/6P/236S/5f gap
+2676/6P/236K/"N/A"
+2677/6P/214K/"N/A"
+2678/6P/214H/1f gap
+2679/6P/623H/-2f gap
+2680/6P/623HH/Nagoriyuki 6P > 623HH: 623HH is a follow-up move that cannot be performed after 6P.
+2681/6P/623P/-6f gap
+2682/6P/632146S/-4f gap
+2683/6P/632146H/27f gap
+2684/6K/5P/9f gap
+2685/6K/5K/11f gap
+2686/6K/c.S/11f gap
+2687/6K/f.S.1/20f gap
+2688/6K/f.S.2/18f gap
+2689/6K/f.S.3/16f gap
+2690/6K/f.S.BR/16f gap
+2691/6K/f.SS.1/Nagoriyuki 6K > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 6K.
+2692/6K/f.SS.2/Nagoriyuki 6K > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 6K.
+2693/6K/f.SS.3/Nagoriyuki 6K > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 6K.
+2694/6K/f.SS.BR/Nagoriyuki 6K > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 6K.
+2695/6K/f.SSS.1/Nagoriyuki 6K > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 6K.
+2696/6K/f.SSS.2/Nagoriyuki 6K > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 6K.
+2697/6K/f.SSS.3/Nagoriyuki 6K > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 6K.
+2698/6K/f.SSS.BR/Nagoriyuki 6K > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 6K.
+2699/6K/5H.1/24f gap
+2700/6K/5H.2/22f gap
+2701/6K/5H.3/20f gap
+2702/6K/5H.BR/20f gap
+2703/6K/2P/10f gap
+2704/6K/2K/11f gap
+2705/6K/2S.1/16f gap
+2706/6K/2S.2/15f gap
+2707/6K/2S.3/14f gap
+2708/6K/2S.BR/14f gap
+2709/6K/2H.1/23f gap
+2710/6K/2H.2/21f gap
+2711/6K/2H.3/19f gap
+2712/6K/2H.BR/19f gap
+2713/6K/j.P/16f gap
+2714/6K/j.K/16f gap
+2715/6K/j.S.1/22f gap
+2716/6K/j.S.2/21f gap
+2717/6K/j.S.3/20f gap
+2718/6K/j.S.BR/20f gap
+2719/6K/j.H.1/25f gap
+2720/6K/j.H.2/24f gap
+2721/6K/j.H.3/23f gap
+2722/6K/j.H.BR/23f gap
+2723/6K/j.D.1/24f gap
+2724/6K/j.D.2/22f gap
+2725/6K/j.D.3/20f gap
+2726/6K/j.D.BR/20f gap
+2727/6K/6P/16f gap
+2728/6K/6K/19f gap
+2729/6K/6H.1/21f gap
+2730/6K/6H.2/20f gap
+2731/6K/6H.3/19f gap
+2732/6K/6H.BR/19f gap
+2733/6K/2D/16f gap
+2734/6K/5D/24f gap
+2735/6K/5[D]/32f gap
+2736/6K/236S/5f gap
+2737/6K/236K/"N/A"
+2738/6K/214K/"N/A"
+2739/6K/214H/1f gap
+2740/6K/623H/-2f gap
+2741/6K/623HH/Nagoriyuki 6K > 623HH: 623HH is a follow-up move that cannot be performed after 6K.
+2742/6K/623P/-6f gap
+2743/6K/632146S/-4f gap
+2744/6K/632146H/25f gap
+2745/6H.1/5P/22f gap
+2746/6H.1/5K/24f gap
+2747/6H.1/c.S/24f gap
+2748/6H.1/f.S.1/33f gap
+2749/6H.1/f.S.2/31f gap
+2750/6H.1/f.S.3/29f gap
+2751/6H.1/f.S.BR/29f gap
+2752/6H.1/f.SS.1/Nagoriyuki 6H.1 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 6H.1.
+2753/6H.1/f.SS.2/Nagoriyuki 6H.1 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 6H.1.
+2754/6H.1/f.SS.3/Nagoriyuki 6H.1 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 6H.1.
+2755/6H.1/f.SS.BR/Nagoriyuki 6H.1 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 6H.1.
+2756/6H.1/f.SSS.1/Nagoriyuki 6H.1 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 6H.1.
+2757/6H.1/f.SSS.2/Nagoriyuki 6H.1 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 6H.1.
+2758/6H.1/f.SSS.3/Nagoriyuki 6H.1 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 6H.1.
+2759/6H.1/f.SSS.BR/Nagoriyuki 6H.1 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 6H.1.
+2760/6H.1/5H.1/37f gap
+2761/6H.1/5H.2/35f gap
+2762/6H.1/5H.3/33f gap
+2763/6H.1/5H.BR/33f gap
+2764/6H.1/2P/23f gap
+2765/6H.1/2K/24f gap
+2766/6H.1/2S.1/29f gap
+2767/6H.1/2S.2/28f gap
+2768/6H.1/2S.3/27f gap
+2769/6H.1/2S.BR/27f gap
+2770/6H.1/2H.1/36f gap
+2771/6H.1/2H.2/34f gap
+2772/6H.1/2H.3/32f gap
+2773/6H.1/2H.BR/32f gap
+2774/6H.1/j.P/29f gap
+2775/6H.1/j.K/29f gap
+2776/6H.1/j.S.1/35f gap
+2777/6H.1/j.S.2/34f gap
+2778/6H.1/j.S.3/33f gap
+2779/6H.1/j.S.BR/33f gap
+2780/6H.1/j.H.1/38f gap
+2781/6H.1/j.H.2/37f gap
+2782/6H.1/j.H.3/36f gap
+2783/6H.1/j.H.BR/36f gap
+2784/6H.1/j.D.1/37f gap
+2785/6H.1/j.D.2/35f gap
+2786/6H.1/j.D.3/33f gap
+2787/6H.1/j.D.BR/33f gap
+2788/6H.1/6P/29f gap
+2789/6H.1/6K/32f gap
+2790/6H.1/6H.1/34f gap
+2791/6H.1/6H.2/33f gap
+2792/6H.1/6H.3/32f gap
+2793/6H.1/6H.BR/32f gap
+2794/6H.1/2D/29f gap
+2795/6H.1/5D/37f gap
+2796/6H.1/5[D]/45f gap
+2797/6H.1/236S/0f gap
+2798/6H.1/236K/"N/A"
+2799/6H.1/214K/"N/A"
+2800/6H.1/214H/-4f gap
+2801/6H.1/623H/-7f gap
+2802/6H.1/623HH/Nagoriyuki 6H.1 > 623HH: 623HH is a follow-up move that cannot be performed after 6H.1.
+2803/6H.1/623P/-11f gap
+2804/6H.1/632146S/-9f gap
+2805/6H.1/632146H/38f gap
+2806/6H.2/5P/22f gap
+2807/6H.2/5K/24f gap
+2808/6H.2/c.S/24f gap
+2809/6H.2/f.S.1/33f gap
+2810/6H.2/f.S.2/31f gap
+2811/6H.2/f.S.3/29f gap
+2812/6H.2/f.S.BR/29f gap
+2813/6H.2/f.SS.1/Nagoriyuki 6H.2 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 6H.2.
+2814/6H.2/f.SS.2/Nagoriyuki 6H.2 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 6H.2.
+2815/6H.2/f.SS.3/Nagoriyuki 6H.2 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 6H.2.
+2816/6H.2/f.SS.BR/Nagoriyuki 6H.2 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 6H.2.
+2817/6H.2/f.SSS.1/Nagoriyuki 6H.2 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 6H.2.
+2818/6H.2/f.SSS.2/Nagoriyuki 6H.2 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 6H.2.
+2819/6H.2/f.SSS.3/Nagoriyuki 6H.2 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 6H.2.
+2820/6H.2/f.SSS.BR/Nagoriyuki 6H.2 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 6H.2.
+2821/6H.2/5H.1/37f gap
+2822/6H.2/5H.2/35f gap
+2823/6H.2/5H.3/33f gap
+2824/6H.2/5H.BR/33f gap
+2825/6H.2/2P/23f gap
+2826/6H.2/2K/24f gap
+2827/6H.2/2S.1/29f gap
+2828/6H.2/2S.2/28f gap
+2829/6H.2/2S.3/27f gap
+2830/6H.2/2S.BR/27f gap
+2831/6H.2/2H.1/36f gap
+2832/6H.2/2H.2/34f gap
+2833/6H.2/2H.3/32f gap
+2834/6H.2/2H.BR/32f gap
+2835/6H.2/j.P/29f gap
+2836/6H.2/j.K/29f gap
+2837/6H.2/j.S.1/35f gap
+2838/6H.2/j.S.2/34f gap
+2839/6H.2/j.S.3/33f gap
+2840/6H.2/j.S.BR/33f gap
+2841/6H.2/j.H.1/38f gap
+2842/6H.2/j.H.2/37f gap
+2843/6H.2/j.H.3/36f gap
+2844/6H.2/j.H.BR/36f gap
+2845/6H.2/j.D.1/37f gap
+2846/6H.2/j.D.2/35f gap
+2847/6H.2/j.D.3/33f gap
+2848/6H.2/j.D.BR/33f gap
+2849/6H.2/6P/29f gap
+2850/6H.2/6K/32f gap
+2851/6H.2/6H.1/34f gap
+2852/6H.2/6H.2/33f gap
+2853/6H.2/6H.3/32f gap
+2854/6H.2/6H.BR/32f gap
+2855/6H.2/2D/29f gap
+2856/6H.2/5D/37f gap
+2857/6H.2/5[D]/45f gap
+2858/6H.2/236S/0f gap
+2859/6H.2/236K/"N/A"
+2860/6H.2/214K/"N/A"
+2861/6H.2/214H/-4f gap
+2862/6H.2/623H/-7f gap
+2863/6H.2/623HH/Nagoriyuki 6H.2 > 623HH: 623HH is a follow-up move that cannot be performed after 6H.2.
+2864/6H.2/623P/-11f gap
+2865/6H.2/632146S/-9f gap
+2866/6H.2/632146H/38f gap
+2867/6H.3/5P/22f gap
+2868/6H.3/5K/24f gap
+2869/6H.3/c.S/24f gap
+2870/6H.3/f.S.1/33f gap
+2871/6H.3/f.S.2/31f gap
+2872/6H.3/f.S.3/29f gap
+2873/6H.3/f.S.BR/29f gap
+2874/6H.3/f.SS.1/Nagoriyuki 6H.3 > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 6H.3.
+2875/6H.3/f.SS.2/Nagoriyuki 6H.3 > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 6H.3.
+2876/6H.3/f.SS.3/Nagoriyuki 6H.3 > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 6H.3.
+2877/6H.3/f.SS.BR/Nagoriyuki 6H.3 > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 6H.3.
+2878/6H.3/f.SSS.1/Nagoriyuki 6H.3 > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 6H.3.
+2879/6H.3/f.SSS.2/Nagoriyuki 6H.3 > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 6H.3.
+2880/6H.3/f.SSS.3/Nagoriyuki 6H.3 > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 6H.3.
+2881/6H.3/f.SSS.BR/Nagoriyuki 6H.3 > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 6H.3.
+2882/6H.3/5H.1/37f gap
+2883/6H.3/5H.2/35f gap
+2884/6H.3/5H.3/33f gap
+2885/6H.3/5H.BR/33f gap
+2886/6H.3/2P/23f gap
+2887/6H.3/2K/24f gap
+2888/6H.3/2S.1/29f gap
+2889/6H.3/2S.2/28f gap
+2890/6H.3/2S.3/27f gap
+2891/6H.3/2S.BR/27f gap
+2892/6H.3/2H.1/36f gap
+2893/6H.3/2H.2/34f gap
+2894/6H.3/2H.3/32f gap
+2895/6H.3/2H.BR/32f gap
+2896/6H.3/j.P/29f gap
+2897/6H.3/j.K/29f gap
+2898/6H.3/j.S.1/35f gap
+2899/6H.3/j.S.2/34f gap
+2900/6H.3/j.S.3/33f gap
+2901/6H.3/j.S.BR/33f gap
+2902/6H.3/j.H.1/38f gap
+2903/6H.3/j.H.2/37f gap
+2904/6H.3/j.H.3/36f gap
+2905/6H.3/j.H.BR/36f gap
+2906/6H.3/j.D.1/37f gap
+2907/6H.3/j.D.2/35f gap
+2908/6H.3/j.D.3/33f gap
+2909/6H.3/j.D.BR/33f gap
+2910/6H.3/6P/29f gap
+2911/6H.3/6K/32f gap
+2912/6H.3/6H.1/34f gap
+2913/6H.3/6H.2/33f gap
+2914/6H.3/6H.3/32f gap
+2915/6H.3/6H.BR/32f gap
+2916/6H.3/2D/29f gap
+2917/6H.3/5D/37f gap
+2918/6H.3/5[D]/45f gap
+2919/6H.3/236S/0f gap
+2920/6H.3/236K/"N/A"
+2921/6H.3/214K/"N/A"
+2922/6H.3/214H/-4f gap
+2923/6H.3/623H/-7f gap
+2924/6H.3/623HH/Nagoriyuki 6H.3 > 623HH: 623HH is a follow-up move that cannot be performed after 6H.3.
+2925/6H.3/623P/-11f gap
+2926/6H.3/632146S/-9f gap
+2927/6H.3/632146H/38f gap
+2928/6H.BR/5P/22f gap
+2929/6H.BR/5K/24f gap
+2930/6H.BR/c.S/24f gap
+2931/6H.BR/f.S.1/33f gap
+2932/6H.BR/f.S.2/31f gap
+2933/6H.BR/f.S.3/29f gap
+2934/6H.BR/f.S.BR/29f gap
+2935/6H.BR/f.SS.1/Nagoriyuki 6H.BR > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 6H.BR.
+2936/6H.BR/f.SS.2/Nagoriyuki 6H.BR > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 6H.BR.
+2937/6H.BR/f.SS.3/Nagoriyuki 6H.BR > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 6H.BR.
+2938/6H.BR/f.SS.BR/Nagoriyuki 6H.BR > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 6H.BR.
+2939/6H.BR/f.SSS.1/Nagoriyuki 6H.BR > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 6H.BR.
+2940/6H.BR/f.SSS.2/Nagoriyuki 6H.BR > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 6H.BR.
+2941/6H.BR/f.SSS.3/Nagoriyuki 6H.BR > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 6H.BR.
+2942/6H.BR/f.SSS.BR/Nagoriyuki 6H.BR > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 6H.BR.
+2943/6H.BR/5H.1/37f gap
+2944/6H.BR/5H.2/35f gap
+2945/6H.BR/5H.3/33f gap
+2946/6H.BR/5H.BR/33f gap
+2947/6H.BR/2P/23f gap
+2948/6H.BR/2K/24f gap
+2949/6H.BR/2S.1/29f gap
+2950/6H.BR/2S.2/28f gap
+2951/6H.BR/2S.3/27f gap
+2952/6H.BR/2S.BR/27f gap
+2953/6H.BR/2H.1/36f gap
+2954/6H.BR/2H.2/34f gap
+2955/6H.BR/2H.3/32f gap
+2956/6H.BR/2H.BR/32f gap
+2957/6H.BR/j.P/29f gap
+2958/6H.BR/j.K/29f gap
+2959/6H.BR/j.S.1/35f gap
+2960/6H.BR/j.S.2/34f gap
+2961/6H.BR/j.S.3/33f gap
+2962/6H.BR/j.S.BR/33f gap
+2963/6H.BR/j.H.1/38f gap
+2964/6H.BR/j.H.2/37f gap
+2965/6H.BR/j.H.3/36f gap
+2966/6H.BR/j.H.BR/36f gap
+2967/6H.BR/j.D.1/37f gap
+2968/6H.BR/j.D.2/35f gap
+2969/6H.BR/j.D.3/33f gap
+2970/6H.BR/j.D.BR/33f gap
+2971/6H.BR/6P/29f gap
+2972/6H.BR/6K/32f gap
+2973/6H.BR/6H.1/34f gap
+2974/6H.BR/6H.2/33f gap
+2975/6H.BR/6H.3/32f gap
+2976/6H.BR/6H.BR/32f gap
+2977/6H.BR/2D/29f gap
+2978/6H.BR/5D/37f gap
+2979/6H.BR/5[D]/45f gap
+2980/6H.BR/236S/0f gap
+2981/6H.BR/236K/"N/A"
+2982/6H.BR/214K/"N/A"
+2983/6H.BR/214H/-4f gap
+2984/6H.BR/623H/-7f gap
+2985/6H.BR/623HH/Nagoriyuki 6H.BR > 623HH: 623HH is a follow-up move that cannot be performed after 6H.BR.
+2986/6H.BR/623P/-11f gap
+2987/6H.BR/632146S/-9f gap
+2988/6H.BR/632146H/38f gap
+2989/2D/5P/12f gap
+2990/2D/5K/14f gap
+2991/2D/c.S/14f gap
+2992/2D/f.S.1/23f gap
+2993/2D/f.S.2/21f gap
+2994/2D/f.S.3/19f gap
+2995/2D/f.S.BR/19f gap
+2996/2D/f.SS.1/Nagoriyuki 2D > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 2D.
+2997/2D/f.SS.2/Nagoriyuki 2D > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 2D.
+2998/2D/f.SS.3/Nagoriyuki 2D > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 2D.
+2999/2D/f.SS.BR/Nagoriyuki 2D > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 2D.
+3000/2D/f.SSS.1/Nagoriyuki 2D > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 2D.
+3001/2D/f.SSS.2/Nagoriyuki 2D > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 2D.
+3002/2D/f.SSS.3/Nagoriyuki 2D > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 2D.
+3003/2D/f.SSS.BR/Nagoriyuki 2D > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 2D.
+3004/2D/5H.1/27f gap
+3005/2D/5H.2/25f gap
+3006/2D/5H.3/23f gap
+3007/2D/5H.BR/23f gap
+3008/2D/2P/13f gap
+3009/2D/2K/14f gap
+3010/2D/2S.1/19f gap
+3011/2D/2S.2/18f gap
+3012/2D/2S.3/17f gap
+3013/2D/2S.BR/17f gap
+3014/2D/2H.1/26f gap
+3015/2D/2H.2/24f gap
+3016/2D/2H.3/22f gap
+3017/2D/2H.BR/22f gap
+3018/2D/j.P/19f gap
+3019/2D/j.K/19f gap
+3020/2D/j.S.1/25f gap
+3021/2D/j.S.2/24f gap
+3022/2D/j.S.3/23f gap
+3023/2D/j.S.BR/23f gap
+3024/2D/j.H.1/28f gap
+3025/2D/j.H.2/27f gap
+3026/2D/j.H.3/26f gap
+3027/2D/j.H.BR/26f gap
+3028/2D/j.D.1/27f gap
+3029/2D/j.D.2/25f gap
+3030/2D/j.D.3/23f gap
+3031/2D/j.D.BR/23f gap
+3032/2D/6P/19f gap
+3033/2D/6K/22f gap
+3034/2D/6H.1/24f gap
+3035/2D/6H.2/23f gap
+3036/2D/6H.3/22f gap
+3037/2D/6H.BR/22f gap
+3038/2D/2D/19f gap
+3039/2D/5D/27f gap
+3040/2D/5[D]/35f gap
+3041/2D/236S/5f gap
+3042/2D/236K/"N/A"
+3043/2D/214K/"N/A"
+3044/2D/214H/1f gap
+3045/2D/623H/-2f gap
+3046/2D/623HH/Nagoriyuki 2D > 623HH: 623HH is a follow-up move that cannot be performed after 2D.
+3047/2D/623P/-6f gap
+3048/2D/632146S/-4f gap
+3049/2D/632146H/28f gap
+3050/5D/5P/20f gap
+3051/5D/5K/22f gap
+3052/5D/c.S/22f gap
+3053/5D/f.S.1/31f gap
+3054/5D/f.S.2/29f gap
+3055/5D/f.S.3/27f gap
+3056/5D/f.S.BR/27f gap
+3057/5D/f.SS.1/Nagoriyuki 5D > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5D.
+3058/5D/f.SS.2/Nagoriyuki 5D > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5D.
+3059/5D/f.SS.3/Nagoriyuki 5D > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5D.
+3060/5D/f.SS.BR/Nagoriyuki 5D > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5D.
+3061/5D/f.SSS.1/Nagoriyuki 5D > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5D.
+3062/5D/f.SSS.2/Nagoriyuki 5D > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5D.
+3063/5D/f.SSS.3/Nagoriyuki 5D > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5D.
+3064/5D/f.SSS.BR/Nagoriyuki 5D > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5D.
+3065/5D/5H.1/35f gap
+3066/5D/5H.2/33f gap
+3067/5D/5H.3/31f gap
+3068/5D/5H.BR/31f gap
+3069/5D/2P/21f gap
+3070/5D/2K/22f gap
+3071/5D/2S.1/27f gap
+3072/5D/2S.2/26f gap
+3073/5D/2S.3/25f gap
+3074/5D/2S.BR/25f gap
+3075/5D/2H.1/34f gap
+3076/5D/2H.2/32f gap
+3077/5D/2H.3/30f gap
+3078/5D/2H.BR/30f gap
+3079/5D/j.P/27f gap
+3080/5D/j.K/27f gap
+3081/5D/j.S.1/33f gap
+3082/5D/j.S.2/32f gap
+3083/5D/j.S.3/31f gap
+3084/5D/j.S.BR/31f gap
+3085/5D/j.H.1/36f gap
+3086/5D/j.H.2/35f gap
+3087/5D/j.H.3/34f gap
+3088/5D/j.H.BR/34f gap
+3089/5D/j.D.1/35f gap
+3090/5D/j.D.2/33f gap
+3091/5D/j.D.3/31f gap
+3092/5D/j.D.BR/31f gap
+3093/5D/6P/27f gap
+3094/5D/6K/30f gap
+3095/5D/6H.1/32f gap
+3096/5D/6H.2/31f gap
+3097/5D/6H.3/30f gap
+3098/5D/6H.BR/30f gap
+3099/5D/2D/27f gap
+3100/5D/5D/35f gap
+3101/5D/5[D]/43f gap
+3102/5D/236S/33f gap
+3103/5D/236K/"N/A"
+3104/5D/214K/"N/A"
+3105/5D/214H/29f gap
+3106/5D/623H/26f gap
+3107/5D/623HH/Nagoriyuki 5D > 623HH: 623HH is a follow-up move that cannot be performed after 5D.
+3108/5D/623P/22f gap
+3109/5D/632146S/24f gap
+3110/5D/632146H/36f gap
+3111/5[D]/5P/15f gap
+3112/5[D]/5K/17f gap
+3113/5[D]/c.S/17f gap
+3114/5[D]/f.S.1/26f gap
+3115/5[D]/f.S.2/24f gap
+3116/5[D]/f.S.3/22f gap
+3117/5[D]/f.S.BR/22f gap
+3118/5[D]/f.SS.1/Nagoriyuki 5[D] > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 5[D].
+3119/5[D]/f.SS.2/Nagoriyuki 5[D] > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 5[D].
+3120/5[D]/f.SS.3/Nagoriyuki 5[D] > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 5[D].
+3121/5[D]/f.SS.BR/Nagoriyuki 5[D] > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 5[D].
+3122/5[D]/f.SSS.1/Nagoriyuki 5[D] > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 5[D].
+3123/5[D]/f.SSS.2/Nagoriyuki 5[D] > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 5[D].
+3124/5[D]/f.SSS.3/Nagoriyuki 5[D] > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 5[D].
+3125/5[D]/f.SSS.BR/Nagoriyuki 5[D] > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 5[D].
+3126/5[D]/5H.1/30f gap
+3127/5[D]/5H.2/28f gap
+3128/5[D]/5H.3/26f gap
+3129/5[D]/5H.BR/26f gap
+3130/5[D]/2P/16f gap
+3131/5[D]/2K/17f gap
+3132/5[D]/2S.1/22f gap
+3133/5[D]/2S.2/21f gap
+3134/5[D]/2S.3/20f gap
+3135/5[D]/2S.BR/20f gap
+3136/5[D]/2H.1/29f gap
+3137/5[D]/2H.2/27f gap
+3138/5[D]/2H.3/25f gap
+3139/5[D]/2H.BR/25f gap
+3140/5[D]/j.P/22f gap
+3141/5[D]/j.K/22f gap
+3142/5[D]/j.S.1/28f gap
+3143/5[D]/j.S.2/27f gap
+3144/5[D]/j.S.3/26f gap
+3145/5[D]/j.S.BR/26f gap
+3146/5[D]/j.H.1/31f gap
+3147/5[D]/j.H.2/30f gap
+3148/5[D]/j.H.3/29f gap
+3149/5[D]/j.H.BR/29f gap
+3150/5[D]/j.D.1/30f gap
+3151/5[D]/j.D.2/28f gap
+3152/5[D]/j.D.3/26f gap
+3153/5[D]/j.D.BR/26f gap
+3154/5[D]/6P/22f gap
+3155/5[D]/6K/25f gap
+3156/5[D]/6H.1/27f gap
+3157/5[D]/6H.2/26f gap
+3158/5[D]/6H.3/25f gap
+3159/5[D]/6H.BR/25f gap
+3160/5[D]/2D/22f gap
+3161/5[D]/5D/30f gap
+3162/5[D]/5[D]/38f gap
+3163/5[D]/236S/28f gap
+3164/5[D]/236K/"N/A"
+3165/5[D]/214K/"N/A"
+3166/5[D]/214H/24f gap
+3167/5[D]/623H/21f gap
+3168/5[D]/623HH/Nagoriyuki 5[D] > 623HH: 623HH is a follow-up move that cannot be performed after 5[D].
+3169/5[D]/623P/17f gap
+3170/5[D]/632146S/19f gap
+3171/5[D]/632146H/31f gap
+3172/236S/5P/0f gap
+3173/236S/5K/2f gap
+3174/236S/c.S/2f gap
+3175/236S/f.S.1/11f gap
+3176/236S/f.S.2/9f gap
+3177/236S/f.S.3/7f gap
+3178/236S/f.S.BR/7f gap
+3179/236S/f.SS.1/Nagoriyuki 236S > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 236S.
+3180/236S/f.SS.2/Nagoriyuki 236S > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 236S.
+3181/236S/f.SS.3/Nagoriyuki 236S > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 236S.
+3182/236S/f.SS.BR/Nagoriyuki 236S > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 236S.
+3183/236S/f.SSS.1/Nagoriyuki 236S > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 236S.
+3184/236S/f.SSS.2/Nagoriyuki 236S > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 236S.
+3185/236S/f.SSS.3/Nagoriyuki 236S > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 236S.
+3186/236S/f.SSS.BR/Nagoriyuki 236S > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 236S.
+3187/236S/5H.1/15f gap
+3188/236S/5H.2/13f gap
+3189/236S/5H.3/11f gap
+3190/236S/5H.BR/11f gap
+3191/236S/2P/1f gap
+3192/236S/2K/2f gap
+3193/236S/2S.1/7f gap
+3194/236S/2S.2/6f gap
+3195/236S/2S.3/5f gap
+3196/236S/2S.BR/5f gap
+3197/236S/2H.1/14f gap
+3198/236S/2H.2/12f gap
+3199/236S/2H.3/10f gap
+3200/236S/2H.BR/10f gap
+3201/236S/j.P/7f gap
+3202/236S/j.K/7f gap
+3203/236S/j.S.1/13f gap
+3204/236S/j.S.2/12f gap
+3205/236S/j.S.3/11f gap
+3206/236S/j.S.BR/11f gap
+3207/236S/j.H.1/16f gap
+3208/236S/j.H.2/15f gap
+3209/236S/j.H.3/14f gap
+3210/236S/j.H.BR/14f gap
+3211/236S/j.D.1/15f gap
+3212/236S/j.D.2/13f gap
+3213/236S/j.D.3/11f gap
+3214/236S/j.D.BR/11f gap
+3215/236S/6P/7f gap
+3216/236S/6K/10f gap
+3217/236S/6H.1/12f gap
+3218/236S/6H.2/11f gap
+3219/236S/6H.3/10f gap
+3220/236S/6H.BR/10f gap
+3221/236S/2D/7f gap
+3222/236S/5D/15f gap
+3223/236S/5[D]/23f gap
+3224/236S/236S/13f gap
+3225/236S/236K/"N/A"
+3226/236S/214K/"N/A"
+3227/236S/214H/1f gap
+3228/236S/623H/-2f gap
+3229/236S/623HH/Nagoriyuki 236S > 623HH: 623HH is a follow-up move that cannot be performed after 236S.
+3230/236S/623P/2f gap
+3231/236S/632146S/4f gap
+3232/236S/632146H/16f gap
+3233/236K/5P/"N/A"
+3234/236K/5K/"N/A"
+3235/236K/c.S/"N/A"
+3236/236K/f.S.1/"N/A"
+3237/236K/f.S.2/"N/A"
+3238/236K/f.S.3/"N/A"
+3239/236K/f.S.BR/"N/A"
+3240/236K/f.SS.1/Nagoriyuki 236K > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 236K.
+3241/236K/f.SS.2/Nagoriyuki 236K > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 236K.
+3242/236K/f.SS.3/Nagoriyuki 236K > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 236K.
+3243/236K/f.SS.BR/Nagoriyuki 236K > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 236K.
+3244/236K/f.SSS.1/Nagoriyuki 236K > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 236K.
+3245/236K/f.SSS.2/Nagoriyuki 236K > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 236K.
+3246/236K/f.SSS.3/Nagoriyuki 236K > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 236K.
+3247/236K/f.SSS.BR/Nagoriyuki 236K > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 236K.
+3248/236K/5H.1/"N/A"
+3249/236K/5H.2/"N/A"
+3250/236K/5H.3/"N/A"
+3251/236K/5H.BR/"N/A"
+3252/236K/2P/"N/A"
+3253/236K/2K/"N/A"
+3254/236K/2S.1/"N/A"
+3255/236K/2S.2/"N/A"
+3256/236K/2S.3/"N/A"
+3257/236K/2S.BR/"N/A"
+3258/236K/2H.1/"N/A"
+3259/236K/2H.2/"N/A"
+3260/236K/2H.3/"N/A"
+3261/236K/2H.BR/"N/A"
+3262/236K/j.P/"N/A"
+3263/236K/j.K/"N/A"
+3264/236K/j.S.1/"N/A"
+3265/236K/j.S.2/"N/A"
+3266/236K/j.S.3/"N/A"
+3267/236K/j.S.BR/"N/A"
+3268/236K/j.H.1/"N/A"
+3269/236K/j.H.2/"N/A"
+3270/236K/j.H.3/"N/A"
+3271/236K/j.H.BR/"N/A"
+3272/236K/j.D.1/"N/A"
+3273/236K/j.D.2/"N/A"
+3274/236K/j.D.3/"N/A"
+3275/236K/j.D.BR/"N/A"
+3276/236K/6P/"N/A"
+3277/236K/6K/"N/A"
+3278/236K/6H.1/"N/A"
+3279/236K/6H.2/"N/A"
+3280/236K/6H.3/"N/A"
+3281/236K/6H.BR/"N/A"
+3282/236K/2D/"N/A"
+3283/236K/5D/"N/A"
+3284/236K/5[D]/"N/A"
+3285/236K/236S/"N/A"
+3286/236K/236K/"N/A"
+3287/236K/214K/"N/A"
+3288/236K/214H/"N/A"
+3289/236K/623H/"N/A"
+3290/236K/623HH/Nagoriyuki 236K > 623HH: 623HH is a follow-up move that cannot be performed after 236K.
+3291/236K/623P/"N/A"
+3292/236K/632146S/"N/A"
+3293/236K/632146H/"N/A"
+3294/214K/5P/"N/A"
+3295/214K/5K/"N/A"
+3296/214K/c.S/"N/A"
+3297/214K/f.S.1/"N/A"
+3298/214K/f.S.2/"N/A"
+3299/214K/f.S.3/"N/A"
+3300/214K/f.S.BR/"N/A"
+3301/214K/f.SS.1/Nagoriyuki 214K > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 214K.
+3302/214K/f.SS.2/Nagoriyuki 214K > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 214K.
+3303/214K/f.SS.3/Nagoriyuki 214K > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 214K.
+3304/214K/f.SS.BR/Nagoriyuki 214K > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 214K.
+3305/214K/f.SSS.1/Nagoriyuki 214K > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 214K.
+3306/214K/f.SSS.2/Nagoriyuki 214K > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 214K.
+3307/214K/f.SSS.3/Nagoriyuki 214K > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 214K.
+3308/214K/f.SSS.BR/Nagoriyuki 214K > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 214K.
+3309/214K/5H.1/"N/A"
+3310/214K/5H.2/"N/A"
+3311/214K/5H.3/"N/A"
+3312/214K/5H.BR/"N/A"
+3313/214K/2P/"N/A"
+3314/214K/2K/"N/A"
+3315/214K/2S.1/"N/A"
+3316/214K/2S.2/"N/A"
+3317/214K/2S.3/"N/A"
+3318/214K/2S.BR/"N/A"
+3319/214K/2H.1/"N/A"
+3320/214K/2H.2/"N/A"
+3321/214K/2H.3/"N/A"
+3322/214K/2H.BR/"N/A"
+3323/214K/j.P/"N/A"
+3324/214K/j.K/"N/A"
+3325/214K/j.S.1/"N/A"
+3326/214K/j.S.2/"N/A"
+3327/214K/j.S.3/"N/A"
+3328/214K/j.S.BR/"N/A"
+3329/214K/j.H.1/"N/A"
+3330/214K/j.H.2/"N/A"
+3331/214K/j.H.3/"N/A"
+3332/214K/j.H.BR/"N/A"
+3333/214K/j.D.1/"N/A"
+3334/214K/j.D.2/"N/A"
+3335/214K/j.D.3/"N/A"
+3336/214K/j.D.BR/"N/A"
+3337/214K/6P/"N/A"
+3338/214K/6K/"N/A"
+3339/214K/6H.1/"N/A"
+3340/214K/6H.2/"N/A"
+3341/214K/6H.3/"N/A"
+3342/214K/6H.BR/"N/A"
+3343/214K/2D/"N/A"
+3344/214K/5D/"N/A"
+3345/214K/5[D]/"N/A"
+3346/214K/236S/"N/A"
+3347/214K/236K/"N/A"
+3348/214K/214K/"N/A"
+3349/214K/214H/"N/A"
+3350/214K/623H/"N/A"
+3351/214K/623HH/Nagoriyuki 214K > 623HH: 623HH is a follow-up move that cannot be performed after 214K.
+3352/214K/623P/"N/A"
+3353/214K/632146S/"N/A"
+3354/214K/632146H/"N/A"
+3355/214H/5P/8f gap
+3356/214H/5K/10f gap
+3357/214H/c.S/10f gap
+3358/214H/f.S.1/19f gap
+3359/214H/f.S.2/17f gap
+3360/214H/f.S.3/15f gap
+3361/214H/f.S.BR/15f gap
+3362/214H/f.SS.1/Nagoriyuki 214H > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 214H.
+3363/214H/f.SS.2/Nagoriyuki 214H > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 214H.
+3364/214H/f.SS.3/Nagoriyuki 214H > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 214H.
+3365/214H/f.SS.BR/Nagoriyuki 214H > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 214H.
+3366/214H/f.SSS.1/Nagoriyuki 214H > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 214H.
+3367/214H/f.SSS.2/Nagoriyuki 214H > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 214H.
+3368/214H/f.SSS.3/Nagoriyuki 214H > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 214H.
+3369/214H/f.SSS.BR/Nagoriyuki 214H > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 214H.
+3370/214H/5H.1/23f gap
+3371/214H/5H.2/21f gap
+3372/214H/5H.3/19f gap
+3373/214H/5H.BR/19f gap
+3374/214H/2P/9f gap
+3375/214H/2K/10f gap
+3376/214H/2S.1/15f gap
+3377/214H/2S.2/14f gap
+3378/214H/2S.3/13f gap
+3379/214H/2S.BR/13f gap
+3380/214H/2H.1/22f gap
+3381/214H/2H.2/20f gap
+3382/214H/2H.3/18f gap
+3383/214H/2H.BR/18f gap
+3384/214H/j.P/15f gap
+3385/214H/j.K/15f gap
+3386/214H/j.S.1/21f gap
+3387/214H/j.S.2/20f gap
+3388/214H/j.S.3/19f gap
+3389/214H/j.S.BR/19f gap
+3390/214H/j.H.1/24f gap
+3391/214H/j.H.2/23f gap
+3392/214H/j.H.3/22f gap
+3393/214H/j.H.BR/22f gap
+3394/214H/j.D.1/23f gap
+3395/214H/j.D.2/21f gap
+3396/214H/j.D.3/19f gap
+3397/214H/j.D.BR/19f gap
+3398/214H/6P/15f gap
+3399/214H/6K/18f gap
+3400/214H/6H.1/20f gap
+3401/214H/6H.2/19f gap
+3402/214H/6H.3/18f gap
+3403/214H/6H.BR/18f gap
+3404/214H/2D/15f gap
+3405/214H/5D/23f gap
+3406/214H/5[D]/31f gap
+3407/214H/236S/0f gap
+3408/214H/236K/"N/A"
+3409/214H/214K/"N/A"
+3410/214H/214H/17f gap
+3411/214H/623H/-7f gap
+3412/214H/623HH/Nagoriyuki 214H > 623HH: 623HH is a follow-up move that cannot be performed after 214H.
+3413/214H/623P/10f gap
+3414/214H/632146S/12f gap
+3415/214H/632146H/24f gap
+3416/623H/5P/12f gap
+3417/623H/5K/14f gap
+3418/623H/c.S/14f gap
+3419/623H/f.S.1/23f gap
+3420/623H/f.S.2/21f gap
+3421/623H/f.S.3/19f gap
+3422/623H/f.S.BR/19f gap
+3423/623H/f.SS.1/Nagoriyuki 623H > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 623H.
+3424/623H/f.SS.2/Nagoriyuki 623H > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 623H.
+3425/623H/f.SS.3/Nagoriyuki 623H > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 623H.
+3426/623H/f.SS.BR/Nagoriyuki 623H > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 623H.
+3427/623H/f.SSS.1/Nagoriyuki 623H > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 623H.
+3428/623H/f.SSS.2/Nagoriyuki 623H > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 623H.
+3429/623H/f.SSS.3/Nagoriyuki 623H > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 623H.
+3430/623H/f.SSS.BR/Nagoriyuki 623H > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 623H.
+3431/623H/5H.1/27f gap
+3432/623H/5H.2/25f gap
+3433/623H/5H.3/23f gap
+3434/623H/5H.BR/23f gap
+3435/623H/2P/13f gap
+3436/623H/2K/14f gap
+3437/623H/2S.1/19f gap
+3438/623H/2S.2/18f gap
+3439/623H/2S.3/17f gap
+3440/623H/2S.BR/17f gap
+3441/623H/2H.1/26f gap
+3442/623H/2H.2/24f gap
+3443/623H/2H.3/22f gap
+3444/623H/2H.BR/22f gap
+3445/623H/j.P/19f gap
+3446/623H/j.K/19f gap
+3447/623H/j.S.1/25f gap
+3448/623H/j.S.2/24f gap
+3449/623H/j.S.3/23f gap
+3450/623H/j.S.BR/23f gap
+3451/623H/j.H.1/28f gap
+3452/623H/j.H.2/27f gap
+3453/623H/j.H.3/26f gap
+3454/623H/j.H.BR/26f gap
+3455/623H/j.D.1/27f gap
+3456/623H/j.D.2/25f gap
+3457/623H/j.D.3/23f gap
+3458/623H/j.D.BR/23f gap
+3459/623H/6P/19f gap
+3460/623H/6K/22f gap
+3461/623H/6H.1/24f gap
+3462/623H/6H.2/23f gap
+3463/623H/6H.3/22f gap
+3464/623H/6H.BR/22f gap
+3465/623H/2D/19f gap
+3466/623H/5D/27f gap
+3467/623H/5[D]/35f gap
+3468/623H/236S/2f gap
+3469/623H/236K/"N/A"
+3470/623H/214K/"N/A"
+3471/623H/214H/-2f gap
+3472/623H/623H/18f gap
+3473/623H/623HH/-6f gap
+3474/623H/623P/14f gap
+3475/623H/632146S/16f gap
+3476/623H/632146H/28f gap
+3477/623HH/5P/21f gap
+3478/623HH/5K/23f gap
+3479/623HH/c.S/23f gap
+3480/623HH/f.S.1/32f gap
+3481/623HH/f.S.2/30f gap
+3482/623HH/f.S.3/28f gap
+3483/623HH/f.S.BR/28f gap
+3484/623HH/f.SS.1/Nagoriyuki 623HH > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 623HH.
+3485/623HH/f.SS.2/Nagoriyuki 623HH > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 623HH.
+3486/623HH/f.SS.3/Nagoriyuki 623HH > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 623HH.
+3487/623HH/f.SS.BR/Nagoriyuki 623HH > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 623HH.
+3488/623HH/f.SSS.1/Nagoriyuki 623HH > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 623HH.
+3489/623HH/f.SSS.2/Nagoriyuki 623HH > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 623HH.
+3490/623HH/f.SSS.3/Nagoriyuki 623HH > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 623HH.
+3491/623HH/f.SSS.BR/Nagoriyuki 623HH > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 623HH.
+3492/623HH/5H.1/36f gap
+3493/623HH/5H.2/34f gap
+3494/623HH/5H.3/32f gap
+3495/623HH/5H.BR/32f gap
+3496/623HH/2P/22f gap
+3497/623HH/2K/23f gap
+3498/623HH/2S.1/28f gap
+3499/623HH/2S.2/27f gap
+3500/623HH/2S.3/26f gap
+3501/623HH/2S.BR/26f gap
+3502/623HH/2H.1/35f gap
+3503/623HH/2H.2/33f gap
+3504/623HH/2H.3/31f gap
+3505/623HH/2H.BR/31f gap
+3506/623HH/j.P/28f gap
+3507/623HH/j.K/28f gap
+3508/623HH/j.S.1/34f gap
+3509/623HH/j.S.2/33f gap
+3510/623HH/j.S.3/32f gap
+3511/623HH/j.S.BR/32f gap
+3512/623HH/j.H.1/37f gap
+3513/623HH/j.H.2/36f gap
+3514/623HH/j.H.3/35f gap
+3515/623HH/j.H.BR/35f gap
+3516/623HH/j.D.1/36f gap
+3517/623HH/j.D.2/34f gap
+3518/623HH/j.D.3/32f gap
+3519/623HH/j.D.BR/32f gap
+3520/623HH/6P/28f gap
+3521/623HH/6K/31f gap
+3522/623HH/6H.1/33f gap
+3523/623HH/6H.2/32f gap
+3524/623HH/6H.3/31f gap
+3525/623HH/6H.BR/31f gap
+3526/623HH/2D/28f gap
+3527/623HH/5D/36f gap
+3528/623HH/5[D]/44f gap
+3529/623HH/236S/0f gap
+3530/623HH/236K/"N/A"
+3531/623HH/214K/"N/A"
+3532/623HH/214H/-4f gap
+3533/623HH/623H/27f gap
+3534/623HH/623HH/Nagoriyuki 623HH > 623HH: 623HH is a follow-up move that cannot be performed after 623HH.
+3535/623HH/623P/23f gap
+3536/623HH/632146S/25f gap
+3537/623HH/632146H/37f gap
+3538/623P/5P/"N/A"
+3539/623P/5K/"N/A"
+3540/623P/c.S/"N/A"
+3541/623P/f.S.1/"N/A"
+3542/623P/f.S.2/"N/A"
+3543/623P/f.S.3/"N/A"
+3544/623P/f.S.BR/"N/A"
+3545/623P/f.SS.1/Nagoriyuki 623P > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 623P.
+3546/623P/f.SS.2/Nagoriyuki 623P > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 623P.
+3547/623P/f.SS.3/Nagoriyuki 623P > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 623P.
+3548/623P/f.SS.BR/Nagoriyuki 623P > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 623P.
+3549/623P/f.SSS.1/Nagoriyuki 623P > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 623P.
+3550/623P/f.SSS.2/Nagoriyuki 623P > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 623P.
+3551/623P/f.SSS.3/Nagoriyuki 623P > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 623P.
+3552/623P/f.SSS.BR/Nagoriyuki 623P > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 623P.
+3553/623P/5H.1/"N/A"
+3554/623P/5H.2/"N/A"
+3555/623P/5H.3/"N/A"
+3556/623P/5H.BR/"N/A"
+3557/623P/2P/"N/A"
+3558/623P/2K/"N/A"
+3559/623P/2S.1/"N/A"
+3560/623P/2S.2/"N/A"
+3561/623P/2S.3/"N/A"
+3562/623P/2S.BR/"N/A"
+3563/623P/2H.1/"N/A"
+3564/623P/2H.2/"N/A"
+3565/623P/2H.3/"N/A"
+3566/623P/2H.BR/"N/A"
+3567/623P/j.P/"N/A"
+3568/623P/j.K/"N/A"
+3569/623P/j.S.1/"N/A"
+3570/623P/j.S.2/"N/A"
+3571/623P/j.S.3/"N/A"
+3572/623P/j.S.BR/"N/A"
+3573/623P/j.H.1/"N/A"
+3574/623P/j.H.2/"N/A"
+3575/623P/j.H.3/"N/A"
+3576/623P/j.H.BR/"N/A"
+3577/623P/j.D.1/"N/A"
+3578/623P/j.D.2/"N/A"
+3579/623P/j.D.3/"N/A"
+3580/623P/j.D.BR/"N/A"
+3581/623P/6P/"N/A"
+3582/623P/6K/"N/A"
+3583/623P/6H.1/"N/A"
+3584/623P/6H.2/"N/A"
+3585/623P/6H.3/"N/A"
+3586/623P/6H.BR/"N/A"
+3587/623P/2D/"N/A"
+3588/623P/5D/"N/A"
+3589/623P/5[D]/"N/A"
+3590/623P/236S/"N/A"
+3591/623P/236K/"N/A"
+3592/623P/214K/"N/A"
+3593/623P/214H/"N/A"
+3594/623P/623H/"N/A"
+3595/623P/623HH/Nagoriyuki 623P > 623HH: 623HH is a follow-up move that cannot be performed after 623P.
+3596/623P/623P/"N/A"
+3597/623P/632146S/"N/A"
+3598/623P/632146H/"N/A"
+3599/632146S/5P/44f gap
+3600/632146S/5K/46f gap
+3601/632146S/c.S/46f gap
+3602/632146S/f.S.1/55f gap
+3603/632146S/f.S.2/53f gap
+3604/632146S/f.S.3/51f gap
+3605/632146S/f.S.BR/51f gap
+3606/632146S/f.SS.1/Nagoriyuki 632146S > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 632146S.
+3607/632146S/f.SS.2/Nagoriyuki 632146S > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 632146S.
+3608/632146S/f.SS.3/Nagoriyuki 632146S > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 632146S.
+3609/632146S/f.SS.BR/Nagoriyuki 632146S > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 632146S.
+3610/632146S/f.SSS.1/Nagoriyuki 632146S > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 632146S.
+3611/632146S/f.SSS.2/Nagoriyuki 632146S > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 632146S.
+3612/632146S/f.SSS.3/Nagoriyuki 632146S > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 632146S.
+3613/632146S/f.SSS.BR/Nagoriyuki 632146S > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 632146S.
+3614/632146S/5H.1/59f gap
+3615/632146S/5H.2/57f gap
+3616/632146S/5H.3/55f gap
+3617/632146S/5H.BR/55f gap
+3618/632146S/2P/45f gap
+3619/632146S/2K/46f gap
+3620/632146S/2S.1/51f gap
+3621/632146S/2S.2/50f gap
+3622/632146S/2S.3/49f gap
+3623/632146S/2S.BR/49f gap
+3624/632146S/2H.1/58f gap
+3625/632146S/2H.2/56f gap
+3626/632146S/2H.3/54f gap
+3627/632146S/2H.BR/54f gap
+3628/632146S/j.P/51f gap
+3629/632146S/j.K/51f gap
+3630/632146S/j.S.1/57f gap
+3631/632146S/j.S.2/56f gap
+3632/632146S/j.S.3/55f gap
+3633/632146S/j.S.BR/55f gap
+3634/632146S/j.H.1/60f gap
+3635/632146S/j.H.2/59f gap
+3636/632146S/j.H.3/58f gap
+3637/632146S/j.H.BR/58f gap
+3638/632146S/j.D.1/59f gap
+3639/632146S/j.D.2/57f gap
+3640/632146S/j.D.3/55f gap
+3641/632146S/j.D.BR/55f gap
+3642/632146S/6P/51f gap
+3643/632146S/6K/54f gap
+3644/632146S/6H.1/56f gap
+3645/632146S/6H.2/55f gap
+3646/632146S/6H.3/54f gap
+3647/632146S/6H.BR/54f gap
+3648/632146S/2D/51f gap
+3649/632146S/5D/59f gap
+3650/632146S/5[D]/67f gap
+3651/632146S/236S/57f gap
+3652/632146S/236K/"N/A"
+3653/632146S/214K/"N/A"
+3654/632146S/214H/53f gap
+3655/632146S/623H/50f gap
+3656/632146S/623HH/Nagoriyuki 632146S > 623HH: 623HH is a follow-up move that cannot be performed after 632146S.
+3657/632146S/623P/46f gap
+3658/632146S/632146S/48f gap
+3659/632146S/632146H/60f gap
+3660/632146H/5P/71f gap
+3661/632146H/5K/73f gap
+3662/632146H/c.S/73f gap
+3663/632146H/f.S.1/82f gap
+3664/632146H/f.S.2/80f gap
+3665/632146H/f.S.3/78f gap
+3666/632146H/f.S.BR/78f gap
+3667/632146H/f.SS.1/Nagoriyuki 632146H > f.SS.1: f.SS.1 is a follow-up move that cannot be performed after 632146H.
+3668/632146H/f.SS.2/Nagoriyuki 632146H > f.SS.2: f.SS.2 is a follow-up move that cannot be performed after 632146H.
+3669/632146H/f.SS.3/Nagoriyuki 632146H > f.SS.3: f.SS.3 is a follow-up move that cannot be performed after 632146H.
+3670/632146H/f.SS.BR/Nagoriyuki 632146H > f.SS.BR: f.SS.BR is a follow-up move that cannot be performed after 632146H.
+3671/632146H/f.SSS.1/Nagoriyuki 632146H > f.SSS.1: f.SSS.1 is a follow-up move that cannot be performed after 632146H.
+3672/632146H/f.SSS.2/Nagoriyuki 632146H > f.SSS.2: f.SSS.2 is a follow-up move that cannot be performed after 632146H.
+3673/632146H/f.SSS.3/Nagoriyuki 632146H > f.SSS.3: f.SSS.3 is a follow-up move that cannot be performed after 632146H.
+3674/632146H/f.SSS.BR/Nagoriyuki 632146H > f.SSS.BR: f.SSS.BR is a follow-up move that cannot be performed after 632146H.
+3675/632146H/5H.1/86f gap
+3676/632146H/5H.2/84f gap
+3677/632146H/5H.3/82f gap
+3678/632146H/5H.BR/82f gap
+3679/632146H/2P/72f gap
+3680/632146H/2K/73f gap
+3681/632146H/2S.1/78f gap
+3682/632146H/2S.2/77f gap
+3683/632146H/2S.3/76f gap
+3684/632146H/2S.BR/76f gap
+3685/632146H/2H.1/85f gap
+3686/632146H/2H.2/83f gap
+3687/632146H/2H.3/81f gap
+3688/632146H/2H.BR/81f gap
+3689/632146H/j.P/78f gap
+3690/632146H/j.K/78f gap
+3691/632146H/j.S.1/84f gap
+3692/632146H/j.S.2/83f gap
+3693/632146H/j.S.3/82f gap
+3694/632146H/j.S.BR/82f gap
+3695/632146H/j.H.1/87f gap
+3696/632146H/j.H.2/86f gap
+3697/632146H/j.H.3/85f gap
+3698/632146H/j.H.BR/85f gap
+3699/632146H/j.D.1/86f gap
+3700/632146H/j.D.2/84f gap
+3701/632146H/j.D.3/82f gap
+3702/632146H/j.D.BR/82f gap
+3703/632146H/6P/78f gap
+3704/632146H/6K/81f gap
+3705/632146H/6H.1/83f gap
+3706/632146H/6H.2/82f gap
+3707/632146H/6H.3/81f gap
+3708/632146H/6H.BR/81f gap
+3709/632146H/2D/78f gap
+3710/632146H/5D/86f gap
+3711/632146H/5[D]/94f gap
+3712/632146H/236S/0f gap
+3713/632146H/236K/"N/A"
+3714/632146H/214K/"N/A"
+3715/632146H/214H/-4f gap
+3716/632146H/623H/-7f gap
+3717/632146H/623HH/Nagoriyuki 632146H > 623HH: 623HH is a follow-up move that cannot be performed after 632146H.
+3718/632146H/623P/-11f gap
+3719/632146H/632146S/-9f gap
+3720/632146H/632146H/87f gap

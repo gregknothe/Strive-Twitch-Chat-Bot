@@ -1,0 +1,1226 @@
+/move1/move2/gap
+0/5P/5P/-4f gap
+1/5P/5K/9f gap
+2/5P/c.S/9f gap
+3/5P/f.S/13f gap
+4/5P/5H/12f gap
+5/5P/2P/-4f gap
+6/5P/2K/8f gap
+7/5P/2S/11f gap
+8/5P/2H/17f gap
+9/5P/j.P/13f gap
+10/5P/j.K/14f gap
+11/5P/j.S/18f gap
+12/5P/j.H/18f gap
+13/5P/j.D/28f gap
+14/5P/6P/1f gap
+15/5P/6H/18f gap
+16/5P/2D/12f gap
+17/5P/5D/22f gap
+18/5P/5[D]/30f gap
+19/5P/236P/1f gap
+20/5P/236[P]/"N/A"
+21/5P/2P (near Servant)/"N/A"
+22/5P/"6P/6K/6S/6H/6D while holding Servant"/3f gap
+23/5P/D while holding Servant/"N/A"
+24/5P/214P/1f gap
+25/5P/214K/3f gap
+26/5P/214S/-5f gap
+27/5P/S while holding Servant/6f gap
+28/5P/214H/199f gap
+29/5P/236K/6f gap
+30/5P/Bounced Servant/8f gap
+31/5P/Launched Servant/8f gap
+32/5P/632146P/2f gap
+33/5P/236236S/-6f gap
+34/5P/236236H/-6f gap
+35/5K/5P/9f gap
+36/5K/5K/11f gap
+37/5K/c.S/11f gap
+38/5K/f.S/15f gap
+39/5K/5H/14f gap
+40/5K/2P/9f gap
+41/5K/2K/10f gap
+42/5K/2S/13f gap
+43/5K/2H/19f gap
+44/5K/j.P/0f gap
+45/5K/j.K/1f gap
+46/5K/j.S/5f gap
+47/5K/j.H/5f gap
+48/5K/j.D/15f gap
+49/5K/6P/-1f gap
+50/5K/6H/16f gap
+51/5K/2D/-1f gap
+52/5K/5D/9f gap
+53/5K/5[D]/32f gap
+54/5K/236P/-1f gap
+55/5K/236[P]/"N/A"
+56/5K/2P (near Servant)/"N/A"
+57/5K/"6P/6K/6S/6H/6D while holding Servant"/1f gap
+58/5K/D while holding Servant/"N/A"
+59/5K/214P/-1f gap
+60/5K/214K/1f gap
+61/5K/214S/-7f gap
+62/5K/S while holding Servant/8f gap
+63/5K/214H/197f gap
+64/5K/236K/4f gap
+65/5K/Bounced Servant/10f gap
+66/5K/Launched Servant/10f gap
+67/5K/632146P/0f gap
+68/5K/236236S/-8f gap
+69/5K/236236H/-8f gap
+70/c.S/5P/4f gap
+71/c.S/5K/6f gap
+72/c.S/c.S/6f gap
+73/c.S/f.S/-5f gap
+74/c.S/5H/-6f gap
+75/c.S/2P/4f gap
+76/c.S/2K/5f gap
+77/c.S/2S/-7f gap
+78/c.S/2H/-1f gap
+79/c.S/j.P/-5f gap
+80/c.S/j.K/-4f gap
+81/c.S/j.S/0f gap
+82/c.S/j.H/0f gap
+83/c.S/j.D/10f gap
+84/c.S/6P/-6f gap
+85/c.S/6H/11f gap
+86/c.S/2D/-6f gap
+87/c.S/5D/4f gap
+88/c.S/5[D]/27f gap
+89/c.S/236P/-6f gap
+90/c.S/236[P]/"N/A"
+91/c.S/2P (near Servant)/"N/A"
+92/c.S/"6P/6K/6S/6H/6D while holding Servant"/-4f gap
+93/c.S/D while holding Servant/"N/A"
+94/c.S/214P/-6f gap
+95/c.S/214K/-4f gap
+96/c.S/214S/-12f gap
+97/c.S/S while holding Servant/3f gap
+98/c.S/214H/192f gap
+99/c.S/236K/-1f gap
+100/c.S/Bounced Servant/5f gap
+101/c.S/Launched Servant/5f gap
+102/c.S/632146P/-5f gap
+103/c.S/236236S/-13f gap
+104/c.S/236236H/-13f gap
+105/f.S/5P/14f gap
+106/f.S/5K/16f gap
+107/f.S/c.S/16f gap
+108/f.S/f.S/20f gap
+109/f.S/5H/-3f gap
+110/f.S/2P/14f gap
+111/f.S/2K/15f gap
+112/f.S/2S/18f gap
+113/f.S/2H/2f gap
+114/f.S/j.P/20f gap
+115/f.S/j.K/21f gap
+116/f.S/j.S/25f gap
+117/f.S/j.H/25f gap
+118/f.S/j.D/35f gap
+119/f.S/6P/19f gap
+120/f.S/6H/36f gap
+121/f.S/2D/19f gap
+122/f.S/5D/29f gap
+123/f.S/5[D]/37f gap
+124/f.S/236P/-3f gap
+125/f.S/236[P]/"N/A"
+126/f.S/2P (near Servant)/"N/A"
+127/f.S/"6P/6K/6S/6H/6D while holding Servant"/-1f gap
+128/f.S/D while holding Servant/"N/A"
+129/f.S/214P/-3f gap
+130/f.S/214K/-1f gap
+131/f.S/214S/-9f gap
+132/f.S/S while holding Servant/13f gap
+133/f.S/214H/195f gap
+134/f.S/236K/2f gap
+135/f.S/Bounced Servant/15f gap
+136/f.S/Launched Servant/15f gap
+137/f.S/632146P/-2f gap
+138/f.S/236236S/-10f gap
+139/f.S/236236H/-10f gap
+140/5H/5P/11f gap
+141/5H/5K/13f gap
+142/5H/c.S/13f gap
+143/5H/f.S/17f gap
+144/5H/5H/16f gap
+145/5H/2P/11f gap
+146/5H/2K/12f gap
+147/5H/2S/15f gap
+148/5H/2H/21f gap
+149/5H/j.P/17f gap
+150/5H/j.K/18f gap
+151/5H/j.S/22f gap
+152/5H/j.H/22f gap
+153/5H/j.D/32f gap
+154/5H/6P/16f gap
+155/5H/6H/33f gap
+156/5H/2D/16f gap
+157/5H/5D/26f gap
+158/5H/5[D]/34f gap
+159/5H/236P/-8f gap
+160/5H/236[P]/"N/A"
+161/5H/2P (near Servant)/"N/A"
+162/5H/"6P/6K/6S/6H/6D while holding Servant"/-6f gap
+163/5H/D while holding Servant/"N/A"
+164/5H/214P/-8f gap
+165/5H/214K/-6f gap
+166/5H/214S/-14f gap
+167/5H/S while holding Servant/10f gap
+168/5H/214H/190f gap
+169/5H/236K/-3f gap
+170/5H/Bounced Servant/12f gap
+171/5H/Launched Servant/12f gap
+172/5H/632146P/-7f gap
+173/5H/236236S/-15f gap
+174/5H/236236H/-15f gap
+175/2P/5P/-4f gap
+176/2P/5K/10f gap
+177/2P/c.S/10f gap
+178/2P/f.S/14f gap
+179/2P/5H/13f gap
+180/2P/2P/-4f gap
+181/2P/2K/9f gap
+182/2P/2S/12f gap
+183/2P/2H/18f gap
+184/2P/j.P/14f gap
+185/2P/j.K/15f gap
+186/2P/j.S/19f gap
+187/2P/j.H/19f gap
+188/2P/j.D/29f gap
+189/2P/6P/1f gap
+190/2P/6H/18f gap
+191/2P/2D/13f gap
+192/2P/5D/23f gap
+193/2P/5[D]/31f gap
+194/2P/236P/1f gap
+195/2P/236[P]/"N/A"
+196/2P/2P (near Servant)/"N/A"
+197/2P/"6P/6K/6S/6H/6D while holding Servant"/3f gap
+198/2P/D while holding Servant/"N/A"
+199/2P/214P/1f gap
+200/2P/214K/3f gap
+201/2P/214S/-5f gap
+202/2P/S while holding Servant/7f gap
+203/2P/214H/199f gap
+204/2P/236K/6f gap
+205/2P/Bounced Servant/9f gap
+206/2P/Launched Servant/9f gap
+207/2P/632146P/2f gap
+208/2P/236236S/-6f gap
+209/2P/236236H/-6f gap
+210/2K/5P/8f gap
+211/2K/5K/10f gap
+212/2K/c.S/10f gap
+213/2K/f.S/14f gap
+214/2K/5H/13f gap
+215/2K/2P/8f gap
+216/2K/2K/9f gap
+217/2K/2S/12f gap
+218/2K/2H/18f gap
+219/2K/j.P/14f gap
+220/2K/j.K/15f gap
+221/2K/j.S/19f gap
+222/2K/j.H/19f gap
+223/2K/j.D/29f gap
+224/2K/6P/-1f gap
+225/2K/6H/16f gap
+226/2K/2D/-1f gap
+227/2K/5D/9f gap
+228/2K/5[D]/31f gap
+229/2K/236P/-1f gap
+230/2K/236[P]/"N/A"
+231/2K/2P (near Servant)/"N/A"
+232/2K/"6P/6K/6S/6H/6D while holding Servant"/1f gap
+233/2K/D while holding Servant/"N/A"
+234/2K/214P/-1f gap
+235/2K/214K/1f gap
+236/2K/214S/-7f gap
+237/2K/S while holding Servant/7f gap
+238/2K/214H/197f gap
+239/2K/236K/4f gap
+240/2K/Bounced Servant/9f gap
+241/2K/Launched Servant/9f gap
+242/2K/632146P/0f gap
+243/2K/236236S/-8f gap
+244/2K/236236H/-8f gap
+245/2S/5P/20f gap
+246/2S/5K/22f gap
+247/2S/c.S/22f gap
+248/2S/f.S/26f gap
+249/2S/5H/-3f gap
+250/2S/2P/20f gap
+251/2S/2K/21f gap
+252/2S/2S/24f gap
+253/2S/2H/2f gap
+254/2S/j.P/26f gap
+255/2S/j.K/27f gap
+256/2S/j.S/31f gap
+257/2S/j.H/31f gap
+258/2S/j.D/41f gap
+259/2S/6P/25f gap
+260/2S/6H/42f gap
+261/2S/2D/25f gap
+262/2S/5D/35f gap
+263/2S/5[D]/43f gap
+264/2S/236P/-3f gap
+265/2S/236[P]/"N/A"
+266/2S/2P (near Servant)/"N/A"
+267/2S/"6P/6K/6S/6H/6D while holding Servant"/-1f gap
+268/2S/D while holding Servant/"N/A"
+269/2S/214P/-3f gap
+270/2S/214K/-1f gap
+271/2S/214S/-9f gap
+272/2S/S while holding Servant/19f gap
+273/2S/214H/195f gap
+274/2S/236K/2f gap
+275/2S/Bounced Servant/21f gap
+276/2S/Launched Servant/21f gap
+277/2S/632146P/-2f gap
+278/2S/236236S/-10f gap
+279/2S/236236H/-10f gap
+280/2H/5P/10f gap
+281/2H/5K/12f gap
+282/2H/c.S/12f gap
+283/2H/f.S/16f gap
+284/2H/5H/15f gap
+285/2H/2P/10f gap
+286/2H/2K/11f gap
+287/2H/2S/14f gap
+288/2H/2H/20f gap
+289/2H/j.P/16f gap
+290/2H/j.K/17f gap
+291/2H/j.S/21f gap
+292/2H/j.H/21f gap
+293/2H/j.D/31f gap
+294/2H/6P/15f gap
+295/2H/6H/32f gap
+296/2H/2D/15f gap
+297/2H/5D/25f gap
+298/2H/5[D]/33f gap
+299/2H/236P/-8f gap
+300/2H/236[P]/"N/A"
+301/2H/2P (near Servant)/"N/A"
+302/2H/"6P/6K/6S/6H/6D while holding Servant"/-6f gap
+303/2H/D while holding Servant/"N/A"
+304/2H/214P/-8f gap
+305/2H/214K/-6f gap
+306/2H/214S/-14f gap
+307/2H/S while holding Servant/9f gap
+308/2H/214H/190f gap
+309/2H/236K/-3f gap
+310/2H/Bounced Servant/11f gap
+311/2H/Launched Servant/11f gap
+312/2H/632146P/-7f gap
+313/2H/236236S/-15f gap
+314/2H/236236H/-15f gap
+315/j.P/5P/j.P has 9f of blockstun, while 5P has 5.0f of startup
+316/j.P/5K/j.P has 9f of blockstun, while 5K has 7.0f of startup
+317/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
+318/j.P/f.S/j.P has 9f of blockstun, while f.S has 11.0f of startup
+319/j.P/5H/j.P has 9f of blockstun, while 5H has 10.0f of startup
+320/j.P/2P/j.P has 9f of blockstun, while 2P has 5.0f of startup
+321/j.P/2K/j.P has 9f of blockstun, while 2K has 6.0f of startup
+322/j.P/2S/j.P has 9f of blockstun, while 2S has 9.0f of startup
+323/j.P/2H/j.P has 9f of blockstun, while 2H has 15.0f of startup
+324/j.P/j.P/-3f gap
+325/j.P/j.K/j.P has 9f of blockstun, while j.K has 7.0f of startup
+326/j.P/j.S/j.P has 9f of blockstun, while j.S has 11.0f of startup
+327/j.P/j.H/j.P has 9f of blockstun, while j.H has 11.0f of startup
+328/j.P/j.D/j.P has 9f of blockstun, while j.D has 21.0f of startup
+329/j.P/6P/j.P has 9f of blockstun, while 6P has 10.0f of startup
+330/j.P/6H/j.P has 9f of blockstun, while 6H has 27.0f of startup
+331/j.P/2D/j.P has 9f of blockstun, while 2D has 10.0f of startup
+332/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
+333/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
+334/j.P/236P/j.P has 9f of blockstun, while 236P has 10.0f of startup
+335/j.P/236[P]/j.P has 9f of blockstun, while 236[P] has f of startup
+336/j.P/2P (near Servant)/j.P has 9f of blockstun, while 2P (near Servant) has f of startup
+337/j.P/"6P/6K/6S/6H/6D while holding Servant"/"j.P has 9f of blockstun, while 6P/6K/6S/6H/6D while holding Servant has 12.0f of startup"
+338/j.P/D while holding Servant/j.P has 9f of blockstun, while D while holding Servant has f of startup
+339/j.P/214P/j.P has 9f of blockstun, while 214P has 10.0f of startup
+340/j.P/214K/j.P has 9f of blockstun, while 214K has 12.0f of startup
+341/j.P/214S/j.P has 9f of blockstun, while 214S has 4.0f of startup
+342/j.P/S while holding Servant/j.P has 9f of blockstun, while S while holding Servant has 4.0f of startup
+343/j.P/214H/j.P has 9f of blockstun, while 214H has 208.0f of startup
+344/j.P/236K/j.P has 9f of blockstun, while 236K has 15.0f of startup
+345/j.P/Bounced Servant/j.P has 9f of blockstun, while Bounced Servant has 6.0f of startup
+346/j.P/Launched Servant/j.P has 9f of blockstun, while Launched Servant has 6.0f of startup
+347/j.P/632146P/j.P has 9f of blockstun, while 632146P has 11.0f of startup
+348/j.P/236236S/j.P has 9f of blockstun, while 236236S has 3.0f of startup
+349/j.P/236236H/j.P has 9f of blockstun, while 236236H has 3.0f of startup
+350/j.K/5P/j.K has 11f of blockstun, while 5P has 5.0f of startup
+351/j.K/5K/j.K has 11f of blockstun, while 5K has 7.0f of startup
+352/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
+353/j.K/f.S/j.K has 11f of blockstun, while f.S has 11.0f of startup
+354/j.K/5H/j.K has 11f of blockstun, while 5H has 10.0f of startup
+355/j.K/2P/j.K has 11f of blockstun, while 2P has 5.0f of startup
+356/j.K/2K/j.K has 11f of blockstun, while 2K has 6.0f of startup
+357/j.K/2S/j.K has 11f of blockstun, while 2S has 9.0f of startup
+358/j.K/2H/j.K has 11f of blockstun, while 2H has 15.0f of startup
+359/j.K/j.P/j.K has 11f of blockstun, while j.P has 6.0f of startup
+360/j.K/j.K/j.K has 11f of blockstun, while j.K has 7.0f of startup
+361/j.K/j.S/j.K has 11f of blockstun, while j.S has 11.0f of startup
+362/j.K/j.H/j.K has 11f of blockstun, while j.H has 11.0f of startup
+363/j.K/j.D/10f gap
+364/j.K/6P/j.K has 11f of blockstun, while 6P has 10.0f of startup
+365/j.K/6H/j.K has 11f of blockstun, while 6H has 27.0f of startup
+366/j.K/2D/j.K has 11f of blockstun, while 2D has 10.0f of startup
+367/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
+368/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
+369/j.K/236P/j.K has 11f of blockstun, while 236P has 10.0f of startup
+370/j.K/236[P]/j.K has 11f of blockstun, while 236[P] has f of startup
+371/j.K/2P (near Servant)/j.K has 11f of blockstun, while 2P (near Servant) has f of startup
+372/j.K/"6P/6K/6S/6H/6D while holding Servant"/"j.K has 11f of blockstun, while 6P/6K/6S/6H/6D while holding Servant has 12.0f of startup"
+373/j.K/D while holding Servant/j.K has 11f of blockstun, while D while holding Servant has f of startup
+374/j.K/214P/j.K has 11f of blockstun, while 214P has 10.0f of startup
+375/j.K/214K/j.K has 11f of blockstun, while 214K has 12.0f of startup
+376/j.K/214S/j.K has 11f of blockstun, while 214S has 4.0f of startup
+377/j.K/S while holding Servant/j.K has 11f of blockstun, while S while holding Servant has 4.0f of startup
+378/j.K/214H/j.K has 11f of blockstun, while 214H has 208.0f of startup
+379/j.K/236K/j.K has 11f of blockstun, while 236K has 15.0f of startup
+380/j.K/Bounced Servant/j.K has 11f of blockstun, while Bounced Servant has 6.0f of startup
+381/j.K/Launched Servant/j.K has 11f of blockstun, while Launched Servant has 6.0f of startup
+382/j.K/632146P/j.K has 11f of blockstun, while 632146P has 11.0f of startup
+383/j.K/236236S/j.K has 11f of blockstun, while 236236S has 3.0f of startup
+384/j.K/236236H/j.K has 11f of blockstun, while 236236H has 3.0f of startup
+385/j.S/5P/j.S has 13f of blockstun, while 5P has 5.0f of startup
+386/j.S/5K/j.S has 13f of blockstun, while 5K has 7.0f of startup
+387/j.S/c.S/j.S has 13f of blockstun, while c.S has 7.0f of startup
+388/j.S/f.S/j.S has 13f of blockstun, while f.S has 11.0f of startup
+389/j.S/5H/j.S has 13f of blockstun, while 5H has 10.0f of startup
+390/j.S/2P/j.S has 13f of blockstun, while 2P has 5.0f of startup
+391/j.S/2K/j.S has 13f of blockstun, while 2K has 6.0f of startup
+392/j.S/2S/j.S has 13f of blockstun, while 2S has 9.0f of startup
+393/j.S/2H/j.S has 13f of blockstun, while 2H has 15.0f of startup
+394/j.S/j.P/j.S has 13f of blockstun, while j.P has 6.0f of startup
+395/j.S/j.K/j.S has 13f of blockstun, while j.K has 7.0f of startup
+396/j.S/j.S/j.S has 13f of blockstun, while j.S has 11.0f of startup
+397/j.S/j.H/-2f gap
+398/j.S/j.D/8f gap
+399/j.S/6P/j.S has 13f of blockstun, while 6P has 10.0f of startup
+400/j.S/6H/j.S has 13f of blockstun, while 6H has 27.0f of startup
+401/j.S/2D/j.S has 13f of blockstun, while 2D has 10.0f of startup
+402/j.S/5D/j.S has 13f of blockstun, while 5D has 20.0f of startup
+403/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28.0f of startup
+404/j.S/236P/j.S has 13f of blockstun, while 236P has 10.0f of startup
+405/j.S/236[P]/j.S has 13f of blockstun, while 236[P] has f of startup
+406/j.S/2P (near Servant)/j.S has 13f of blockstun, while 2P (near Servant) has f of startup
+407/j.S/"6P/6K/6S/6H/6D while holding Servant"/"j.S has 13f of blockstun, while 6P/6K/6S/6H/6D while holding Servant has 12.0f of startup"
+408/j.S/D while holding Servant/j.S has 13f of blockstun, while D while holding Servant has f of startup
+409/j.S/214P/j.S has 13f of blockstun, while 214P has 10.0f of startup
+410/j.S/214K/j.S has 13f of blockstun, while 214K has 12.0f of startup
+411/j.S/214S/j.S has 13f of blockstun, while 214S has 4.0f of startup
+412/j.S/S while holding Servant/j.S has 13f of blockstun, while S while holding Servant has 4.0f of startup
+413/j.S/214H/j.S has 13f of blockstun, while 214H has 208.0f of startup
+414/j.S/236K/j.S has 13f of blockstun, while 236K has 15.0f of startup
+415/j.S/Bounced Servant/j.S has 13f of blockstun, while Bounced Servant has 6.0f of startup
+416/j.S/Launched Servant/j.S has 13f of blockstun, while Launched Servant has 6.0f of startup
+417/j.S/632146P/j.S has 13f of blockstun, while 632146P has 11.0f of startup
+418/j.S/236236S/j.S has 13f of blockstun, while 236236S has 3.0f of startup
+419/j.S/236236H/j.S has 13f of blockstun, while 236236H has 3.0f of startup
+420/j.H/5P/j.H has 13f of blockstun, while 5P has 5.0f of startup
+421/j.H/5K/j.H has 13f of blockstun, while 5K has 7.0f of startup
+422/j.H/c.S/j.H has 13f of blockstun, while c.S has 7.0f of startup
+423/j.H/f.S/j.H has 13f of blockstun, while f.S has 11.0f of startup
+424/j.H/5H/j.H has 13f of blockstun, while 5H has 10.0f of startup
+425/j.H/2P/j.H has 13f of blockstun, while 2P has 5.0f of startup
+426/j.H/2K/j.H has 13f of blockstun, while 2K has 6.0f of startup
+427/j.H/2S/j.H has 13f of blockstun, while 2S has 9.0f of startup
+428/j.H/2H/j.H has 13f of blockstun, while 2H has 15.0f of startup
+429/j.H/j.P/j.H has 13f of blockstun, while j.P has 6.0f of startup
+430/j.H/j.K/j.H has 13f of blockstun, while j.K has 7.0f of startup
+431/j.H/j.S/j.H has 13f of blockstun, while j.S has 11.0f of startup
+432/j.H/j.H/j.H has 13f of blockstun, while j.H has 11.0f of startup
+433/j.H/j.D/8f gap
+434/j.H/6P/j.H has 13f of blockstun, while 6P has 10.0f of startup
+435/j.H/6H/j.H has 13f of blockstun, while 6H has 27.0f of startup
+436/j.H/2D/j.H has 13f of blockstun, while 2D has 10.0f of startup
+437/j.H/5D/j.H has 13f of blockstun, while 5D has 20.0f of startup
+438/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28.0f of startup
+439/j.H/236P/j.H has 13f of blockstun, while 236P has 10.0f of startup
+440/j.H/236[P]/j.H has 13f of blockstun, while 236[P] has f of startup
+441/j.H/2P (near Servant)/j.H has 13f of blockstun, while 2P (near Servant) has f of startup
+442/j.H/"6P/6K/6S/6H/6D while holding Servant"/"j.H has 13f of blockstun, while 6P/6K/6S/6H/6D while holding Servant has 12.0f of startup"
+443/j.H/D while holding Servant/j.H has 13f of blockstun, while D while holding Servant has f of startup
+444/j.H/214P/j.H has 13f of blockstun, while 214P has 10.0f of startup
+445/j.H/214K/j.H has 13f of blockstun, while 214K has 12.0f of startup
+446/j.H/214S/j.H has 13f of blockstun, while 214S has 4.0f of startup
+447/j.H/S while holding Servant/j.H has 13f of blockstun, while S while holding Servant has 4.0f of startup
+448/j.H/214H/j.H has 13f of blockstun, while 214H has 208.0f of startup
+449/j.H/236K/j.H has 13f of blockstun, while 236K has 15.0f of startup
+450/j.H/Bounced Servant/j.H has 13f of blockstun, while Bounced Servant has 6.0f of startup
+451/j.H/Launched Servant/j.H has 13f of blockstun, while Launched Servant has 6.0f of startup
+452/j.H/632146P/j.H has 13f of blockstun, while 632146P has 11.0f of startup
+453/j.H/236236S/j.H has 13f of blockstun, while 236236S has 3.0f of startup
+454/j.H/236236H/j.H has 13f of blockstun, while 236236H has 3.0f of startup
+455/j.D/5P/j.D has 11f of blockstun, while 5P has 5.0f of startup
+456/j.D/5K/j.D has 11f of blockstun, while 5K has 7.0f of startup
+457/j.D/c.S/j.D has 11f of blockstun, while c.S has 7.0f of startup
+458/j.D/f.S/j.D has 11f of blockstun, while f.S has 11.0f of startup
+459/j.D/5H/j.D has 11f of blockstun, while 5H has 10.0f of startup
+460/j.D/2P/j.D has 11f of blockstun, while 2P has 5.0f of startup
+461/j.D/2K/j.D has 11f of blockstun, while 2K has 6.0f of startup
+462/j.D/2S/j.D has 11f of blockstun, while 2S has 9.0f of startup
+463/j.D/2H/j.D has 11f of blockstun, while 2H has 15.0f of startup
+464/j.D/j.P/j.D has 11f of blockstun, while j.P has 6.0f of startup
+465/j.D/j.K/j.D has 11f of blockstun, while j.K has 7.0f of startup
+466/j.D/j.S/j.D has 11f of blockstun, while j.S has 11.0f of startup
+467/j.D/j.H/j.D has 11f of blockstun, while j.H has 11.0f of startup
+468/j.D/j.D/j.D has 11f of blockstun, while j.D has 21.0f of startup
+469/j.D/6P/j.D has 11f of blockstun, while 6P has 10.0f of startup
+470/j.D/6H/j.D has 11f of blockstun, while 6H has 27.0f of startup
+471/j.D/2D/j.D has 11f of blockstun, while 2D has 10.0f of startup
+472/j.D/5D/j.D has 11f of blockstun, while 5D has 20.0f of startup
+473/j.D/5[D]/j.D has 11f of blockstun, while 5[D] has 28.0f of startup
+474/j.D/236P/j.D has 11f of blockstun, while 236P has 10.0f of startup
+475/j.D/236[P]/j.D has 11f of blockstun, while 236[P] has f of startup
+476/j.D/2P (near Servant)/j.D has 11f of blockstun, while 2P (near Servant) has f of startup
+477/j.D/"6P/6K/6S/6H/6D while holding Servant"/"j.D has 11f of blockstun, while 6P/6K/6S/6H/6D while holding Servant has 12.0f of startup"
+478/j.D/D while holding Servant/j.D has 11f of blockstun, while D while holding Servant has f of startup
+479/j.D/214P/j.D has 11f of blockstun, while 214P has 10.0f of startup
+480/j.D/214K/j.D has 11f of blockstun, while 214K has 12.0f of startup
+481/j.D/214S/j.D has 11f of blockstun, while 214S has 4.0f of startup
+482/j.D/S while holding Servant/j.D has 11f of blockstun, while S while holding Servant has 4.0f of startup
+483/j.D/214H/j.D has 11f of blockstun, while 214H has 208.0f of startup
+484/j.D/236K/j.D has 11f of blockstun, while 236K has 15.0f of startup
+485/j.D/Bounced Servant/j.D has 11f of blockstun, while Bounced Servant has 6.0f of startup
+486/j.D/Launched Servant/j.D has 11f of blockstun, while Launched Servant has 6.0f of startup
+487/j.D/632146P/j.D has 11f of blockstun, while 632146P has 11.0f of startup
+488/j.D/236236S/j.D has 11f of blockstun, while 236236S has 3.0f of startup
+489/j.D/236236H/j.D has 11f of blockstun, while 236236H has 3.0f of startup
+490/6P/5P/17f gap
+491/6P/5K/19f gap
+492/6P/c.S/19f gap
+493/6P/f.S/23f gap
+494/6P/5H/22f gap
+495/6P/2P/17f gap
+496/6P/2K/18f gap
+497/6P/2S/21f gap
+498/6P/2H/27f gap
+499/6P/j.P/23f gap
+500/6P/j.K/24f gap
+501/6P/j.S/28f gap
+502/6P/j.H/28f gap
+503/6P/j.D/38f gap
+504/6P/6P/22f gap
+505/6P/6H/39f gap
+506/6P/2D/22f gap
+507/6P/5D/32f gap
+508/6P/5[D]/40f gap
+509/6P/236P/-3f gap
+510/6P/236[P]/"N/A"
+511/6P/2P (near Servant)/"N/A"
+512/6P/"6P/6K/6S/6H/6D while holding Servant"/-1f gap
+513/6P/D while holding Servant/"N/A"
+514/6P/214P/-3f gap
+515/6P/214K/-1f gap
+516/6P/214S/-9f gap
+517/6P/S while holding Servant/16f gap
+518/6P/214H/195f gap
+519/6P/236K/2f gap
+520/6P/Bounced Servant/18f gap
+521/6P/Launched Servant/18f gap
+522/6P/632146P/-2f gap
+523/6P/236236S/-10f gap
+524/6P/236236H/-10f gap
+525/6H/5P/11f gap
+526/6H/5K/13f gap
+527/6H/c.S/13f gap
+528/6H/f.S/17f gap
+529/6H/5H/16f gap
+530/6H/2P/11f gap
+531/6H/2K/12f gap
+532/6H/2S/15f gap
+533/6H/2H/21f gap
+534/6H/j.P/17f gap
+535/6H/j.K/18f gap
+536/6H/j.S/22f gap
+537/6H/j.H/22f gap
+538/6H/j.D/32f gap
+539/6H/6P/16f gap
+540/6H/6H/33f gap
+541/6H/2D/16f gap
+542/6H/5D/26f gap
+543/6H/5[D]/34f gap
+544/6H/236P/-8f gap
+545/6H/236[P]/"N/A"
+546/6H/2P (near Servant)/"N/A"
+547/6H/"6P/6K/6S/6H/6D while holding Servant"/-6f gap
+548/6H/D while holding Servant/"N/A"
+549/6H/214P/-8f gap
+550/6H/214K/-6f gap
+551/6H/214S/-14f gap
+552/6H/S while holding Servant/10f gap
+553/6H/214H/190f gap
+554/6H/236K/-3f gap
+555/6H/Bounced Servant/12f gap
+556/6H/Launched Servant/12f gap
+557/6H/632146P/-7f gap
+558/6H/236236S/-15f gap
+559/6H/236236H/-15f gap
+560/2D/5P/24f gap
+561/2D/5K/26f gap
+562/2D/c.S/26f gap
+563/2D/f.S/30f gap
+564/2D/5H/29f gap
+565/2D/2P/24f gap
+566/2D/2K/25f gap
+567/2D/2S/28f gap
+568/2D/2H/34f gap
+569/2D/j.P/30f gap
+570/2D/j.K/31f gap
+571/2D/j.S/35f gap
+572/2D/j.H/35f gap
+573/2D/j.D/45f gap
+574/2D/6P/29f gap
+575/2D/6H/46f gap
+576/2D/2D/29f gap
+577/2D/5D/39f gap
+578/2D/5[D]/47f gap
+579/2D/236P/-3f gap
+580/2D/236[P]/"N/A"
+581/2D/2P (near Servant)/"N/A"
+582/2D/"6P/6K/6S/6H/6D while holding Servant"/-1f gap
+583/2D/D while holding Servant/"N/A"
+584/2D/214P/-3f gap
+585/2D/214K/-1f gap
+586/2D/214S/-9f gap
+587/2D/S while holding Servant/23f gap
+588/2D/214H/195f gap
+589/2D/236K/2f gap
+590/2D/Bounced Servant/25f gap
+591/2D/Launched Servant/25f gap
+592/2D/632146P/-2f gap
+593/2D/236236S/-10f gap
+594/2D/236236H/-10f gap
+595/5D/5P/20f gap
+596/5D/5K/22f gap
+597/5D/c.S/22f gap
+598/5D/f.S/26f gap
+599/5D/5H/25f gap
+600/5D/2P/20f gap
+601/5D/2K/21f gap
+602/5D/2S/24f gap
+603/5D/2H/30f gap
+604/5D/j.P/26f gap
+605/5D/j.K/27f gap
+606/5D/j.S/31f gap
+607/5D/j.H/31f gap
+608/5D/j.D/41f gap
+609/5D/6P/25f gap
+610/5D/6H/42f gap
+611/5D/2D/25f gap
+612/5D/5D/35f gap
+613/5D/5[D]/43f gap
+614/5D/236P/25f gap
+615/5D/236[P]/"N/A"
+616/5D/2P (near Servant)/"N/A"
+617/5D/"6P/6K/6S/6H/6D while holding Servant"/27f gap
+618/5D/D while holding Servant/"N/A"
+619/5D/214P/25f gap
+620/5D/214K/27f gap
+621/5D/214S/19f gap
+622/5D/S while holding Servant/19f gap
+623/5D/214H/223f gap
+624/5D/236K/30f gap
+625/5D/Bounced Servant/21f gap
+626/5D/Launched Servant/21f gap
+627/5D/632146P/26f gap
+628/5D/236236S/18f gap
+629/5D/236236H/18f gap
+630/5[D]/5P/15f gap
+631/5[D]/5K/17f gap
+632/5[D]/c.S/17f gap
+633/5[D]/f.S/21f gap
+634/5[D]/5H/20f gap
+635/5[D]/2P/15f gap
+636/5[D]/2K/16f gap
+637/5[D]/2S/19f gap
+638/5[D]/2H/25f gap
+639/5[D]/j.P/21f gap
+640/5[D]/j.K/22f gap
+641/5[D]/j.S/26f gap
+642/5[D]/j.H/26f gap
+643/5[D]/j.D/36f gap
+644/5[D]/6P/20f gap
+645/5[D]/6H/37f gap
+646/5[D]/2D/20f gap
+647/5[D]/5D/30f gap
+648/5[D]/5[D]/38f gap
+649/5[D]/236P/20f gap
+650/5[D]/236[P]/"N/A"
+651/5[D]/2P (near Servant)/"N/A"
+652/5[D]/"6P/6K/6S/6H/6D while holding Servant"/22f gap
+653/5[D]/D while holding Servant/"N/A"
+654/5[D]/214P/20f gap
+655/5[D]/214K/22f gap
+656/5[D]/214S/14f gap
+657/5[D]/S while holding Servant/14f gap
+658/5[D]/214H/218f gap
+659/5[D]/236K/25f gap
+660/5[D]/Bounced Servant/16f gap
+661/5[D]/Launched Servant/16f gap
+662/5[D]/632146P/21f gap
+663/5[D]/236236S/13f gap
+664/5[D]/236236H/13f gap
+665/236P/5P/"N/A"
+666/236P/5K/"N/A"
+667/236P/c.S/"N/A"
+668/236P/f.S/"N/A"
+669/236P/5H/"N/A"
+670/236P/2P/"N/A"
+671/236P/2K/"N/A"
+672/236P/2S/"N/A"
+673/236P/2H/"N/A"
+674/236P/j.P/"N/A"
+675/236P/j.K/"N/A"
+676/236P/j.S/"N/A"
+677/236P/j.H/"N/A"
+678/236P/j.D/"N/A"
+679/236P/6P/"N/A"
+680/236P/6H/"N/A"
+681/236P/2D/"N/A"
+682/236P/5D/"N/A"
+683/236P/5[D]/"N/A"
+684/236P/236P/"N/A"
+685/236P/236[P]/"N/A"
+686/236P/2P (near Servant)/"N/A"
+687/236P/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+688/236P/D while holding Servant/"N/A"
+689/236P/214P/"N/A"
+690/236P/214K/"N/A"
+691/236P/214S/"N/A"
+692/236P/S while holding Servant/"N/A"
+693/236P/214H/"N/A"
+694/236P/236K/"N/A"
+695/236P/Bounced Servant/"N/A"
+696/236P/Launched Servant/"N/A"
+697/236P/632146P/"N/A"
+698/236P/236236S/"N/A"
+699/236P/236236H/"N/A"
+700/236[P]/5P/"N/A"
+701/236[P]/5K/"N/A"
+702/236[P]/c.S/"N/A"
+703/236[P]/f.S/"N/A"
+704/236[P]/5H/"N/A"
+705/236[P]/2P/"N/A"
+706/236[P]/2K/"N/A"
+707/236[P]/2S/"N/A"
+708/236[P]/2H/"N/A"
+709/236[P]/j.P/"N/A"
+710/236[P]/j.K/"N/A"
+711/236[P]/j.S/"N/A"
+712/236[P]/j.H/"N/A"
+713/236[P]/j.D/"N/A"
+714/236[P]/6P/"N/A"
+715/236[P]/6H/"N/A"
+716/236[P]/2D/"N/A"
+717/236[P]/5D/"N/A"
+718/236[P]/5[D]/"N/A"
+719/236[P]/236P/"N/A"
+720/236[P]/236[P]/"N/A"
+721/236[P]/2P (near Servant)/"N/A"
+722/236[P]/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+723/236[P]/D while holding Servant/"N/A"
+724/236[P]/214P/"N/A"
+725/236[P]/214K/"N/A"
+726/236[P]/214S/"N/A"
+727/236[P]/S while holding Servant/"N/A"
+728/236[P]/214H/"N/A"
+729/236[P]/236K/"N/A"
+730/236[P]/Bounced Servant/"N/A"
+731/236[P]/Launched Servant/"N/A"
+732/236[P]/632146P/"N/A"
+733/236[P]/236236S/"N/A"
+734/236[P]/236236H/"N/A"
+735/2P (near Servant)/5P/"N/A"
+736/2P (near Servant)/5K/"N/A"
+737/2P (near Servant)/c.S/"N/A"
+738/2P (near Servant)/f.S/"N/A"
+739/2P (near Servant)/5H/"N/A"
+740/2P (near Servant)/2P/"N/A"
+741/2P (near Servant)/2K/"N/A"
+742/2P (near Servant)/2S/"N/A"
+743/2P (near Servant)/2H/"N/A"
+744/2P (near Servant)/j.P/"N/A"
+745/2P (near Servant)/j.K/"N/A"
+746/2P (near Servant)/j.S/"N/A"
+747/2P (near Servant)/j.H/"N/A"
+748/2P (near Servant)/j.D/"N/A"
+749/2P (near Servant)/6P/"N/A"
+750/2P (near Servant)/6H/"N/A"
+751/2P (near Servant)/2D/"N/A"
+752/2P (near Servant)/5D/"N/A"
+753/2P (near Servant)/5[D]/"N/A"
+754/2P (near Servant)/236P/"N/A"
+755/2P (near Servant)/236[P]/"N/A"
+756/2P (near Servant)/2P (near Servant)/"N/A"
+757/2P (near Servant)/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+758/2P (near Servant)/D while holding Servant/"N/A"
+759/2P (near Servant)/214P/"N/A"
+760/2P (near Servant)/214K/"N/A"
+761/2P (near Servant)/214S/"N/A"
+762/2P (near Servant)/S while holding Servant/"N/A"
+763/2P (near Servant)/214H/"N/A"
+764/2P (near Servant)/236K/"N/A"
+765/2P (near Servant)/Bounced Servant/"N/A"
+766/2P (near Servant)/Launched Servant/"N/A"
+767/2P (near Servant)/632146P/"N/A"
+768/2P (near Servant)/236236S/"N/A"
+769/2P (near Servant)/236236H/"N/A"
+770/"6P/6K/6S/6H/6D while holding Servant"/5P/0f gap
+771/"6P/6K/6S/6H/6D while holding Servant"/5K/2f gap
+772/"6P/6K/6S/6H/6D while holding Servant"/c.S/2f gap
+773/"6P/6K/6S/6H/6D while holding Servant"/f.S/6f gap
+774/"6P/6K/6S/6H/6D while holding Servant"/5H/5f gap
+775/"6P/6K/6S/6H/6D while holding Servant"/2P/0f gap
+776/"6P/6K/6S/6H/6D while holding Servant"/2K/1f gap
+777/"6P/6K/6S/6H/6D while holding Servant"/2S/4f gap
+778/"6P/6K/6S/6H/6D while holding Servant"/2H/10f gap
+779/"6P/6K/6S/6H/6D while holding Servant"/j.P/6f gap
+780/"6P/6K/6S/6H/6D while holding Servant"/j.K/7f gap
+781/"6P/6K/6S/6H/6D while holding Servant"/j.S/11f gap
+782/"6P/6K/6S/6H/6D while holding Servant"/j.H/11f gap
+783/"6P/6K/6S/6H/6D while holding Servant"/j.D/21f gap
+784/"6P/6K/6S/6H/6D while holding Servant"/6P/5f gap
+785/"6P/6K/6S/6H/6D while holding Servant"/6H/22f gap
+786/"6P/6K/6S/6H/6D while holding Servant"/2D/5f gap
+787/"6P/6K/6S/6H/6D while holding Servant"/5D/15f gap
+788/"6P/6K/6S/6H/6D while holding Servant"/5[D]/23f gap
+789/"6P/6K/6S/6H/6D while holding Servant"/236P/5f gap
+790/"6P/6K/6S/6H/6D while holding Servant"/236[P]/"N/A"
+791/"6P/6K/6S/6H/6D while holding Servant"/2P (near Servant)/"N/A"
+792/"6P/6K/6S/6H/6D while holding Servant"/"6P/6K/6S/6H/6D while holding Servant"/7f gap
+793/"6P/6K/6S/6H/6D while holding Servant"/D while holding Servant/"N/A"
+794/"6P/6K/6S/6H/6D while holding Servant"/214P/5f gap
+795/"6P/6K/6S/6H/6D while holding Servant"/214K/7f gap
+796/"6P/6K/6S/6H/6D while holding Servant"/214S/-1f gap
+797/"6P/6K/6S/6H/6D while holding Servant"/S while holding Servant/-1f gap
+798/"6P/6K/6S/6H/6D while holding Servant"/214H/203f gap
+799/"6P/6K/6S/6H/6D while holding Servant"/236K/10f gap
+800/"6P/6K/6S/6H/6D while holding Servant"/Bounced Servant/1f gap
+801/"6P/6K/6S/6H/6D while holding Servant"/Launched Servant/1f gap
+802/"6P/6K/6S/6H/6D while holding Servant"/632146P/6f gap
+803/"6P/6K/6S/6H/6D while holding Servant"/236236S/-2f gap
+804/"6P/6K/6S/6H/6D while holding Servant"/236236H/-2f gap
+805/D while holding Servant/5P/"N/A"
+806/D while holding Servant/5K/"N/A"
+807/D while holding Servant/c.S/"N/A"
+808/D while holding Servant/f.S/"N/A"
+809/D while holding Servant/5H/"N/A"
+810/D while holding Servant/2P/"N/A"
+811/D while holding Servant/2K/"N/A"
+812/D while holding Servant/2S/"N/A"
+813/D while holding Servant/2H/"N/A"
+814/D while holding Servant/j.P/"N/A"
+815/D while holding Servant/j.K/"N/A"
+816/D while holding Servant/j.S/"N/A"
+817/D while holding Servant/j.H/"N/A"
+818/D while holding Servant/j.D/"N/A"
+819/D while holding Servant/6P/"N/A"
+820/D while holding Servant/6H/"N/A"
+821/D while holding Servant/2D/"N/A"
+822/D while holding Servant/5D/"N/A"
+823/D while holding Servant/5[D]/"N/A"
+824/D while holding Servant/236P/"N/A"
+825/D while holding Servant/236[P]/"N/A"
+826/D while holding Servant/2P (near Servant)/"N/A"
+827/D while holding Servant/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+828/D while holding Servant/D while holding Servant/"N/A"
+829/D while holding Servant/214P/"N/A"
+830/D while holding Servant/214K/"N/A"
+831/D while holding Servant/214S/"N/A"
+832/D while holding Servant/S while holding Servant/"N/A"
+833/D while holding Servant/214H/"N/A"
+834/D while holding Servant/236K/"N/A"
+835/D while holding Servant/Bounced Servant/"N/A"
+836/D while holding Servant/Launched Servant/"N/A"
+837/D while holding Servant/632146P/"N/A"
+838/D while holding Servant/236236S/"N/A"
+839/D while holding Servant/236236H/"N/A"
+840/214P/5P/"N/A"
+841/214P/5K/"N/A"
+842/214P/c.S/"N/A"
+843/214P/f.S/"N/A"
+844/214P/5H/"N/A"
+845/214P/2P/"N/A"
+846/214P/2K/"N/A"
+847/214P/2S/"N/A"
+848/214P/2H/"N/A"
+849/214P/j.P/"N/A"
+850/214P/j.K/"N/A"
+851/214P/j.S/"N/A"
+852/214P/j.H/"N/A"
+853/214P/j.D/"N/A"
+854/214P/6P/"N/A"
+855/214P/6H/"N/A"
+856/214P/2D/"N/A"
+857/214P/5D/"N/A"
+858/214P/5[D]/"N/A"
+859/214P/236P/"N/A"
+860/214P/236[P]/"N/A"
+861/214P/2P (near Servant)/"N/A"
+862/214P/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+863/214P/D while holding Servant/"N/A"
+864/214P/214P/"N/A"
+865/214P/214K/"N/A"
+866/214P/214S/"N/A"
+867/214P/S while holding Servant/"N/A"
+868/214P/214H/"N/A"
+869/214P/236K/"N/A"
+870/214P/Bounced Servant/"N/A"
+871/214P/Launched Servant/"N/A"
+872/214P/632146P/"N/A"
+873/214P/236236S/"N/A"
+874/214P/236236H/"N/A"
+875/214K/5P/-10f gap
+876/214K/5K/-8f gap
+877/214K/c.S/-8f gap
+878/214K/f.S/-4f gap
+879/214K/5H/-5f gap
+880/214K/2P/-10f gap
+881/214K/2K/-9f gap
+882/214K/2S/-6f gap
+883/214K/2H/0f gap
+884/214K/j.P/-4f gap
+885/214K/j.K/-3f gap
+886/214K/j.S/1f gap
+887/214K/j.H/1f gap
+888/214K/j.D/11f gap
+889/214K/6P/-5f gap
+890/214K/6H/12f gap
+891/214K/2D/-5f gap
+892/214K/5D/5f gap
+893/214K/5[D]/13f gap
+894/214K/236P/-5f gap
+895/214K/236[P]/"N/A"
+896/214K/2P (near Servant)/"N/A"
+897/214K/"6P/6K/6S/6H/6D while holding Servant"/-3f gap
+898/214K/D while holding Servant/"N/A"
+899/214K/214P/-5f gap
+900/214K/214K/-3f gap
+901/214K/214S/-11f gap
+902/214K/S while holding Servant/-11f gap
+903/214K/214H/193f gap
+904/214K/236K/0f gap
+905/214K/Bounced Servant/-9f gap
+906/214K/Launched Servant/-9f gap
+907/214K/632146P/-4f gap
+908/214K/236236S/-12f gap
+909/214K/236236H/-12f gap
+910/214S/5P/"N/A"
+911/214S/5K/"N/A"
+912/214S/c.S/"N/A"
+913/214S/f.S/"N/A"
+914/214S/5H/"N/A"
+915/214S/2P/"N/A"
+916/214S/2K/"N/A"
+917/214S/2S/"N/A"
+918/214S/2H/"N/A"
+919/214S/j.P/"N/A"
+920/214S/j.K/"N/A"
+921/214S/j.S/"N/A"
+922/214S/j.H/"N/A"
+923/214S/j.D/"N/A"
+924/214S/6P/"N/A"
+925/214S/6H/"N/A"
+926/214S/2D/"N/A"
+927/214S/5D/"N/A"
+928/214S/5[D]/"N/A"
+929/214S/236P/"N/A"
+930/214S/236[P]/"N/A"
+931/214S/2P (near Servant)/"N/A"
+932/214S/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+933/214S/D while holding Servant/"N/A"
+934/214S/214P/"N/A"
+935/214S/214K/"N/A"
+936/214S/214S/"N/A"
+937/214S/S while holding Servant/"N/A"
+938/214S/214H/"N/A"
+939/214S/236K/"N/A"
+940/214S/Bounced Servant/"N/A"
+941/214S/Launched Servant/"N/A"
+942/214S/632146P/"N/A"
+943/214S/236236S/"N/A"
+944/214S/236236H/"N/A"
+945/S while holding Servant/5P/"N/A"
+946/S while holding Servant/5K/"N/A"
+947/S while holding Servant/c.S/"N/A"
+948/S while holding Servant/f.S/"N/A"
+949/S while holding Servant/5H/"N/A"
+950/S while holding Servant/2P/"N/A"
+951/S while holding Servant/2K/"N/A"
+952/S while holding Servant/2S/"N/A"
+953/S while holding Servant/2H/"N/A"
+954/S while holding Servant/j.P/"N/A"
+955/S while holding Servant/j.K/"N/A"
+956/S while holding Servant/j.S/"N/A"
+957/S while holding Servant/j.H/"N/A"
+958/S while holding Servant/j.D/"N/A"
+959/S while holding Servant/6P/"N/A"
+960/S while holding Servant/6H/"N/A"
+961/S while holding Servant/2D/"N/A"
+962/S while holding Servant/5D/"N/A"
+963/S while holding Servant/5[D]/"N/A"
+964/S while holding Servant/236P/"N/A"
+965/S while holding Servant/236[P]/"N/A"
+966/S while holding Servant/2P (near Servant)/"N/A"
+967/S while holding Servant/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+968/S while holding Servant/D while holding Servant/"N/A"
+969/S while holding Servant/214P/"N/A"
+970/S while holding Servant/214K/"N/A"
+971/S while holding Servant/214S/"N/A"
+972/S while holding Servant/S while holding Servant/"N/A"
+973/S while holding Servant/214H/"N/A"
+974/S while holding Servant/236K/"N/A"
+975/S while holding Servant/Bounced Servant/"N/A"
+976/S while holding Servant/Launched Servant/"N/A"
+977/S while holding Servant/632146P/"N/A"
+978/S while holding Servant/236236S/"N/A"
+979/S while holding Servant/236236H/"N/A"
+980/214H/5P/"N/A"
+981/214H/5K/"N/A"
+982/214H/c.S/"N/A"
+983/214H/f.S/"N/A"
+984/214H/5H/"N/A"
+985/214H/2P/"N/A"
+986/214H/2K/"N/A"
+987/214H/2S/"N/A"
+988/214H/2H/"N/A"
+989/214H/j.P/"N/A"
+990/214H/j.K/"N/A"
+991/214H/j.S/"N/A"
+992/214H/j.H/"N/A"
+993/214H/j.D/"N/A"
+994/214H/6P/"N/A"
+995/214H/6H/"N/A"
+996/214H/2D/"N/A"
+997/214H/5D/"N/A"
+998/214H/5[D]/"N/A"
+999/214H/236P/"N/A"
+1000/214H/236[P]/"N/A"
+1001/214H/2P (near Servant)/"N/A"
+1002/214H/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1003/214H/D while holding Servant/"N/A"
+1004/214H/214P/"N/A"
+1005/214H/214K/"N/A"
+1006/214H/214S/"N/A"
+1007/214H/S while holding Servant/"N/A"
+1008/214H/214H/"N/A"
+1009/214H/236K/"N/A"
+1010/214H/Bounced Servant/"N/A"
+1011/214H/Launched Servant/"N/A"
+1012/214H/632146P/"N/A"
+1013/214H/236236S/"N/A"
+1014/214H/236236H/"N/A"
+1015/236K/5P/17f gap
+1016/236K/5K/19f gap
+1017/236K/c.S/19f gap
+1018/236K/f.S/23f gap
+1019/236K/5H/22f gap
+1020/236K/2P/17f gap
+1021/236K/2K/18f gap
+1022/236K/2S/21f gap
+1023/236K/2H/27f gap
+1024/236K/j.P/23f gap
+1025/236K/j.K/24f gap
+1026/236K/j.S/28f gap
+1027/236K/j.H/28f gap
+1028/236K/j.D/38f gap
+1029/236K/6P/22f gap
+1030/236K/6H/39f gap
+1031/236K/2D/22f gap
+1032/236K/5D/32f gap
+1033/236K/5[D]/40f gap
+1034/236K/236P/22f gap
+1035/236K/236[P]/"N/A"
+1036/236K/2P (near Servant)/"N/A"
+1037/236K/"6P/6K/6S/6H/6D while holding Servant"/24f gap
+1038/236K/D while holding Servant/"N/A"
+1039/236K/214P/22f gap
+1040/236K/214K/24f gap
+1041/236K/214S/16f gap
+1042/236K/S while holding Servant/16f gap
+1043/236K/214H/220f gap
+1044/236K/236K/27f gap
+1045/236K/Bounced Servant/18f gap
+1046/236K/Launched Servant/18f gap
+1047/236K/632146P/23f gap
+1048/236K/236236S/15f gap
+1049/236K/236236H/15f gap
+1050/Bounced Servant/5P/"N/A"
+1051/Bounced Servant/5K/"N/A"
+1052/Bounced Servant/c.S/"N/A"
+1053/Bounced Servant/f.S/"N/A"
+1054/Bounced Servant/5H/"N/A"
+1055/Bounced Servant/2P/"N/A"
+1056/Bounced Servant/2K/"N/A"
+1057/Bounced Servant/2S/"N/A"
+1058/Bounced Servant/2H/"N/A"
+1059/Bounced Servant/j.P/"N/A"
+1060/Bounced Servant/j.K/"N/A"
+1061/Bounced Servant/j.S/"N/A"
+1062/Bounced Servant/j.H/"N/A"
+1063/Bounced Servant/j.D/"N/A"
+1064/Bounced Servant/6P/"N/A"
+1065/Bounced Servant/6H/"N/A"
+1066/Bounced Servant/2D/"N/A"
+1067/Bounced Servant/5D/"N/A"
+1068/Bounced Servant/5[D]/"N/A"
+1069/Bounced Servant/236P/"N/A"
+1070/Bounced Servant/236[P]/"N/A"
+1071/Bounced Servant/2P (near Servant)/"N/A"
+1072/Bounced Servant/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1073/Bounced Servant/D while holding Servant/"N/A"
+1074/Bounced Servant/214P/"N/A"
+1075/Bounced Servant/214K/"N/A"
+1076/Bounced Servant/214S/"N/A"
+1077/Bounced Servant/S while holding Servant/"N/A"
+1078/Bounced Servant/214H/"N/A"
+1079/Bounced Servant/236K/"N/A"
+1080/Bounced Servant/Bounced Servant/"N/A"
+1081/Bounced Servant/Launched Servant/"N/A"
+1082/Bounced Servant/632146P/"N/A"
+1083/Bounced Servant/236236S/"N/A"
+1084/Bounced Servant/236236H/"N/A"
+1085/Launched Servant/5P/11f gap
+1086/Launched Servant/5K/13f gap
+1087/Launched Servant/c.S/13f gap
+1088/Launched Servant/f.S/17f gap
+1089/Launched Servant/5H/16f gap
+1090/Launched Servant/2P/11f gap
+1091/Launched Servant/2K/12f gap
+1092/Launched Servant/2S/15f gap
+1093/Launched Servant/2H/21f gap
+1094/Launched Servant/j.P/17f gap
+1095/Launched Servant/j.K/18f gap
+1096/Launched Servant/j.S/22f gap
+1097/Launched Servant/j.H/22f gap
+1098/Launched Servant/j.D/32f gap
+1099/Launched Servant/6P/16f gap
+1100/Launched Servant/6H/33f gap
+1101/Launched Servant/2D/16f gap
+1102/Launched Servant/5D/26f gap
+1103/Launched Servant/5[D]/34f gap
+1104/Launched Servant/236P/16f gap
+1105/Launched Servant/236[P]/"N/A"
+1106/Launched Servant/2P (near Servant)/"N/A"
+1107/Launched Servant/"6P/6K/6S/6H/6D while holding Servant"/18f gap
+1108/Launched Servant/D while holding Servant/"N/A"
+1109/Launched Servant/214P/16f gap
+1110/Launched Servant/214K/18f gap
+1111/Launched Servant/214S/10f gap
+1112/Launched Servant/S while holding Servant/10f gap
+1113/Launched Servant/214H/214f gap
+1114/Launched Servant/236K/21f gap
+1115/Launched Servant/Bounced Servant/12f gap
+1116/Launched Servant/Launched Servant/12f gap
+1117/Launched Servant/632146P/17f gap
+1118/Launched Servant/236236S/9f gap
+1119/Launched Servant/236236H/9f gap
+1120/632146P/5P/"N/A"
+1121/632146P/5K/"N/A"
+1122/632146P/c.S/"N/A"
+1123/632146P/f.S/"N/A"
+1124/632146P/5H/"N/A"
+1125/632146P/2P/"N/A"
+1126/632146P/2K/"N/A"
+1127/632146P/2S/"N/A"
+1128/632146P/2H/"N/A"
+1129/632146P/j.P/"N/A"
+1130/632146P/j.K/"N/A"
+1131/632146P/j.S/"N/A"
+1132/632146P/j.H/"N/A"
+1133/632146P/j.D/"N/A"
+1134/632146P/6P/"N/A"
+1135/632146P/6H/"N/A"
+1136/632146P/2D/"N/A"
+1137/632146P/5D/"N/A"
+1138/632146P/5[D]/"N/A"
+1139/632146P/236P/"N/A"
+1140/632146P/236[P]/"N/A"
+1141/632146P/2P (near Servant)/"N/A"
+1142/632146P/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1143/632146P/D while holding Servant/"N/A"
+1144/632146P/214P/"N/A"
+1145/632146P/214K/"N/A"
+1146/632146P/214S/"N/A"
+1147/632146P/S while holding Servant/"N/A"
+1148/632146P/214H/"N/A"
+1149/632146P/236K/"N/A"
+1150/632146P/Bounced Servant/"N/A"
+1151/632146P/Launched Servant/"N/A"
+1152/632146P/632146P/"N/A"
+1153/632146P/236236S/"N/A"
+1154/632146P/236236H/"N/A"
+1155/236236S/5P/"N/A"
+1156/236236S/5K/"N/A"
+1157/236236S/c.S/"N/A"
+1158/236236S/f.S/"N/A"
+1159/236236S/5H/"N/A"
+1160/236236S/2P/"N/A"
+1161/236236S/2K/"N/A"
+1162/236236S/2S/"N/A"
+1163/236236S/2H/"N/A"
+1164/236236S/j.P/"N/A"
+1165/236236S/j.K/"N/A"
+1166/236236S/j.S/"N/A"
+1167/236236S/j.H/"N/A"
+1168/236236S/j.D/"N/A"
+1169/236236S/6P/"N/A"
+1170/236236S/6H/"N/A"
+1171/236236S/2D/"N/A"
+1172/236236S/5D/"N/A"
+1173/236236S/5[D]/"N/A"
+1174/236236S/236P/"N/A"
+1175/236236S/236[P]/"N/A"
+1176/236236S/2P (near Servant)/"N/A"
+1177/236236S/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1178/236236S/D while holding Servant/"N/A"
+1179/236236S/214P/"N/A"
+1180/236236S/214K/"N/A"
+1181/236236S/214S/"N/A"
+1182/236236S/S while holding Servant/"N/A"
+1183/236236S/214H/"N/A"
+1184/236236S/236K/"N/A"
+1185/236236S/Bounced Servant/"N/A"
+1186/236236S/Launched Servant/"N/A"
+1187/236236S/632146P/"N/A"
+1188/236236S/236236S/"N/A"
+1189/236236S/236236H/"N/A"
+1190/236236H/5P/"N/A"
+1191/236236H/5K/"N/A"
+1192/236236H/c.S/"N/A"
+1193/236236H/f.S/"N/A"
+1194/236236H/5H/"N/A"
+1195/236236H/2P/"N/A"
+1196/236236H/2K/"N/A"
+1197/236236H/2S/"N/A"
+1198/236236H/2H/"N/A"
+1199/236236H/j.P/"N/A"
+1200/236236H/j.K/"N/A"
+1201/236236H/j.S/"N/A"
+1202/236236H/j.H/"N/A"
+1203/236236H/j.D/"N/A"
+1204/236236H/6P/"N/A"
+1205/236236H/6H/"N/A"
+1206/236236H/2D/"N/A"
+1207/236236H/5D/"N/A"
+1208/236236H/5[D]/"N/A"
+1209/236236H/236P/"N/A"
+1210/236236H/236[P]/"N/A"
+1211/236236H/2P (near Servant)/"N/A"
+1212/236236H/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1213/236236H/D while holding Servant/"N/A"
+1214/236236H/214P/"N/A"
+1215/236236H/214K/"N/A"
+1216/236236H/214S/"N/A"
+1217/236236H/S while holding Servant/"N/A"
+1218/236236H/214H/"N/A"
+1219/236236H/236K/"N/A"
+1220/236236H/Bounced Servant/"N/A"
+1221/236236H/Launched Servant/"N/A"
+1222/236236H/632146P/"N/A"
+1223/236236H/236236S/"N/A"
+1224/236236H/236236H/"N/A"

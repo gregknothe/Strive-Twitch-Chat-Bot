@@ -3,6 +3,7 @@ import re
 import urllib.request
 import difflib
 import numpy as np
+import sys
 
 '''
 To Do List:
@@ -150,7 +151,7 @@ def addRekkas(char, moveDF):
     if char == "Ramlethal_Valentine":
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "214P":
-                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214P 214P"
+                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214P 214P,214[P] 214[P]"
             if moveDF.loc[x]["Input"] == "214P 214P":
                 moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214P 214P 214P"
             if moveDF.loc[x]["Input"] == "214[P] 214[P]":
@@ -393,7 +394,8 @@ def frameTrap(char, move1, move2):
     move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
     #Rekka Check
     if move2Type == "Rekka Followup" and move2 not in move1Cancel:
-        return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
+        #return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
+        return move2 + " is a follow-up move and cannot be done after " + move1
     #Ground Gatling 
     elif (move2 in move1Cancel or move2Type in move1Cancel) and "j." not in move1 and "j." not in move2:
         gap = move2Start - levelHitstun(move1Lvl) 
@@ -417,14 +419,68 @@ def frameTrap(char, move1, move2):
         gap = move2Start - levelHitstun(move1Lvl)
     #Air non-gatling and Air to Ground
     else:
-        return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
-    return char.replace("_"," ") + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
+        #return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
+        return move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup"
+    #return char.replace("_"," ") + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
+    return str(round(gap)) + "f gap"
 
-#updateClean("Nagoriyuki")
-#viewData("Nagoriyuki")
+def dropDownListGenerator(char):
+    data = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
+    moveList = data["Input"].to_list()
+    print("<!-- "+char+" Move List -->")
+    print("<select id='" + char + "_List' class='characterHidden'>")
+    for x in moveList:
+        print("     <option value='" + x + "'>" + x + "</option>")
+    print("</select>")
+    print("")
+    print("<select id='" + char + "_List2' class='characterHidden'>")
+    for x in moveList:
+        print("     <option value='" + x + "'>" + x + "</option>")
+    print("</select>")
+    return
 
-#char = "asuka"
-#viewData(nameCleaner(char))
-#print(frameTrap(char, "cS", "howling metron"))
+def dropDownListGeneratorAll():
+    charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
+                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+    original_stdout = sys.stdout
+    with open("testDropDown.text", "w") as f:
+        sys.stdout = f
+        for x in charList:
+            dropDownListGenerator(x)
+            print("")
+        sys.stdout = original_stdout
+    return
 
-#print(moveLookup("Millia", "5P"))
+#dropDownListGeneratorAll()
+
+def frameTrapAll(char):
+    df = pd.read_csv("GGST-Frame/CleanData/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
+    moveList = df["Input"].to_list()
+    move1List, move2List, gapList = [], [], []
+    for x in moveList:
+        #print("current move: " + x)
+        for y in moveList: 
+            try:
+                result = frameTrap(char, x, y)
+                move1List.append(x)
+                move2List.append(y)
+                gapList.append(result)
+            except:
+                move1List.append(x)
+                move2List.append(y)
+                gapList.append("N/A")
+    gapTable = pd.DataFrame(data={"move1": move1List, "move2": move2List, "gap": gapList})
+    gapTable.to_csv("GGST-Frame/GapData/"+nameCleaner(char)+".txt", sep="/")
+    print(char + " gap table is complete.")
+    return 
+
+def frameTrapAllCharacters():
+    charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
+                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+    for character in charList:
+        frameTrapAll(character)
+    return
+
+#frameTrapAllCharacters()

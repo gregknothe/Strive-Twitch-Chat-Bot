@@ -1,0 +1,1445 @@
+/move1/move2/gap
+0/5P/5P/-7f gap
+1/5P/5K/5f gap
+2/5P/c.S/9f gap
+3/5P/f.S/12f gap
+4/5P/5H/13f gap
+5/5P/2P/-6f gap
+6/5P/2K/8f gap
+7/5P/2S/12f gap
+8/5P/2H/13f gap
+9/5P/j.P/12f gap
+10/5P/j.K/13f gap
+11/5P/j.S/17f gap
+12/5P/j.H/18f gap
+13/5P/j.D/16f gap
+14/5P/6P/-2f gap
+15/5P/6S/4f gap
+16/5P/6H/-2f gap
+17/5P/2D/12f gap
+18/5P/5D/22f gap
+19/5P/5[D]/30f gap
+20/5P/236P/7f gap
+21/5P/214P/"N/A"
+22/5P/623S/-2f gap
+23/5P/623H/2f gap
+24/5P/j.623S/16f gap
+25/5P/j.623H/20f gap
+26/5P/236K/1f gap
+27/5P/236KK/Sol_Badguy 5P > 236KK: 236KK is a follow-up move that cannot be performed after 5P.
+28/5P/j.236K/17f gap
+29/5P/j.236KK/13f gap
+30/5P/214K/19f gap
+31/5P/j.214K/29f gap
+32/5P/623K/-5f gap
+33/5P/214S/4f gap
+34/5P/41236H/13f gap
+35/5P/632146H/-2f gap
+36/5P/214214H/9f gap
+37/5P/214[S]/21f gap
+38/5K/5P/20f gap
+39/5K/5K/19f gap
+40/5K/c.S/23f gap
+41/5K/f.S/26f gap
+42/5K/5H/27f gap
+43/5K/2P/21f gap
+44/5K/2K/22f gap
+45/5K/2S/26f gap
+46/5K/2H/27f gap
+47/5K/j.P/-1f gap
+48/5K/j.K/0f gap
+49/5K/j.S/4f gap
+50/5K/j.H/5f gap
+51/5K/j.D/3f gap
+52/5K/6P/-2f gap
+53/5K/6S/4f gap
+54/5K/6H/-2f gap
+55/5K/2D/-1f gap
+56/5K/5D/9f gap
+57/5K/5[D]/44f gap
+58/5K/236P/7f gap
+59/5K/214P/"N/A"
+60/5K/623S/-2f gap
+61/5K/623H/2f gap
+62/5K/j.623S/3f gap
+63/5K/j.623H/7f gap
+64/5K/236K/1f gap
+65/5K/236KK/Sol_Badguy 5K > 236KK: 236KK is a follow-up move that cannot be performed after 5K.
+66/5K/j.236K/4f gap
+67/5K/j.236KK/0f gap
+68/5K/214K/19f gap
+69/5K/j.214K/16f gap
+70/5K/623K/-5f gap
+71/5K/214S/4f gap
+72/5K/41236H/13f gap
+73/5K/632146H/-2f gap
+74/5K/214214H/9f gap
+75/5K/214[S]/21f gap
+76/c.S/5P/1f gap
+77/c.S/5K/0f gap
+78/c.S/c.S/4f gap
+79/c.S/f.S/-8f gap
+80/c.S/5H/-7f gap
+81/c.S/2P/2f gap
+82/c.S/2K/3f gap
+83/c.S/2S/-8f gap
+84/c.S/2H/-7f gap
+85/c.S/j.P/-8f gap
+86/c.S/j.K/-7f gap
+87/c.S/j.S/-3f gap
+88/c.S/j.H/-2f gap
+89/c.S/j.D/-4f gap
+90/c.S/6P/-9f gap
+91/c.S/6S/-3f gap
+92/c.S/6H/-9f gap
+93/c.S/2D/-8f gap
+94/c.S/5D/2f gap
+95/c.S/5[D]/25f gap
+96/c.S/236P/0f gap
+97/c.S/214P/"N/A"
+98/c.S/623S/-9f gap
+99/c.S/623H/-5f gap
+100/c.S/j.623S/-4f gap
+101/c.S/j.623H/0f gap
+102/c.S/236K/-6f gap
+103/c.S/236KK/Sol_Badguy c.S > 236KK: 236KK is a follow-up move that cannot be performed after c.S.
+104/c.S/j.236K/-3f gap
+105/c.S/j.236KK/-7f gap
+106/c.S/214K/12f gap
+107/c.S/j.214K/9f gap
+108/c.S/623K/-12f gap
+109/c.S/214S/-3f gap
+110/c.S/41236H/6f gap
+111/c.S/632146H/-9f gap
+112/c.S/214214H/2f gap
+113/c.S/214[S]/14f gap
+114/f.S/5P/2f gap
+115/f.S/5K/1f gap
+116/f.S/c.S/5f gap
+117/f.S/f.S/8f gap
+118/f.S/5H/-5f gap
+119/f.S/2P/3f gap
+120/f.S/2K/4f gap
+121/f.S/2S/8f gap
+122/f.S/2H/-5f gap
+123/f.S/j.P/8f gap
+124/f.S/j.K/9f gap
+125/f.S/j.S/13f gap
+126/f.S/j.H/14f gap
+127/f.S/j.D/12f gap
+128/f.S/6P/7f gap
+129/f.S/6S/13f gap
+130/f.S/6H/7f gap
+131/f.S/2D/8f gap
+132/f.S/5D/18f gap
+133/f.S/5[D]/26f gap
+134/f.S/236P/2f gap
+135/f.S/214P/"N/A"
+136/f.S/623S/-7f gap
+137/f.S/623H/-3f gap
+138/f.S/j.623S/12f gap
+139/f.S/j.623H/16f gap
+140/f.S/236K/-4f gap
+141/f.S/236KK/Sol_Badguy f.S > 236KK: 236KK is a follow-up move that cannot be performed after f.S.
+142/f.S/j.236K/13f gap
+143/f.S/j.236KK/9f gap
+144/f.S/214K/14f gap
+145/f.S/j.214K/25f gap
+146/f.S/623K/-10f gap
+147/f.S/214S/-1f gap
+148/f.S/41236H/8f gap
+149/f.S/632146H/-7f gap
+150/f.S/214214H/4f gap
+151/f.S/214[S]/16f gap
+152/5H/5P/9f gap
+153/5H/5K/8f gap
+154/5H/c.S/12f gap
+155/5H/f.S/15f gap
+156/5H/5H/16f gap
+157/5H/2P/10f gap
+158/5H/2K/11f gap
+159/5H/2S/15f gap
+160/5H/2H/16f gap
+161/5H/j.P/15f gap
+162/5H/j.K/16f gap
+163/5H/j.S/20f gap
+164/5H/j.H/21f gap
+165/5H/j.D/19f gap
+166/5H/6P/14f gap
+167/5H/6S/20f gap
+168/5H/6H/14f gap
+169/5H/2D/15f gap
+170/5H/5D/25f gap
+171/5H/5[D]/33f gap
+172/5H/236P/0f gap
+173/5H/214P/"N/A"
+174/5H/623S/-9f gap
+175/5H/623H/-5f gap
+176/5H/j.623S/19f gap
+177/5H/j.623H/23f gap
+178/5H/236K/-6f gap
+179/5H/236KK/Sol_Badguy 5H > 236KK: 236KK is a follow-up move that cannot be performed after 5H.
+180/5H/j.236K/20f gap
+181/5H/j.236KK/16f gap
+182/5H/214K/12f gap
+183/5H/j.214K/32f gap
+184/5H/623K/-12f gap
+185/5H/214S/-3f gap
+186/5H/41236H/6f gap
+187/5H/632146H/-9f gap
+188/5H/214214H/2f gap
+189/5H/214[S]/14f gap
+190/2P/5P/-5f gap
+191/2P/5K/5f gap
+192/2P/c.S/9f gap
+193/2P/f.S/12f gap
+194/2P/5H/13f gap
+195/2P/2P/-4f gap
+196/2P/2K/8f gap
+197/2P/2S/12f gap
+198/2P/2H/13f gap
+199/2P/j.P/12f gap
+200/2P/j.K/13f gap
+201/2P/j.S/17f gap
+202/2P/j.H/18f gap
+203/2P/j.D/16f gap
+204/2P/6P/0f gap
+205/2P/6S/6f gap
+206/2P/6H/0f gap
+207/2P/2D/12f gap
+208/2P/5D/22f gap
+209/2P/5[D]/30f gap
+210/2P/236P/9f gap
+211/2P/214P/"N/A"
+212/2P/623S/0f gap
+213/2P/623H/4f gap
+214/2P/j.623S/16f gap
+215/2P/j.623H/20f gap
+216/2P/236K/3f gap
+217/2P/236KK/Sol_Badguy 2P > 236KK: 236KK is a follow-up move that cannot be performed after 2P.
+218/2P/j.236K/17f gap
+219/2P/j.236KK/13f gap
+220/2P/214K/21f gap
+221/2P/j.214K/29f gap
+222/2P/623K/-3f gap
+223/2P/214S/6f gap
+224/2P/41236H/15f gap
+225/2P/632146H/0f gap
+226/2P/214214H/11f gap
+227/2P/214[S]/23f gap
+228/2K/5P/6f gap
+229/2K/5K/5f gap
+230/2K/c.S/9f gap
+231/2K/f.S/12f gap
+232/2K/5H/13f gap
+233/2K/2P/7f gap
+234/2K/2K/8f gap
+235/2K/2S/12f gap
+236/2K/2H/13f gap
+237/2K/j.P/12f gap
+238/2K/j.K/13f gap
+239/2K/j.S/17f gap
+240/2K/j.H/18f gap
+241/2K/j.D/16f gap
+242/2K/6P/-2f gap
+243/2K/6S/4f gap
+244/2K/6H/-2f gap
+245/2K/2D/-1f gap
+246/2K/5D/9f gap
+247/2K/5[D]/30f gap
+248/2K/236P/7f gap
+249/2K/214P/"N/A"
+250/2K/623S/-2f gap
+251/2K/623H/2f gap
+252/2K/j.623S/16f gap
+253/2K/j.623H/20f gap
+254/2K/236K/1f gap
+255/2K/236KK/Sol_Badguy 2K > 236KK: 236KK is a follow-up move that cannot be performed after 2K.
+256/2K/j.236K/17f gap
+257/2K/j.236KK/13f gap
+258/2K/214K/19f gap
+259/2K/j.214K/29f gap
+260/2K/623K/-5f gap
+261/2K/214S/4f gap
+262/2K/41236H/13f gap
+263/2K/632146H/-2f gap
+264/2K/214214H/9f gap
+265/2K/214[S]/21f gap
+266/2S/5P/11f gap
+267/2S/5K/10f gap
+268/2S/c.S/14f gap
+269/2S/f.S/17f gap
+270/2S/5H/-2f gap
+271/2S/2P/12f gap
+272/2S/2K/13f gap
+273/2S/2S/17f gap
+274/2S/2H/-2f gap
+275/2S/j.P/17f gap
+276/2S/j.K/18f gap
+277/2S/j.S/22f gap
+278/2S/j.H/23f gap
+279/2S/j.D/21f gap
+280/2S/6P/16f gap
+281/2S/6S/22f gap
+282/2S/6H/16f gap
+283/2S/2D/17f gap
+284/2S/5D/27f gap
+285/2S/5[D]/35f gap
+286/2S/236P/5f gap
+287/2S/214P/"N/A"
+288/2S/623S/-4f gap
+289/2S/623H/0f gap
+290/2S/j.623S/21f gap
+291/2S/j.623H/25f gap
+292/2S/236K/-1f gap
+293/2S/236KK/Sol_Badguy 2S > 236KK: 236KK is a follow-up move that cannot be performed after 2S.
+294/2S/j.236K/22f gap
+295/2S/j.236KK/18f gap
+296/2S/214K/17f gap
+297/2S/j.214K/34f gap
+298/2S/623K/-7f gap
+299/2S/214S/2f gap
+300/2S/41236H/11f gap
+301/2S/632146H/-4f gap
+302/2S/214214H/7f gap
+303/2S/214[S]/19f gap
+304/2H/5P/21f gap
+305/2H/5K/20f gap
+306/2H/c.S/24f gap
+307/2H/f.S/27f gap
+308/2H/5H/28f gap
+309/2H/2P/22f gap
+310/2H/2K/23f gap
+311/2H/2S/27f gap
+312/2H/2H/28f gap
+313/2H/j.P/27f gap
+314/2H/j.K/28f gap
+315/2H/j.S/32f gap
+316/2H/j.H/33f gap
+317/2H/j.D/31f gap
+318/2H/6P/26f gap
+319/2H/6S/32f gap
+320/2H/6H/26f gap
+321/2H/2D/27f gap
+322/2H/5D/37f gap
+323/2H/5[D]/45f gap
+324/2H/236P/0f gap
+325/2H/214P/"N/A"
+326/2H/623S/-9f gap
+327/2H/623H/-5f gap
+328/2H/j.623S/31f gap
+329/2H/j.623H/35f gap
+330/2H/236K/-6f gap
+331/2H/236KK/Sol_Badguy 2H > 236KK: 236KK is a follow-up move that cannot be performed after 2H.
+332/2H/j.236K/32f gap
+333/2H/j.236KK/28f gap
+334/2H/214K/12f gap
+335/2H/j.214K/44f gap
+336/2H/623K/-12f gap
+337/2H/214S/-3f gap
+338/2H/41236H/6f gap
+339/2H/632146H/-9f gap
+340/2H/214214H/2f gap
+341/2H/214[S]/14f gap
+342/j.P/5P/j.P has 9f of blockstun, while 5P has 4.0f of startup
+343/j.P/5K/j.P has 9f of blockstun, while 5K has 3.0f of startup
+344/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
+345/j.P/f.S/j.P has 9f of blockstun, while f.S has 10.0f of startup
+346/j.P/5H/j.P has 9f of blockstun, while 5H has 11.0f of startup
+347/j.P/2P/j.P has 9f of blockstun, while 2P has 5.0f of startup
+348/j.P/2K/j.P has 9f of blockstun, while 2K has 6.0f of startup
+349/j.P/2S/j.P has 9f of blockstun, while 2S has 10.0f of startup
+350/j.P/2H/j.P has 9f of blockstun, while 2H has 11.0f of startup
+351/j.P/j.P/-4f gap
+352/j.P/j.K/j.P has 9f of blockstun, while j.K has 6.0f of startup
+353/j.P/j.S/j.P has 9f of blockstun, while j.S has 10.0f of startup
+354/j.P/j.H/j.P has 9f of blockstun, while j.H has 11.0f of startup
+355/j.P/j.D/j.P has 9f of blockstun, while j.D has 9.0f of startup
+356/j.P/6P/j.P has 9f of blockstun, while 6P has 9.0f of startup
+357/j.P/6S/j.P has 9f of blockstun, while 6S has 15.0f of startup
+358/j.P/6H/j.P has 9f of blockstun, while 6H has 9.0f of startup
+359/j.P/2D/j.P has 9f of blockstun, while 2D has 10.0f of startup
+360/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
+361/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
+362/j.P/236P/j.P has 9f of blockstun, while 236P has 18.0f of startup
+363/j.P/214P/j.P has 9f of blockstun, while 214P has f of startup
+364/j.P/623S/j.P has 9f of blockstun, while 623S has 9.0f of startup
+365/j.P/623H/j.P has 9f of blockstun, while 623H has 13.0f of startup
+366/j.P/j.623S/j.P has 9f of blockstun, while j.623S has 9.0f of startup
+367/j.P/j.623H/j.P has 9f of blockstun, while j.623H has 13.0f of startup
+368/j.P/236K/j.P has 9f of blockstun, while 236K has 12.0f of startup
+369/j.P/236KK/Sol_Badguy j.P > 236KK: 236KK is a follow-up move that cannot be performed after j.P.
+370/j.P/j.236K/j.P has 9f of blockstun, while j.236K has 10.0f of startup
+371/j.P/j.236KK/j.P has 9f of blockstun, while j.236KK has 6.0f of startup
+372/j.P/214K/j.P has 9f of blockstun, while 214K has 30.0f of startup
+373/j.P/j.214K/j.P has 9f of blockstun, while j.214K has 22.0f of startup
+374/j.P/623K/j.P has 9f of blockstun, while 623K has 6.0f of startup
+375/j.P/214S/j.P has 9f of blockstun, while 214S has 15.0f of startup
+376/j.P/41236H/j.P has 9f of blockstun, while 41236H has 24.0f of startup
+377/j.P/632146H/j.P has 9f of blockstun, while 632146H has 9.0f of startup
+378/j.P/214214H/j.P has 9f of blockstun, while 214214H has 20.0f of startup
+379/j.P/214[S]/j.P has 9f of blockstun, while 214[S] has 32.0f of startup
+380/j.K/5P/j.K has 11f of blockstun, while 5P has 4.0f of startup
+381/j.K/5K/j.K has 11f of blockstun, while 5K has 3.0f of startup
+382/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
+383/j.K/f.S/j.K has 11f of blockstun, while f.S has 10.0f of startup
+384/j.K/5H/j.K has 11f of blockstun, while 5H has 11.0f of startup
+385/j.K/2P/j.K has 11f of blockstun, while 2P has 5.0f of startup
+386/j.K/2K/j.K has 11f of blockstun, while 2K has 6.0f of startup
+387/j.K/2S/j.K has 11f of blockstun, while 2S has 10.0f of startup
+388/j.K/2H/j.K has 11f of blockstun, while 2H has 11.0f of startup
+389/j.K/j.P/j.K has 11f of blockstun, while j.P has 5.0f of startup
+390/j.K/j.K/j.K has 11f of blockstun, while j.K has 6.0f of startup
+391/j.K/j.S/j.K has 11f of blockstun, while j.S has 10.0f of startup
+392/j.K/j.H/j.K has 11f of blockstun, while j.H has 11.0f of startup
+393/j.K/j.D/-2f gap
+394/j.K/6P/j.K has 11f of blockstun, while 6P has 9.0f of startup
+395/j.K/6S/j.K has 11f of blockstun, while 6S has 15.0f of startup
+396/j.K/6H/j.K has 11f of blockstun, while 6H has 9.0f of startup
+397/j.K/2D/j.K has 11f of blockstun, while 2D has 10.0f of startup
+398/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
+399/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
+400/j.K/236P/j.K has 11f of blockstun, while 236P has 18.0f of startup
+401/j.K/214P/j.K has 11f of blockstun, while 214P has f of startup
+402/j.K/623S/j.K has 11f of blockstun, while 623S has 9.0f of startup
+403/j.K/623H/j.K has 11f of blockstun, while 623H has 13.0f of startup
+404/j.K/j.623S/j.K has 11f of blockstun, while j.623S has 9.0f of startup
+405/j.K/j.623H/j.K has 11f of blockstun, while j.623H has 13.0f of startup
+406/j.K/236K/j.K has 11f of blockstun, while 236K has 12.0f of startup
+407/j.K/236KK/Sol_Badguy j.K > 236KK: 236KK is a follow-up move that cannot be performed after j.K.
+408/j.K/j.236K/j.K has 11f of blockstun, while j.236K has 10.0f of startup
+409/j.K/j.236KK/j.K has 11f of blockstun, while j.236KK has 6.0f of startup
+410/j.K/214K/j.K has 11f of blockstun, while 214K has 30.0f of startup
+411/j.K/j.214K/j.K has 11f of blockstun, while j.214K has 22.0f of startup
+412/j.K/623K/j.K has 11f of blockstun, while 623K has 6.0f of startup
+413/j.K/214S/j.K has 11f of blockstun, while 214S has 15.0f of startup
+414/j.K/41236H/j.K has 11f of blockstun, while 41236H has 24.0f of startup
+415/j.K/632146H/j.K has 11f of blockstun, while 632146H has 9.0f of startup
+416/j.K/214214H/j.K has 11f of blockstun, while 214214H has 20.0f of startup
+417/j.K/214[S]/j.K has 11f of blockstun, while 214[S] has 32.0f of startup
+418/j.S/5P/j.S has 13f of blockstun, while 5P has 4.0f of startup
+419/j.S/5K/j.S has 13f of blockstun, while 5K has 3.0f of startup
+420/j.S/c.S/j.S has 13f of blockstun, while c.S has 7.0f of startup
+421/j.S/f.S/j.S has 13f of blockstun, while f.S has 10.0f of startup
+422/j.S/5H/j.S has 13f of blockstun, while 5H has 11.0f of startup
+423/j.S/2P/j.S has 13f of blockstun, while 2P has 5.0f of startup
+424/j.S/2K/j.S has 13f of blockstun, while 2K has 6.0f of startup
+425/j.S/2S/j.S has 13f of blockstun, while 2S has 10.0f of startup
+426/j.S/2H/j.S has 13f of blockstun, while 2H has 11.0f of startup
+427/j.S/j.P/j.S has 13f of blockstun, while j.P has 5.0f of startup
+428/j.S/j.K/j.S has 13f of blockstun, while j.K has 6.0f of startup
+429/j.S/j.S/j.S has 13f of blockstun, while j.S has 10.0f of startup
+430/j.S/j.H/-2f gap
+431/j.S/j.D/-4f gap
+432/j.S/6P/j.S has 13f of blockstun, while 6P has 9.0f of startup
+433/j.S/6S/j.S has 13f of blockstun, while 6S has 15.0f of startup
+434/j.S/6H/j.S has 13f of blockstun, while 6H has 9.0f of startup
+435/j.S/2D/j.S has 13f of blockstun, while 2D has 10.0f of startup
+436/j.S/5D/j.S has 13f of blockstun, while 5D has 20.0f of startup
+437/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28.0f of startup
+438/j.S/236P/j.S has 13f of blockstun, while 236P has 18.0f of startup
+439/j.S/214P/j.S has 13f of blockstun, while 214P has f of startup
+440/j.S/623S/j.S has 13f of blockstun, while 623S has 9.0f of startup
+441/j.S/623H/j.S has 13f of blockstun, while 623H has 13.0f of startup
+442/j.S/j.623S/j.S has 13f of blockstun, while j.623S has 9.0f of startup
+443/j.S/j.623H/j.S has 13f of blockstun, while j.623H has 13.0f of startup
+444/j.S/236K/j.S has 13f of blockstun, while 236K has 12.0f of startup
+445/j.S/236KK/Sol_Badguy j.S > 236KK: 236KK is a follow-up move that cannot be performed after j.S.
+446/j.S/j.236K/j.S has 13f of blockstun, while j.236K has 10.0f of startup
+447/j.S/j.236KK/j.S has 13f of blockstun, while j.236KK has 6.0f of startup
+448/j.S/214K/j.S has 13f of blockstun, while 214K has 30.0f of startup
+449/j.S/j.214K/j.S has 13f of blockstun, while j.214K has 22.0f of startup
+450/j.S/623K/j.S has 13f of blockstun, while 623K has 6.0f of startup
+451/j.S/214S/j.S has 13f of blockstun, while 214S has 15.0f of startup
+452/j.S/41236H/j.S has 13f of blockstun, while 41236H has 24.0f of startup
+453/j.S/632146H/j.S has 13f of blockstun, while 632146H has 9.0f of startup
+454/j.S/214214H/j.S has 13f of blockstun, while 214214H has 20.0f of startup
+455/j.S/214[S]/j.S has 13f of blockstun, while 214[S] has 32.0f of startup
+456/j.H/5P/j.H has 13f of blockstun, while 5P has 4.0f of startup
+457/j.H/5K/j.H has 13f of blockstun, while 5K has 3.0f of startup
+458/j.H/c.S/j.H has 13f of blockstun, while c.S has 7.0f of startup
+459/j.H/f.S/j.H has 13f of blockstun, while f.S has 10.0f of startup
+460/j.H/5H/j.H has 13f of blockstun, while 5H has 11.0f of startup
+461/j.H/2P/j.H has 13f of blockstun, while 2P has 5.0f of startup
+462/j.H/2K/j.H has 13f of blockstun, while 2K has 6.0f of startup
+463/j.H/2S/j.H has 13f of blockstun, while 2S has 10.0f of startup
+464/j.H/2H/j.H has 13f of blockstun, while 2H has 11.0f of startup
+465/j.H/j.P/j.H has 13f of blockstun, while j.P has 5.0f of startup
+466/j.H/j.K/j.H has 13f of blockstun, while j.K has 6.0f of startup
+467/j.H/j.S/j.H has 13f of blockstun, while j.S has 10.0f of startup
+468/j.H/j.H/j.H has 13f of blockstun, while j.H has 11.0f of startup
+469/j.H/j.D/-4f gap
+470/j.H/6P/j.H has 13f of blockstun, while 6P has 9.0f of startup
+471/j.H/6S/j.H has 13f of blockstun, while 6S has 15.0f of startup
+472/j.H/6H/j.H has 13f of blockstun, while 6H has 9.0f of startup
+473/j.H/2D/j.H has 13f of blockstun, while 2D has 10.0f of startup
+474/j.H/5D/j.H has 13f of blockstun, while 5D has 20.0f of startup
+475/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28.0f of startup
+476/j.H/236P/j.H has 13f of blockstun, while 236P has 18.0f of startup
+477/j.H/214P/j.H has 13f of blockstun, while 214P has f of startup
+478/j.H/623S/j.H has 13f of blockstun, while 623S has 9.0f of startup
+479/j.H/623H/j.H has 13f of blockstun, while 623H has 13.0f of startup
+480/j.H/j.623S/j.H has 13f of blockstun, while j.623S has 9.0f of startup
+481/j.H/j.623H/j.H has 13f of blockstun, while j.623H has 13.0f of startup
+482/j.H/236K/j.H has 13f of blockstun, while 236K has 12.0f of startup
+483/j.H/236KK/Sol_Badguy j.H > 236KK: 236KK is a follow-up move that cannot be performed after j.H.
+484/j.H/j.236K/j.H has 13f of blockstun, while j.236K has 10.0f of startup
+485/j.H/j.236KK/j.H has 13f of blockstun, while j.236KK has 6.0f of startup
+486/j.H/214K/j.H has 13f of blockstun, while 214K has 30.0f of startup
+487/j.H/j.214K/j.H has 13f of blockstun, while j.214K has 22.0f of startup
+488/j.H/623K/j.H has 13f of blockstun, while 623K has 6.0f of startup
+489/j.H/214S/j.H has 13f of blockstun, while 214S has 15.0f of startup
+490/j.H/41236H/j.H has 13f of blockstun, while 41236H has 24.0f of startup
+491/j.H/632146H/j.H has 13f of blockstun, while 632146H has 9.0f of startup
+492/j.H/214214H/j.H has 13f of blockstun, while 214214H has 20.0f of startup
+493/j.H/214[S]/j.H has 13f of blockstun, while 214[S] has 32.0f of startup
+494/j.D/5P/j.D has 16f of blockstun, while 5P has 4.0f of startup
+495/j.D/5K/j.D has 16f of blockstun, while 5K has 3.0f of startup
+496/j.D/c.S/j.D has 16f of blockstun, while c.S has 7.0f of startup
+497/j.D/f.S/j.D has 16f of blockstun, while f.S has 10.0f of startup
+498/j.D/5H/j.D has 16f of blockstun, while 5H has 11.0f of startup
+499/j.D/2P/j.D has 16f of blockstun, while 2P has 5.0f of startup
+500/j.D/2K/j.D has 16f of blockstun, while 2K has 6.0f of startup
+501/j.D/2S/j.D has 16f of blockstun, while 2S has 10.0f of startup
+502/j.D/2H/j.D has 16f of blockstun, while 2H has 11.0f of startup
+503/j.D/j.P/j.D has 16f of blockstun, while j.P has 5.0f of startup
+504/j.D/j.K/j.D has 16f of blockstun, while j.K has 6.0f of startup
+505/j.D/j.S/j.D has 16f of blockstun, while j.S has 10.0f of startup
+506/j.D/j.H/j.D has 16f of blockstun, while j.H has 11.0f of startup
+507/j.D/j.D/j.D has 16f of blockstun, while j.D has 9.0f of startup
+508/j.D/6P/j.D has 16f of blockstun, while 6P has 9.0f of startup
+509/j.D/6S/j.D has 16f of blockstun, while 6S has 15.0f of startup
+510/j.D/6H/j.D has 16f of blockstun, while 6H has 9.0f of startup
+511/j.D/2D/j.D has 16f of blockstun, while 2D has 10.0f of startup
+512/j.D/5D/j.D has 16f of blockstun, while 5D has 20.0f of startup
+513/j.D/5[D]/j.D has 16f of blockstun, while 5[D] has 28.0f of startup
+514/j.D/236P/j.D has 16f of blockstun, while 236P has 18.0f of startup
+515/j.D/214P/j.D has 16f of blockstun, while 214P has f of startup
+516/j.D/623S/j.D has 16f of blockstun, while 623S has 9.0f of startup
+517/j.D/623H/j.D has 16f of blockstun, while 623H has 13.0f of startup
+518/j.D/j.623S/j.D has 16f of blockstun, while j.623S has 9.0f of startup
+519/j.D/j.623H/j.D has 16f of blockstun, while j.623H has 13.0f of startup
+520/j.D/236K/j.D has 16f of blockstun, while 236K has 12.0f of startup
+521/j.D/236KK/Sol_Badguy j.D > 236KK: 236KK is a follow-up move that cannot be performed after j.D.
+522/j.D/j.236K/j.D has 16f of blockstun, while j.236K has 10.0f of startup
+523/j.D/j.236KK/j.D has 16f of blockstun, while j.236KK has 6.0f of startup
+524/j.D/214K/j.D has 16f of blockstun, while 214K has 30.0f of startup
+525/j.D/j.214K/j.D has 16f of blockstun, while j.214K has 22.0f of startup
+526/j.D/623K/j.D has 16f of blockstun, while 623K has 6.0f of startup
+527/j.D/214S/j.D has 16f of blockstun, while 214S has 15.0f of startup
+528/j.D/41236H/j.D has 16f of blockstun, while 41236H has 24.0f of startup
+529/j.D/632146H/j.D has 16f of blockstun, while 632146H has 9.0f of startup
+530/j.D/214214H/j.D has 16f of blockstun, while 214214H has 20.0f of startup
+531/j.D/214[S]/j.D has 16f of blockstun, while 214[S] has 32.0f of startup
+532/6P/5P/15f gap
+533/6P/5K/14f gap
+534/6P/c.S/18f gap
+535/6P/f.S/21f gap
+536/6P/5H/22f gap
+537/6P/2P/16f gap
+538/6P/2K/17f gap
+539/6P/2S/21f gap
+540/6P/2H/22f gap
+541/6P/j.P/21f gap
+542/6P/j.K/22f gap
+543/6P/j.S/26f gap
+544/6P/j.H/27f gap
+545/6P/j.D/25f gap
+546/6P/6P/20f gap
+547/6P/6S/26f gap
+548/6P/6H/20f gap
+549/6P/2D/21f gap
+550/6P/5D/31f gap
+551/6P/5[D]/39f gap
+552/6P/236P/5f gap
+553/6P/214P/"N/A"
+554/6P/623S/-4f gap
+555/6P/623H/0f gap
+556/6P/j.623S/25f gap
+557/6P/j.623H/29f gap
+558/6P/236K/-1f gap
+559/6P/236KK/Sol_Badguy 6P > 236KK: 236KK is a follow-up move that cannot be performed after 6P.
+560/6P/j.236K/26f gap
+561/6P/j.236KK/22f gap
+562/6P/214K/17f gap
+563/6P/j.214K/38f gap
+564/6P/623K/-7f gap
+565/6P/214S/2f gap
+566/6P/41236H/11f gap
+567/6P/632146H/-4f gap
+568/6P/214214H/7f gap
+569/6P/214[S]/19f gap
+570/6S/5P/13f gap
+571/6S/5K/12f gap
+572/6S/c.S/16f gap
+573/6S/f.S/19f gap
+574/6S/5H/20f gap
+575/6S/2P/14f gap
+576/6S/2K/15f gap
+577/6S/2S/19f gap
+578/6S/2H/20f gap
+579/6S/j.P/19f gap
+580/6S/j.K/20f gap
+581/6S/j.S/24f gap
+582/6S/j.H/25f gap
+583/6S/j.D/23f gap
+584/6S/6P/18f gap
+585/6S/6S/24f gap
+586/6S/6H/18f gap
+587/6S/2D/19f gap
+588/6S/5D/29f gap
+589/6S/5[D]/37f gap
+590/6S/236P/2f gap
+591/6S/214P/"N/A"
+592/6S/623S/-7f gap
+593/6S/623H/-3f gap
+594/6S/j.623S/23f gap
+595/6S/j.623H/27f gap
+596/6S/236K/-4f gap
+597/6S/236KK/Sol_Badguy 6S > 236KK: 236KK is a follow-up move that cannot be performed after 6S.
+598/6S/j.236K/24f gap
+599/6S/j.236KK/20f gap
+600/6S/214K/14f gap
+601/6S/j.214K/36f gap
+602/6S/623K/-10f gap
+603/6S/214S/-1f gap
+604/6S/41236H/8f gap
+605/6S/632146H/-7f gap
+606/6S/214214H/4f gap
+607/6S/214[S]/16f gap
+608/6H/5P/31f gap
+609/6H/5K/30f gap
+610/6H/c.S/34f gap
+611/6H/f.S/37f gap
+612/6H/5H/38f gap
+613/6H/2P/32f gap
+614/6H/2K/33f gap
+615/6H/2S/37f gap
+616/6H/2H/38f gap
+617/6H/j.P/37f gap
+618/6H/j.K/38f gap
+619/6H/j.S/42f gap
+620/6H/j.H/43f gap
+621/6H/j.D/41f gap
+622/6H/6P/36f gap
+623/6H/6S/42f gap
+624/6H/6H/36f gap
+625/6H/2D/37f gap
+626/6H/5D/47f gap
+627/6H/5[D]/55f gap
+628/6H/236P/45f gap
+629/6H/214P/"N/A"
+630/6H/623S/36f gap
+631/6H/623H/40f gap
+632/6H/j.623S/41f gap
+633/6H/j.623H/45f gap
+634/6H/236K/39f gap
+635/6H/236KK/Sol_Badguy 6H > 236KK: 236KK is a follow-up move that cannot be performed after 6H.
+636/6H/j.236K/42f gap
+637/6H/j.236KK/38f gap
+638/6H/214K/57f gap
+639/6H/j.214K/54f gap
+640/6H/623K/33f gap
+641/6H/214S/42f gap
+642/6H/41236H/51f gap
+643/6H/632146H/36f gap
+644/6H/214214H/47f gap
+645/6H/214[S]/59f gap
+646/2D/5P/8f gap
+647/2D/5K/7f gap
+648/2D/c.S/11f gap
+649/2D/f.S/14f gap
+650/2D/5H/15f gap
+651/2D/2P/9f gap
+652/2D/2K/10f gap
+653/2D/2S/14f gap
+654/2D/2H/15f gap
+655/2D/j.P/14f gap
+656/2D/j.K/15f gap
+657/2D/j.S/19f gap
+658/2D/j.H/20f gap
+659/2D/j.D/18f gap
+660/2D/6P/13f gap
+661/2D/6S/19f gap
+662/2D/6H/13f gap
+663/2D/2D/14f gap
+664/2D/5D/24f gap
+665/2D/5[D]/32f gap
+666/2D/236P/2f gap
+667/2D/214P/"N/A"
+668/2D/623S/-7f gap
+669/2D/623H/-3f gap
+670/2D/j.623S/18f gap
+671/2D/j.623H/22f gap
+672/2D/236K/-4f gap
+673/2D/236KK/Sol_Badguy 2D > 236KK: 236KK is a follow-up move that cannot be performed after 2D.
+674/2D/j.236K/19f gap
+675/2D/j.236KK/15f gap
+676/2D/214K/14f gap
+677/2D/j.214K/31f gap
+678/2D/623K/-10f gap
+679/2D/214S/-1f gap
+680/2D/41236H/8f gap
+681/2D/632146H/-7f gap
+682/2D/214214H/4f gap
+683/2D/214[S]/16f gap
+684/5D/5P/19f gap
+685/5D/5K/18f gap
+686/5D/c.S/22f gap
+687/5D/f.S/25f gap
+688/5D/5H/26f gap
+689/5D/2P/20f gap
+690/5D/2K/21f gap
+691/5D/2S/25f gap
+692/5D/2H/26f gap
+693/5D/j.P/25f gap
+694/5D/j.K/26f gap
+695/5D/j.S/30f gap
+696/5D/j.H/31f gap
+697/5D/j.D/29f gap
+698/5D/6P/24f gap
+699/5D/6S/30f gap
+700/5D/6H/24f gap
+701/5D/2D/25f gap
+702/5D/5D/35f gap
+703/5D/5[D]/43f gap
+704/5D/236P/33f gap
+705/5D/214P/"N/A"
+706/5D/623S/24f gap
+707/5D/623H/28f gap
+708/5D/j.623S/29f gap
+709/5D/j.623H/33f gap
+710/5D/236K/27f gap
+711/5D/236KK/Sol_Badguy 5D > 236KK: 236KK is a follow-up move that cannot be performed after 5D.
+712/5D/j.236K/30f gap
+713/5D/j.236KK/26f gap
+714/5D/214K/45f gap
+715/5D/j.214K/42f gap
+716/5D/623K/21f gap
+717/5D/214S/30f gap
+718/5D/41236H/39f gap
+719/5D/632146H/24f gap
+720/5D/214214H/35f gap
+721/5D/214[S]/47f gap
+722/5[D]/5P/14f gap
+723/5[D]/5K/13f gap
+724/5[D]/c.S/17f gap
+725/5[D]/f.S/20f gap
+726/5[D]/5H/21f gap
+727/5[D]/2P/15f gap
+728/5[D]/2K/16f gap
+729/5[D]/2S/20f gap
+730/5[D]/2H/21f gap
+731/5[D]/j.P/20f gap
+732/5[D]/j.K/21f gap
+733/5[D]/j.S/25f gap
+734/5[D]/j.H/26f gap
+735/5[D]/j.D/24f gap
+736/5[D]/6P/19f gap
+737/5[D]/6S/25f gap
+738/5[D]/6H/19f gap
+739/5[D]/2D/20f gap
+740/5[D]/5D/30f gap
+741/5[D]/5[D]/38f gap
+742/5[D]/236P/28f gap
+743/5[D]/214P/"N/A"
+744/5[D]/623S/19f gap
+745/5[D]/623H/23f gap
+746/5[D]/j.623S/24f gap
+747/5[D]/j.623H/28f gap
+748/5[D]/236K/22f gap
+749/5[D]/236KK/Sol_Badguy 5[D] > 236KK: 236KK is a follow-up move that cannot be performed after 5[D].
+750/5[D]/j.236K/25f gap
+751/5[D]/j.236KK/21f gap
+752/5[D]/214K/40f gap
+753/5[D]/j.214K/37f gap
+754/5[D]/623K/16f gap
+755/5[D]/214S/25f gap
+756/5[D]/41236H/34f gap
+757/5[D]/632146H/19f gap
+758/5[D]/214214H/30f gap
+759/5[D]/214[S]/42f gap
+760/236P/5P/14f gap
+761/236P/5K/13f gap
+762/236P/c.S/17f gap
+763/236P/f.S/20f gap
+764/236P/5H/21f gap
+765/236P/2P/15f gap
+766/236P/2K/16f gap
+767/236P/2S/20f gap
+768/236P/2H/21f gap
+769/236P/j.P/20f gap
+770/236P/j.K/21f gap
+771/236P/j.S/25f gap
+772/236P/j.H/26f gap
+773/236P/j.D/24f gap
+774/236P/6P/19f gap
+775/236P/6S/25f gap
+776/236P/6H/19f gap
+777/236P/2D/20f gap
+778/236P/5D/30f gap
+779/236P/5[D]/38f gap
+780/236P/236P/28f gap
+781/236P/214P/"N/A"
+782/236P/623S/19f gap
+783/236P/623H/23f gap
+784/236P/j.623S/24f gap
+785/236P/j.623H/28f gap
+786/236P/236K/22f gap
+787/236P/236KK/Sol_Badguy 236P > 236KK: 236KK is a follow-up move that cannot be performed after 236P.
+788/236P/j.236K/25f gap
+789/236P/j.236KK/21f gap
+790/236P/214K/40f gap
+791/236P/j.214K/37f gap
+792/236P/623K/16f gap
+793/236P/214S/25f gap
+794/236P/41236H/34f gap
+795/236P/632146H/19f gap
+796/236P/214214H/30f gap
+797/236P/214[S]/42f gap
+798/214P/5P/"N/A"
+799/214P/5K/"N/A"
+800/214P/c.S/"N/A"
+801/214P/f.S/"N/A"
+802/214P/5H/"N/A"
+803/214P/2P/"N/A"
+804/214P/2K/"N/A"
+805/214P/2S/"N/A"
+806/214P/2H/"N/A"
+807/214P/j.P/"N/A"
+808/214P/j.K/"N/A"
+809/214P/j.S/"N/A"
+810/214P/j.H/"N/A"
+811/214P/j.D/"N/A"
+812/214P/6P/"N/A"
+813/214P/6S/"N/A"
+814/214P/6H/"N/A"
+815/214P/2D/"N/A"
+816/214P/5D/"N/A"
+817/214P/5[D]/"N/A"
+818/214P/236P/"N/A"
+819/214P/214P/"N/A"
+820/214P/623S/"N/A"
+821/214P/623H/"N/A"
+822/214P/j.623S/"N/A"
+823/214P/j.623H/"N/A"
+824/214P/236K/"N/A"
+825/214P/236KK/Sol_Badguy 214P > 236KK: 236KK is a follow-up move that cannot be performed after 214P.
+826/214P/j.236K/"N/A"
+827/214P/j.236KK/"N/A"
+828/214P/214K/"N/A"
+829/214P/j.214K/"N/A"
+830/214P/623K/"N/A"
+831/214P/214S/"N/A"
+832/214P/41236H/"N/A"
+833/214P/632146H/"N/A"
+834/214P/214214H/"N/A"
+835/214P/214[S]/"N/A"
+836/623S/5P/32f gap
+837/623S/5K/31f gap
+838/623S/c.S/35f gap
+839/623S/f.S/38f gap
+840/623S/5H/39f gap
+841/623S/2P/33f gap
+842/623S/2K/34f gap
+843/623S/2S/38f gap
+844/623S/2H/39f gap
+845/623S/j.P/38f gap
+846/623S/j.K/39f gap
+847/623S/j.S/43f gap
+848/623S/j.H/44f gap
+849/623S/j.D/42f gap
+850/623S/6P/37f gap
+851/623S/6S/43f gap
+852/623S/6H/37f gap
+853/623S/2D/38f gap
+854/623S/5D/48f gap
+855/623S/5[D]/56f gap
+856/623S/236P/46f gap
+857/623S/214P/"N/A"
+858/623S/623S/37f gap
+859/623S/623H/41f gap
+860/623S/j.623S/42f gap
+861/623S/j.623H/46f gap
+862/623S/236K/40f gap
+863/623S/236KK/Sol_Badguy 623S > 236KK: 236KK is a follow-up move that cannot be performed after 623S.
+864/623S/j.236K/43f gap
+865/623S/j.236KK/39f gap
+866/623S/214K/58f gap
+867/623S/j.214K/55f gap
+868/623S/623K/34f gap
+869/623S/214S/43f gap
+870/623S/41236H/52f gap
+871/623S/632146H/37f gap
+872/623S/214214H/48f gap
+873/623S/214[S]/60f gap
+874/623H/5P/30f gap
+875/623H/5K/29f gap
+876/623H/c.S/33f gap
+877/623H/f.S/36f gap
+878/623H/5H/37f gap
+879/623H/2P/31f gap
+880/623H/2K/32f gap
+881/623H/2S/36f gap
+882/623H/2H/37f gap
+883/623H/j.P/36f gap
+884/623H/j.K/37f gap
+885/623H/j.S/41f gap
+886/623H/j.H/42f gap
+887/623H/j.D/40f gap
+888/623H/6P/35f gap
+889/623H/6S/41f gap
+890/623H/6H/35f gap
+891/623H/2D/36f gap
+892/623H/5D/46f gap
+893/623H/5[D]/54f gap
+894/623H/236P/44f gap
+895/623H/214P/"N/A"
+896/623H/623S/35f gap
+897/623H/623H/39f gap
+898/623H/j.623S/40f gap
+899/623H/j.623H/44f gap
+900/623H/236K/38f gap
+901/623H/236KK/Sol_Badguy 623H > 236KK: 236KK is a follow-up move that cannot be performed after 623H.
+902/623H/j.236K/41f gap
+903/623H/j.236KK/37f gap
+904/623H/214K/56f gap
+905/623H/j.214K/53f gap
+906/623H/623K/32f gap
+907/623H/214S/41f gap
+908/623H/41236H/50f gap
+909/623H/632146H/35f gap
+910/623H/214214H/46f gap
+911/623H/214[S]/58f gap
+912/j.623S/5P/j.623S has 13f of blockstun, while 5P has 4.0f of startup
+913/j.623S/5K/j.623S has 13f of blockstun, while 5K has 3.0f of startup
+914/j.623S/c.S/j.623S has 13f of blockstun, while c.S has 7.0f of startup
+915/j.623S/f.S/j.623S has 13f of blockstun, while f.S has 10.0f of startup
+916/j.623S/5H/j.623S has 13f of blockstun, while 5H has 11.0f of startup
+917/j.623S/2P/j.623S has 13f of blockstun, while 2P has 5.0f of startup
+918/j.623S/2K/j.623S has 13f of blockstun, while 2K has 6.0f of startup
+919/j.623S/2S/j.623S has 13f of blockstun, while 2S has 10.0f of startup
+920/j.623S/2H/j.623S has 13f of blockstun, while 2H has 11.0f of startup
+921/j.623S/j.P/j.623S has 13f of blockstun, while j.P has 5.0f of startup
+922/j.623S/j.K/j.623S has 13f of blockstun, while j.K has 6.0f of startup
+923/j.623S/j.S/j.623S has 13f of blockstun, while j.S has 10.0f of startup
+924/j.623S/j.H/j.623S has 13f of blockstun, while j.H has 11.0f of startup
+925/j.623S/j.D/j.623S has 13f of blockstun, while j.D has 9.0f of startup
+926/j.623S/6P/j.623S has 13f of blockstun, while 6P has 9.0f of startup
+927/j.623S/6S/j.623S has 13f of blockstun, while 6S has 15.0f of startup
+928/j.623S/6H/j.623S has 13f of blockstun, while 6H has 9.0f of startup
+929/j.623S/2D/j.623S has 13f of blockstun, while 2D has 10.0f of startup
+930/j.623S/5D/j.623S has 13f of blockstun, while 5D has 20.0f of startup
+931/j.623S/5[D]/j.623S has 13f of blockstun, while 5[D] has 28.0f of startup
+932/j.623S/236P/j.623S has 13f of blockstun, while 236P has 18.0f of startup
+933/j.623S/214P/j.623S has 13f of blockstun, while 214P has f of startup
+934/j.623S/623S/j.623S has 13f of blockstun, while 623S has 9.0f of startup
+935/j.623S/623H/j.623S has 13f of blockstun, while 623H has 13.0f of startup
+936/j.623S/j.623S/j.623S has 13f of blockstun, while j.623S has 9.0f of startup
+937/j.623S/j.623H/j.623S has 13f of blockstun, while j.623H has 13.0f of startup
+938/j.623S/236K/j.623S has 13f of blockstun, while 236K has 12.0f of startup
+939/j.623S/236KK/Sol_Badguy j.623S > 236KK: 236KK is a follow-up move that cannot be performed after j.623S.
+940/j.623S/j.236K/j.623S has 13f of blockstun, while j.236K has 10.0f of startup
+941/j.623S/j.236KK/j.623S has 13f of blockstun, while j.236KK has 6.0f of startup
+942/j.623S/214K/j.623S has 13f of blockstun, while 214K has 30.0f of startup
+943/j.623S/j.214K/j.623S has 13f of blockstun, while j.214K has 22.0f of startup
+944/j.623S/623K/j.623S has 13f of blockstun, while 623K has 6.0f of startup
+945/j.623S/214S/j.623S has 13f of blockstun, while 214S has 15.0f of startup
+946/j.623S/41236H/j.623S has 13f of blockstun, while 41236H has 24.0f of startup
+947/j.623S/632146H/j.623S has 13f of blockstun, while 632146H has 9.0f of startup
+948/j.623S/214214H/j.623S has 13f of blockstun, while 214214H has 20.0f of startup
+949/j.623S/214[S]/j.623S has 13f of blockstun, while 214[S] has 32.0f of startup
+950/j.623H/5P/j.623H has 13f of blockstun, while 5P has 4.0f of startup
+951/j.623H/5K/j.623H has 13f of blockstun, while 5K has 3.0f of startup
+952/j.623H/c.S/j.623H has 13f of blockstun, while c.S has 7.0f of startup
+953/j.623H/f.S/j.623H has 13f of blockstun, while f.S has 10.0f of startup
+954/j.623H/5H/j.623H has 13f of blockstun, while 5H has 11.0f of startup
+955/j.623H/2P/j.623H has 13f of blockstun, while 2P has 5.0f of startup
+956/j.623H/2K/j.623H has 13f of blockstun, while 2K has 6.0f of startup
+957/j.623H/2S/j.623H has 13f of blockstun, while 2S has 10.0f of startup
+958/j.623H/2H/j.623H has 13f of blockstun, while 2H has 11.0f of startup
+959/j.623H/j.P/j.623H has 13f of blockstun, while j.P has 5.0f of startup
+960/j.623H/j.K/j.623H has 13f of blockstun, while j.K has 6.0f of startup
+961/j.623H/j.S/j.623H has 13f of blockstun, while j.S has 10.0f of startup
+962/j.623H/j.H/j.623H has 13f of blockstun, while j.H has 11.0f of startup
+963/j.623H/j.D/j.623H has 13f of blockstun, while j.D has 9.0f of startup
+964/j.623H/6P/j.623H has 13f of blockstun, while 6P has 9.0f of startup
+965/j.623H/6S/j.623H has 13f of blockstun, while 6S has 15.0f of startup
+966/j.623H/6H/j.623H has 13f of blockstun, while 6H has 9.0f of startup
+967/j.623H/2D/j.623H has 13f of blockstun, while 2D has 10.0f of startup
+968/j.623H/5D/j.623H has 13f of blockstun, while 5D has 20.0f of startup
+969/j.623H/5[D]/j.623H has 13f of blockstun, while 5[D] has 28.0f of startup
+970/j.623H/236P/j.623H has 13f of blockstun, while 236P has 18.0f of startup
+971/j.623H/214P/j.623H has 13f of blockstun, while 214P has f of startup
+972/j.623H/623S/j.623H has 13f of blockstun, while 623S has 9.0f of startup
+973/j.623H/623H/j.623H has 13f of blockstun, while 623H has 13.0f of startup
+974/j.623H/j.623S/j.623H has 13f of blockstun, while j.623S has 9.0f of startup
+975/j.623H/j.623H/j.623H has 13f of blockstun, while j.623H has 13.0f of startup
+976/j.623H/236K/j.623H has 13f of blockstun, while 236K has 12.0f of startup
+977/j.623H/236KK/Sol_Badguy j.623H > 236KK: 236KK is a follow-up move that cannot be performed after j.623H.
+978/j.623H/j.236K/j.623H has 13f of blockstun, while j.236K has 10.0f of startup
+979/j.623H/j.236KK/j.623H has 13f of blockstun, while j.236KK has 6.0f of startup
+980/j.623H/214K/j.623H has 13f of blockstun, while 214K has 30.0f of startup
+981/j.623H/j.214K/j.623H has 13f of blockstun, while j.214K has 22.0f of startup
+982/j.623H/623K/j.623H has 13f of blockstun, while 623K has 6.0f of startup
+983/j.623H/214S/j.623H has 13f of blockstun, while 214S has 15.0f of startup
+984/j.623H/41236H/j.623H has 13f of blockstun, while 41236H has 24.0f of startup
+985/j.623H/632146H/j.623H has 13f of blockstun, while 632146H has 9.0f of startup
+986/j.623H/214214H/j.623H has 13f of blockstun, while 214214H has 20.0f of startup
+987/j.623H/214[S]/j.623H has 13f of blockstun, while 214[S] has 32.0f of startup
+988/236K/5P/11f gap
+989/236K/5K/10f gap
+990/236K/c.S/14f gap
+991/236K/f.S/17f gap
+992/236K/5H/18f gap
+993/236K/2P/12f gap
+994/236K/2K/13f gap
+995/236K/2S/17f gap
+996/236K/2H/18f gap
+997/236K/j.P/17f gap
+998/236K/j.K/18f gap
+999/236K/j.S/22f gap
+1000/236K/j.H/23f gap
+1001/236K/j.D/21f gap
+1002/236K/6P/16f gap
+1003/236K/6S/22f gap
+1004/236K/6H/16f gap
+1005/236K/2D/17f gap
+1006/236K/5D/27f gap
+1007/236K/5[D]/35f gap
+1008/236K/236P/25f gap
+1009/236K/214P/"N/A"
+1010/236K/623S/16f gap
+1011/236K/623H/20f gap
+1012/236K/j.623S/21f gap
+1013/236K/j.623H/25f gap
+1014/236K/236K/19f gap
+1015/236K/236KK/-7f gap
+1016/236K/j.236K/22f gap
+1017/236K/j.236KK/18f gap
+1018/236K/214K/37f gap
+1019/236K/j.214K/34f gap
+1020/236K/623K/13f gap
+1021/236K/214S/22f gap
+1022/236K/41236H/31f gap
+1023/236K/632146H/16f gap
+1024/236K/214214H/27f gap
+1025/236K/214[S]/39f gap
+1026/236KK/5P/15f gap
+1027/236KK/5K/14f gap
+1028/236KK/c.S/18f gap
+1029/236KK/f.S/21f gap
+1030/236KK/5H/22f gap
+1031/236KK/2P/16f gap
+1032/236KK/2K/17f gap
+1033/236KK/2S/21f gap
+1034/236KK/2H/22f gap
+1035/236KK/j.P/21f gap
+1036/236KK/j.K/22f gap
+1037/236KK/j.S/26f gap
+1038/236KK/j.H/27f gap
+1039/236KK/j.D/25f gap
+1040/236KK/6P/20f gap
+1041/236KK/6S/26f gap
+1042/236KK/6H/20f gap
+1043/236KK/2D/21f gap
+1044/236KK/5D/31f gap
+1045/236KK/5[D]/39f gap
+1046/236KK/236P/29f gap
+1047/236KK/214P/"N/A"
+1048/236KK/623S/20f gap
+1049/236KK/623H/24f gap
+1050/236KK/j.623S/25f gap
+1051/236KK/j.623H/29f gap
+1052/236KK/236K/23f gap
+1053/236KK/236KK/Sol_Badguy 236KK > 236KK: 236KK is a follow-up move that cannot be performed after 236KK.
+1054/236KK/j.236K/26f gap
+1055/236KK/j.236KK/22f gap
+1056/236KK/214K/41f gap
+1057/236KK/j.214K/38f gap
+1058/236KK/623K/17f gap
+1059/236KK/214S/26f gap
+1060/236KK/41236H/35f gap
+1061/236KK/632146H/20f gap
+1062/236KK/214214H/31f gap
+1063/236KK/214[S]/43f gap
+1064/j.236K/5P/j.236K has 13f of blockstun, while 5P has 4.0f of startup
+1065/j.236K/5K/j.236K has 13f of blockstun, while 5K has 3.0f of startup
+1066/j.236K/c.S/j.236K has 13f of blockstun, while c.S has 7.0f of startup
+1067/j.236K/f.S/j.236K has 13f of blockstun, while f.S has 10.0f of startup
+1068/j.236K/5H/j.236K has 13f of blockstun, while 5H has 11.0f of startup
+1069/j.236K/2P/j.236K has 13f of blockstun, while 2P has 5.0f of startup
+1070/j.236K/2K/j.236K has 13f of blockstun, while 2K has 6.0f of startup
+1071/j.236K/2S/j.236K has 13f of blockstun, while 2S has 10.0f of startup
+1072/j.236K/2H/j.236K has 13f of blockstun, while 2H has 11.0f of startup
+1073/j.236K/j.P/j.236K has 13f of blockstun, while j.P has 5.0f of startup
+1074/j.236K/j.K/j.236K has 13f of blockstun, while j.K has 6.0f of startup
+1075/j.236K/j.S/j.236K has 13f of blockstun, while j.S has 10.0f of startup
+1076/j.236K/j.H/j.236K has 13f of blockstun, while j.H has 11.0f of startup
+1077/j.236K/j.D/j.236K has 13f of blockstun, while j.D has 9.0f of startup
+1078/j.236K/6P/j.236K has 13f of blockstun, while 6P has 9.0f of startup
+1079/j.236K/6S/j.236K has 13f of blockstun, while 6S has 15.0f of startup
+1080/j.236K/6H/j.236K has 13f of blockstun, while 6H has 9.0f of startup
+1081/j.236K/2D/j.236K has 13f of blockstun, while 2D has 10.0f of startup
+1082/j.236K/5D/j.236K has 13f of blockstun, while 5D has 20.0f of startup
+1083/j.236K/5[D]/j.236K has 13f of blockstun, while 5[D] has 28.0f of startup
+1084/j.236K/236P/j.236K has 13f of blockstun, while 236P has 18.0f of startup
+1085/j.236K/214P/j.236K has 13f of blockstun, while 214P has f of startup
+1086/j.236K/623S/j.236K has 13f of blockstun, while 623S has 9.0f of startup
+1087/j.236K/623H/j.236K has 13f of blockstun, while 623H has 13.0f of startup
+1088/j.236K/j.623S/j.236K has 13f of blockstun, while j.623S has 9.0f of startup
+1089/j.236K/j.623H/j.236K has 13f of blockstun, while j.623H has 13.0f of startup
+1090/j.236K/236K/j.236K has 13f of blockstun, while 236K has 12.0f of startup
+1091/j.236K/236KK/Sol_Badguy j.236K > 236KK: 236KK is a follow-up move that cannot be performed after j.236K.
+1092/j.236K/j.236K/j.236K has 13f of blockstun, while j.236K has 10.0f of startup
+1093/j.236K/j.236KK/j.236K has 13f of blockstun, while j.236KK has 6.0f of startup
+1094/j.236K/214K/j.236K has 13f of blockstun, while 214K has 30.0f of startup
+1095/j.236K/j.214K/j.236K has 13f of blockstun, while j.214K has 22.0f of startup
+1096/j.236K/623K/j.236K has 13f of blockstun, while 623K has 6.0f of startup
+1097/j.236K/214S/j.236K has 13f of blockstun, while 214S has 15.0f of startup
+1098/j.236K/41236H/j.236K has 13f of blockstun, while 41236H has 24.0f of startup
+1099/j.236K/632146H/j.236K has 13f of blockstun, while 632146H has 9.0f of startup
+1100/j.236K/214214H/j.236K has 13f of blockstun, while 214214H has 20.0f of startup
+1101/j.236K/214[S]/j.236K has 13f of blockstun, while 214[S] has 32.0f of startup
+1102/j.236KK/5P/j.236KK has 13f of blockstun, while 5P has 4.0f of startup
+1103/j.236KK/5K/j.236KK has 13f of blockstun, while 5K has 3.0f of startup
+1104/j.236KK/c.S/j.236KK has 13f of blockstun, while c.S has 7.0f of startup
+1105/j.236KK/f.S/j.236KK has 13f of blockstun, while f.S has 10.0f of startup
+1106/j.236KK/5H/j.236KK has 13f of blockstun, while 5H has 11.0f of startup
+1107/j.236KK/2P/j.236KK has 13f of blockstun, while 2P has 5.0f of startup
+1108/j.236KK/2K/j.236KK has 13f of blockstun, while 2K has 6.0f of startup
+1109/j.236KK/2S/j.236KK has 13f of blockstun, while 2S has 10.0f of startup
+1110/j.236KK/2H/j.236KK has 13f of blockstun, while 2H has 11.0f of startup
+1111/j.236KK/j.P/j.236KK has 13f of blockstun, while j.P has 5.0f of startup
+1112/j.236KK/j.K/j.236KK has 13f of blockstun, while j.K has 6.0f of startup
+1113/j.236KK/j.S/j.236KK has 13f of blockstun, while j.S has 10.0f of startup
+1114/j.236KK/j.H/j.236KK has 13f of blockstun, while j.H has 11.0f of startup
+1115/j.236KK/j.D/j.236KK has 13f of blockstun, while j.D has 9.0f of startup
+1116/j.236KK/6P/j.236KK has 13f of blockstun, while 6P has 9.0f of startup
+1117/j.236KK/6S/j.236KK has 13f of blockstun, while 6S has 15.0f of startup
+1118/j.236KK/6H/j.236KK has 13f of blockstun, while 6H has 9.0f of startup
+1119/j.236KK/2D/j.236KK has 13f of blockstun, while 2D has 10.0f of startup
+1120/j.236KK/5D/j.236KK has 13f of blockstun, while 5D has 20.0f of startup
+1121/j.236KK/5[D]/j.236KK has 13f of blockstun, while 5[D] has 28.0f of startup
+1122/j.236KK/236P/j.236KK has 13f of blockstun, while 236P has 18.0f of startup
+1123/j.236KK/214P/j.236KK has 13f of blockstun, while 214P has f of startup
+1124/j.236KK/623S/j.236KK has 13f of blockstun, while 623S has 9.0f of startup
+1125/j.236KK/623H/j.236KK has 13f of blockstun, while 623H has 13.0f of startup
+1126/j.236KK/j.623S/j.236KK has 13f of blockstun, while j.623S has 9.0f of startup
+1127/j.236KK/j.623H/j.236KK has 13f of blockstun, while j.623H has 13.0f of startup
+1128/j.236KK/236K/j.236KK has 13f of blockstun, while 236K has 12.0f of startup
+1129/j.236KK/236KK/Sol_Badguy j.236KK > 236KK: 236KK is a follow-up move that cannot be performed after j.236KK.
+1130/j.236KK/j.236K/j.236KK has 13f of blockstun, while j.236K has 10.0f of startup
+1131/j.236KK/j.236KK/j.236KK has 13f of blockstun, while j.236KK has 6.0f of startup
+1132/j.236KK/214K/j.236KK has 13f of blockstun, while 214K has 30.0f of startup
+1133/j.236KK/j.214K/j.236KK has 13f of blockstun, while j.214K has 22.0f of startup
+1134/j.236KK/623K/j.236KK has 13f of blockstun, while 623K has 6.0f of startup
+1135/j.236KK/214S/j.236KK has 13f of blockstun, while 214S has 15.0f of startup
+1136/j.236KK/41236H/j.236KK has 13f of blockstun, while 41236H has 24.0f of startup
+1137/j.236KK/632146H/j.236KK has 13f of blockstun, while 632146H has 9.0f of startup
+1138/j.236KK/214214H/j.236KK has 13f of blockstun, while 214214H has 20.0f of startup
+1139/j.236KK/214[S]/j.236KK has 13f of blockstun, while 214[S] has 32.0f of startup
+1140/214K/5P/6f gap
+1141/214K/5K/5f gap
+1142/214K/c.S/9f gap
+1143/214K/f.S/12f gap
+1144/214K/5H/13f gap
+1145/214K/2P/7f gap
+1146/214K/2K/8f gap
+1147/214K/2S/12f gap
+1148/214K/2H/13f gap
+1149/214K/j.P/12f gap
+1150/214K/j.K/13f gap
+1151/214K/j.S/17f gap
+1152/214K/j.H/18f gap
+1153/214K/j.D/16f gap
+1154/214K/6P/11f gap
+1155/214K/6S/17f gap
+1156/214K/6H/11f gap
+1157/214K/2D/12f gap
+1158/214K/5D/22f gap
+1159/214K/5[D]/30f gap
+1160/214K/236P/20f gap
+1161/214K/214P/"N/A"
+1162/214K/623S/11f gap
+1163/214K/623H/15f gap
+1164/214K/j.623S/16f gap
+1165/214K/j.623H/20f gap
+1166/214K/236K/14f gap
+1167/214K/236KK/Sol_Badguy 214K > 236KK: 236KK is a follow-up move that cannot be performed after 214K.
+1168/214K/j.236K/17f gap
+1169/214K/j.236KK/13f gap
+1170/214K/214K/32f gap
+1171/214K/j.214K/29f gap
+1172/214K/623K/8f gap
+1173/214K/214S/17f gap
+1174/214K/41236H/26f gap
+1175/214K/632146H/11f gap
+1176/214K/214214H/22f gap
+1177/214K/214[S]/34f gap
+1178/j.214K/5P/j.214K has 16f of blockstun, while 5P has 4.0f of startup
+1179/j.214K/5K/j.214K has 16f of blockstun, while 5K has 3.0f of startup
+1180/j.214K/c.S/j.214K has 16f of blockstun, while c.S has 7.0f of startup
+1181/j.214K/f.S/j.214K has 16f of blockstun, while f.S has 10.0f of startup
+1182/j.214K/5H/j.214K has 16f of blockstun, while 5H has 11.0f of startup
+1183/j.214K/2P/j.214K has 16f of blockstun, while 2P has 5.0f of startup
+1184/j.214K/2K/j.214K has 16f of blockstun, while 2K has 6.0f of startup
+1185/j.214K/2S/j.214K has 16f of blockstun, while 2S has 10.0f of startup
+1186/j.214K/2H/j.214K has 16f of blockstun, while 2H has 11.0f of startup
+1187/j.214K/j.P/j.214K has 16f of blockstun, while j.P has 5.0f of startup
+1188/j.214K/j.K/j.214K has 16f of blockstun, while j.K has 6.0f of startup
+1189/j.214K/j.S/j.214K has 16f of blockstun, while j.S has 10.0f of startup
+1190/j.214K/j.H/j.214K has 16f of blockstun, while j.H has 11.0f of startup
+1191/j.214K/j.D/j.214K has 16f of blockstun, while j.D has 9.0f of startup
+1192/j.214K/6P/j.214K has 16f of blockstun, while 6P has 9.0f of startup
+1193/j.214K/6S/j.214K has 16f of blockstun, while 6S has 15.0f of startup
+1194/j.214K/6H/j.214K has 16f of blockstun, while 6H has 9.0f of startup
+1195/j.214K/2D/j.214K has 16f of blockstun, while 2D has 10.0f of startup
+1196/j.214K/5D/j.214K has 16f of blockstun, while 5D has 20.0f of startup
+1197/j.214K/5[D]/j.214K has 16f of blockstun, while 5[D] has 28.0f of startup
+1198/j.214K/236P/j.214K has 16f of blockstun, while 236P has 18.0f of startup
+1199/j.214K/214P/j.214K has 16f of blockstun, while 214P has f of startup
+1200/j.214K/623S/j.214K has 16f of blockstun, while 623S has 9.0f of startup
+1201/j.214K/623H/j.214K has 16f of blockstun, while 623H has 13.0f of startup
+1202/j.214K/j.623S/j.214K has 16f of blockstun, while j.623S has 9.0f of startup
+1203/j.214K/j.623H/j.214K has 16f of blockstun, while j.623H has 13.0f of startup
+1204/j.214K/236K/j.214K has 16f of blockstun, while 236K has 12.0f of startup
+1205/j.214K/236KK/Sol_Badguy j.214K > 236KK: 236KK is a follow-up move that cannot be performed after j.214K.
+1206/j.214K/j.236K/j.214K has 16f of blockstun, while j.236K has 10.0f of startup
+1207/j.214K/j.236KK/j.214K has 16f of blockstun, while j.236KK has 6.0f of startup
+1208/j.214K/214K/j.214K has 16f of blockstun, while 214K has 30.0f of startup
+1209/j.214K/j.214K/j.214K has 16f of blockstun, while j.214K has 22.0f of startup
+1210/j.214K/623K/j.214K has 16f of blockstun, while 623K has 6.0f of startup
+1211/j.214K/214S/j.214K has 16f of blockstun, while 214S has 15.0f of startup
+1212/j.214K/41236H/j.214K has 16f of blockstun, while 41236H has 24.0f of startup
+1213/j.214K/632146H/j.214K has 16f of blockstun, while 632146H has 9.0f of startup
+1214/j.214K/214214H/j.214K has 16f of blockstun, while 214214H has 20.0f of startup
+1215/j.214K/214[S]/j.214K has 16f of blockstun, while 214[S] has 32.0f of startup
+1216/623K/5P/"N/A"
+1217/623K/5K/"N/A"
+1218/623K/c.S/"N/A"
+1219/623K/f.S/"N/A"
+1220/623K/5H/"N/A"
+1221/623K/2P/"N/A"
+1222/623K/2K/"N/A"
+1223/623K/2S/"N/A"
+1224/623K/2H/"N/A"
+1225/623K/j.P/"N/A"
+1226/623K/j.K/"N/A"
+1227/623K/j.S/"N/A"
+1228/623K/j.H/"N/A"
+1229/623K/j.D/"N/A"
+1230/623K/6P/"N/A"
+1231/623K/6S/"N/A"
+1232/623K/6H/"N/A"
+1233/623K/2D/"N/A"
+1234/623K/5D/"N/A"
+1235/623K/5[D]/"N/A"
+1236/623K/236P/"N/A"
+1237/623K/214P/"N/A"
+1238/623K/623S/"N/A"
+1239/623K/623H/"N/A"
+1240/623K/j.623S/"N/A"
+1241/623K/j.623H/"N/A"
+1242/623K/236K/"N/A"
+1243/623K/236KK/Sol_Badguy 623K > 236KK: 236KK is a follow-up move that cannot be performed after 623K.
+1244/623K/j.236K/"N/A"
+1245/623K/j.236KK/"N/A"
+1246/623K/214K/"N/A"
+1247/623K/j.214K/"N/A"
+1248/623K/623K/"N/A"
+1249/623K/214S/"N/A"
+1250/623K/41236H/"N/A"
+1251/623K/632146H/"N/A"
+1252/623K/214214H/"N/A"
+1253/623K/214[S]/"N/A"
+1254/214S/5P/21f gap
+1255/214S/5K/20f gap
+1256/214S/c.S/24f gap
+1257/214S/f.S/27f gap
+1258/214S/5H/28f gap
+1259/214S/2P/22f gap
+1260/214S/2K/23f gap
+1261/214S/2S/27f gap
+1262/214S/2H/28f gap
+1263/214S/j.P/27f gap
+1264/214S/j.K/28f gap
+1265/214S/j.S/32f gap
+1266/214S/j.H/33f gap
+1267/214S/j.D/31f gap
+1268/214S/6P/26f gap
+1269/214S/6S/32f gap
+1270/214S/6H/26f gap
+1271/214S/2D/27f gap
+1272/214S/5D/37f gap
+1273/214S/5[D]/45f gap
+1274/214S/236P/35f gap
+1275/214S/214P/"N/A"
+1276/214S/623S/26f gap
+1277/214S/623H/30f gap
+1278/214S/j.623S/31f gap
+1279/214S/j.623H/35f gap
+1280/214S/236K/29f gap
+1281/214S/236KK/Sol_Badguy 214S > 236KK: 236KK is a follow-up move that cannot be performed after 214S.
+1282/214S/j.236K/32f gap
+1283/214S/j.236KK/28f gap
+1284/214S/214K/47f gap
+1285/214S/j.214K/44f gap
+1286/214S/623K/23f gap
+1287/214S/214S/32f gap
+1288/214S/41236H/41f gap
+1289/214S/632146H/26f gap
+1290/214S/214214H/37f gap
+1291/214S/214[S]/49f gap
+1292/41236H/5P/-7f gap
+1293/41236H/5K/-8f gap
+1294/41236H/c.S/-4f gap
+1295/41236H/f.S/-1f gap
+1296/41236H/5H/0f gap
+1297/41236H/2P/-6f gap
+1298/41236H/2K/-5f gap
+1299/41236H/2S/-1f gap
+1300/41236H/2H/0f gap
+1301/41236H/j.P/-1f gap
+1302/41236H/j.K/0f gap
+1303/41236H/j.S/4f gap
+1304/41236H/j.H/5f gap
+1305/41236H/j.D/3f gap
+1306/41236H/6P/-2f gap
+1307/41236H/6S/4f gap
+1308/41236H/6H/-2f gap
+1309/41236H/2D/-1f gap
+1310/41236H/5D/9f gap
+1311/41236H/5[D]/17f gap
+1312/41236H/236P/7f gap
+1313/41236H/214P/"N/A"
+1314/41236H/623S/-2f gap
+1315/41236H/623H/2f gap
+1316/41236H/j.623S/3f gap
+1317/41236H/j.623H/7f gap
+1318/41236H/236K/1f gap
+1319/41236H/236KK/Sol_Badguy 41236H > 236KK: 236KK is a follow-up move that cannot be performed after 41236H.
+1320/41236H/j.236K/4f gap
+1321/41236H/j.236KK/0f gap
+1322/41236H/214K/19f gap
+1323/41236H/j.214K/16f gap
+1324/41236H/623K/-5f gap
+1325/41236H/214S/4f gap
+1326/41236H/41236H/13f gap
+1327/41236H/632146H/-2f gap
+1328/41236H/214214H/9f gap
+1329/41236H/214[S]/21f gap
+1330/632146H/5P/48f gap
+1331/632146H/5K/47f gap
+1332/632146H/c.S/51f gap
+1333/632146H/f.S/54f gap
+1334/632146H/5H/55f gap
+1335/632146H/2P/49f gap
+1336/632146H/2K/50f gap
+1337/632146H/2S/54f gap
+1338/632146H/2H/55f gap
+1339/632146H/j.P/54f gap
+1340/632146H/j.K/55f gap
+1341/632146H/j.S/59f gap
+1342/632146H/j.H/60f gap
+1343/632146H/j.D/58f gap
+1344/632146H/6P/53f gap
+1345/632146H/6S/59f gap
+1346/632146H/6H/53f gap
+1347/632146H/2D/54f gap
+1348/632146H/5D/64f gap
+1349/632146H/5[D]/72f gap
+1350/632146H/236P/62f gap
+1351/632146H/214P/"N/A"
+1352/632146H/623S/53f gap
+1353/632146H/623H/57f gap
+1354/632146H/j.623S/58f gap
+1355/632146H/j.623H/62f gap
+1356/632146H/236K/56f gap
+1357/632146H/236KK/Sol_Badguy 632146H > 236KK: 236KK is a follow-up move that cannot be performed after 632146H.
+1358/632146H/j.236K/59f gap
+1359/632146H/j.236KK/55f gap
+1360/632146H/214K/74f gap
+1361/632146H/j.214K/71f gap
+1362/632146H/623K/50f gap
+1363/632146H/214S/59f gap
+1364/632146H/41236H/68f gap
+1365/632146H/632146H/53f gap
+1366/632146H/214214H/64f gap
+1367/632146H/214[S]/76f gap
+1368/214214H/5P/"N/A"
+1369/214214H/5K/"N/A"
+1370/214214H/c.S/"N/A"
+1371/214214H/f.S/"N/A"
+1372/214214H/5H/"N/A"
+1373/214214H/2P/"N/A"
+1374/214214H/2K/"N/A"
+1375/214214H/2S/"N/A"
+1376/214214H/2H/"N/A"
+1377/214214H/j.P/"N/A"
+1378/214214H/j.K/"N/A"
+1379/214214H/j.S/"N/A"
+1380/214214H/j.H/"N/A"
+1381/214214H/j.D/"N/A"
+1382/214214H/6P/"N/A"
+1383/214214H/6S/"N/A"
+1384/214214H/6H/"N/A"
+1385/214214H/2D/"N/A"
+1386/214214H/5D/"N/A"
+1387/214214H/5[D]/"N/A"
+1388/214214H/236P/"N/A"
+1389/214214H/214P/"N/A"
+1390/214214H/623S/"N/A"
+1391/214214H/623H/"N/A"
+1392/214214H/j.623S/"N/A"
+1393/214214H/j.623H/"N/A"
+1394/214214H/236K/"N/A"
+1395/214214H/236KK/Sol_Badguy 214214H > 236KK: 236KK is a follow-up move that cannot be performed after 214214H.
+1396/214214H/j.236K/"N/A"
+1397/214214H/j.236KK/"N/A"
+1398/214214H/214K/"N/A"
+1399/214214H/j.214K/"N/A"
+1400/214214H/623K/"N/A"
+1401/214214H/214S/"N/A"
+1402/214214H/41236H/"N/A"
+1403/214214H/632146H/"N/A"
+1404/214214H/214214H/"N/A"
+1405/214214H/214[S]/"N/A"
+1406/214[S]/5P/21f gap
+1407/214[S]/5K/20f gap
+1408/214[S]/c.S/24f gap
+1409/214[S]/f.S/27f gap
+1410/214[S]/5H/28f gap
+1411/214[S]/2P/22f gap
+1412/214[S]/2K/23f gap
+1413/214[S]/2S/27f gap
+1414/214[S]/2H/28f gap
+1415/214[S]/j.P/27f gap
+1416/214[S]/j.K/28f gap
+1417/214[S]/j.S/32f gap
+1418/214[S]/j.H/33f gap
+1419/214[S]/j.D/31f gap
+1420/214[S]/6P/26f gap
+1421/214[S]/6S/32f gap
+1422/214[S]/6H/26f gap
+1423/214[S]/2D/27f gap
+1424/214[S]/5D/37f gap
+1425/214[S]/5[D]/45f gap
+1426/214[S]/236P/35f gap
+1427/214[S]/214P/"N/A"
+1428/214[S]/623S/26f gap
+1429/214[S]/623H/30f gap
+1430/214[S]/j.623S/31f gap
+1431/214[S]/j.623H/35f gap
+1432/214[S]/236K/29f gap
+1433/214[S]/236KK/Sol_Badguy 214[S] > 236KK: 236KK is a follow-up move that cannot be performed after 214[S].
+1434/214[S]/j.236K/32f gap
+1435/214[S]/j.236KK/28f gap
+1436/214[S]/214K/47f gap
+1437/214[S]/j.214K/44f gap
+1438/214[S]/623K/23f gap
+1439/214[S]/214S/32f gap
+1440/214[S]/41236H/41f gap
+1441/214[S]/632146H/26f gap
+1442/214[S]/214214H/37f gap
+1443/214[S]/214[S]/49f gap

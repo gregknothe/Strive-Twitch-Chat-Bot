@@ -8,14 +8,6 @@
 <body style="background-color: #202020;">
 </body>
 
-<!-- Navigation section (prob remove later)-->
-<div class="topnav">
-    <a class="topnavTitle">GGST FTC</a>
-    <a class="topnavButton">Contact</a>
-    <a class="topnavButton">About</a>
-    <a href="./main.html" class="topnavButton">Home</a>
-</div>
-
 <!-- Main Header Section-->
 <header class="mainTitle">
     <h1>
@@ -56,9 +48,18 @@
     </select>
 
     <form>
-        <input type="text" id="firstMove" value="" class="moveInput">
-        <input type="text" id="secondMove" value="" class="moveInput">
+        <input type="text" id="firstMove" value="c.S" class="moveInput">
+        <input type="text" id="secondMove" value="6H" class="moveInput">
     </form>
+
+<!-- Test Area for new Drop downs-->
+<select name="character" id="character" class="character">
+    <option value="c.S" id="move01">c.S</option>
+    <option value="5H" id="move02">5H</option>
+    <option value="f.S" id="move03">f.S</option>
+    <option value="2S" id="move04">2S</option>
+    <option value="236P" id="move05">236P</option>
+</select>
 
     <button py-click="calculateGap()" id="calcButton" class="py-button">
         Calulate
@@ -68,6 +69,7 @@
 
 <hr class="lines">
 
+<!-- Table Section -->
 <div class="entireTable">
     <h1 class="gap"> 
         <b>
@@ -109,8 +111,22 @@
 </table>
 </div>
 
+<!-- All Viable Moves Input Section-->
+<div>
+    <button type="button" class="collapsible">
+        <a class="buttonText">
+            Possible Inputs for 
+        </a>
+        <a class="buttonText" id="buttonCharacter">
+            Sol_Badguy
+        </a>
+    </button>
+    <a class="content" id="possibleInputs">
+        5P, 5K, c.S, f.S, 5H, 2P, 2K, 2S, 2H, j.P, j.K, j.S, j.H, j.D, 6P, 6S, 6H, 2D, 5D, 5[D], 236P, 214P, 623S, 623H, j.623S, j.623H, 236K, 236KK, j.236K, j.236KK, 214K, j.214K, 623K, 214S, 41236H, 632146H, 214214H, 214[S]
+    </a>
+</div>
+
 <!-- Pyscript section -->
-<!--   pyscript.write("area","dasdsa") -->
 <py-config>
     packages = ["pandas"]
 </py-config>
@@ -147,22 +163,26 @@
         pyscript.write("on-block2", df.loc[move2Index, "On-Block"])
         pyscript.write("level2", df.loc[move2Index, "Level"])
 
+        pyscript.write("buttonCharacter", char)
+        possibleInputs = str(df["Input"].to_list()).replace("'","")
+        pyscript.write("possibleInputs", possibleInputs[1:-1])
+
         return
 
-    
-        
 </py-script>
 
+<!-- FAQ Section-->
 <div>
     <h1 class="faqTitle1">
-        FAQ:
+        FAQ
     </h1>
+    
     <h1 class="faqTitle2">
-        1. Factors not calculated correctly:
+        1. Factors not accurately calculated:
     </h1>
     <a class="faqTextTitle">
-        Travel Time: 
-    </a>
+        Travel Time
+    </h1>
     </br>
     <a class="faqText">
         Moves (often projectiles and forward advancing moves) often have travel time before they hit. 
@@ -170,7 +190,7 @@
     </a>
     </br>
     <a class="faqTextTitle">
-        Moving Hitboxes: 
+        Moving Hitboxes
     </a>
     </br>
     <a class="faqText">
@@ -188,7 +208,6 @@
         recovery after they land and some are actionable right as they land). Because of this I decided to display the hitstun
         from the arieal move instead of putting the therorical frame advantage from doing the areial from some arbirtary height. 
     </a>
-
     <h1 class="faqTitle2">
         2. Moves 
     </h1>
@@ -202,6 +221,24 @@
     <a class="faqText">
         Dustloop is OD frfr, hit me up at this email if you find something that is bugged. 
     </a>
+    </a>
 </div>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+</script>
 
 </html>

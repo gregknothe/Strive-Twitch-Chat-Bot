@@ -1,0 +1,1090 @@
+/move1/move2/gap
+0/5P/5P/-2f gap
+1/5P/5K/9f gap
+2/5P/c.S/9f gap
+3/5P/f.S/11f gap
+4/5P/5H/14f gap
+5/5P/5D/22f gap
+6/5P/5[D]/30f gap
+7/5P/6P/0f gap
+8/5P/6K/19f gap
+9/5P/6H/6f gap
+10/5P/2P/-5f gap
+11/5P/2K/8f gap
+12/5P/2S/13f gap
+13/5P/2H/16f gap
+14/5P/2D/14f gap
+15/5P/j.P/12f gap
+16/5P/j.K/13f gap
+17/5P/j.S/14f gap
+18/5P/j.H/15f gap
+19/5P/j.D/16f gap
+20/5P/236S/3f gap
+21/5P/236H/64f gap
+22/5P/214S/8f gap
+23/5P/214S (3-Hit)/8f gap
+24/5P/214S (6-Hit)/8f gap
+25/5P/214S (9-Hit)/8f gap
+26/5P/214P/11f gap
+27/5P/j.236P/18f gap
+28/5P/j.236K/21f gap
+29/5P/214K/"N/A"
+30/5P/j.236H/20f gap
+31/5P/236236S/0f gap
+32/5P/632146H/0f gap
+33/5K/5P/10f gap
+34/5K/5K/-4f gap
+35/5K/c.S/10f gap
+36/5K/f.S/12f gap
+37/5K/5H/15f gap
+38/5K/5D/9f gap
+39/5K/5[D]/31f gap
+40/5K/6P/-2f gap
+41/5K/6K/17f gap
+42/5K/6H/4f gap
+43/5K/2P/7f gap
+44/5K/2K/-5f gap
+45/5K/2S/14f gap
+46/5K/2H/17f gap
+47/5K/2D/1f gap
+48/5K/j.P/-1f gap
+49/5K/j.K/0f gap
+50/5K/j.S/1f gap
+51/5K/j.H/2f gap
+52/5K/j.D/3f gap
+53/5K/236S/1f gap
+54/5K/236H/62f gap
+55/5K/214S/6f gap
+56/5K/214S (3-Hit)/6f gap
+57/5K/214S (6-Hit)/6f gap
+58/5K/214S (9-Hit)/6f gap
+59/5K/214P/9f gap
+60/5K/j.236P/5f gap
+61/5K/j.236K/8f gap
+62/5K/214K/"N/A"
+63/5K/j.236H/7f gap
+64/5K/236236S/-2f gap
+65/5K/632146H/-2f gap
+66/c.S/5P/6f gap
+67/c.S/5K/6f gap
+68/c.S/c.S/6f gap
+69/c.S/f.S/-7f gap
+70/c.S/5H/-4f gap
+71/c.S/5D/4f gap
+72/c.S/5[D]/27f gap
+73/c.S/6P/-7f gap
+74/c.S/6K/12f gap
+75/c.S/6H/-1f gap
+76/c.S/2P/3f gap
+77/c.S/2K/5f gap
+78/c.S/2S/-5f gap
+79/c.S/2H/-2f gap
+80/c.S/2D/-4f gap
+81/c.S/j.P/-6f gap
+82/c.S/j.K/-5f gap
+83/c.S/j.S/-4f gap
+84/c.S/j.H/-3f gap
+85/c.S/j.D/-2f gap
+86/c.S/236S/-4f gap
+87/c.S/236H/57f gap
+88/c.S/214S/1f gap
+89/c.S/214S (3-Hit)/1f gap
+90/c.S/214S (6-Hit)/1f gap
+91/c.S/214S (9-Hit)/1f gap
+92/c.S/214P/4f gap
+93/c.S/j.236P/0f gap
+94/c.S/j.236K/3f gap
+95/c.S/214K/"N/A"
+96/c.S/j.236H/2f gap
+97/c.S/236236S/-7f gap
+98/c.S/632146H/-7f gap
+99/f.S/5P/14f gap
+100/f.S/5K/14f gap
+101/f.S/c.S/14f gap
+102/f.S/f.S/16f gap
+103/f.S/5H/-1f gap
+104/f.S/5D/27f gap
+105/f.S/5[D]/35f gap
+106/f.S/6P/16f gap
+107/f.S/6K/35f gap
+108/f.S/6H/22f gap
+109/f.S/2P/11f gap
+110/f.S/2K/13f gap
+111/f.S/2S/18f gap
+112/f.S/2H/1f gap
+113/f.S/2D/19f gap
+114/f.S/j.P/17f gap
+115/f.S/j.K/18f gap
+116/f.S/j.S/19f gap
+117/f.S/j.H/20f gap
+118/f.S/j.D/21f gap
+119/f.S/236S/-1f gap
+120/f.S/236H/60f gap
+121/f.S/214S/4f gap
+122/f.S/214S (3-Hit)/4f gap
+123/f.S/214S (6-Hit)/4f gap
+124/f.S/214S (9-Hit)/4f gap
+125/f.S/214P/7f gap
+126/f.S/j.236P/23f gap
+127/f.S/j.236K/26f gap
+128/f.S/214K/"N/A"
+129/f.S/j.236H/25f gap
+130/f.S/236236S/-4f gap
+131/f.S/632146H/-4f gap
+132/5H/5P/15f gap
+133/5H/5K/15f gap
+134/5H/c.S/15f gap
+135/5H/f.S/17f gap
+136/5H/5H/20f gap
+137/5H/5D/28f gap
+138/5H/5[D]/36f gap
+139/5H/6P/17f gap
+140/5H/6K/36f gap
+141/5H/6H/23f gap
+142/5H/2P/12f gap
+143/5H/2K/14f gap
+144/5H/2S/19f gap
+145/5H/2H/22f gap
+146/5H/2D/20f gap
+147/5H/j.P/18f gap
+148/5H/j.K/19f gap
+149/5H/j.S/20f gap
+150/5H/j.H/21f gap
+151/5H/j.D/22f gap
+152/5H/236S/-6f gap
+153/5H/236H/55f gap
+154/5H/214S/-1f gap
+155/5H/214S (3-Hit)/-1f gap
+156/5H/214S (6-Hit)/-1f gap
+157/5H/214S (9-Hit)/-1f gap
+158/5H/214P/2f gap
+159/5H/j.236P/24f gap
+160/5H/j.236K/27f gap
+161/5H/214K/"N/A"
+162/5H/j.236H/26f gap
+163/5H/236236S/-9f gap
+164/5H/632146H/-9f gap
+165/5D/5P/22f gap
+166/5D/5K/22f gap
+167/5D/c.S/22f gap
+168/5D/f.S/24f gap
+169/5D/5H/27f gap
+170/5D/5D/35f gap
+171/5D/5[D]/43f gap
+172/5D/6P/24f gap
+173/5D/6K/43f gap
+174/5D/6H/30f gap
+175/5D/2P/19f gap
+176/5D/2K/21f gap
+177/5D/2S/26f gap
+178/5D/2H/29f gap
+179/5D/2D/27f gap
+180/5D/j.P/25f gap
+181/5D/j.K/26f gap
+182/5D/j.S/27f gap
+183/5D/j.H/28f gap
+184/5D/j.D/29f gap
+185/5D/236S/27f gap
+186/5D/236H/88f gap
+187/5D/214S/32f gap
+188/5D/214S (3-Hit)/32f gap
+189/5D/214S (6-Hit)/32f gap
+190/5D/214S (9-Hit)/32f gap
+191/5D/214P/35f gap
+192/5D/j.236P/31f gap
+193/5D/j.236K/34f gap
+194/5D/214K/"N/A"
+195/5D/j.236H/33f gap
+196/5D/236236S/24f gap
+197/5D/632146H/24f gap
+198/5[D]/5P/17f gap
+199/5[D]/5K/17f gap
+200/5[D]/c.S/17f gap
+201/5[D]/f.S/19f gap
+202/5[D]/5H/22f gap
+203/5[D]/5D/30f gap
+204/5[D]/5[D]/38f gap
+205/5[D]/6P/19f gap
+206/5[D]/6K/38f gap
+207/5[D]/6H/25f gap
+208/5[D]/2P/14f gap
+209/5[D]/2K/16f gap
+210/5[D]/2S/21f gap
+211/5[D]/2H/24f gap
+212/5[D]/2D/22f gap
+213/5[D]/j.P/20f gap
+214/5[D]/j.K/21f gap
+215/5[D]/j.S/22f gap
+216/5[D]/j.H/23f gap
+217/5[D]/j.D/24f gap
+218/5[D]/236S/22f gap
+219/5[D]/236H/83f gap
+220/5[D]/214S/27f gap
+221/5[D]/214S (3-Hit)/27f gap
+222/5[D]/214S (6-Hit)/27f gap
+223/5[D]/214S (9-Hit)/27f gap
+224/5[D]/214P/30f gap
+225/5[D]/j.236P/26f gap
+226/5[D]/j.236K/29f gap
+227/5[D]/214K/"N/A"
+228/5[D]/j.236H/28f gap
+229/5[D]/236236S/19f gap
+230/5[D]/632146H/19f gap
+231/6P/5P/18f gap
+232/6P/5K/18f gap
+233/6P/c.S/18f gap
+234/6P/f.S/20f gap
+235/6P/5H/23f gap
+236/6P/5D/31f gap
+237/6P/5[D]/39f gap
+238/6P/6P/20f gap
+239/6P/6K/39f gap
+240/6P/6H/26f gap
+241/6P/2P/15f gap
+242/6P/2K/17f gap
+243/6P/2S/22f gap
+244/6P/2H/25f gap
+245/6P/2D/23f gap
+246/6P/j.P/21f gap
+247/6P/j.K/22f gap
+248/6P/j.S/23f gap
+249/6P/j.H/24f gap
+250/6P/j.D/25f gap
+251/6P/236S/23f gap
+252/6P/236H/84f gap
+253/6P/214S/28f gap
+254/6P/214S (3-Hit)/28f gap
+255/6P/214S (6-Hit)/28f gap
+256/6P/214S (9-Hit)/28f gap
+257/6P/214P/31f gap
+258/6P/j.236P/27f gap
+259/6P/j.236K/30f gap
+260/6P/214K/"N/A"
+261/6P/j.236H/29f gap
+262/6P/236236S/20f gap
+263/6P/632146H/20f gap
+264/6K/5P/5f gap
+265/6K/5K/5f gap
+266/6K/c.S/5f gap
+267/6K/f.S/7f gap
+268/6K/5H/10f gap
+269/6K/5D/18f gap
+270/6K/5[D]/26f gap
+271/6K/6P/7f gap
+272/6K/6K/26f gap
+273/6K/6H/13f gap
+274/6K/2P/2f gap
+275/6K/2K/4f gap
+276/6K/2S/9f gap
+277/6K/2H/12f gap
+278/6K/2D/10f gap
+279/6K/j.P/8f gap
+280/6K/j.K/9f gap
+281/6K/j.S/10f gap
+282/6K/j.H/11f gap
+283/6K/j.D/12f gap
+284/6K/236S/-1f gap
+285/6K/236H/60f gap
+286/6K/214S/4f gap
+287/6K/214S (3-Hit)/4f gap
+288/6K/214S (6-Hit)/4f gap
+289/6K/214S (9-Hit)/4f gap
+290/6K/214P/7f gap
+291/6K/j.236P/14f gap
+292/6K/j.236K/17f gap
+293/6K/214K/"N/A"
+294/6K/j.236H/16f gap
+295/6K/236236S/-4f gap
+296/6K/632146H/-4f gap
+297/6H/5P/15f gap
+298/6H/5K/15f gap
+299/6H/c.S/15f gap
+300/6H/f.S/17f gap
+301/6H/5H/20f gap
+302/6H/5D/28f gap
+303/6H/5[D]/36f gap
+304/6H/6P/17f gap
+305/6H/6K/36f gap
+306/6H/6H/23f gap
+307/6H/2P/12f gap
+308/6H/2K/14f gap
+309/6H/2S/19f gap
+310/6H/2H/22f gap
+311/6H/2D/20f gap
+312/6H/j.P/18f gap
+313/6H/j.K/19f gap
+314/6H/j.S/20f gap
+315/6H/j.H/21f gap
+316/6H/j.D/22f gap
+317/6H/236S/-6f gap
+318/6H/236H/55f gap
+319/6H/214S/-1f gap
+320/6H/214S (3-Hit)/-1f gap
+321/6H/214S (6-Hit)/-1f gap
+322/6H/214S (9-Hit)/-1f gap
+323/6H/214P/2f gap
+324/6H/j.236P/24f gap
+325/6H/j.236K/27f gap
+326/6H/214K/"N/A"
+327/6H/j.236H/26f gap
+328/6H/236236S/-9f gap
+329/6H/632146H/-9f gap
+330/2P/5P/-2f gap
+331/2P/5K/9f gap
+332/2P/c.S/9f gap
+333/2P/f.S/11f gap
+334/2P/5H/14f gap
+335/2P/5D/22f gap
+336/2P/5[D]/30f gap
+337/2P/6P/0f gap
+338/2P/6K/19f gap
+339/2P/6H/6f gap
+340/2P/2P/-5f gap
+341/2P/2K/8f gap
+342/2P/2S/13f gap
+343/2P/2H/16f gap
+344/2P/2D/14f gap
+345/2P/j.P/12f gap
+346/2P/j.K/13f gap
+347/2P/j.S/14f gap
+348/2P/j.H/15f gap
+349/2P/j.D/16f gap
+350/2P/236S/3f gap
+351/2P/236H/64f gap
+352/2P/214S/8f gap
+353/2P/214S (3-Hit)/8f gap
+354/2P/214S (6-Hit)/8f gap
+355/2P/214S (9-Hit)/8f gap
+356/2P/214P/11f gap
+357/2P/j.236P/18f gap
+358/2P/j.236K/21f gap
+359/2P/214K/"N/A"
+360/2P/j.236H/20f gap
+361/2P/236236S/0f gap
+362/2P/632146H/0f gap
+363/2K/5P/10f gap
+364/2K/5K/10f gap
+365/2K/c.S/10f gap
+366/2K/f.S/12f gap
+367/2K/5H/15f gap
+368/2K/5D/9f gap
+369/2K/5[D]/31f gap
+370/2K/6P/-2f gap
+371/2K/6K/17f gap
+372/2K/6H/4f gap
+373/2K/2P/7f gap
+374/2K/2K/9f gap
+375/2K/2S/14f gap
+376/2K/2H/17f gap
+377/2K/2D/1f gap
+378/2K/j.P/13f gap
+379/2K/j.K/14f gap
+380/2K/j.S/15f gap
+381/2K/j.H/16f gap
+382/2K/j.D/17f gap
+383/2K/236S/1f gap
+384/2K/236H/62f gap
+385/2K/214S/6f gap
+386/2K/214S (3-Hit)/6f gap
+387/2K/214S (6-Hit)/6f gap
+388/2K/214S (9-Hit)/6f gap
+389/2K/214P/9f gap
+390/2K/j.236P/19f gap
+391/2K/j.236K/22f gap
+392/2K/214K/"N/A"
+393/2K/j.236H/21f gap
+394/2K/236236S/-2f gap
+395/2K/632146H/-2f gap
+396/2S/5P/13f gap
+397/2S/5K/13f gap
+398/2S/c.S/13f gap
+399/2S/f.S/15f gap
+400/2S/5H/-1f gap
+401/2S/5D/26f gap
+402/2S/5[D]/34f gap
+403/2S/6P/15f gap
+404/2S/6K/34f gap
+405/2S/6H/21f gap
+406/2S/2P/10f gap
+407/2S/2K/12f gap
+408/2S/2S/17f gap
+409/2S/2H/1f gap
+410/2S/2D/18f gap
+411/2S/j.P/16f gap
+412/2S/j.K/17f gap
+413/2S/j.S/18f gap
+414/2S/j.H/19f gap
+415/2S/j.D/20f gap
+416/2S/236S/-1f gap
+417/2S/236H/60f gap
+418/2S/214S/4f gap
+419/2S/214S (3-Hit)/4f gap
+420/2S/214S (6-Hit)/4f gap
+421/2S/214S (9-Hit)/4f gap
+422/2S/214P/7f gap
+423/2S/j.236P/22f gap
+424/2S/j.236K/25f gap
+425/2S/214K/"N/A"
+426/2S/j.236H/24f gap
+427/2S/236236S/-4f gap
+428/2S/632146H/-4f gap
+429/2H/5P/14f gap
+430/2H/5K/14f gap
+431/2H/c.S/14f gap
+432/2H/f.S/16f gap
+433/2H/5H/19f gap
+434/2H/5D/27f gap
+435/2H/5[D]/35f gap
+436/2H/6P/16f gap
+437/2H/6K/35f gap
+438/2H/6H/22f gap
+439/2H/2P/11f gap
+440/2H/2K/13f gap
+441/2H/2S/18f gap
+442/2H/2H/21f gap
+443/2H/2D/19f gap
+444/2H/j.P/17f gap
+445/2H/j.K/18f gap
+446/2H/j.S/19f gap
+447/2H/j.H/20f gap
+448/2H/j.D/21f gap
+449/2H/236S/-4f gap
+450/2H/236H/57f gap
+451/2H/214S/1f gap
+452/2H/214S (3-Hit)/1f gap
+453/2H/214S (6-Hit)/1f gap
+454/2H/214S (9-Hit)/1f gap
+455/2H/214P/4f gap
+456/2H/j.236P/23f gap
+457/2H/j.236K/26f gap
+458/2H/214K/"N/A"
+459/2H/j.236H/25f gap
+460/2H/236236S/-7f gap
+461/2H/632146H/-7f gap
+462/2D/5P/15f gap
+463/2D/5K/15f gap
+464/2D/c.S/15f gap
+465/2D/f.S/17f gap
+466/2D/5H/20f gap
+467/2D/5D/28f gap
+468/2D/5[D]/36f gap
+469/2D/6P/17f gap
+470/2D/6K/36f gap
+471/2D/6H/23f gap
+472/2D/2P/12f gap
+473/2D/2K/14f gap
+474/2D/2S/19f gap
+475/2D/2H/22f gap
+476/2D/2D/20f gap
+477/2D/j.P/18f gap
+478/2D/j.K/19f gap
+479/2D/j.S/20f gap
+480/2D/j.H/21f gap
+481/2D/j.D/22f gap
+482/2D/236S/-1f gap
+483/2D/236H/60f gap
+484/2D/214S/4f gap
+485/2D/214S (3-Hit)/4f gap
+486/2D/214S (6-Hit)/4f gap
+487/2D/214S (9-Hit)/4f gap
+488/2D/214P/7f gap
+489/2D/j.236P/24f gap
+490/2D/j.236K/27f gap
+491/2D/214K/"N/A"
+492/2D/j.236H/26f gap
+493/2D/236236S/-4f gap
+494/2D/632146H/-4f gap
+495/j.P/5P/j.P has 9f of blockstun, while 5P has 7.0f of startup
+496/j.P/5K/j.P has 9f of blockstun, while 5K has 7.0f of startup
+497/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
+498/j.P/f.S/j.P has 9f of blockstun, while f.S has 9.0f of startup
+499/j.P/5H/j.P has 9f of blockstun, while 5H has 12.0f of startup
+500/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
+501/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
+502/j.P/6P/j.P has 9f of blockstun, while 6P has 9.0f of startup
+503/j.P/6K/j.P has 9f of blockstun, while 6K has 28.0f of startup
+504/j.P/6H/j.P has 9f of blockstun, while 6H has 15.0f of startup
+505/j.P/2P/j.P has 9f of blockstun, while 2P has 4.0f of startup
+506/j.P/2K/j.P has 9f of blockstun, while 2K has 6.0f of startup
+507/j.P/2S/j.P has 9f of blockstun, while 2S has 11.0f of startup
+508/j.P/2H/j.P has 9f of blockstun, while 2H has 14.0f of startup
+509/j.P/2D/j.P has 9f of blockstun, while 2D has 12.0f of startup
+510/j.P/j.P/-4f gap
+511/j.P/j.K/j.P has 9f of blockstun, while j.K has 6.0f of startup
+512/j.P/j.S/j.P has 9f of blockstun, while j.S has 7.0f of startup
+513/j.P/j.H/j.P has 9f of blockstun, while j.H has 8.0f of startup
+514/j.P/j.D/j.P has 9f of blockstun, while j.D has 9.0f of startup
+515/j.P/236S/j.P has 9f of blockstun, while 236S has 12.0f of startup
+516/j.P/236H/j.P has 9f of blockstun, while 236H has 73.0f of startup
+517/j.P/214S/j.P has 9f of blockstun, while 214S has 17.0f of startup
+518/j.P/214S (3-Hit)/j.P has 9f of blockstun, while 214S (3-Hit) has 17.0f of startup
+519/j.P/214S (6-Hit)/j.P has 9f of blockstun, while 214S (6-Hit) has 17.0f of startup
+520/j.P/214S (9-Hit)/j.P has 9f of blockstun, while 214S (9-Hit) has 17.0f of startup
+521/j.P/214P/j.P has 9f of blockstun, while 214P has 20.0f of startup
+522/j.P/j.236P/j.P has 9f of blockstun, while j.236P has 11.0f of startup
+523/j.P/j.236K/j.P has 9f of blockstun, while j.236K has 14.0f of startup
+524/j.P/214K/j.P has 9f of blockstun, while 214K has f of startup
+525/j.P/j.236H/j.P has 9f of blockstun, while j.236H has 13.0f of startup
+526/j.P/236236S/j.P has 9f of blockstun, while 236236S has 9.0f of startup
+527/j.P/632146H/j.P has 9f of blockstun, while 632146H has 9.0f of startup
+528/j.K/5P/j.K has 11f of blockstun, while 5P has 7.0f of startup
+529/j.K/5K/j.K has 11f of blockstun, while 5K has 7.0f of startup
+530/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
+531/j.K/f.S/j.K has 11f of blockstun, while f.S has 9.0f of startup
+532/j.K/5H/j.K has 11f of blockstun, while 5H has 12.0f of startup
+533/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
+534/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
+535/j.K/6P/j.K has 11f of blockstun, while 6P has 9.0f of startup
+536/j.K/6K/j.K has 11f of blockstun, while 6K has 28.0f of startup
+537/j.K/6H/j.K has 11f of blockstun, while 6H has 15.0f of startup
+538/j.K/2P/j.K has 11f of blockstun, while 2P has 4.0f of startup
+539/j.K/2K/j.K has 11f of blockstun, while 2K has 6.0f of startup
+540/j.K/2S/j.K has 11f of blockstun, while 2S has 11.0f of startup
+541/j.K/2H/j.K has 11f of blockstun, while 2H has 14.0f of startup
+542/j.K/2D/j.K has 11f of blockstun, while 2D has 12.0f of startup
+543/j.K/j.P/j.K has 11f of blockstun, while j.P has 5.0f of startup
+544/j.K/j.K/j.K has 11f of blockstun, while j.K has 6.0f of startup
+545/j.K/j.S/j.K has 11f of blockstun, while j.S has 7.0f of startup
+546/j.K/j.H/j.K has 11f of blockstun, while j.H has 8.0f of startup
+547/j.K/j.D/-2f gap
+548/j.K/236S/j.K has 11f of blockstun, while 236S has 12.0f of startup
+549/j.K/236H/j.K has 11f of blockstun, while 236H has 73.0f of startup
+550/j.K/214S/j.K has 11f of blockstun, while 214S has 17.0f of startup
+551/j.K/214S (3-Hit)/j.K has 11f of blockstun, while 214S (3-Hit) has 17.0f of startup
+552/j.K/214S (6-Hit)/j.K has 11f of blockstun, while 214S (6-Hit) has 17.0f of startup
+553/j.K/214S (9-Hit)/j.K has 11f of blockstun, while 214S (9-Hit) has 17.0f of startup
+554/j.K/214P/j.K has 11f of blockstun, while 214P has 20.0f of startup
+555/j.K/j.236P/j.K has 11f of blockstun, while j.236P has 11.0f of startup
+556/j.K/j.236K/j.K has 11f of blockstun, while j.236K has 14.0f of startup
+557/j.K/214K/j.K has 11f of blockstun, while 214K has f of startup
+558/j.K/j.236H/j.K has 11f of blockstun, while j.236H has 13.0f of startup
+559/j.K/236236S/j.K has 11f of blockstun, while 236236S has 9.0f of startup
+560/j.K/632146H/j.K has 11f of blockstun, while 632146H has 9.0f of startup
+561/j.S/5P/j.S has 13f of blockstun, while 5P has 7.0f of startup
+562/j.S/5K/j.S has 13f of blockstun, while 5K has 7.0f of startup
+563/j.S/c.S/j.S has 13f of blockstun, while c.S has 7.0f of startup
+564/j.S/f.S/j.S has 13f of blockstun, while f.S has 9.0f of startup
+565/j.S/5H/j.S has 13f of blockstun, while 5H has 12.0f of startup
+566/j.S/5D/j.S has 13f of blockstun, while 5D has 20.0f of startup
+567/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28.0f of startup
+568/j.S/6P/j.S has 13f of blockstun, while 6P has 9.0f of startup
+569/j.S/6K/j.S has 13f of blockstun, while 6K has 28.0f of startup
+570/j.S/6H/j.S has 13f of blockstun, while 6H has 15.0f of startup
+571/j.S/2P/j.S has 13f of blockstun, while 2P has 4.0f of startup
+572/j.S/2K/j.S has 13f of blockstun, while 2K has 6.0f of startup
+573/j.S/2S/j.S has 13f of blockstun, while 2S has 11.0f of startup
+574/j.S/2H/j.S has 13f of blockstun, while 2H has 14.0f of startup
+575/j.S/2D/j.S has 13f of blockstun, while 2D has 12.0f of startup
+576/j.S/j.P/j.S has 13f of blockstun, while j.P has 5.0f of startup
+577/j.S/j.K/j.S has 13f of blockstun, while j.K has 6.0f of startup
+578/j.S/j.S/j.S has 13f of blockstun, while j.S has 7.0f of startup
+579/j.S/j.H/-5f gap
+580/j.S/j.D/-4f gap
+581/j.S/236S/j.S has 13f of blockstun, while 236S has 12.0f of startup
+582/j.S/236H/j.S has 13f of blockstun, while 236H has 73.0f of startup
+583/j.S/214S/j.S has 13f of blockstun, while 214S has 17.0f of startup
+584/j.S/214S (3-Hit)/j.S has 13f of blockstun, while 214S (3-Hit) has 17.0f of startup
+585/j.S/214S (6-Hit)/j.S has 13f of blockstun, while 214S (6-Hit) has 17.0f of startup
+586/j.S/214S (9-Hit)/j.S has 13f of blockstun, while 214S (9-Hit) has 17.0f of startup
+587/j.S/214P/j.S has 13f of blockstun, while 214P has 20.0f of startup
+588/j.S/j.236P/j.S has 13f of blockstun, while j.236P has 11.0f of startup
+589/j.S/j.236K/j.S has 13f of blockstun, while j.236K has 14.0f of startup
+590/j.S/214K/j.S has 13f of blockstun, while 214K has f of startup
+591/j.S/j.236H/j.S has 13f of blockstun, while j.236H has 13.0f of startup
+592/j.S/236236S/j.S has 13f of blockstun, while 236236S has 9.0f of startup
+593/j.S/632146H/j.S has 13f of blockstun, while 632146H has 9.0f of startup
+594/j.H/5P/j.H has 13f of blockstun, while 5P has 7.0f of startup
+595/j.H/5K/j.H has 13f of blockstun, while 5K has 7.0f of startup
+596/j.H/c.S/j.H has 13f of blockstun, while c.S has 7.0f of startup
+597/j.H/f.S/j.H has 13f of blockstun, while f.S has 9.0f of startup
+598/j.H/5H/j.H has 13f of blockstun, while 5H has 12.0f of startup
+599/j.H/5D/j.H has 13f of blockstun, while 5D has 20.0f of startup
+600/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28.0f of startup
+601/j.H/6P/j.H has 13f of blockstun, while 6P has 9.0f of startup
+602/j.H/6K/j.H has 13f of blockstun, while 6K has 28.0f of startup
+603/j.H/6H/j.H has 13f of blockstun, while 6H has 15.0f of startup
+604/j.H/2P/j.H has 13f of blockstun, while 2P has 4.0f of startup
+605/j.H/2K/j.H has 13f of blockstun, while 2K has 6.0f of startup
+606/j.H/2S/j.H has 13f of blockstun, while 2S has 11.0f of startup
+607/j.H/2H/j.H has 13f of blockstun, while 2H has 14.0f of startup
+608/j.H/2D/j.H has 13f of blockstun, while 2D has 12.0f of startup
+609/j.H/j.P/j.H has 13f of blockstun, while j.P has 5.0f of startup
+610/j.H/j.K/j.H has 13f of blockstun, while j.K has 6.0f of startup
+611/j.H/j.S/j.H has 13f of blockstun, while j.S has 7.0f of startup
+612/j.H/j.H/j.H has 13f of blockstun, while j.H has 8.0f of startup
+613/j.H/j.D/-4f gap
+614/j.H/236S/j.H has 13f of blockstun, while 236S has 12.0f of startup
+615/j.H/236H/j.H has 13f of blockstun, while 236H has 73.0f of startup
+616/j.H/214S/j.H has 13f of blockstun, while 214S has 17.0f of startup
+617/j.H/214S (3-Hit)/j.H has 13f of blockstun, while 214S (3-Hit) has 17.0f of startup
+618/j.H/214S (6-Hit)/j.H has 13f of blockstun, while 214S (6-Hit) has 17.0f of startup
+619/j.H/214S (9-Hit)/j.H has 13f of blockstun, while 214S (9-Hit) has 17.0f of startup
+620/j.H/214P/j.H has 13f of blockstun, while 214P has 20.0f of startup
+621/j.H/j.236P/j.H has 13f of blockstun, while j.236P has 11.0f of startup
+622/j.H/j.236K/j.H has 13f of blockstun, while j.236K has 14.0f of startup
+623/j.H/214K/j.H has 13f of blockstun, while 214K has f of startup
+624/j.H/j.236H/j.H has 13f of blockstun, while j.236H has 13.0f of startup
+625/j.H/236236S/j.H has 13f of blockstun, while 236236S has 9.0f of startup
+626/j.H/632146H/j.H has 13f of blockstun, while 632146H has 9.0f of startup
+627/j.D/5P/j.D has 13f of blockstun, while 5P has 7.0f of startup
+628/j.D/5K/j.D has 13f of blockstun, while 5K has 7.0f of startup
+629/j.D/c.S/j.D has 13f of blockstun, while c.S has 7.0f of startup
+630/j.D/f.S/j.D has 13f of blockstun, while f.S has 9.0f of startup
+631/j.D/5H/j.D has 13f of blockstun, while 5H has 12.0f of startup
+632/j.D/5D/j.D has 13f of blockstun, while 5D has 20.0f of startup
+633/j.D/5[D]/j.D has 13f of blockstun, while 5[D] has 28.0f of startup
+634/j.D/6P/j.D has 13f of blockstun, while 6P has 9.0f of startup
+635/j.D/6K/j.D has 13f of blockstun, while 6K has 28.0f of startup
+636/j.D/6H/j.D has 13f of blockstun, while 6H has 15.0f of startup
+637/j.D/2P/j.D has 13f of blockstun, while 2P has 4.0f of startup
+638/j.D/2K/j.D has 13f of blockstun, while 2K has 6.0f of startup
+639/j.D/2S/j.D has 13f of blockstun, while 2S has 11.0f of startup
+640/j.D/2H/j.D has 13f of blockstun, while 2H has 14.0f of startup
+641/j.D/2D/j.D has 13f of blockstun, while 2D has 12.0f of startup
+642/j.D/j.P/j.D has 13f of blockstun, while j.P has 5.0f of startup
+643/j.D/j.K/j.D has 13f of blockstun, while j.K has 6.0f of startup
+644/j.D/j.S/j.D has 13f of blockstun, while j.S has 7.0f of startup
+645/j.D/j.H/j.D has 13f of blockstun, while j.H has 8.0f of startup
+646/j.D/j.D/j.D has 13f of blockstun, while j.D has 9.0f of startup
+647/j.D/236S/j.D has 13f of blockstun, while 236S has 12.0f of startup
+648/j.D/236H/j.D has 13f of blockstun, while 236H has 73.0f of startup
+649/j.D/214S/j.D has 13f of blockstun, while 214S has 17.0f of startup
+650/j.D/214S (3-Hit)/j.D has 13f of blockstun, while 214S (3-Hit) has 17.0f of startup
+651/j.D/214S (6-Hit)/j.D has 13f of blockstun, while 214S (6-Hit) has 17.0f of startup
+652/j.D/214S (9-Hit)/j.D has 13f of blockstun, while 214S (9-Hit) has 17.0f of startup
+653/j.D/214P/j.D has 13f of blockstun, while 214P has 20.0f of startup
+654/j.D/j.236P/j.D has 13f of blockstun, while j.236P has 11.0f of startup
+655/j.D/j.236K/j.D has 13f of blockstun, while j.236K has 14.0f of startup
+656/j.D/214K/j.D has 13f of blockstun, while 214K has f of startup
+657/j.D/j.236H/j.D has 13f of blockstun, while j.236H has 13.0f of startup
+658/j.D/236236S/j.D has 13f of blockstun, while 236236S has 9.0f of startup
+659/j.D/632146H/j.D has 13f of blockstun, while 632146H has 9.0f of startup
+660/236S/5P/17f gap
+661/236S/5K/17f gap
+662/236S/c.S/17f gap
+663/236S/f.S/19f gap
+664/236S/5H/22f gap
+665/236S/5D/30f gap
+666/236S/5[D]/38f gap
+667/236S/6P/19f gap
+668/236S/6K/38f gap
+669/236S/6H/25f gap
+670/236S/2P/14f gap
+671/236S/2K/16f gap
+672/236S/2S/21f gap
+673/236S/2H/24f gap
+674/236S/2D/22f gap
+675/236S/j.P/20f gap
+676/236S/j.K/21f gap
+677/236S/j.S/22f gap
+678/236S/j.H/23f gap
+679/236S/j.D/24f gap
+680/236S/236S/22f gap
+681/236S/236H/83f gap
+682/236S/214S/27f gap
+683/236S/214S (3-Hit)/27f gap
+684/236S/214S (6-Hit)/27f gap
+685/236S/214S (9-Hit)/27f gap
+686/236S/214P/30f gap
+687/236S/j.236P/26f gap
+688/236S/j.236K/29f gap
+689/236S/214K/"N/A"
+690/236S/j.236H/28f gap
+691/236S/236236S/19f gap
+692/236S/632146H/19f gap
+693/236H/5P/-29f gap
+694/236H/5K/-29f gap
+695/236H/c.S/-29f gap
+696/236H/f.S/-27f gap
+697/236H/5H/-24f gap
+698/236H/5D/-16f gap
+699/236H/5[D]/-8f gap
+700/236H/6P/-27f gap
+701/236H/6K/-8f gap
+702/236H/6H/-21f gap
+703/236H/2P/-32f gap
+704/236H/2K/-30f gap
+705/236H/2S/-25f gap
+706/236H/2H/-22f gap
+707/236H/2D/-24f gap
+708/236H/j.P/-26f gap
+709/236H/j.K/-25f gap
+710/236H/j.S/-24f gap
+711/236H/j.H/-23f gap
+712/236H/j.D/-22f gap
+713/236H/236S/-24f gap
+714/236H/236H/37f gap
+715/236H/214S/-19f gap
+716/236H/214S (3-Hit)/-19f gap
+717/236H/214S (6-Hit)/-19f gap
+718/236H/214S (9-Hit)/-19f gap
+719/236H/214P/-16f gap
+720/236H/j.236P/-20f gap
+721/236H/j.236K/-17f gap
+722/236H/214K/"N/A"
+723/236H/j.236H/-18f gap
+724/236H/236236S/-27f gap
+725/236H/632146H/-27f gap
+726/214S/5P/12f gap
+727/214S/5K/12f gap
+728/214S/c.S/12f gap
+729/214S/f.S/14f gap
+730/214S/5H/17f gap
+731/214S/5D/25f gap
+732/214S/5[D]/33f gap
+733/214S/6P/14f gap
+734/214S/6K/33f gap
+735/214S/6H/20f gap
+736/214S/2P/9f gap
+737/214S/2K/11f gap
+738/214S/2S/16f gap
+739/214S/2H/19f gap
+740/214S/2D/17f gap
+741/214S/j.P/15f gap
+742/214S/j.K/16f gap
+743/214S/j.S/17f gap
+744/214S/j.H/18f gap
+745/214S/j.D/19f gap
+746/214S/236S/17f gap
+747/214S/236H/78f gap
+748/214S/214S/22f gap
+749/214S/214S (3-Hit)/22f gap
+750/214S/214S (6-Hit)/22f gap
+751/214S/214S (9-Hit)/22f gap
+752/214S/214P/25f gap
+753/214S/j.236P/21f gap
+754/214S/j.236K/24f gap
+755/214S/214K/"N/A"
+756/214S/j.236H/23f gap
+757/214S/236236S/14f gap
+758/214S/632146H/14f gap
+759/214S (3-Hit)/5P/12f gap
+760/214S (3-Hit)/5K/12f gap
+761/214S (3-Hit)/c.S/12f gap
+762/214S (3-Hit)/f.S/14f gap
+763/214S (3-Hit)/5H/17f gap
+764/214S (3-Hit)/5D/25f gap
+765/214S (3-Hit)/5[D]/33f gap
+766/214S (3-Hit)/6P/14f gap
+767/214S (3-Hit)/6K/33f gap
+768/214S (3-Hit)/6H/20f gap
+769/214S (3-Hit)/2P/9f gap
+770/214S (3-Hit)/2K/11f gap
+771/214S (3-Hit)/2S/16f gap
+772/214S (3-Hit)/2H/19f gap
+773/214S (3-Hit)/2D/17f gap
+774/214S (3-Hit)/j.P/15f gap
+775/214S (3-Hit)/j.K/16f gap
+776/214S (3-Hit)/j.S/17f gap
+777/214S (3-Hit)/j.H/18f gap
+778/214S (3-Hit)/j.D/19f gap
+779/214S (3-Hit)/236S/17f gap
+780/214S (3-Hit)/236H/78f gap
+781/214S (3-Hit)/214S/22f gap
+782/214S (3-Hit)/214S (3-Hit)/22f gap
+783/214S (3-Hit)/214S (6-Hit)/22f gap
+784/214S (3-Hit)/214S (9-Hit)/22f gap
+785/214S (3-Hit)/214P/25f gap
+786/214S (3-Hit)/j.236P/21f gap
+787/214S (3-Hit)/j.236K/24f gap
+788/214S (3-Hit)/214K/"N/A"
+789/214S (3-Hit)/j.236H/23f gap
+790/214S (3-Hit)/236236S/14f gap
+791/214S (3-Hit)/632146H/14f gap
+792/214S (6-Hit)/5P/14f gap
+793/214S (6-Hit)/5K/14f gap
+794/214S (6-Hit)/c.S/14f gap
+795/214S (6-Hit)/f.S/16f gap
+796/214S (6-Hit)/5H/19f gap
+797/214S (6-Hit)/5D/27f gap
+798/214S (6-Hit)/5[D]/35f gap
+799/214S (6-Hit)/6P/16f gap
+800/214S (6-Hit)/6K/35f gap
+801/214S (6-Hit)/6H/22f gap
+802/214S (6-Hit)/2P/11f gap
+803/214S (6-Hit)/2K/13f gap
+804/214S (6-Hit)/2S/18f gap
+805/214S (6-Hit)/2H/21f gap
+806/214S (6-Hit)/2D/19f gap
+807/214S (6-Hit)/j.P/17f gap
+808/214S (6-Hit)/j.K/18f gap
+809/214S (6-Hit)/j.S/19f gap
+810/214S (6-Hit)/j.H/20f gap
+811/214S (6-Hit)/j.D/21f gap
+812/214S (6-Hit)/236S/19f gap
+813/214S (6-Hit)/236H/80f gap
+814/214S (6-Hit)/214S/24f gap
+815/214S (6-Hit)/214S (3-Hit)/24f gap
+816/214S (6-Hit)/214S (6-Hit)/24f gap
+817/214S (6-Hit)/214S (9-Hit)/24f gap
+818/214S (6-Hit)/214P/27f gap
+819/214S (6-Hit)/j.236P/23f gap
+820/214S (6-Hit)/j.236K/26f gap
+821/214S (6-Hit)/214K/"N/A"
+822/214S (6-Hit)/j.236H/25f gap
+823/214S (6-Hit)/236236S/16f gap
+824/214S (6-Hit)/632146H/16f gap
+825/214S (9-Hit)/5P/16f gap
+826/214S (9-Hit)/5K/16f gap
+827/214S (9-Hit)/c.S/16f gap
+828/214S (9-Hit)/f.S/18f gap
+829/214S (9-Hit)/5H/21f gap
+830/214S (9-Hit)/5D/29f gap
+831/214S (9-Hit)/5[D]/37f gap
+832/214S (9-Hit)/6P/18f gap
+833/214S (9-Hit)/6K/37f gap
+834/214S (9-Hit)/6H/24f gap
+835/214S (9-Hit)/2P/13f gap
+836/214S (9-Hit)/2K/15f gap
+837/214S (9-Hit)/2S/20f gap
+838/214S (9-Hit)/2H/23f gap
+839/214S (9-Hit)/2D/21f gap
+840/214S (9-Hit)/j.P/19f gap
+841/214S (9-Hit)/j.K/20f gap
+842/214S (9-Hit)/j.S/21f gap
+843/214S (9-Hit)/j.H/22f gap
+844/214S (9-Hit)/j.D/23f gap
+845/214S (9-Hit)/236S/21f gap
+846/214S (9-Hit)/236H/82f gap
+847/214S (9-Hit)/214S/26f gap
+848/214S (9-Hit)/214S (3-Hit)/26f gap
+849/214S (9-Hit)/214S (6-Hit)/26f gap
+850/214S (9-Hit)/214S (9-Hit)/26f gap
+851/214S (9-Hit)/214P/29f gap
+852/214S (9-Hit)/j.236P/25f gap
+853/214S (9-Hit)/j.236K/28f gap
+854/214S (9-Hit)/214K/"N/A"
+855/214S (9-Hit)/j.236H/27f gap
+856/214S (9-Hit)/236236S/18f gap
+857/214S (9-Hit)/632146H/18f gap
+858/214P/5P/19f gap
+859/214P/5K/19f gap
+860/214P/c.S/19f gap
+861/214P/f.S/21f gap
+862/214P/5H/24f gap
+863/214P/5D/32f gap
+864/214P/5[D]/40f gap
+865/214P/6P/21f gap
+866/214P/6K/40f gap
+867/214P/6H/27f gap
+868/214P/2P/16f gap
+869/214P/2K/18f gap
+870/214P/2S/23f gap
+871/214P/2H/26f gap
+872/214P/2D/24f gap
+873/214P/j.P/22f gap
+874/214P/j.K/23f gap
+875/214P/j.S/24f gap
+876/214P/j.H/25f gap
+877/214P/j.D/26f gap
+878/214P/236S/24f gap
+879/214P/236H/85f gap
+880/214P/214S/29f gap
+881/214P/214S (3-Hit)/29f gap
+882/214P/214S (6-Hit)/29f gap
+883/214P/214S (9-Hit)/29f gap
+884/214P/214P/32f gap
+885/214P/j.236P/28f gap
+886/214P/j.236K/31f gap
+887/214P/214K/"N/A"
+888/214P/j.236H/30f gap
+889/214P/236236S/21f gap
+890/214P/632146H/21f gap
+891/j.236P/5P/j.236P has 13f of blockstun, while 5P has 7.0f of startup
+892/j.236P/5K/j.236P has 13f of blockstun, while 5K has 7.0f of startup
+893/j.236P/c.S/j.236P has 13f of blockstun, while c.S has 7.0f of startup
+894/j.236P/f.S/j.236P has 13f of blockstun, while f.S has 9.0f of startup
+895/j.236P/5H/j.236P has 13f of blockstun, while 5H has 12.0f of startup
+896/j.236P/5D/j.236P has 13f of blockstun, while 5D has 20.0f of startup
+897/j.236P/5[D]/j.236P has 13f of blockstun, while 5[D] has 28.0f of startup
+898/j.236P/6P/j.236P has 13f of blockstun, while 6P has 9.0f of startup
+899/j.236P/6K/j.236P has 13f of blockstun, while 6K has 28.0f of startup
+900/j.236P/6H/j.236P has 13f of blockstun, while 6H has 15.0f of startup
+901/j.236P/2P/j.236P has 13f of blockstun, while 2P has 4.0f of startup
+902/j.236P/2K/j.236P has 13f of blockstun, while 2K has 6.0f of startup
+903/j.236P/2S/j.236P has 13f of blockstun, while 2S has 11.0f of startup
+904/j.236P/2H/j.236P has 13f of blockstun, while 2H has 14.0f of startup
+905/j.236P/2D/j.236P has 13f of blockstun, while 2D has 12.0f of startup
+906/j.236P/j.P/j.236P has 13f of blockstun, while j.P has 5.0f of startup
+907/j.236P/j.K/j.236P has 13f of blockstun, while j.K has 6.0f of startup
+908/j.236P/j.S/j.236P has 13f of blockstun, while j.S has 7.0f of startup
+909/j.236P/j.H/j.236P has 13f of blockstun, while j.H has 8.0f of startup
+910/j.236P/j.D/j.236P has 13f of blockstun, while j.D has 9.0f of startup
+911/j.236P/236S/j.236P has 13f of blockstun, while 236S has 12.0f of startup
+912/j.236P/236H/j.236P has 13f of blockstun, while 236H has 73.0f of startup
+913/j.236P/214S/j.236P has 13f of blockstun, while 214S has 17.0f of startup
+914/j.236P/214S (3-Hit)/j.236P has 13f of blockstun, while 214S (3-Hit) has 17.0f of startup
+915/j.236P/214S (6-Hit)/j.236P has 13f of blockstun, while 214S (6-Hit) has 17.0f of startup
+916/j.236P/214S (9-Hit)/j.236P has 13f of blockstun, while 214S (9-Hit) has 17.0f of startup
+917/j.236P/214P/j.236P has 13f of blockstun, while 214P has 20.0f of startup
+918/j.236P/j.236P/j.236P has 13f of blockstun, while j.236P has 11.0f of startup
+919/j.236P/j.236K/j.236P has 13f of blockstun, while j.236K has 14.0f of startup
+920/j.236P/214K/j.236P has 13f of blockstun, while 214K has f of startup
+921/j.236P/j.236H/j.236P has 13f of blockstun, while j.236H has 13.0f of startup
+922/j.236P/236236S/j.236P has 13f of blockstun, while 236236S has 9.0f of startup
+923/j.236P/632146H/j.236P has 13f of blockstun, while 632146H has 9.0f of startup
+924/j.236K/5P/j.236K has 1000000f of blockstun, while 5P has 7.0f of startup
+925/j.236K/5K/j.236K has 1000000f of blockstun, while 5K has 7.0f of startup
+926/j.236K/c.S/j.236K has 1000000f of blockstun, while c.S has 7.0f of startup
+927/j.236K/f.S/j.236K has 1000000f of blockstun, while f.S has 9.0f of startup
+928/j.236K/5H/j.236K has 1000000f of blockstun, while 5H has 12.0f of startup
+929/j.236K/5D/j.236K has 1000000f of blockstun, while 5D has 20.0f of startup
+930/j.236K/5[D]/j.236K has 1000000f of blockstun, while 5[D] has 28.0f of startup
+931/j.236K/6P/j.236K has 1000000f of blockstun, while 6P has 9.0f of startup
+932/j.236K/6K/j.236K has 1000000f of blockstun, while 6K has 28.0f of startup
+933/j.236K/6H/j.236K has 1000000f of blockstun, while 6H has 15.0f of startup
+934/j.236K/2P/j.236K has 1000000f of blockstun, while 2P has 4.0f of startup
+935/j.236K/2K/j.236K has 1000000f of blockstun, while 2K has 6.0f of startup
+936/j.236K/2S/j.236K has 1000000f of blockstun, while 2S has 11.0f of startup
+937/j.236K/2H/j.236K has 1000000f of blockstun, while 2H has 14.0f of startup
+938/j.236K/2D/j.236K has 1000000f of blockstun, while 2D has 12.0f of startup
+939/j.236K/j.P/j.236K has 1000000f of blockstun, while j.P has 5.0f of startup
+940/j.236K/j.K/j.236K has 1000000f of blockstun, while j.K has 6.0f of startup
+941/j.236K/j.S/j.236K has 1000000f of blockstun, while j.S has 7.0f of startup
+942/j.236K/j.H/j.236K has 1000000f of blockstun, while j.H has 8.0f of startup
+943/j.236K/j.D/j.236K has 1000000f of blockstun, while j.D has 9.0f of startup
+944/j.236K/236S/j.236K has 1000000f of blockstun, while 236S has 12.0f of startup
+945/j.236K/236H/j.236K has 1000000f of blockstun, while 236H has 73.0f of startup
+946/j.236K/214S/j.236K has 1000000f of blockstun, while 214S has 17.0f of startup
+947/j.236K/214S (3-Hit)/j.236K has 1000000f of blockstun, while 214S (3-Hit) has 17.0f of startup
+948/j.236K/214S (6-Hit)/j.236K has 1000000f of blockstun, while 214S (6-Hit) has 17.0f of startup
+949/j.236K/214S (9-Hit)/j.236K has 1000000f of blockstun, while 214S (9-Hit) has 17.0f of startup
+950/j.236K/214P/j.236K has 1000000f of blockstun, while 214P has 20.0f of startup
+951/j.236K/j.236P/j.236K has 1000000f of blockstun, while j.236P has 11.0f of startup
+952/j.236K/j.236K/j.236K has 1000000f of blockstun, while j.236K has 14.0f of startup
+953/j.236K/214K/j.236K has 1000000f of blockstun, while 214K has f of startup
+954/j.236K/j.236H/j.236K has 1000000f of blockstun, while j.236H has 13.0f of startup
+955/j.236K/236236S/j.236K has 1000000f of blockstun, while 236236S has 9.0f of startup
+956/j.236K/632146H/j.236K has 1000000f of blockstun, while 632146H has 9.0f of startup
+957/214K/5P/"N/A"
+958/214K/5K/"N/A"
+959/214K/c.S/"N/A"
+960/214K/f.S/"N/A"
+961/214K/5H/"N/A"
+962/214K/5D/"N/A"
+963/214K/5[D]/"N/A"
+964/214K/6P/"N/A"
+965/214K/6K/"N/A"
+966/214K/6H/"N/A"
+967/214K/2P/"N/A"
+968/214K/2K/"N/A"
+969/214K/2S/"N/A"
+970/214K/2H/"N/A"
+971/214K/2D/"N/A"
+972/214K/j.P/"N/A"
+973/214K/j.K/"N/A"
+974/214K/j.S/"N/A"
+975/214K/j.H/"N/A"
+976/214K/j.D/"N/A"
+977/214K/236S/"N/A"
+978/214K/236H/"N/A"
+979/214K/214S/"N/A"
+980/214K/214S (3-Hit)/"N/A"
+981/214K/214S (6-Hit)/"N/A"
+982/214K/214S (9-Hit)/"N/A"
+983/214K/214P/"N/A"
+984/214K/j.236P/"N/A"
+985/214K/j.236K/"N/A"
+986/214K/214K/"N/A"
+987/214K/j.236H/"N/A"
+988/214K/236236S/"N/A"
+989/214K/632146H/"N/A"
+990/j.236H/5P/j.236H has 11f of blockstun, while 5P has 7.0f of startup
+991/j.236H/5K/j.236H has 11f of blockstun, while 5K has 7.0f of startup
+992/j.236H/c.S/j.236H has 11f of blockstun, while c.S has 7.0f of startup
+993/j.236H/f.S/j.236H has 11f of blockstun, while f.S has 9.0f of startup
+994/j.236H/5H/j.236H has 11f of blockstun, while 5H has 12.0f of startup
+995/j.236H/5D/j.236H has 11f of blockstun, while 5D has 20.0f of startup
+996/j.236H/5[D]/j.236H has 11f of blockstun, while 5[D] has 28.0f of startup
+997/j.236H/6P/j.236H has 11f of blockstun, while 6P has 9.0f of startup
+998/j.236H/6K/j.236H has 11f of blockstun, while 6K has 28.0f of startup
+999/j.236H/6H/j.236H has 11f of blockstun, while 6H has 15.0f of startup
+1000/j.236H/2P/j.236H has 11f of blockstun, while 2P has 4.0f of startup
+1001/j.236H/2K/j.236H has 11f of blockstun, while 2K has 6.0f of startup
+1002/j.236H/2S/j.236H has 11f of blockstun, while 2S has 11.0f of startup
+1003/j.236H/2H/j.236H has 11f of blockstun, while 2H has 14.0f of startup
+1004/j.236H/2D/j.236H has 11f of blockstun, while 2D has 12.0f of startup
+1005/j.236H/j.P/j.236H has 11f of blockstun, while j.P has 5.0f of startup
+1006/j.236H/j.K/j.236H has 11f of blockstun, while j.K has 6.0f of startup
+1007/j.236H/j.S/j.236H has 11f of blockstun, while j.S has 7.0f of startup
+1008/j.236H/j.H/j.236H has 11f of blockstun, while j.H has 8.0f of startup
+1009/j.236H/j.D/j.236H has 11f of blockstun, while j.D has 9.0f of startup
+1010/j.236H/236S/j.236H has 11f of blockstun, while 236S has 12.0f of startup
+1011/j.236H/236H/j.236H has 11f of blockstun, while 236H has 73.0f of startup
+1012/j.236H/214S/j.236H has 11f of blockstun, while 214S has 17.0f of startup
+1013/j.236H/214S (3-Hit)/j.236H has 11f of blockstun, while 214S (3-Hit) has 17.0f of startup
+1014/j.236H/214S (6-Hit)/j.236H has 11f of blockstun, while 214S (6-Hit) has 17.0f of startup
+1015/j.236H/214S (9-Hit)/j.236H has 11f of blockstun, while 214S (9-Hit) has 17.0f of startup
+1016/j.236H/214P/j.236H has 11f of blockstun, while 214P has 20.0f of startup
+1017/j.236H/j.236P/j.236H has 11f of blockstun, while j.236P has 11.0f of startup
+1018/j.236H/j.236K/j.236H has 11f of blockstun, while j.236K has 14.0f of startup
+1019/j.236H/214K/j.236H has 11f of blockstun, while 214K has f of startup
+1020/j.236H/j.236H/j.236H has 11f of blockstun, while j.236H has 13.0f of startup
+1021/j.236H/236236S/j.236H has 11f of blockstun, while 236236S has 9.0f of startup
+1022/j.236H/632146H/j.236H has 11f of blockstun, while 632146H has 9.0f of startup
+1023/236236S/5P/-1f gap
+1024/236236S/5K/-1f gap
+1025/236236S/c.S/-1f gap
+1026/236236S/f.S/1f gap
+1027/236236S/5H/4f gap
+1028/236236S/5D/12f gap
+1029/236236S/5[D]/20f gap
+1030/236236S/6P/1f gap
+1031/236236S/6K/20f gap
+1032/236236S/6H/7f gap
+1033/236236S/2P/-4f gap
+1034/236236S/2K/-2f gap
+1035/236236S/2S/3f gap
+1036/236236S/2H/6f gap
+1037/236236S/2D/4f gap
+1038/236236S/j.P/2f gap
+1039/236236S/j.K/3f gap
+1040/236236S/j.S/4f gap
+1041/236236S/j.H/5f gap
+1042/236236S/j.D/6f gap
+1043/236236S/236S/4f gap
+1044/236236S/236H/65f gap
+1045/236236S/214S/9f gap
+1046/236236S/214S (3-Hit)/9f gap
+1047/236236S/214S (6-Hit)/9f gap
+1048/236236S/214S (9-Hit)/9f gap
+1049/236236S/214P/12f gap
+1050/236236S/j.236P/8f gap
+1051/236236S/j.236K/11f gap
+1052/236236S/214K/"N/A"
+1053/236236S/j.236H/10f gap
+1054/236236S/236236S/1f gap
+1055/236236S/632146H/1f gap
+1056/632146H/5P/39f gap
+1057/632146H/5K/39f gap
+1058/632146H/c.S/39f gap
+1059/632146H/f.S/41f gap
+1060/632146H/5H/44f gap
+1061/632146H/5D/52f gap
+1062/632146H/5[D]/60f gap
+1063/632146H/6P/41f gap
+1064/632146H/6K/60f gap
+1065/632146H/6H/47f gap
+1066/632146H/2P/36f gap
+1067/632146H/2K/38f gap
+1068/632146H/2S/43f gap
+1069/632146H/2H/46f gap
+1070/632146H/2D/44f gap
+1071/632146H/j.P/42f gap
+1072/632146H/j.K/43f gap
+1073/632146H/j.S/44f gap
+1074/632146H/j.H/45f gap
+1075/632146H/j.D/46f gap
+1076/632146H/236S/44f gap
+1077/632146H/236H/105f gap
+1078/632146H/214S/49f gap
+1079/632146H/214S (3-Hit)/49f gap
+1080/632146H/214S (6-Hit)/49f gap
+1081/632146H/214S (9-Hit)/49f gap
+1082/632146H/214P/52f gap
+1083/632146H/j.236P/48f gap
+1084/632146H/j.236K/51f gap
+1085/632146H/214K/"N/A"
+1086/632146H/j.236H/50f gap
+1087/632146H/236236S/41f gap
+1088/632146H/632146H/41f gap

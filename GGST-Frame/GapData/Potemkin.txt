@@ -1,0 +1,1226 @@
+/move1/move2/gap
+0/5P/5P/-6f gap
+1/5P/5K/9f gap
+2/5P/c.S/7f gap
+3/5P/f.S/11f gap
+4/5P/5H/15f gap
+5/5P/5D/19f gap
+6/5P/5[D]/27f gap
+7/5P/2P/-3f gap
+8/5P/2K/9f gap
+9/5P/2S/13f gap
+10/5P/2H/12f gap
+11/5P/2D/12f gap
+12/5P/6P/0f gap
+13/5P/6K/11f gap
+14/5P/6H/12f gap
+15/5P/j.P/11f gap
+16/5P/j.K/14f gap
+17/5P/j.S/17f gap
+18/5P/j.H/16f gap
+19/5P/j.D/17f gap
+20/5P/[4]6H/7f gap
+21/5P/[4]6H P/"N/A"
+22/5P/632146P/-6f gap
+23/5P/623H/1f gap
+24/5P/236P/14f gap
+25/5P/214P/14f gap
+26/5P/2146K~P/15f gap
+27/5P/236S/18f gap
+28/5P/63214S/9f gap
+29/5P/63214[S]/27f gap
+30/5P/Reflect Projectile/0f gap
+31/5P/214H/17f gap
+32/5P/236236S/1f gap
+33/5P/632146H/0f gap
+34/5P/Mirror/32f gap
+35/5K/5P/9f gap
+36/5K/5K/14f gap
+37/5K/c.S/12f gap
+38/5K/f.S/16f gap
+39/5K/5H/20f gap
+40/5K/5D/7f gap
+41/5K/5[D]/32f gap
+42/5K/2P/12f gap
+43/5K/2K/14f gap
+44/5K/2S/18f gap
+45/5K/2H/17f gap
+46/5K/2D/0f gap
+47/5K/6P/-2f gap
+48/5K/6K/9f gap
+49/5K/6H/10f gap
+50/5K/j.P/-1f gap
+51/5K/j.K/2f gap
+52/5K/j.S/5f gap
+53/5K/j.H/4f gap
+54/5K/j.D/5f gap
+55/5K/[4]6H/5f gap
+56/5K/[4]6H P/"N/A"
+57/5K/632146P/-8f gap
+58/5K/623H/-1f gap
+59/5K/236P/12f gap
+60/5K/214P/12f gap
+61/5K/2146K~P/13f gap
+62/5K/236S/16f gap
+63/5K/63214S/7f gap
+64/5K/63214[S]/25f gap
+65/5K/Reflect Projectile/5f gap
+66/5K/214H/15f gap
+67/5K/236236S/-1f gap
+68/5K/632146H/-2f gap
+69/5K/Mirror/37f gap
+70/c.S/5P/1f gap
+71/c.S/5K/6f gap
+72/c.S/c.S/4f gap
+73/c.S/f.S/-6f gap
+74/c.S/5H/-2f gap
+75/c.S/5D/2f gap
+76/c.S/5[D]/24f gap
+77/c.S/2P/4f gap
+78/c.S/2K/6f gap
+79/c.S/2S/-4f gap
+80/c.S/2H/-5f gap
+81/c.S/2D/-5f gap
+82/c.S/6P/-7f gap
+83/c.S/6K/4f gap
+84/c.S/6H/5f gap
+85/c.S/j.P/-6f gap
+86/c.S/j.K/-3f gap
+87/c.S/j.S/0f gap
+88/c.S/j.H/-1f gap
+89/c.S/j.D/0f gap
+90/c.S/[4]6H/0f gap
+91/c.S/[4]6H P/"N/A"
+92/c.S/632146P/-13f gap
+93/c.S/623H/-6f gap
+94/c.S/236P/7f gap
+95/c.S/214P/7f gap
+96/c.S/2146K~P/8f gap
+97/c.S/236S/11f gap
+98/c.S/63214S/2f gap
+99/c.S/63214[S]/20f gap
+100/c.S/Reflect Projectile/-3f gap
+101/c.S/214H/10f gap
+102/c.S/236236S/-6f gap
+103/c.S/632146H/-7f gap
+104/c.S/Mirror/29f gap
+105/f.S/5P/13f gap
+106/f.S/5K/18f gap
+107/f.S/c.S/16f gap
+108/f.S/f.S/20f gap
+109/f.S/5H/0f gap
+110/f.S/5D/28f gap
+111/f.S/5[D]/36f gap
+112/f.S/2P/16f gap
+113/f.S/2K/18f gap
+114/f.S/2S/22f gap
+115/f.S/2H/-3f gap
+116/f.S/2D/21f gap
+117/f.S/6P/19f gap
+118/f.S/6K/30f gap
+119/f.S/6H/31f gap
+120/f.S/j.P/20f gap
+121/f.S/j.K/23f gap
+122/f.S/j.S/26f gap
+123/f.S/j.H/25f gap
+124/f.S/j.D/26f gap
+125/f.S/[4]6H/2f gap
+126/f.S/[4]6H P/"N/A"
+127/f.S/632146P/-11f gap
+128/f.S/623H/-4f gap
+129/f.S/236P/9f gap
+130/f.S/214P/9f gap
+131/f.S/2146K~P/10f gap
+132/f.S/236S/13f gap
+133/f.S/63214S/4f gap
+134/f.S/63214[S]/22f gap
+135/f.S/Reflect Projectile/9f gap
+136/f.S/214H/12f gap
+137/f.S/236236S/-4f gap
+138/f.S/632146H/-5f gap
+139/f.S/Mirror/41f gap
+140/5H/5P/16f gap
+141/5H/5K/21f gap
+142/5H/c.S/19f gap
+143/5H/f.S/23f gap
+144/5H/5H/27f gap
+145/5H/5D/31f gap
+146/5H/5[D]/39f gap
+147/5H/2P/19f gap
+148/5H/2K/21f gap
+149/5H/2S/25f gap
+150/5H/2H/24f gap
+151/5H/2D/24f gap
+152/5H/6P/22f gap
+153/5H/6K/33f gap
+154/5H/6H/34f gap
+155/5H/j.P/23f gap
+156/5H/j.K/26f gap
+157/5H/j.S/29f gap
+158/5H/j.H/28f gap
+159/5H/j.D/29f gap
+160/5H/[4]6H/0f gap
+161/5H/[4]6H P/"N/A"
+162/5H/632146P/-13f gap
+163/5H/623H/-6f gap
+164/5H/236P/7f gap
+165/5H/214P/7f gap
+166/5H/2146K~P/8f gap
+167/5H/236S/11f gap
+168/5H/63214S/2f gap
+169/5H/63214[S]/20f gap
+170/5H/Reflect Projectile/12f gap
+171/5H/214H/10f gap
+172/5H/236236S/-6f gap
+173/5H/632146H/-7f gap
+174/5H/Mirror/44f gap
+175/5D/5P/20f gap
+176/5D/5K/25f gap
+177/5D/c.S/23f gap
+178/5D/f.S/27f gap
+179/5D/5H/31f gap
+180/5D/5D/35f gap
+181/5D/5[D]/43f gap
+182/5D/2P/23f gap
+183/5D/2K/25f gap
+184/5D/2S/29f gap
+185/5D/2H/28f gap
+186/5D/2D/28f gap
+187/5D/6P/26f gap
+188/5D/6K/37f gap
+189/5D/6H/38f gap
+190/5D/j.P/27f gap
+191/5D/j.K/30f gap
+192/5D/j.S/33f gap
+193/5D/j.H/32f gap
+194/5D/j.D/33f gap
+195/5D/[4]6H/33f gap
+196/5D/[4]6H P/"N/A"
+197/5D/632146P/20f gap
+198/5D/623H/27f gap
+199/5D/236P/40f gap
+200/5D/214P/40f gap
+201/5D/2146K~P/41f gap
+202/5D/236S/44f gap
+203/5D/63214S/35f gap
+204/5D/63214[S]/53f gap
+205/5D/Reflect Projectile/16f gap
+206/5D/214H/43f gap
+207/5D/236236S/27f gap
+208/5D/632146H/26f gap
+209/5D/Mirror/48f gap
+210/5[D]/5P/15f gap
+211/5[D]/5K/20f gap
+212/5[D]/c.S/18f gap
+213/5[D]/f.S/22f gap
+214/5[D]/5H/26f gap
+215/5[D]/5D/30f gap
+216/5[D]/5[D]/38f gap
+217/5[D]/2P/18f gap
+218/5[D]/2K/20f gap
+219/5[D]/2S/24f gap
+220/5[D]/2H/23f gap
+221/5[D]/2D/23f gap
+222/5[D]/6P/21f gap
+223/5[D]/6K/32f gap
+224/5[D]/6H/33f gap
+225/5[D]/j.P/22f gap
+226/5[D]/j.K/25f gap
+227/5[D]/j.S/28f gap
+228/5[D]/j.H/27f gap
+229/5[D]/j.D/28f gap
+230/5[D]/[4]6H/28f gap
+231/5[D]/[4]6H P/"N/A"
+232/5[D]/632146P/15f gap
+233/5[D]/623H/22f gap
+234/5[D]/236P/35f gap
+235/5[D]/214P/35f gap
+236/5[D]/2146K~P/36f gap
+237/5[D]/236S/39f gap
+238/5[D]/63214S/30f gap
+239/5[D]/63214[S]/48f gap
+240/5[D]/Reflect Projectile/11f gap
+241/5[D]/214H/38f gap
+242/5[D]/236236S/22f gap
+243/5[D]/632146H/21f gap
+244/5[D]/Mirror/43f gap
+245/2P/5P/-6f gap
+246/2P/5K/11f gap
+247/2P/c.S/9f gap
+248/2P/f.S/13f gap
+249/2P/5H/17f gap
+250/2P/5D/21f gap
+251/2P/5[D]/29f gap
+252/2P/2P/-3f gap
+253/2P/2K/11f gap
+254/2P/2S/15f gap
+255/2P/2H/14f gap
+256/2P/2D/14f gap
+257/2P/6P/0f gap
+258/2P/6K/11f gap
+259/2P/6H/12f gap
+260/2P/j.P/13f gap
+261/2P/j.K/16f gap
+262/2P/j.S/19f gap
+263/2P/j.H/18f gap
+264/2P/j.D/19f gap
+265/2P/[4]6H/7f gap
+266/2P/[4]6H P/"N/A"
+267/2P/632146P/-6f gap
+268/2P/623H/1f gap
+269/2P/236P/14f gap
+270/2P/214P/14f gap
+271/2P/2146K~P/15f gap
+272/2P/236S/18f gap
+273/2P/63214S/9f gap
+274/2P/63214[S]/27f gap
+275/2P/Reflect Projectile/2f gap
+276/2P/214H/17f gap
+277/2P/236236S/1f gap
+278/2P/632146H/0f gap
+279/2P/Mirror/34f gap
+280/2K/5P/9f gap
+281/2K/5K/14f gap
+282/2K/c.S/12f gap
+283/2K/f.S/16f gap
+284/2K/5H/20f gap
+285/2K/5D/7f gap
+286/2K/5[D]/32f gap
+287/2K/2P/12f gap
+288/2K/2K/14f gap
+289/2K/2S/18f gap
+290/2K/2H/17f gap
+291/2K/2D/0f gap
+292/2K/6P/-2f gap
+293/2K/6K/9f gap
+294/2K/6H/10f gap
+295/2K/j.P/16f gap
+296/2K/j.K/19f gap
+297/2K/j.S/22f gap
+298/2K/j.H/21f gap
+299/2K/j.D/22f gap
+300/2K/[4]6H/5f gap
+301/2K/[4]6H P/"N/A"
+302/2K/632146P/-8f gap
+303/2K/623H/-1f gap
+304/2K/236P/12f gap
+305/2K/214P/12f gap
+306/2K/2146K~P/13f gap
+307/2K/236S/16f gap
+308/2K/63214S/7f gap
+309/2K/63214[S]/25f gap
+310/2K/Reflect Projectile/5f gap
+311/2K/214H/15f gap
+312/2K/236236S/-1f gap
+313/2K/632146H/-2f gap
+314/2K/Mirror/37f gap
+315/2S/5P/9f gap
+316/2S/5K/14f gap
+317/2S/c.S/12f gap
+318/2S/f.S/16f gap
+319/2S/5H/0f gap
+320/2S/5D/24f gap
+321/2S/5[D]/32f gap
+322/2S/2P/12f gap
+323/2S/2K/14f gap
+324/2S/2S/18f gap
+325/2S/2H/-3f gap
+326/2S/2D/17f gap
+327/2S/6P/15f gap
+328/2S/6K/26f gap
+329/2S/6H/27f gap
+330/2S/j.P/16f gap
+331/2S/j.K/19f gap
+332/2S/j.S/22f gap
+333/2S/j.H/21f gap
+334/2S/j.D/22f gap
+335/2S/[4]6H/2f gap
+336/2S/[4]6H P/"N/A"
+337/2S/632146P/-11f gap
+338/2S/623H/-4f gap
+339/2S/236P/9f gap
+340/2S/214P/9f gap
+341/2S/2146K~P/10f gap
+342/2S/236S/13f gap
+343/2S/63214S/4f gap
+344/2S/63214[S]/22f gap
+345/2S/Reflect Projectile/5f gap
+346/2S/214H/12f gap
+347/2S/236236S/-4f gap
+348/2S/632146H/-5f gap
+349/2S/Mirror/37f gap
+350/2H/5P/26f gap
+351/2H/5K/31f gap
+352/2H/c.S/29f gap
+353/2H/f.S/33f gap
+354/2H/5H/37f gap
+355/2H/5D/41f gap
+356/2H/5[D]/49f gap
+357/2H/2P/29f gap
+358/2H/2K/31f gap
+359/2H/2S/35f gap
+360/2H/2H/34f gap
+361/2H/2D/34f gap
+362/2H/6P/32f gap
+363/2H/6K/43f gap
+364/2H/6H/44f gap
+365/2H/j.P/33f gap
+366/2H/j.K/36f gap
+367/2H/j.S/39f gap
+368/2H/j.H/38f gap
+369/2H/j.D/39f gap
+370/2H/[4]6H/0f gap
+371/2H/[4]6H P/"N/A"
+372/2H/632146P/-13f gap
+373/2H/623H/-6f gap
+374/2H/236P/7f gap
+375/2H/214P/7f gap
+376/2H/2146K~P/8f gap
+377/2H/236S/11f gap
+378/2H/63214S/2f gap
+379/2H/63214[S]/20f gap
+380/2H/Reflect Projectile/22f gap
+381/2H/214H/10f gap
+382/2H/236236S/-6f gap
+383/2H/632146H/-7f gap
+384/2H/Mirror/54f gap
+385/2D/5P/13f gap
+386/2D/5K/18f gap
+387/2D/c.S/16f gap
+388/2D/f.S/20f gap
+389/2D/5H/24f gap
+390/2D/5D/28f gap
+391/2D/5[D]/36f gap
+392/2D/2P/16f gap
+393/2D/2K/18f gap
+394/2D/2S/22f gap
+395/2D/2H/21f gap
+396/2D/2D/21f gap
+397/2D/6P/19f gap
+398/2D/6K/30f gap
+399/2D/6H/31f gap
+400/2D/j.P/20f gap
+401/2D/j.K/23f gap
+402/2D/j.S/26f gap
+403/2D/j.H/25f gap
+404/2D/j.D/26f gap
+405/2D/[4]6H/2f gap
+406/2D/[4]6H P/"N/A"
+407/2D/632146P/-11f gap
+408/2D/623H/-4f gap
+409/2D/236P/9f gap
+410/2D/214P/9f gap
+411/2D/2146K~P/10f gap
+412/2D/236S/13f gap
+413/2D/63214S/4f gap
+414/2D/63214[S]/22f gap
+415/2D/Reflect Projectile/9f gap
+416/2D/214H/12f gap
+417/2D/236236S/-4f gap
+418/2D/632146H/-5f gap
+419/2D/Mirror/41f gap
+420/6P/5P/20f gap
+421/6P/5K/25f gap
+422/6P/c.S/23f gap
+423/6P/f.S/27f gap
+424/6P/5H/31f gap
+425/6P/5D/35f gap
+426/6P/5[D]/43f gap
+427/6P/2P/23f gap
+428/6P/2K/25f gap
+429/6P/2S/29f gap
+430/6P/2H/28f gap
+431/6P/2D/28f gap
+432/6P/6P/26f gap
+433/6P/6K/37f gap
+434/6P/6H/38f gap
+435/6P/j.P/27f gap
+436/6P/j.K/30f gap
+437/6P/j.S/33f gap
+438/6P/j.H/32f gap
+439/6P/j.D/33f gap
+440/6P/[4]6H/2f gap
+441/6P/[4]6H P/"N/A"
+442/6P/632146P/-11f gap
+443/6P/623H/-4f gap
+444/6P/236P/9f gap
+445/6P/214P/9f gap
+446/6P/2146K~P/10f gap
+447/6P/236S/13f gap
+448/6P/63214S/4f gap
+449/6P/63214[S]/22f gap
+450/6P/Reflect Projectile/16f gap
+451/6P/214H/12f gap
+452/6P/236236S/-4f gap
+453/6P/632146H/-5f gap
+454/6P/Mirror/48f gap
+455/6K/5P/11f gap
+456/6K/5K/16f gap
+457/6K/c.S/14f gap
+458/6K/f.S/18f gap
+459/6K/5H/22f gap
+460/6K/5D/26f gap
+461/6K/5[D]/34f gap
+462/6K/2P/14f gap
+463/6K/2K/16f gap
+464/6K/2S/20f gap
+465/6K/2H/19f gap
+466/6K/2D/19f gap
+467/6K/6P/17f gap
+468/6K/6K/28f gap
+469/6K/6H/29f gap
+470/6K/j.P/18f gap
+471/6K/j.K/21f gap
+472/6K/j.S/24f gap
+473/6K/j.H/23f gap
+474/6K/j.D/24f gap
+475/6K/[4]6H/24f gap
+476/6K/[4]6H P/"N/A"
+477/6K/632146P/-11f gap
+478/6K/623H/18f gap
+479/6K/236P/31f gap
+480/6K/214P/31f gap
+481/6K/2146K~P/32f gap
+482/6K/236S/35f gap
+483/6K/63214S/26f gap
+484/6K/63214[S]/44f gap
+485/6K/Reflect Projectile/7f gap
+486/6K/214H/34f gap
+487/6K/236236S/-4f gap
+488/6K/632146H/-5f gap
+489/6K/Mirror/39f gap
+490/6H/5P/20f gap
+491/6H/5K/25f gap
+492/6H/c.S/23f gap
+493/6H/f.S/27f gap
+494/6H/5H/31f gap
+495/6H/5D/35f gap
+496/6H/5[D]/43f gap
+497/6H/2P/23f gap
+498/6H/2K/25f gap
+499/6H/2S/29f gap
+500/6H/2H/28f gap
+501/6H/2D/28f gap
+502/6H/6P/26f gap
+503/6H/6K/37f gap
+504/6H/6H/38f gap
+505/6H/j.P/27f gap
+506/6H/j.K/30f gap
+507/6H/j.S/33f gap
+508/6H/j.H/32f gap
+509/6H/j.D/33f gap
+510/6H/[4]6H/0f gap
+511/6H/[4]6H P/"N/A"
+512/6H/632146P/-13f gap
+513/6H/623H/-6f gap
+514/6H/236P/7f gap
+515/6H/214P/7f gap
+516/6H/2146K~P/8f gap
+517/6H/236S/11f gap
+518/6H/63214S/2f gap
+519/6H/63214[S]/20f gap
+520/6H/Reflect Projectile/16f gap
+521/6H/214H/10f gap
+522/6H/236236S/-6f gap
+523/6H/632146H/-7f gap
+524/6H/Mirror/48f gap
+525/j.P/5P/j.P has 9f of blockstun, while 5P has 5.0f of startup
+526/j.P/5K/j.P has 9f of blockstun, while 5K has 10.0f of startup
+527/j.P/c.S/j.P has 9f of blockstun, while c.S has 8.0f of startup
+528/j.P/f.S/j.P has 9f of blockstun, while f.S has 12.0f of startup
+529/j.P/5H/j.P has 9f of blockstun, while 5H has 16.0f of startup
+530/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
+531/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
+532/j.P/2P/j.P has 9f of blockstun, while 2P has 8.0f of startup
+533/j.P/2K/j.P has 9f of blockstun, while 2K has 10.0f of startup
+534/j.P/2S/j.P has 9f of blockstun, while 2S has 14.0f of startup
+535/j.P/2H/j.P has 9f of blockstun, while 2H has 13.0f of startup
+536/j.P/2D/j.P has 9f of blockstun, while 2D has 13.0f of startup
+537/j.P/6P/j.P has 9f of blockstun, while 6P has 11.0f of startup
+538/j.P/6K/j.P has 9f of blockstun, while 6K has 22.0f of startup
+539/j.P/6H/j.P has 9f of blockstun, while 6H has 23.0f of startup
+540/j.P/j.P/-2f gap
+541/j.P/j.K/j.P has 9f of blockstun, while j.K has 10.0f of startup
+542/j.P/j.S/j.P has 9f of blockstun, while j.S has 13.0f of startup
+543/j.P/j.H/j.P has 9f of blockstun, while j.H has 12.0f of startup
+544/j.P/j.D/j.P has 9f of blockstun, while j.D has 13.0f of startup
+545/j.P/[4]6H/j.P has 9f of blockstun, while [4]6H has 18.0f of startup
+546/j.P/[4]6H P/j.P has 9f of blockstun, while [4]6H P has f of startup
+547/j.P/632146P/j.P has 9f of blockstun, while 632146P has 5.0f of startup
+548/j.P/623H/j.P has 9f of blockstun, while 623H has 12.0f of startup
+549/j.P/236P/j.P has 9f of blockstun, while 236P has 25.0f of startup
+550/j.P/214P/j.P has 9f of blockstun, while 214P has 25.0f of startup
+551/j.P/2146K~P/j.P has 9f of blockstun, while 2146K~P has 26.0f of startup
+552/j.P/236S/j.P has 9f of blockstun, while 236S has 29.0f of startup
+553/j.P/63214S/j.P has 9f of blockstun, while 63214S has 20.0f of startup
+554/j.P/63214[S]/j.P has 9f of blockstun, while 63214[S] has 38.0f of startup
+555/j.P/Reflect Projectile/j.P has 9f of blockstun, while Reflect Projectile has 1.0f of startup
+556/j.P/214H/j.P has 9f of blockstun, while 214H has 28.0f of startup
+557/j.P/236236S/j.P has 9f of blockstun, while 236236S has 12.0f of startup
+558/j.P/632146H/j.P has 9f of blockstun, while 632146H has 11.0f of startup
+559/j.P/Mirror/j.P has 9f of blockstun, while Mirror has 33.0f of startup
+560/j.K/5P/j.K has 11f of blockstun, while 5P has 5.0f of startup
+561/j.K/5K/j.K has 11f of blockstun, while 5K has 10.0f of startup
+562/j.K/c.S/j.K has 11f of blockstun, while c.S has 8.0f of startup
+563/j.K/f.S/j.K has 11f of blockstun, while f.S has 12.0f of startup
+564/j.K/5H/j.K has 11f of blockstun, while 5H has 16.0f of startup
+565/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
+566/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
+567/j.K/2P/j.K has 11f of blockstun, while 2P has 8.0f of startup
+568/j.K/2K/j.K has 11f of blockstun, while 2K has 10.0f of startup
+569/j.K/2S/j.K has 11f of blockstun, while 2S has 14.0f of startup
+570/j.K/2H/j.K has 11f of blockstun, while 2H has 13.0f of startup
+571/j.K/2D/j.K has 11f of blockstun, while 2D has 13.0f of startup
+572/j.K/6P/j.K has 11f of blockstun, while 6P has 11.0f of startup
+573/j.K/6K/j.K has 11f of blockstun, while 6K has 22.0f of startup
+574/j.K/6H/j.K has 11f of blockstun, while 6H has 23.0f of startup
+575/j.K/j.P/j.K has 11f of blockstun, while j.P has 7.0f of startup
+576/j.K/j.K/j.K has 11f of blockstun, while j.K has 10.0f of startup
+577/j.K/j.S/j.K has 11f of blockstun, while j.S has 13.0f of startup
+578/j.K/j.H/j.K has 11f of blockstun, while j.H has 12.0f of startup
+579/j.K/j.D/2f gap
+580/j.K/[4]6H/j.K has 11f of blockstun, while [4]6H has 18.0f of startup
+581/j.K/[4]6H P/j.K has 11f of blockstun, while [4]6H P has f of startup
+582/j.K/632146P/j.K has 11f of blockstun, while 632146P has 5.0f of startup
+583/j.K/623H/j.K has 11f of blockstun, while 623H has 12.0f of startup
+584/j.K/236P/j.K has 11f of blockstun, while 236P has 25.0f of startup
+585/j.K/214P/j.K has 11f of blockstun, while 214P has 25.0f of startup
+586/j.K/2146K~P/j.K has 11f of blockstun, while 2146K~P has 26.0f of startup
+587/j.K/236S/j.K has 11f of blockstun, while 236S has 29.0f of startup
+588/j.K/63214S/j.K has 11f of blockstun, while 63214S has 20.0f of startup
+589/j.K/63214[S]/j.K has 11f of blockstun, while 63214[S] has 38.0f of startup
+590/j.K/Reflect Projectile/j.K has 11f of blockstun, while Reflect Projectile has 1.0f of startup
+591/j.K/214H/j.K has 11f of blockstun, while 214H has 28.0f of startup
+592/j.K/236236S/j.K has 11f of blockstun, while 236236S has 12.0f of startup
+593/j.K/632146H/j.K has 11f of blockstun, while 632146H has 11.0f of startup
+594/j.K/Mirror/j.K has 11f of blockstun, while Mirror has 33.0f of startup
+595/j.S/5P/j.S has 16f of blockstun, while 5P has 5.0f of startup
+596/j.S/5K/j.S has 16f of blockstun, while 5K has 10.0f of startup
+597/j.S/c.S/j.S has 16f of blockstun, while c.S has 8.0f of startup
+598/j.S/f.S/j.S has 16f of blockstun, while f.S has 12.0f of startup
+599/j.S/5H/j.S has 16f of blockstun, while 5H has 16.0f of startup
+600/j.S/5D/j.S has 16f of blockstun, while 5D has 20.0f of startup
+601/j.S/5[D]/j.S has 16f of blockstun, while 5[D] has 28.0f of startup
+602/j.S/2P/j.S has 16f of blockstun, while 2P has 8.0f of startup
+603/j.S/2K/j.S has 16f of blockstun, while 2K has 10.0f of startup
+604/j.S/2S/j.S has 16f of blockstun, while 2S has 14.0f of startup
+605/j.S/2H/j.S has 16f of blockstun, while 2H has 13.0f of startup
+606/j.S/2D/j.S has 16f of blockstun, while 2D has 13.0f of startup
+607/j.S/6P/j.S has 16f of blockstun, while 6P has 11.0f of startup
+608/j.S/6K/j.S has 16f of blockstun, while 6K has 22.0f of startup
+609/j.S/6H/j.S has 16f of blockstun, while 6H has 23.0f of startup
+610/j.S/j.P/j.S has 16f of blockstun, while j.P has 7.0f of startup
+611/j.S/j.K/j.S has 16f of blockstun, while j.K has 10.0f of startup
+612/j.S/j.S/j.S has 16f of blockstun, while j.S has 13.0f of startup
+613/j.S/j.H/-4f gap
+614/j.S/j.D/-3f gap
+615/j.S/[4]6H/j.S has 16f of blockstun, while [4]6H has 18.0f of startup
+616/j.S/[4]6H P/j.S has 16f of blockstun, while [4]6H P has f of startup
+617/j.S/632146P/j.S has 16f of blockstun, while 632146P has 5.0f of startup
+618/j.S/623H/j.S has 16f of blockstun, while 623H has 12.0f of startup
+619/j.S/236P/j.S has 16f of blockstun, while 236P has 25.0f of startup
+620/j.S/214P/j.S has 16f of blockstun, while 214P has 25.0f of startup
+621/j.S/2146K~P/j.S has 16f of blockstun, while 2146K~P has 26.0f of startup
+622/j.S/236S/j.S has 16f of blockstun, while 236S has 29.0f of startup
+623/j.S/63214S/j.S has 16f of blockstun, while 63214S has 20.0f of startup
+624/j.S/63214[S]/j.S has 16f of blockstun, while 63214[S] has 38.0f of startup
+625/j.S/Reflect Projectile/j.S has 16f of blockstun, while Reflect Projectile has 1.0f of startup
+626/j.S/214H/j.S has 16f of blockstun, while 214H has 28.0f of startup
+627/j.S/236236S/j.S has 16f of blockstun, while 236236S has 12.0f of startup
+628/j.S/632146H/j.S has 16f of blockstun, while 632146H has 11.0f of startup
+629/j.S/Mirror/j.S has 16f of blockstun, while Mirror has 33.0f of startup
+630/j.H/5P/j.H has 18f of blockstun, while 5P has 5.0f of startup
+631/j.H/5K/j.H has 18f of blockstun, while 5K has 10.0f of startup
+632/j.H/c.S/j.H has 18f of blockstun, while c.S has 8.0f of startup
+633/j.H/f.S/j.H has 18f of blockstun, while f.S has 12.0f of startup
+634/j.H/5H/j.H has 18f of blockstun, while 5H has 16.0f of startup
+635/j.H/5D/j.H has 18f of blockstun, while 5D has 20.0f of startup
+636/j.H/5[D]/j.H has 18f of blockstun, while 5[D] has 28.0f of startup
+637/j.H/2P/j.H has 18f of blockstun, while 2P has 8.0f of startup
+638/j.H/2K/j.H has 18f of blockstun, while 2K has 10.0f of startup
+639/j.H/2S/j.H has 18f of blockstun, while 2S has 14.0f of startup
+640/j.H/2H/j.H has 18f of blockstun, while 2H has 13.0f of startup
+641/j.H/2D/j.H has 18f of blockstun, while 2D has 13.0f of startup
+642/j.H/6P/j.H has 18f of blockstun, while 6P has 11.0f of startup
+643/j.H/6K/j.H has 18f of blockstun, while 6K has 22.0f of startup
+644/j.H/6H/j.H has 18f of blockstun, while 6H has 23.0f of startup
+645/j.H/j.P/j.H has 18f of blockstun, while j.P has 7.0f of startup
+646/j.H/j.K/j.H has 18f of blockstun, while j.K has 10.0f of startup
+647/j.H/j.S/j.H has 18f of blockstun, while j.S has 13.0f of startup
+648/j.H/j.H/j.H has 18f of blockstun, while j.H has 12.0f of startup
+649/j.H/j.D/-5f gap
+650/j.H/[4]6H/j.H has 18f of blockstun, while [4]6H has 18.0f of startup
+651/j.H/[4]6H P/j.H has 18f of blockstun, while [4]6H P has f of startup
+652/j.H/632146P/j.H has 18f of blockstun, while 632146P has 5.0f of startup
+653/j.H/623H/j.H has 18f of blockstun, while 623H has 12.0f of startup
+654/j.H/236P/j.H has 18f of blockstun, while 236P has 25.0f of startup
+655/j.H/214P/j.H has 18f of blockstun, while 214P has 25.0f of startup
+656/j.H/2146K~P/j.H has 18f of blockstun, while 2146K~P has 26.0f of startup
+657/j.H/236S/j.H has 18f of blockstun, while 236S has 29.0f of startup
+658/j.H/63214S/j.H has 18f of blockstun, while 63214S has 20.0f of startup
+659/j.H/63214[S]/j.H has 18f of blockstun, while 63214[S] has 38.0f of startup
+660/j.H/Reflect Projectile/j.H has 18f of blockstun, while Reflect Projectile has 1.0f of startup
+661/j.H/214H/j.H has 18f of blockstun, while 214H has 28.0f of startup
+662/j.H/236236S/j.H has 18f of blockstun, while 236236S has 12.0f of startup
+663/j.H/632146H/j.H has 18f of blockstun, while 632146H has 11.0f of startup
+664/j.H/Mirror/j.H has 18f of blockstun, while Mirror has 33.0f of startup
+665/j.D/5P/j.D has 16f of blockstun, while 5P has 5.0f of startup
+666/j.D/5K/j.D has 16f of blockstun, while 5K has 10.0f of startup
+667/j.D/c.S/j.D has 16f of blockstun, while c.S has 8.0f of startup
+668/j.D/f.S/j.D has 16f of blockstun, while f.S has 12.0f of startup
+669/j.D/5H/j.D has 16f of blockstun, while 5H has 16.0f of startup
+670/j.D/5D/j.D has 16f of blockstun, while 5D has 20.0f of startup
+671/j.D/5[D]/j.D has 16f of blockstun, while 5[D] has 28.0f of startup
+672/j.D/2P/j.D has 16f of blockstun, while 2P has 8.0f of startup
+673/j.D/2K/j.D has 16f of blockstun, while 2K has 10.0f of startup
+674/j.D/2S/j.D has 16f of blockstun, while 2S has 14.0f of startup
+675/j.D/2H/j.D has 16f of blockstun, while 2H has 13.0f of startup
+676/j.D/2D/j.D has 16f of blockstun, while 2D has 13.0f of startup
+677/j.D/6P/j.D has 16f of blockstun, while 6P has 11.0f of startup
+678/j.D/6K/j.D has 16f of blockstun, while 6K has 22.0f of startup
+679/j.D/6H/j.D has 16f of blockstun, while 6H has 23.0f of startup
+680/j.D/j.P/j.D has 16f of blockstun, while j.P has 7.0f of startup
+681/j.D/j.K/j.D has 16f of blockstun, while j.K has 10.0f of startup
+682/j.D/j.S/j.D has 16f of blockstun, while j.S has 13.0f of startup
+683/j.D/j.H/j.D has 16f of blockstun, while j.H has 12.0f of startup
+684/j.D/j.D/j.D has 16f of blockstun, while j.D has 13.0f of startup
+685/j.D/[4]6H/j.D has 16f of blockstun, while [4]6H has 18.0f of startup
+686/j.D/[4]6H P/j.D has 16f of blockstun, while [4]6H P has f of startup
+687/j.D/632146P/j.D has 16f of blockstun, while 632146P has 5.0f of startup
+688/j.D/623H/j.D has 16f of blockstun, while 623H has 12.0f of startup
+689/j.D/236P/j.D has 16f of blockstun, while 236P has 25.0f of startup
+690/j.D/214P/j.D has 16f of blockstun, while 214P has 25.0f of startup
+691/j.D/2146K~P/j.D has 16f of blockstun, while 2146K~P has 26.0f of startup
+692/j.D/236S/j.D has 16f of blockstun, while 236S has 29.0f of startup
+693/j.D/63214S/j.D has 16f of blockstun, while 63214S has 20.0f of startup
+694/j.D/63214[S]/j.D has 16f of blockstun, while 63214[S] has 38.0f of startup
+695/j.D/Reflect Projectile/j.D has 16f of blockstun, while Reflect Projectile has 1.0f of startup
+696/j.D/214H/j.D has 16f of blockstun, while 214H has 28.0f of startup
+697/j.D/236236S/j.D has 16f of blockstun, while 236236S has 12.0f of startup
+698/j.D/632146H/j.D has 16f of blockstun, while 632146H has 11.0f of startup
+699/j.D/Mirror/j.D has 16f of blockstun, while Mirror has 33.0f of startup
+700/[4]6H/5P/14f gap
+701/[4]6H/5K/19f gap
+702/[4]6H/c.S/17f gap
+703/[4]6H/f.S/21f gap
+704/[4]6H/5H/25f gap
+705/[4]6H/5D/29f gap
+706/[4]6H/5[D]/37f gap
+707/[4]6H/2P/17f gap
+708/[4]6H/2K/19f gap
+709/[4]6H/2S/23f gap
+710/[4]6H/2H/22f gap
+711/[4]6H/2D/22f gap
+712/[4]6H/6P/20f gap
+713/[4]6H/6K/31f gap
+714/[4]6H/6H/32f gap
+715/[4]6H/j.P/21f gap
+716/[4]6H/j.K/24f gap
+717/[4]6H/j.S/27f gap
+718/[4]6H/j.H/26f gap
+719/[4]6H/j.D/27f gap
+720/[4]6H/[4]6H/27f gap
+721/[4]6H/[4]6H P/"N/A"
+722/[4]6H/632146P/14f gap
+723/[4]6H/623H/21f gap
+724/[4]6H/236P/34f gap
+725/[4]6H/214P/34f gap
+726/[4]6H/2146K~P/35f gap
+727/[4]6H/236S/38f gap
+728/[4]6H/63214S/29f gap
+729/[4]6H/63214[S]/47f gap
+730/[4]6H/Reflect Projectile/10f gap
+731/[4]6H/214H/37f gap
+732/[4]6H/236236S/21f gap
+733/[4]6H/632146H/20f gap
+734/[4]6H/Mirror/42f gap
+735/[4]6H P/5P/"N/A"
+736/[4]6H P/5K/"N/A"
+737/[4]6H P/c.S/"N/A"
+738/[4]6H P/f.S/"N/A"
+739/[4]6H P/5H/"N/A"
+740/[4]6H P/5D/"N/A"
+741/[4]6H P/5[D]/"N/A"
+742/[4]6H P/2P/"N/A"
+743/[4]6H P/2K/"N/A"
+744/[4]6H P/2S/"N/A"
+745/[4]6H P/2H/"N/A"
+746/[4]6H P/2D/"N/A"
+747/[4]6H P/6P/"N/A"
+748/[4]6H P/6K/"N/A"
+749/[4]6H P/6H/"N/A"
+750/[4]6H P/j.P/"N/A"
+751/[4]6H P/j.K/"N/A"
+752/[4]6H P/j.S/"N/A"
+753/[4]6H P/j.H/"N/A"
+754/[4]6H P/j.D/"N/A"
+755/[4]6H P/[4]6H/"N/A"
+756/[4]6H P/[4]6H P/"N/A"
+757/[4]6H P/632146P/"N/A"
+758/[4]6H P/623H/"N/A"
+759/[4]6H P/236P/"N/A"
+760/[4]6H P/214P/"N/A"
+761/[4]6H P/2146K~P/"N/A"
+762/[4]6H P/236S/"N/A"
+763/[4]6H P/63214S/"N/A"
+764/[4]6H P/63214[S]/"N/A"
+765/[4]6H P/Reflect Projectile/"N/A"
+766/[4]6H P/214H/"N/A"
+767/[4]6H P/236236S/"N/A"
+768/[4]6H P/632146H/"N/A"
+769/[4]6H P/Mirror/"N/A"
+770/632146P/5P/"N/A"
+771/632146P/5K/"N/A"
+772/632146P/c.S/"N/A"
+773/632146P/f.S/"N/A"
+774/632146P/5H/"N/A"
+775/632146P/5D/"N/A"
+776/632146P/5[D]/"N/A"
+777/632146P/2P/"N/A"
+778/632146P/2K/"N/A"
+779/632146P/2S/"N/A"
+780/632146P/2H/"N/A"
+781/632146P/2D/"N/A"
+782/632146P/6P/"N/A"
+783/632146P/6K/"N/A"
+784/632146P/6H/"N/A"
+785/632146P/j.P/"N/A"
+786/632146P/j.K/"N/A"
+787/632146P/j.S/"N/A"
+788/632146P/j.H/"N/A"
+789/632146P/j.D/"N/A"
+790/632146P/[4]6H/"N/A"
+791/632146P/[4]6H P/"N/A"
+792/632146P/632146P/"N/A"
+793/632146P/623H/"N/A"
+794/632146P/236P/"N/A"
+795/632146P/214P/"N/A"
+796/632146P/2146K~P/"N/A"
+797/632146P/236S/"N/A"
+798/632146P/63214S/"N/A"
+799/632146P/63214[S]/"N/A"
+800/632146P/Reflect Projectile/"N/A"
+801/632146P/214H/"N/A"
+802/632146P/236236S/"N/A"
+803/632146P/632146H/"N/A"
+804/632146P/Mirror/"N/A"
+805/623H/5P/-5f gap
+806/623H/5K/0f gap
+807/623H/c.S/-2f gap
+808/623H/f.S/2f gap
+809/623H/5H/6f gap
+810/623H/5D/10f gap
+811/623H/5[D]/18f gap
+812/623H/2P/-2f gap
+813/623H/2K/0f gap
+814/623H/2S/4f gap
+815/623H/2H/3f gap
+816/623H/2D/3f gap
+817/623H/6P/1f gap
+818/623H/6K/12f gap
+819/623H/6H/13f gap
+820/623H/j.P/2f gap
+821/623H/j.K/5f gap
+822/623H/j.S/8f gap
+823/623H/j.H/7f gap
+824/623H/j.D/8f gap
+825/623H/[4]6H/8f gap
+826/623H/[4]6H P/"N/A"
+827/623H/632146P/-5f gap
+828/623H/623H/2f gap
+829/623H/236P/15f gap
+830/623H/214P/15f gap
+831/623H/2146K~P/16f gap
+832/623H/236S/19f gap
+833/623H/63214S/10f gap
+834/623H/63214[S]/28f gap
+835/623H/Reflect Projectile/-9f gap
+836/623H/214H/18f gap
+837/623H/236236S/2f gap
+838/623H/632146H/1f gap
+839/623H/Mirror/23f gap
+840/236P/5P/11f gap
+841/236P/5K/16f gap
+842/236P/c.S/14f gap
+843/236P/f.S/18f gap
+844/236P/5H/22f gap
+845/236P/5D/26f gap
+846/236P/5[D]/34f gap
+847/236P/2P/14f gap
+848/236P/2K/16f gap
+849/236P/2S/20f gap
+850/236P/2H/19f gap
+851/236P/2D/19f gap
+852/236P/6P/17f gap
+853/236P/6K/28f gap
+854/236P/6H/29f gap
+855/236P/j.P/18f gap
+856/236P/j.K/21f gap
+857/236P/j.S/24f gap
+858/236P/j.H/23f gap
+859/236P/j.D/24f gap
+860/236P/[4]6H/24f gap
+861/236P/[4]6H P/"N/A"
+862/236P/632146P/11f gap
+863/236P/623H/18f gap
+864/236P/236P/31f gap
+865/236P/214P/31f gap
+866/236P/2146K~P/32f gap
+867/236P/236S/35f gap
+868/236P/63214S/26f gap
+869/236P/63214[S]/44f gap
+870/236P/Reflect Projectile/7f gap
+871/236P/214H/34f gap
+872/236P/236236S/18f gap
+873/236P/632146H/17f gap
+874/236P/Mirror/39f gap
+875/214P/5P/1f gap
+876/214P/5K/6f gap
+877/214P/c.S/4f gap
+878/214P/f.S/8f gap
+879/214P/5H/12f gap
+880/214P/5D/16f gap
+881/214P/5[D]/24f gap
+882/214P/2P/4f gap
+883/214P/2K/6f gap
+884/214P/2S/10f gap
+885/214P/2H/9f gap
+886/214P/2D/9f gap
+887/214P/6P/7f gap
+888/214P/6K/18f gap
+889/214P/6H/19f gap
+890/214P/j.P/8f gap
+891/214P/j.K/11f gap
+892/214P/j.S/14f gap
+893/214P/j.H/13f gap
+894/214P/j.D/14f gap
+895/214P/[4]6H/14f gap
+896/214P/[4]6H P/"N/A"
+897/214P/632146P/1f gap
+898/214P/623H/8f gap
+899/214P/236P/21f gap
+900/214P/214P/21f gap
+901/214P/2146K~P/22f gap
+902/214P/236S/25f gap
+903/214P/63214S/16f gap
+904/214P/63214[S]/34f gap
+905/214P/Reflect Projectile/-3f gap
+906/214P/214H/24f gap
+907/214P/236236S/8f gap
+908/214P/632146H/7f gap
+909/214P/Mirror/29f gap
+910/2146K~P/5P/7f gap
+911/2146K~P/5K/12f gap
+912/2146K~P/c.S/10f gap
+913/2146K~P/f.S/14f gap
+914/2146K~P/5H/18f gap
+915/2146K~P/5D/22f gap
+916/2146K~P/5[D]/30f gap
+917/2146K~P/2P/10f gap
+918/2146K~P/2K/12f gap
+919/2146K~P/2S/16f gap
+920/2146K~P/2H/15f gap
+921/2146K~P/2D/15f gap
+922/2146K~P/6P/13f gap
+923/2146K~P/6K/24f gap
+924/2146K~P/6H/25f gap
+925/2146K~P/j.P/14f gap
+926/2146K~P/j.K/17f gap
+927/2146K~P/j.S/20f gap
+928/2146K~P/j.H/19f gap
+929/2146K~P/j.D/20f gap
+930/2146K~P/[4]6H/20f gap
+931/2146K~P/[4]6H P/"N/A"
+932/2146K~P/632146P/7f gap
+933/2146K~P/623H/14f gap
+934/2146K~P/236P/27f gap
+935/2146K~P/214P/27f gap
+936/2146K~P/2146K~P/28f gap
+937/2146K~P/236S/31f gap
+938/2146K~P/63214S/22f gap
+939/2146K~P/63214[S]/40f gap
+940/2146K~P/Reflect Projectile/3f gap
+941/2146K~P/214H/30f gap
+942/2146K~P/236236S/14f gap
+943/2146K~P/632146H/13f gap
+944/2146K~P/Mirror/35f gap
+945/236S/5P/5f gap
+946/236S/5K/10f gap
+947/236S/c.S/8f gap
+948/236S/f.S/12f gap
+949/236S/5H/16f gap
+950/236S/5D/20f gap
+951/236S/5[D]/28f gap
+952/236S/2P/8f gap
+953/236S/2K/10f gap
+954/236S/2S/14f gap
+955/236S/2H/13f gap
+956/236S/2D/13f gap
+957/236S/6P/11f gap
+958/236S/6K/22f gap
+959/236S/6H/23f gap
+960/236S/j.P/12f gap
+961/236S/j.K/15f gap
+962/236S/j.S/18f gap
+963/236S/j.H/17f gap
+964/236S/j.D/18f gap
+965/236S/[4]6H/18f gap
+966/236S/[4]6H P/"N/A"
+967/236S/632146P/5f gap
+968/236S/623H/12f gap
+969/236S/236P/25f gap
+970/236S/214P/25f gap
+971/236S/2146K~P/26f gap
+972/236S/236S/29f gap
+973/236S/63214S/20f gap
+974/236S/63214[S]/38f gap
+975/236S/Reflect Projectile/1f gap
+976/236S/214H/28f gap
+977/236S/236236S/12f gap
+978/236S/632146H/11f gap
+979/236S/Mirror/33f gap
+980/63214S/5P/11f gap
+981/63214S/5K/16f gap
+982/63214S/c.S/14f gap
+983/63214S/f.S/18f gap
+984/63214S/5H/22f gap
+985/63214S/5D/26f gap
+986/63214S/5[D]/34f gap
+987/63214S/2P/14f gap
+988/63214S/2K/16f gap
+989/63214S/2S/20f gap
+990/63214S/2H/19f gap
+991/63214S/2D/19f gap
+992/63214S/6P/17f gap
+993/63214S/6K/28f gap
+994/63214S/6H/29f gap
+995/63214S/j.P/18f gap
+996/63214S/j.K/21f gap
+997/63214S/j.S/24f gap
+998/63214S/j.H/23f gap
+999/63214S/j.D/24f gap
+1000/63214S/[4]6H/24f gap
+1001/63214S/[4]6H P/"N/A"
+1002/63214S/632146P/11f gap
+1003/63214S/623H/18f gap
+1004/63214S/236P/31f gap
+1005/63214S/214P/31f gap
+1006/63214S/2146K~P/32f gap
+1007/63214S/236S/35f gap
+1008/63214S/63214S/26f gap
+1009/63214S/63214[S]/44f gap
+1010/63214S/Reflect Projectile/7f gap
+1011/63214S/214H/34f gap
+1012/63214S/236236S/18f gap
+1013/63214S/632146H/17f gap
+1014/63214S/Mirror/39f gap
+1015/63214[S]/5P/11f gap
+1016/63214[S]/5K/16f gap
+1017/63214[S]/c.S/14f gap
+1018/63214[S]/f.S/18f gap
+1019/63214[S]/5H/22f gap
+1020/63214[S]/5D/26f gap
+1021/63214[S]/5[D]/34f gap
+1022/63214[S]/2P/14f gap
+1023/63214[S]/2K/16f gap
+1024/63214[S]/2S/20f gap
+1025/63214[S]/2H/19f gap
+1026/63214[S]/2D/19f gap
+1027/63214[S]/6P/17f gap
+1028/63214[S]/6K/28f gap
+1029/63214[S]/6H/29f gap
+1030/63214[S]/j.P/18f gap
+1031/63214[S]/j.K/21f gap
+1032/63214[S]/j.S/24f gap
+1033/63214[S]/j.H/23f gap
+1034/63214[S]/j.D/24f gap
+1035/63214[S]/[4]6H/24f gap
+1036/63214[S]/[4]6H P/"N/A"
+1037/63214[S]/632146P/11f gap
+1038/63214[S]/623H/18f gap
+1039/63214[S]/236P/31f gap
+1040/63214[S]/214P/31f gap
+1041/63214[S]/2146K~P/32f gap
+1042/63214[S]/236S/35f gap
+1043/63214[S]/63214S/26f gap
+1044/63214[S]/63214[S]/44f gap
+1045/63214[S]/Reflect Projectile/7f gap
+1046/63214[S]/214H/34f gap
+1047/63214[S]/236236S/18f gap
+1048/63214[S]/632146H/17f gap
+1049/63214[S]/Mirror/39f gap
+1050/Reflect Projectile/5P/-6f gap
+1051/Reflect Projectile/5K/-1f gap
+1052/Reflect Projectile/c.S/-3f gap
+1053/Reflect Projectile/f.S/1f gap
+1054/Reflect Projectile/5H/5f gap
+1055/Reflect Projectile/5D/9f gap
+1056/Reflect Projectile/5[D]/17f gap
+1057/Reflect Projectile/2P/-3f gap
+1058/Reflect Projectile/2K/-1f gap
+1059/Reflect Projectile/2S/3f gap
+1060/Reflect Projectile/2H/2f gap
+1061/Reflect Projectile/2D/2f gap
+1062/Reflect Projectile/6P/0f gap
+1063/Reflect Projectile/6K/11f gap
+1064/Reflect Projectile/6H/12f gap
+1065/Reflect Projectile/j.P/1f gap
+1066/Reflect Projectile/j.K/4f gap
+1067/Reflect Projectile/j.S/7f gap
+1068/Reflect Projectile/j.H/6f gap
+1069/Reflect Projectile/j.D/7f gap
+1070/Reflect Projectile/[4]6H/7f gap
+1071/Reflect Projectile/[4]6H P/"N/A"
+1072/Reflect Projectile/632146P/-6f gap
+1073/Reflect Projectile/623H/1f gap
+1074/Reflect Projectile/236P/14f gap
+1075/Reflect Projectile/214P/14f gap
+1076/Reflect Projectile/2146K~P/15f gap
+1077/Reflect Projectile/236S/18f gap
+1078/Reflect Projectile/63214S/9f gap
+1079/Reflect Projectile/63214[S]/27f gap
+1080/Reflect Projectile/Reflect Projectile/-10f gap
+1081/Reflect Projectile/214H/17f gap
+1082/Reflect Projectile/236236S/1f gap
+1083/Reflect Projectile/632146H/0f gap
+1084/Reflect Projectile/Mirror/22f gap
+1085/214H/5P/-14f gap
+1086/214H/5K/-9f gap
+1087/214H/c.S/-11f gap
+1088/214H/f.S/-7f gap
+1089/214H/5H/-3f gap
+1090/214H/5D/1f gap
+1091/214H/5[D]/9f gap
+1092/214H/2P/-11f gap
+1093/214H/2K/-9f gap
+1094/214H/2S/-5f gap
+1095/214H/2H/-6f gap
+1096/214H/2D/-6f gap
+1097/214H/6P/-8f gap
+1098/214H/6K/3f gap
+1099/214H/6H/4f gap
+1100/214H/j.P/-7f gap
+1101/214H/j.K/-4f gap
+1102/214H/j.S/-1f gap
+1103/214H/j.H/-2f gap
+1104/214H/j.D/-1f gap
+1105/214H/[4]6H/-1f gap
+1106/214H/[4]6H P/"N/A"
+1107/214H/632146P/-14f gap
+1108/214H/623H/-7f gap
+1109/214H/236P/6f gap
+1110/214H/214P/6f gap
+1111/214H/2146K~P/7f gap
+1112/214H/236S/10f gap
+1113/214H/63214S/1f gap
+1114/214H/63214[S]/19f gap
+1115/214H/Reflect Projectile/-18f gap
+1116/214H/214H/9f gap
+1117/214H/236236S/-7f gap
+1118/214H/632146H/-8f gap
+1119/214H/Mirror/14f gap
+1120/236236S/5P/"N/A"
+1121/236236S/5K/"N/A"
+1122/236236S/c.S/"N/A"
+1123/236236S/f.S/"N/A"
+1124/236236S/5H/"N/A"
+1125/236236S/5D/"N/A"
+1126/236236S/5[D]/"N/A"
+1127/236236S/2P/"N/A"
+1128/236236S/2K/"N/A"
+1129/236236S/2S/"N/A"
+1130/236236S/2H/"N/A"
+1131/236236S/2D/"N/A"
+1132/236236S/6P/"N/A"
+1133/236236S/6K/"N/A"
+1134/236236S/6H/"N/A"
+1135/236236S/j.P/"N/A"
+1136/236236S/j.K/"N/A"
+1137/236236S/j.S/"N/A"
+1138/236236S/j.H/"N/A"
+1139/236236S/j.D/"N/A"
+1140/236236S/[4]6H/"N/A"
+1141/236236S/[4]6H P/"N/A"
+1142/236236S/632146P/"N/A"
+1143/236236S/623H/"N/A"
+1144/236236S/236P/"N/A"
+1145/236236S/214P/"N/A"
+1146/236236S/2146K~P/"N/A"
+1147/236236S/236S/"N/A"
+1148/236236S/63214S/"N/A"
+1149/236236S/63214[S]/"N/A"
+1150/236236S/Reflect Projectile/"N/A"
+1151/236236S/214H/"N/A"
+1152/236236S/236236S/"N/A"
+1153/236236S/632146H/"N/A"
+1154/236236S/Mirror/"N/A"
+1155/632146H/5P/-95f gap
+1156/632146H/5K/-90f gap
+1157/632146H/c.S/-92f gap
+1158/632146H/f.S/-88f gap
+1159/632146H/5H/-84f gap
+1160/632146H/5D/-80f gap
+1161/632146H/5[D]/-72f gap
+1162/632146H/2P/-92f gap
+1163/632146H/2K/-90f gap
+1164/632146H/2S/-86f gap
+1165/632146H/2H/-87f gap
+1166/632146H/2D/-87f gap
+1167/632146H/6P/-89f gap
+1168/632146H/6K/-78f gap
+1169/632146H/6H/-77f gap
+1170/632146H/j.P/-88f gap
+1171/632146H/j.K/-85f gap
+1172/632146H/j.S/-82f gap
+1173/632146H/j.H/-83f gap
+1174/632146H/j.D/-82f gap
+1175/632146H/[4]6H/-82f gap
+1176/632146H/[4]6H P/"N/A"
+1177/632146H/632146P/-95f gap
+1178/632146H/623H/-88f gap
+1179/632146H/236P/-75f gap
+1180/632146H/214P/-75f gap
+1181/632146H/2146K~P/-74f gap
+1182/632146H/236S/-71f gap
+1183/632146H/63214S/-80f gap
+1184/632146H/63214[S]/-62f gap
+1185/632146H/Reflect Projectile/-99f gap
+1186/632146H/214H/-72f gap
+1187/632146H/236236S/-88f gap
+1188/632146H/632146H/-89f gap
+1189/632146H/Mirror/-67f gap
+1190/Mirror/5P/"N/A"
+1191/Mirror/5K/"N/A"
+1192/Mirror/c.S/"N/A"
+1193/Mirror/f.S/"N/A"
+1194/Mirror/5H/"N/A"
+1195/Mirror/5D/"N/A"
+1196/Mirror/5[D]/"N/A"
+1197/Mirror/2P/"N/A"
+1198/Mirror/2K/"N/A"
+1199/Mirror/2S/"N/A"
+1200/Mirror/2H/"N/A"
+1201/Mirror/2D/"N/A"
+1202/Mirror/6P/"N/A"
+1203/Mirror/6K/"N/A"
+1204/Mirror/6H/"N/A"
+1205/Mirror/j.P/"N/A"
+1206/Mirror/j.K/"N/A"
+1207/Mirror/j.S/"N/A"
+1208/Mirror/j.H/"N/A"
+1209/Mirror/j.D/"N/A"
+1210/Mirror/[4]6H/"N/A"
+1211/Mirror/[4]6H P/"N/A"
+1212/Mirror/632146P/"N/A"
+1213/Mirror/623H/"N/A"
+1214/Mirror/236P/"N/A"
+1215/Mirror/214P/"N/A"
+1216/Mirror/2146K~P/"N/A"
+1217/Mirror/236S/"N/A"
+1218/Mirror/63214S/"N/A"
+1219/Mirror/63214[S]/"N/A"
+1220/Mirror/Reflect Projectile/"N/A"
+1221/Mirror/214H/"N/A"
+1222/Mirror/236236S/"N/A"
+1223/Mirror/632146H/"N/A"
+1224/Mirror/Mirror/"N/A"
