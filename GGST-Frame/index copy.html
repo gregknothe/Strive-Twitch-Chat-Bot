@@ -2194,33 +2194,73 @@
 </table>
 </div>
 
-<!-- All Viable Moves Input Section-->
+<!-- Move Notes Section -->
 <div>
     <button type="button" class="collapsible">
-        <a class="buttonText">
-            Possible Inputs for 
-        </a>
         <a class="buttonText" id="buttonCharacter">
             Sol_Badguy
         </a>
+        <a class="buttonText">
+            Notes
+        </a>
     </button>
-    <a class="content" id="possibleInputs">
-        <div style="width: 35%; float:left">
-            <b>Moves with travel time/expanding hitboxes:</b>
-            </br> &#x2022 f.S
-            </br> &#x2022 2S
-            </br> &#x2022 236K
-            </br> &#x2022 j.236K
-            </br> &#x2022 214K
-            </br> &#x2022 j.214K
-            </br> &#x2022 214S
+
+    <div class="content">
+        <div id="Sol_Badguy_info">
+            <div style="width: 50%; float:left">
+                <b>Moves not properly calculated</b>
+                </br> &#x2022 f.S
+                </br> &#x2022 2S
+                </br> &#x2022 236K
+                </br> &#x2022 j.236K
+                </br> &#x2022 214K
+                </br> &#x2022 j.214K
+                </br> &#x2022 214S
+            </div>
+            <div style="width: 50%; float:right">
+                <b>"Alternate" Versions:</b>
+                </br>
+                &#x2022 214[S] - full held / max range 214S
+            </div>
         </div>
-        <div style="width: 65%; float:right">
-            <b>Alternate Moves:</b>
-            </br>
-            &#x2022 214[S] - full held / max range 214S
+
+        <div id="Ky_Kiske_info" class="hiddenContent">
+            <div style="width: 35%; float:left">
+                <b>Moves with travel time/expanding hitboxes:</b>
+                </br> &#x2022 sdf
+                </br> &#x2022 sdf
+                </br> &#x2022 236K
+                </br> &#x2022 sdf
+                </br> &#x2022 214K
+                </br> &#x2022 jfsdf
+                </br> &#x2022 sdf
+            </div>
+            <div style="width: 65%; float:right">
+                <b>Alternate Moves:</b>
+                </br>
+                &#x2022 214[S] - full held / max range 214S
+            </div>
         </div>
-    </a>
+
+        <div id="May_info" class="hiddenContent">
+            <div style="width: 35%; float:left">
+                <b>Moves with travel time/expanding hitboxes:</b>
+                </br> &#x2022 sdfsd
+                </br> &#x2022 sdf
+                </br> &#x2022 236K
+                </br> &#x2022 DASODASODASDAS
+                </br> &#x2022 214K
+                </br> &#x2022 jfsdf
+                </br> &#x2022 sdf
+            </div>
+            <div style="width: 65%; float:right">
+                <b>Alternate Moves:</b>
+                </br>
+                &#x2022 214[S] - full held / max range 214S
+            </div>
+        </div>
+
+    </div>
 </div>
 
 <!-- Pyscript section -->
@@ -2257,12 +2297,15 @@
         Element(char+"_Icon").remove_class("iconHidden")
         Element(char+"_Icon").add_class("icon")
 
+        Element(currChar+"_info").add_class("hiddenContent")
+
+        Element(char+"_info").remove_class("hiddenContent")
+
+
         data = open_url("https://raw.githubusercontent.com/gregknothe/GGSTAssets/main/CleanData/"+char+".txt")
         df = pd.read_csv(data, sep="/", index_col=0)
 
         pyscript.write("buttonCharacter", char)
-        possibleInputs = str(df["Input"].to_list()).replace("'","")
-        pyscript.write("possibleInputs", possibleInputs[1:-1])
 
         return
 
@@ -2310,13 +2353,13 @@
     
     <button type="button" class="collapsible">    
         <a class="faqTitle2">
-             Factors not accurately calculated:
+             Factors not accurately calculated
         </a>
     </button>
 
     <div class="content">   
         <p class="faqTextTitle">
-            <b>Spacing</b>
+            <b>Spacing Dependant</b>
         </p>
         <p class="faqText">
             <b>1. Projectile moves</b> often do not hit during their first active frame in blockstrings due to pushback. Because of this the gap between a blocked move and projectile is often bigger than what the calculation would suggest. 
@@ -2352,7 +2395,7 @@
 
     <button type="button" class="collapsible">    
         <a class="faqTitle2">
-            <b>"Alternate" Versions and "N/A":</b>
+            "Alternate" Versions and "N/A"
         </a>
     </button>
     <a class="content">

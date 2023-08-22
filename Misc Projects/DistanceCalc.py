@@ -81,4 +81,15 @@ def frameChart(chars=["Sol","Ky","May"], distance=1230, maxFrames=120):
     df["framePerc"] = framePerc
     return df
 
-print(frameChart(allChars,1200))
+print(frameChart(allChars,1230))
+
+def rangeChart(chars, ranges):
+    df = frameChart(chars,ranges[0])
+    ranges.pop(0)
+    print(ranges)
+    for x in ranges:
+        y = frameChart(chars, x).rename(index={1: ""})
+        print(y)
+    return
+
+#rangeChart(allChars, [90, 270, 380, 616, 1230])
