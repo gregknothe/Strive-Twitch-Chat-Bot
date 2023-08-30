@@ -14,13 +14,13 @@ To Do List:
 
 charList =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
 
 def nameCleaner(char):
     #Takes the user inputed character name and replaces it with a useable character name (hopefully).
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Nago", "Millia", "Millia_Rage", "Chipp", "Chipp_Zanuff", "Sol", "Sol_Badguy", "Ky", "Ky_Kiske", "Kyle", "May", 
                 "Zato-1", "I-No", "ino", "Happy", "Chaos", "Happy_Chaos", "Bedman", "Sin", "sin", "Sin_Kiske", "Baiken", "Anji", "Anji_Mito", "Leo", "Leo_Whitefang", "Faust", "Axl", "Axl_Low",
-                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     #charListLower, char = [x.lower() for x in charList], char.lower()
     char = str(difflib.get_close_matches(char,charList,n=1,cutoff=.3)).replace("['","").replace("']","")
     if char == "Sol":
@@ -68,6 +68,9 @@ def dataScrape(char):
     gatlingDF = pd.concat(gatling)
     return moveDF, gatlingDF
 
+#print(dataScrape("May")[0])
+
+
 def update(char):
     data = dataScrape(char)[0]
     data.to_csv("GGST-Frame/RawData/"+nameCleaner(char)+".txt", sep="/")
@@ -76,7 +79,7 @@ def update(char):
 def updateAll():
     charList =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     for x in charList:
         print(update(x))
     return
@@ -310,18 +313,33 @@ def moveCleaner(moveDF, gatDF):
     moves = moves.drop(["Unnamed: 0", "Damage", "Guard", "Invuln", "Proration", "R.I.S.C. Gain", "R.I.S.C. Loss", "Name", "On-Hit", "Counter Type"], axis=1)
     return moves[moves["Input"]!=""].reset_index(drop=True)
 
+def addWawa(char, df):
+    x = len(df["Input"])
+    if char in ["Sol_Badguy", "Ky_Kiske", "May", "Chipp_Zanuff", "Ramlethal_Valentine", "Leo_Whitefang", "Giovanna", "Anji_Mito", "I-No", "Testament", "Sin_Kiske", "Johnny"]:
+        df.loc[x,:] = ["236D", 16, 3, 20, -4, 0, "Special", ",".join(df["Input"].values.tolist())]
+        df.loc[x+1,:] = ["236[D]", 28, 3, 20, -4, 0, "Special", ",".join(df["Input"].values.tolist())]
+    elif char in ["Potemkin", "Nagoriyuki", "Goldlewis_Dickinson", "Bedman"]:
+        df.loc[x,:] = ["236D", 20, 3, 20, 12, 0, "Special", ""] 
+        df.loc[x+1,:] = ["236[D]", 32, 3, 20, 17, 0, "Special", ""] 
+    else:
+        df.loc[x,:] = ["236D", 20, 3, 20, 7, 0, "Special", ",".join(df["Input"].values.tolist())]
+        df.loc[x+1,:] = ["236[D]", 32, 3, 20, 12, 0, "Special", ",".join(df["Input"].values.tolist())]
+    return df
+
+
 def updateClean(char):
     char = nameCleaner(char)
     data = dataScrape(char)
     df = moveCleaner(data[0], data[1])
     df = addRekkas(char, df)
+    df = addWawa(char, df)
     df.to_csv("GGST-Frame/CleanData/"+nameCleaner(char)+".txt", sep="/")
     return df
 
 def updateCleanAll():
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     for x in charList:
         updateClean(x)
         print(x+" Clean Data Updated.")
@@ -342,7 +360,7 @@ def viewData(char):
 def viewDataAll():
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     for x in charList:
         print("---"+x+"--------------------------------------------------------------------------------------------------------------------")
         viewData(x)
@@ -376,7 +394,7 @@ def dataVerification(char):
 def dataVerficationAll():
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     for x in charList:
         print("---"+x+"--------------------------------------------------------------------------------------------------------------------")
         dataVerification(x)
@@ -442,7 +460,7 @@ def dropDownListGenerator(char):
 def dropDownListGeneratorAll():
     charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     original_stdout = sys.stdout
     with open("testDropDown.text", "w") as f:
         sys.stdout = f
@@ -478,9 +496,12 @@ def frameTrapAll(char):
 def frameTrapAllCharacters():
     charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R"]
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     for character in charList:
         frameTrapAll(character)
     return
 
 #frameTrapAllCharacters()
+#updateCleanAll()
+
+#print(frameTrap("johnny","5K","5p"))
