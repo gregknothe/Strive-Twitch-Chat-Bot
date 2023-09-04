@@ -458,6 +458,7 @@ def dropDownListGenerator(char):
     return
 
 def dropDownListGeneratorAll():
+    #Make sure to remove hidden from the first list when updating.
     charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
                 "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
@@ -505,3 +506,4 @@ def frameTrapAllCharacters():
 #updateCleanAll()
 
 #print(frameTrap("johnny","5K","5p"))
+dropDownListGeneratorAll()
