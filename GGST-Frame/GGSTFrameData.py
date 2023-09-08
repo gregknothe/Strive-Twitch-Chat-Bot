@@ -20,7 +20,7 @@ def nameCleaner(char):
     #Takes the user inputed character name and replaces it with a useable character name (hopefully).
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Nago", "Millia", "Millia_Rage", "Chipp", "Chipp_Zanuff", "Sol", "Sol_Badguy", "Ky", "Ky_Kiske", "Kyle", "May", 
                 "Zato-1", "I-No", "ino", "Happy", "Chaos", "Happy_Chaos", "Bedman", "Sin", "sin", "Sin_Kiske", "Baiken", "Anji", "Anji_Mito", "Leo", "Leo_Whitefang", "Faust", "Axl", "Axl_Low",
-                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "gio", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     #charListLower, char = [x.lower() for x in charList], char.lower()
     char = str(difflib.get_close_matches(char,charList,n=1,cutoff=.3)).replace("['","").replace("']","")
     if char == "Sol":
@@ -43,7 +43,7 @@ def nameCleaner(char):
         char = "Goldlewis_Dickinson"
     elif char == "Nago":
         char = "Nagoriyuki"
-    elif char == "Gio":
+    elif char == "Gio" or char == "gio":
         char = "Giovanna"
     elif char == "Millia":
         char = "Millia_Rage"
@@ -68,9 +68,6 @@ def dataScrape(char):
     gatlingDF = pd.concat(gatling)
     return moveDF, gatlingDF
 
-#print(dataScrape("May")[0])
-
-
 def update(char):
     data = dataScrape(char)[0]
     data.to_csv("GGST-Frame/RawData/"+nameCleaner(char)+".txt", sep="/")
@@ -85,16 +82,29 @@ def updateAll():
     return
 
 def moveLookup(char, move):
-    #Looks up move data from the raw data.
     char = nameCleaner(char)
-    data = pd.read_csv("GGST-Frame/RawData/"+char+".txt", sep="/")
-    moveList = data["Input"].to_list()
-    moveListLower = [str(x).lower() for x in moveList]
-    move = move.lower()
-    move = str(difflib.get_close_matches(move,moveListLower,n=1,cutoff=.5)).replace("['","").replace("']","")
-    moveIndex = moveListLower.index(move)
-    moveData = data[data["Input"]==moveList[moveIndex]]
-    return char + " " + moveData.loc[moveIndex, "Input"] + " | s: " + moveData.loc[moveIndex, "Startup"] + ", a: " + moveData.loc[moveIndex, "Active"] + ", r: " + moveData.loc[moveIndex, "Recovery"] + ", ob: " + moveData.loc[moveIndex, "On-Block"] + ", oh: " + moveData.loc[moveIndex, "On-Hit"]
+    if move.lower() == "info":
+        #Looks up character info
+        data = pd.read_csv("GGST-Frame/RawData/"+"characterData"+".csv", sep=",", index_col=["Character"])
+        return char + " info | bd: " + str(data.loc[char,"Backdash"]) + ", j: " + str(data.loc[char,"Prejump"]) + ", eHP: " + str(data.loc[char,"EffectiveHP"]) + " (x" + str(data.loc[char,"DamageMod"]) + ", " +  str(data.loc[char,"Guts"]) + ")"
+    elif move == "236D" or move == "236[D]" or move == "236d" or move == "236[d]" or move=="wawa" or move == "WA" or move == "wa":
+        if char in ["Sol_Badguy", "Ky_Kiske", "May", "Chipp_Zanuff", "Ramlethal_Valentine", "Leo_Whitefang", "Giovanna", "Anji_Mito", "I-No", "Testament", "Sin_Kiske", "Johnny"]:
+            return char + " 236D | s: 16 [28], a: 3, r: 20, ob: -4, oh: -1"
+        elif char in ["Potemkin", "Nagoriyuki", "Goldlewis_Dickinson", "Bedman"]:
+            return char + " 236D | s: 20 [32], a: 3, r: 20, ob: +7 [+12], oh: nan"
+        else:
+            return char + " 236D | s: 20 [32], a: 3, r: 20, ob: +12 [+17], oh: nan"
+    else:
+        #Looks up move data from the raw data.
+        data = pd.read_csv("GGST-Frame/RawData/"+char+".txt", sep="/")
+        moveList = data["Input"].to_list()
+        moveListLower = [str(x).lower() for x in moveList]
+        move = move.lower()
+        move = str(difflib.get_close_matches(move,moveListLower,n=1,cutoff=.5)).replace("['","").replace("']","")
+        moveIndex = moveListLower.index(move)
+        moveData = data[data["Input"]==moveList[moveIndex]]
+        return char + " " + str(moveData.loc[moveIndex, "Input"]) + " | s: " + str(moveData.loc[moveIndex, "Startup"]) + ", a: " + str(moveData.loc[moveIndex, "Active"]) + ", r: " + str(moveData.loc[moveIndex, "Recovery"]) + ", ob: " + str(moveData.loc[moveIndex, "On-Block"]) + ", oh: " + str(moveData.loc[moveIndex, "On-Hit"])
+
 
 def bracketSplitter(moveRow):
     #Splits held moves (noted by "[]") into two seperate entries in the dataframe. WIP
@@ -316,14 +326,14 @@ def moveCleaner(moveDF, gatDF):
 def addWawa(char, df):
     x = len(df["Input"])
     if char in ["Sol_Badguy", "Ky_Kiske", "May", "Chipp_Zanuff", "Ramlethal_Valentine", "Leo_Whitefang", "Giovanna", "Anji_Mito", "I-No", "Testament", "Sin_Kiske", "Johnny"]:
-        df.loc[x,:] = ["236D", 16, 3, 20, -4, 0, "Special", ",".join(df["Input"].values.tolist())]
-        df.loc[x+1,:] = ["236[D]", 28, 3, 20, -4, 0, "Special", ",".join(df["Input"].values.tolist())]
+        df.loc[x,:] = ["236D", 16, 3, 20, -4, 4, "Special", "All"]
+        df.loc[x+1,:] = ["236[D]", 28, 3, 20, -4, 4, "Special", "All"]
     elif char in ["Potemkin", "Nagoriyuki", "Goldlewis_Dickinson", "Bedman"]:
-        df.loc[x,:] = ["236D", 20, 3, 20, 12, 0, "Special", ""] 
-        df.loc[x+1,:] = ["236[D]", 32, 3, 20, 17, 0, "Special", ""] 
+        df.loc[x,:] = ["236D", 20, 3, 20, 12, 4, "Special", ""] 
+        df.loc[x+1,:] = ["236[D]", 32, 3, 20, 17, 4, "Special", ""] 
     else:
-        df.loc[x,:] = ["236D", 20, 3, 20, 7, 0, "Special", ",".join(df["Input"].values.tolist())]
-        df.loc[x+1,:] = ["236[D]", 32, 3, 20, 12, 0, "Special", ",".join(df["Input"].values.tolist())]
+        df.loc[x,:] = ["236D", 20, 3, 20, 7, 4, "Special", "All"]
+        df.loc[x+1,:] = ["236[D]", 32, 3, 20, 12, 4, "Special", "All"]
     return df
 
 
@@ -410,8 +420,17 @@ def frameTrap(char, move1, move2):
     move1Cancel = data.loc[move1Index, "Cancels"].split(",")
     move2Index = data.index[data["Input"]==move2].tolist()[0]
     move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
+    #Wawa Check
+    if "All" in move1Cancel:
+        if "j." in move2:
+            if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+                gap = move2Start + 5 - levelHitstun(move1Lvl)
+            else:
+                gap = move2Start + 4 - levelHitstun(move1Lvl)
+        else:
+            gap = move2Start - levelHitstun(move1Lvl)
     #Rekka Check
-    if move2Type == "Rekka Followup" and move2 not in move1Cancel:
+    elif move2Type == "Rekka Followup" and move2 not in move1Cancel:
         #return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
         return move2 + " is a follow-up move and cannot be done after " + move1
     #Ground Gatling 
@@ -505,5 +524,8 @@ def frameTrapAllCharacters():
 #frameTrapAllCharacters()
 #updateCleanAll()
 
-#print(frameTrap("johnny","5K","5p"))
-dropDownListGeneratorAll()
+#print(frameTrap("may","236D","jH"))
+#dropDownListGeneratorAll()
+
+#print(moveLookup("Asuka","Accipiter"))
+#print(moveLookup("gio","5p"))
