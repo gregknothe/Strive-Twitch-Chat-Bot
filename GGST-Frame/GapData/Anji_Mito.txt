@@ -20,1071 +20,1278 @@
 18/5P/5[D]/30f gap
 19/5P/236P/18f gap
 20/5P/236K/"N/A"
-21/5P/236S/1f gap
-22/5P/236H/5f gap
-23/5P/236H P/Anji_Mito 5P > 236H P: 236H P is a follow-up move that cannot be performed after 5P.
-24/5P/236H K/Anji_Mito 5P > 236H K: 236H K is a follow-up move that cannot be performed after 5P.
-25/5P/236H S/Anji_Mito 5P > 236H S: 236H S is a follow-up move that cannot be performed after 5P.
-26/5P/236H H/Anji_Mito 5P > 236H H: 236H H is a follow-up move that cannot be performed after 5P.
-27/5P/632146H/6f gap
-28/5P/632146S/"N/A"
-29/5P/632146S Attack Near/-8f gap
-30/5P/632146S Attack Far/-8f gap
-31/5P/236[S]/17f gap
-32/5P/236[H]/21f gap
-33/5K/5P/8f gap
-34/5K/5K/10f gap
-35/5K/c.S/9f gap
-36/5K/f.S/13f gap
-37/5K/5H/17f gap
-38/5K/2P/7f gap
-39/5K/2K/9f gap
-40/5K/2S/12f gap
-41/5K/2H/24f gap
-42/5K/j.P/3f gap
-43/5K/j.K/0f gap
-44/5K/j.S/1f gap
-45/5K/j.H/7f gap
-46/5K/j.D/2f gap
-47/5K/6P/-1f gap
-48/5K/6H/5f gap
-49/5K/2D/-1f gap
-50/5K/5D/9f gap
-51/5K/5[D]/30f gap
-52/5K/236P/18f gap
-53/5K/236K/"N/A"
-54/5K/236S/1f gap
-55/5K/236H/5f gap
-56/5K/236H P/Anji_Mito 5K > 236H P: 236H P is a follow-up move that cannot be performed after 5K.
-57/5K/236H K/Anji_Mito 5K > 236H K: 236H K is a follow-up move that cannot be performed after 5K.
-58/5K/236H S/Anji_Mito 5K > 236H S: 236H S is a follow-up move that cannot be performed after 5K.
-59/5K/236H H/Anji_Mito 5K > 236H H: 236H H is a follow-up move that cannot be performed after 5K.
-60/5K/632146H/6f gap
-61/5K/632146S/"N/A"
-62/5K/632146S Attack Near/-8f gap
-63/5K/632146S Attack Far/-8f gap
-64/5K/236[S]/17f gap
-65/5K/236[H]/21f gap
-66/c.S/5P/5f gap
-67/c.S/5K/7f gap
-68/c.S/c.S/6f gap
-69/c.S/f.S/-7f gap
-70/c.S/5H/-3f gap
-71/c.S/2P/4f gap
-72/c.S/2K/6f gap
-73/c.S/2S/-8f gap
-74/c.S/2H/4f gap
-75/c.S/j.P/-4f gap
-76/c.S/j.K/-7f gap
-77/c.S/j.S/-6f gap
-78/c.S/j.H/0f gap
-79/c.S/j.D/-5f gap
-80/c.S/6P/-8f gap
-81/c.S/6H/-2f gap
-82/c.S/2D/-8f gap
-83/c.S/5D/2f gap
-84/c.S/5[D]/27f gap
-85/c.S/236P/11f gap
-86/c.S/236K/"N/A"
-87/c.S/236S/-6f gap
-88/c.S/236H/-2f gap
-89/c.S/236H P/Anji_Mito c.S > 236H P: 236H P is a follow-up move that cannot be performed after c.S.
-90/c.S/236H K/Anji_Mito c.S > 236H K: 236H K is a follow-up move that cannot be performed after c.S.
-91/c.S/236H S/Anji_Mito c.S > 236H S: 236H S is a follow-up move that cannot be performed after c.S.
-92/c.S/236H H/Anji_Mito c.S > 236H H: 236H H is a follow-up move that cannot be performed after c.S.
-93/c.S/632146H/-1f gap
-94/c.S/632146S/"N/A"
-95/c.S/632146S Attack Near/-15f gap
-96/c.S/632146S Attack Far/-15f gap
-97/c.S/236[S]/10f gap
-98/c.S/236[H]/14f gap
-99/f.S/5P/15f gap
-100/f.S/5K/17f gap
-101/f.S/c.S/16f gap
-102/f.S/f.S/20f gap
-103/f.S/5H/2f gap
-104/f.S/2P/14f gap
-105/f.S/2K/16f gap
-106/f.S/2S/19f gap
-107/f.S/2H/9f gap
-108/f.S/j.P/23f gap
-109/f.S/j.K/20f gap
-110/f.S/j.S/21f gap
-111/f.S/j.H/27f gap
-112/f.S/j.D/22f gap
-113/f.S/6P/19f gap
-114/f.S/6H/25f gap
-115/f.S/2D/19f gap
-116/f.S/5D/29f gap
-117/f.S/5[D]/37f gap
-118/f.S/236P/16f gap
-119/f.S/236K/"N/A"
-120/f.S/236S/-1f gap
-121/f.S/236H/3f gap
-122/f.S/236H P/Anji_Mito f.S > 236H P: 236H P is a follow-up move that cannot be performed after f.S.
-123/f.S/236H K/Anji_Mito f.S > 236H K: 236H K is a follow-up move that cannot be performed after f.S.
-124/f.S/236H S/Anji_Mito f.S > 236H S: 236H S is a follow-up move that cannot be performed after f.S.
-125/f.S/236H H/Anji_Mito f.S > 236H H: 236H H is a follow-up move that cannot be performed after f.S.
-126/f.S/632146H/4f gap
-127/f.S/632146S/"N/A"
-128/f.S/632146S Attack Near/-10f gap
-129/f.S/632146S Attack Far/-10f gap
-130/f.S/236[S]/15f gap
-131/f.S/236[H]/19f gap
-132/5H/5P/14f gap
-133/5H/5K/16f gap
-134/5H/c.S/15f gap
-135/5H/f.S/19f gap
-136/5H/5H/23f gap
-137/5H/2P/13f gap
-138/5H/2K/15f gap
-139/5H/2S/18f gap
-140/5H/2H/30f gap
-141/5H/j.P/22f gap
-142/5H/j.K/19f gap
-143/5H/j.S/20f gap
-144/5H/j.H/26f gap
-145/5H/j.D/21f gap
-146/5H/6P/18f gap
-147/5H/6H/24f gap
-148/5H/2D/18f gap
-149/5H/5D/28f gap
-150/5H/5[D]/36f gap
-151/5H/236P/11f gap
-152/5H/236K/"N/A"
-153/5H/236S/-6f gap
-154/5H/236H/-2f gap
-155/5H/236H P/Anji_Mito 5H > 236H P: 236H P is a follow-up move that cannot be performed after 5H.
-156/5H/236H K/Anji_Mito 5H > 236H K: 236H K is a follow-up move that cannot be performed after 5H.
-157/5H/236H S/Anji_Mito 5H > 236H S: 236H S is a follow-up move that cannot be performed after 5H.
-158/5H/236H H/Anji_Mito 5H > 236H H: 236H H is a follow-up move that cannot be performed after 5H.
-159/5H/632146H/-1f gap
-160/5H/632146S/"N/A"
-161/5H/632146S Attack Near/-15f gap
-162/5H/632146S Attack Far/-15f gap
-163/5H/236[S]/10f gap
-164/5H/236[H]/14f gap
-165/2P/5P/-3f gap
-166/2P/5K/10f gap
-167/2P/c.S/9f gap
-168/2P/f.S/13f gap
-169/2P/5H/17f gap
-170/2P/2P/-4f gap
-171/2P/2K/9f gap
-172/2P/2S/12f gap
-173/2P/2H/24f gap
-174/2P/j.P/16f gap
-175/2P/j.K/13f gap
-176/2P/j.S/14f gap
-177/2P/j.H/20f gap
-178/2P/j.D/15f gap
-179/2P/6P/1f gap
-180/2P/6H/7f gap
-181/2P/2D/12f gap
-182/2P/5D/22f gap
-183/2P/5[D]/30f gap
-184/2P/236P/20f gap
-185/2P/236K/"N/A"
-186/2P/236S/3f gap
-187/2P/236H/7f gap
-188/2P/236H P/Anji_Mito 2P > 236H P: 236H P is a follow-up move that cannot be performed after 2P.
-189/2P/236H K/Anji_Mito 2P > 236H K: 236H K is a follow-up move that cannot be performed after 2P.
-190/2P/236H S/Anji_Mito 2P > 236H S: 236H S is a follow-up move that cannot be performed after 2P.
-191/2P/236H H/Anji_Mito 2P > 236H H: 236H H is a follow-up move that cannot be performed after 2P.
-192/2P/632146H/8f gap
-193/2P/632146S/"N/A"
-194/2P/632146S Attack Near/-6f gap
-195/2P/632146S Attack Far/-6f gap
-196/2P/236[S]/19f gap
-197/2P/236[H]/23f gap
-198/2K/5P/8f gap
-199/2K/5K/10f gap
-200/2K/c.S/9f gap
-201/2K/f.S/13f gap
-202/2K/5H/17f gap
-203/2K/2P/7f gap
-204/2K/2K/9f gap
-205/2K/2S/12f gap
-206/2K/2H/24f gap
-207/2K/j.P/16f gap
-208/2K/j.K/13f gap
-209/2K/j.S/14f gap
-210/2K/j.H/20f gap
-211/2K/j.D/15f gap
-212/2K/6P/-1f gap
-213/2K/6H/5f gap
-214/2K/2D/-1f gap
-215/2K/5D/9f gap
-216/2K/5[D]/30f gap
-217/2K/236P/18f gap
-218/2K/236K/"N/A"
-219/2K/236S/1f gap
-220/2K/236H/5f gap
-221/2K/236H P/Anji_Mito 2K > 236H P: 236H P is a follow-up move that cannot be performed after 2K.
-222/2K/236H K/Anji_Mito 2K > 236H K: 236H K is a follow-up move that cannot be performed after 2K.
-223/2K/236H S/Anji_Mito 2K > 236H S: 236H S is a follow-up move that cannot be performed after 2K.
-224/2K/236H H/Anji_Mito 2K > 236H H: 236H H is a follow-up move that cannot be performed after 2K.
-225/2K/632146H/6f gap
-226/2K/632146S/"N/A"
-227/2K/632146S Attack Near/-8f gap
-228/2K/632146S Attack Far/-8f gap
-229/2K/236[S]/17f gap
-230/2K/236[H]/21f gap
-231/2S/5P/12f gap
-232/2S/5K/14f gap
-233/2S/c.S/13f gap
-234/2S/f.S/17f gap
-235/2S/5H/2f gap
-236/2S/2P/11f gap
-237/2S/2K/13f gap
-238/2S/2S/16f gap
-239/2S/2H/9f gap
-240/2S/j.P/20f gap
-241/2S/j.K/17f gap
-242/2S/j.S/18f gap
-243/2S/j.H/24f gap
-244/2S/j.D/19f gap
-245/2S/6P/16f gap
-246/2S/6H/22f gap
-247/2S/2D/16f gap
-248/2S/5D/26f gap
-249/2S/5[D]/34f gap
-250/2S/236P/16f gap
-251/2S/236K/"N/A"
-252/2S/236S/-1f gap
-253/2S/236H/3f gap
-254/2S/236H P/Anji_Mito 2S > 236H P: 236H P is a follow-up move that cannot be performed after 2S.
-255/2S/236H K/Anji_Mito 2S > 236H K: 236H K is a follow-up move that cannot be performed after 2S.
-256/2S/236H S/Anji_Mito 2S > 236H S: 236H S is a follow-up move that cannot be performed after 2S.
-257/2S/236H H/Anji_Mito 2S > 236H H: 236H H is a follow-up move that cannot be performed after 2S.
-258/2S/632146H/4f gap
-259/2S/632146S/"N/A"
-260/2S/632146S Attack Near/-10f gap
-261/2S/632146S Attack Far/-10f gap
-262/2S/236[S]/15f gap
-263/2S/236[H]/19f gap
-264/2H/5P/10f gap
-265/2H/5K/12f gap
-266/2H/c.S/11f gap
-267/2H/f.S/15f gap
-268/2H/5H/19f gap
-269/2H/2P/9f gap
-270/2H/2K/11f gap
-271/2H/2S/14f gap
-272/2H/2H/26f gap
-273/2H/j.P/18f gap
-274/2H/j.K/15f gap
-275/2H/j.S/16f gap
-276/2H/j.H/22f gap
-277/2H/j.D/17f gap
-278/2H/6P/14f gap
-279/2H/6H/20f gap
-280/2H/2D/14f gap
-281/2H/5D/24f gap
-282/2H/5[D]/32f gap
-283/2H/236P/11f gap
-284/2H/236K/"N/A"
-285/2H/236S/-6f gap
-286/2H/236H/-2f gap
-287/2H/236H P/Anji_Mito 2H > 236H P: 236H P is a follow-up move that cannot be performed after 2H.
-288/2H/236H K/Anji_Mito 2H > 236H K: 236H K is a follow-up move that cannot be performed after 2H.
-289/2H/236H S/Anji_Mito 2H > 236H S: 236H S is a follow-up move that cannot be performed after 2H.
-290/2H/236H H/Anji_Mito 2H > 236H H: 236H H is a follow-up move that cannot be performed after 2H.
-291/2H/632146H/-1f gap
-292/2H/632146S/"N/A"
-293/2H/632146S Attack Near/-15f gap
-294/2H/632146S Attack Far/-15f gap
-295/2H/236[S]/10f gap
-296/2H/236[H]/14f gap
-297/j.P/5P/j.P has 9f of blockstun, while 5P has 6.0f of startup
-298/j.P/5K/j.P has 9f of blockstun, while 5K has 8.0f of startup
-299/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
-300/j.P/f.S/j.P has 9f of blockstun, while f.S has 11.0f of startup
-301/j.P/5H/j.P has 9f of blockstun, while 5H has 15.0f of startup
-302/j.P/2P/j.P has 9f of blockstun, while 2P has 5.0f of startup
-303/j.P/2K/j.P has 9f of blockstun, while 2K has 7.0f of startup
-304/j.P/2S/j.P has 9f of blockstun, while 2S has 10.0f of startup
-305/j.P/2H/j.P has 9f of blockstun, while 2H has 22.0f of startup
-306/j.P/j.P/0f gap
-307/j.P/j.K/j.P has 9f of blockstun, while j.K has 6.0f of startup
-308/j.P/j.S/j.P has 9f of blockstun, while j.S has 7.0f of startup
-309/j.P/j.H/j.P has 9f of blockstun, while j.H has 13.0f of startup
-310/j.P/j.D/j.P has 9f of blockstun, while j.D has 8.0f of startup
-311/j.P/6P/j.P has 9f of blockstun, while 6P has 10.0f of startup
-312/j.P/6H/j.P has 9f of blockstun, while 6H has 16.0f of startup
-313/j.P/2D/j.P has 9f of blockstun, while 2D has 10.0f of startup
-314/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
-315/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
-316/j.P/236P/j.P has 9f of blockstun, while 236P has 29.0f of startup
-317/j.P/236K/j.P has 9f of blockstun, while 236K has f of startup
-318/j.P/236S/j.P has 9f of blockstun, while 236S has 12.0f of startup
-319/j.P/236H/j.P has 9f of blockstun, while 236H has 16.0f of startup
-320/j.P/236H P/Anji_Mito j.P > 236H P: 236H P is a follow-up move that cannot be performed after j.P.
-321/j.P/236H K/Anji_Mito j.P > 236H K: 236H K is a follow-up move that cannot be performed after j.P.
-322/j.P/236H S/Anji_Mito j.P > 236H S: 236H S is a follow-up move that cannot be performed after j.P.
-323/j.P/236H H/Anji_Mito j.P > 236H H: 236H H is a follow-up move that cannot be performed after j.P.
-324/j.P/632146H/j.P has 9f of blockstun, while 632146H has 17.0f of startup
-325/j.P/632146S/j.P has 9f of blockstun, while 632146S has f of startup
-326/j.P/632146S Attack Near/j.P has 9f of blockstun, while 632146S Attack Near has 3.0f of startup
-327/j.P/632146S Attack Far/j.P has 9f of blockstun, while 632146S Attack Far has 3.0f of startup
-328/j.P/236[S]/j.P has 9f of blockstun, while 236[S] has 28.0f of startup
-329/j.P/236[H]/j.P has 9f of blockstun, while 236[H] has 32.0f of startup
-330/j.K/5P/j.K has 11f of blockstun, while 5P has 6.0f of startup
-331/j.K/5K/j.K has 11f of blockstun, while 5K has 8.0f of startup
-332/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
-333/j.K/f.S/j.K has 11f of blockstun, while f.S has 11.0f of startup
-334/j.K/5H/j.K has 11f of blockstun, while 5H has 15.0f of startup
-335/j.K/2P/j.K has 11f of blockstun, while 2P has 5.0f of startup
-336/j.K/2K/j.K has 11f of blockstun, while 2K has 7.0f of startup
-337/j.K/2S/j.K has 11f of blockstun, while 2S has 10.0f of startup
-338/j.K/2H/j.K has 11f of blockstun, while 2H has 22.0f of startup
-339/j.K/j.P/j.K has 11f of blockstun, while j.P has 9.0f of startup
-340/j.K/j.K/j.K has 11f of blockstun, while j.K has 6.0f of startup
-341/j.K/j.S/j.K has 11f of blockstun, while j.S has 7.0f of startup
-342/j.K/j.H/j.K has 11f of blockstun, while j.H has 13.0f of startup
-343/j.K/j.D/-3f gap
-344/j.K/6P/j.K has 11f of blockstun, while 6P has 10.0f of startup
-345/j.K/6H/j.K has 11f of blockstun, while 6H has 16.0f of startup
-346/j.K/2D/j.K has 11f of blockstun, while 2D has 10.0f of startup
-347/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
-348/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
-349/j.K/236P/j.K has 11f of blockstun, while 236P has 29.0f of startup
-350/j.K/236K/j.K has 11f of blockstun, while 236K has f of startup
-351/j.K/236S/j.K has 11f of blockstun, while 236S has 12.0f of startup
-352/j.K/236H/j.K has 11f of blockstun, while 236H has 16.0f of startup
-353/j.K/236H P/Anji_Mito j.K > 236H P: 236H P is a follow-up move that cannot be performed after j.K.
-354/j.K/236H K/Anji_Mito j.K > 236H K: 236H K is a follow-up move that cannot be performed after j.K.
-355/j.K/236H S/Anji_Mito j.K > 236H S: 236H S is a follow-up move that cannot be performed after j.K.
-356/j.K/236H H/Anji_Mito j.K > 236H H: 236H H is a follow-up move that cannot be performed after j.K.
-357/j.K/632146H/j.K has 11f of blockstun, while 632146H has 17.0f of startup
-358/j.K/632146S/j.K has 11f of blockstun, while 632146S has f of startup
-359/j.K/632146S Attack Near/j.K has 11f of blockstun, while 632146S Attack Near has 3.0f of startup
-360/j.K/632146S Attack Far/j.K has 11f of blockstun, while 632146S Attack Far has 3.0f of startup
-361/j.K/236[S]/j.K has 11f of blockstun, while 236[S] has 28.0f of startup
-362/j.K/236[H]/j.K has 11f of blockstun, while 236[H] has 32.0f of startup
-363/j.S/5P/j.S has 13f of blockstun, while 5P has 6.0f of startup
-364/j.S/5K/j.S has 13f of blockstun, while 5K has 8.0f of startup
-365/j.S/c.S/j.S has 13f of blockstun, while c.S has 7.0f of startup
-366/j.S/f.S/j.S has 13f of blockstun, while f.S has 11.0f of startup
-367/j.S/5H/j.S has 13f of blockstun, while 5H has 15.0f of startup
-368/j.S/2P/j.S has 13f of blockstun, while 2P has 5.0f of startup
-369/j.S/2K/j.S has 13f of blockstun, while 2K has 7.0f of startup
-370/j.S/2S/j.S has 13f of blockstun, while 2S has 10.0f of startup
-371/j.S/2H/j.S has 13f of blockstun, while 2H has 22.0f of startup
-372/j.S/j.P/j.S has 13f of blockstun, while j.P has 9.0f of startup
-373/j.S/j.K/j.S has 13f of blockstun, while j.K has 6.0f of startup
-374/j.S/j.S/j.S has 13f of blockstun, while j.S has 7.0f of startup
-375/j.S/j.H/0f gap
-376/j.S/j.D/-5f gap
-377/j.S/6P/j.S has 13f of blockstun, while 6P has 10.0f of startup
-378/j.S/6H/j.S has 13f of blockstun, while 6H has 16.0f of startup
-379/j.S/2D/j.S has 13f of blockstun, while 2D has 10.0f of startup
-380/j.S/5D/j.S has 13f of blockstun, while 5D has 20.0f of startup
-381/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28.0f of startup
-382/j.S/236P/j.S has 13f of blockstun, while 236P has 29.0f of startup
-383/j.S/236K/j.S has 13f of blockstun, while 236K has f of startup
-384/j.S/236S/j.S has 13f of blockstun, while 236S has 12.0f of startup
-385/j.S/236H/j.S has 13f of blockstun, while 236H has 16.0f of startup
-386/j.S/236H P/Anji_Mito j.S > 236H P: 236H P is a follow-up move that cannot be performed after j.S.
-387/j.S/236H K/Anji_Mito j.S > 236H K: 236H K is a follow-up move that cannot be performed after j.S.
-388/j.S/236H S/Anji_Mito j.S > 236H S: 236H S is a follow-up move that cannot be performed after j.S.
-389/j.S/236H H/Anji_Mito j.S > 236H H: 236H H is a follow-up move that cannot be performed after j.S.
-390/j.S/632146H/j.S has 13f of blockstun, while 632146H has 17.0f of startup
-391/j.S/632146S/j.S has 13f of blockstun, while 632146S has f of startup
-392/j.S/632146S Attack Near/j.S has 13f of blockstun, while 632146S Attack Near has 3.0f of startup
-393/j.S/632146S Attack Far/j.S has 13f of blockstun, while 632146S Attack Far has 3.0f of startup
-394/j.S/236[S]/j.S has 13f of blockstun, while 236[S] has 28.0f of startup
-395/j.S/236[H]/j.S has 13f of blockstun, while 236[H] has 32.0f of startup
-396/j.H/5P/j.H has 13f of blockstun, while 5P has 6.0f of startup
-397/j.H/5K/j.H has 13f of blockstun, while 5K has 8.0f of startup
-398/j.H/c.S/j.H has 13f of blockstun, while c.S has 7.0f of startup
-399/j.H/f.S/j.H has 13f of blockstun, while f.S has 11.0f of startup
-400/j.H/5H/j.H has 13f of blockstun, while 5H has 15.0f of startup
-401/j.H/2P/j.H has 13f of blockstun, while 2P has 5.0f of startup
-402/j.H/2K/j.H has 13f of blockstun, while 2K has 7.0f of startup
-403/j.H/2S/j.H has 13f of blockstun, while 2S has 10.0f of startup
-404/j.H/2H/j.H has 13f of blockstun, while 2H has 22.0f of startup
-405/j.H/j.P/j.H has 13f of blockstun, while j.P has 9.0f of startup
-406/j.H/j.K/j.H has 13f of blockstun, while j.K has 6.0f of startup
-407/j.H/j.S/j.H has 13f of blockstun, while j.S has 7.0f of startup
-408/j.H/j.H/j.H has 13f of blockstun, while j.H has 13.0f of startup
-409/j.H/j.D/-5f gap
-410/j.H/6P/j.H has 13f of blockstun, while 6P has 10.0f of startup
-411/j.H/6H/j.H has 13f of blockstun, while 6H has 16.0f of startup
-412/j.H/2D/j.H has 13f of blockstun, while 2D has 10.0f of startup
-413/j.H/5D/j.H has 13f of blockstun, while 5D has 20.0f of startup
-414/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28.0f of startup
-415/j.H/236P/j.H has 13f of blockstun, while 236P has 29.0f of startup
-416/j.H/236K/j.H has 13f of blockstun, while 236K has f of startup
-417/j.H/236S/j.H has 13f of blockstun, while 236S has 12.0f of startup
-418/j.H/236H/j.H has 13f of blockstun, while 236H has 16.0f of startup
-419/j.H/236H P/Anji_Mito j.H > 236H P: 236H P is a follow-up move that cannot be performed after j.H.
-420/j.H/236H K/Anji_Mito j.H > 236H K: 236H K is a follow-up move that cannot be performed after j.H.
-421/j.H/236H S/Anji_Mito j.H > 236H S: 236H S is a follow-up move that cannot be performed after j.H.
-422/j.H/236H H/Anji_Mito j.H > 236H H: 236H H is a follow-up move that cannot be performed after j.H.
-423/j.H/632146H/j.H has 13f of blockstun, while 632146H has 17.0f of startup
-424/j.H/632146S/j.H has 13f of blockstun, while 632146S has f of startup
-425/j.H/632146S Attack Near/j.H has 13f of blockstun, while 632146S Attack Near has 3.0f of startup
-426/j.H/632146S Attack Far/j.H has 13f of blockstun, while 632146S Attack Far has 3.0f of startup
-427/j.H/236[S]/j.H has 13f of blockstun, while 236[S] has 28.0f of startup
-428/j.H/236[H]/j.H has 13f of blockstun, while 236[H] has 32.0f of startup
-429/j.D/5P/j.D has 16f of blockstun, while 5P has 6.0f of startup
-430/j.D/5K/j.D has 16f of blockstun, while 5K has 8.0f of startup
-431/j.D/c.S/j.D has 16f of blockstun, while c.S has 7.0f of startup
-432/j.D/f.S/j.D has 16f of blockstun, while f.S has 11.0f of startup
-433/j.D/5H/j.D has 16f of blockstun, while 5H has 15.0f of startup
-434/j.D/2P/j.D has 16f of blockstun, while 2P has 5.0f of startup
-435/j.D/2K/j.D has 16f of blockstun, while 2K has 7.0f of startup
-436/j.D/2S/j.D has 16f of blockstun, while 2S has 10.0f of startup
-437/j.D/2H/j.D has 16f of blockstun, while 2H has 22.0f of startup
-438/j.D/j.P/j.D has 16f of blockstun, while j.P has 9.0f of startup
-439/j.D/j.K/j.D has 16f of blockstun, while j.K has 6.0f of startup
-440/j.D/j.S/j.D has 16f of blockstun, while j.S has 7.0f of startup
-441/j.D/j.H/j.D has 16f of blockstun, while j.H has 13.0f of startup
-442/j.D/j.D/j.D has 16f of blockstun, while j.D has 8.0f of startup
-443/j.D/6P/j.D has 16f of blockstun, while 6P has 10.0f of startup
-444/j.D/6H/j.D has 16f of blockstun, while 6H has 16.0f of startup
-445/j.D/2D/j.D has 16f of blockstun, while 2D has 10.0f of startup
-446/j.D/5D/j.D has 16f of blockstun, while 5D has 20.0f of startup
-447/j.D/5[D]/j.D has 16f of blockstun, while 5[D] has 28.0f of startup
-448/j.D/236P/j.D has 16f of blockstun, while 236P has 29.0f of startup
-449/j.D/236K/j.D has 16f of blockstun, while 236K has f of startup
-450/j.D/236S/j.D has 16f of blockstun, while 236S has 12.0f of startup
-451/j.D/236H/j.D has 16f of blockstun, while 236H has 16.0f of startup
-452/j.D/236H P/Anji_Mito j.D > 236H P: 236H P is a follow-up move that cannot be performed after j.D.
-453/j.D/236H K/Anji_Mito j.D > 236H K: 236H K is a follow-up move that cannot be performed after j.D.
-454/j.D/236H S/Anji_Mito j.D > 236H S: 236H S is a follow-up move that cannot be performed after j.D.
-455/j.D/236H H/Anji_Mito j.D > 236H H: 236H H is a follow-up move that cannot be performed after j.D.
-456/j.D/632146H/j.D has 16f of blockstun, while 632146H has 17.0f of startup
-457/j.D/632146S/j.D has 16f of blockstun, while 632146S has f of startup
-458/j.D/632146S Attack Near/j.D has 16f of blockstun, while 632146S Attack Near has 3.0f of startup
-459/j.D/632146S Attack Far/j.D has 16f of blockstun, while 632146S Attack Far has 3.0f of startup
-460/j.D/236[S]/j.D has 16f of blockstun, while 236[S] has 28.0f of startup
-461/j.D/236[H]/j.D has 16f of blockstun, while 236[H] has 32.0f of startup
-462/6P/5P/23f gap
-463/6P/5K/25f gap
-464/6P/c.S/24f gap
-465/6P/f.S/28f gap
-466/6P/5H/32f gap
-467/6P/2P/22f gap
-468/6P/2K/24f gap
-469/6P/2S/27f gap
-470/6P/2H/39f gap
-471/6P/j.P/31f gap
-472/6P/j.K/28f gap
-473/6P/j.S/29f gap
-474/6P/j.H/35f gap
-475/6P/j.D/30f gap
-476/6P/6P/27f gap
-477/6P/6H/33f gap
-478/6P/2D/27f gap
-479/6P/5D/37f gap
-480/6P/5[D]/45f gap
-481/6P/236P/16f gap
-482/6P/236K/"N/A"
-483/6P/236S/-1f gap
-484/6P/236H/3f gap
-485/6P/236H P/Anji_Mito 6P > 236H P: 236H P is a follow-up move that cannot be performed after 6P.
-486/6P/236H K/Anji_Mito 6P > 236H K: 236H K is a follow-up move that cannot be performed after 6P.
-487/6P/236H S/Anji_Mito 6P > 236H S: 236H S is a follow-up move that cannot be performed after 6P.
-488/6P/236H H/Anji_Mito 6P > 236H H: 236H H is a follow-up move that cannot be performed after 6P.
-489/6P/632146H/4f gap
-490/6P/632146S/"N/A"
-491/6P/632146S Attack Near/-10f gap
-492/6P/632146S Attack Far/-10f gap
-493/6P/236[S]/15f gap
-494/6P/236[H]/19f gap
-495/6H/5P/14f gap
-496/6H/5K/16f gap
-497/6H/c.S/15f gap
-498/6H/f.S/19f gap
-499/6H/5H/23f gap
-500/6H/2P/13f gap
-501/6H/2K/15f gap
-502/6H/2S/18f gap
-503/6H/2H/30f gap
-504/6H/j.P/22f gap
-505/6H/j.K/19f gap
-506/6H/j.S/20f gap
-507/6H/j.H/26f gap
-508/6H/j.D/21f gap
-509/6H/6P/18f gap
-510/6H/6H/24f gap
-511/6H/2D/18f gap
-512/6H/5D/28f gap
-513/6H/5[D]/36f gap
-514/6H/236P/13f gap
-515/6H/236K/"N/A"
-516/6H/236S/-4f gap
-517/6H/236H/0f gap
-518/6H/236H P/Anji_Mito 6H > 236H P: 236H P is a follow-up move that cannot be performed after 6H.
-519/6H/236H K/Anji_Mito 6H > 236H K: 236H K is a follow-up move that cannot be performed after 6H.
-520/6H/236H S/Anji_Mito 6H > 236H S: 236H S is a follow-up move that cannot be performed after 6H.
-521/6H/236H H/Anji_Mito 6H > 236H H: 236H H is a follow-up move that cannot be performed after 6H.
-522/6H/632146H/1f gap
-523/6H/632146S/"N/A"
-524/6H/632146S Attack Near/-13f gap
-525/6H/632146S Attack Far/-13f gap
-526/6H/236[S]/12f gap
-527/6H/236[H]/16f gap
-528/2D/5P/17f gap
-529/2D/5K/19f gap
-530/2D/c.S/18f gap
-531/2D/f.S/22f gap
-532/2D/5H/26f gap
-533/2D/2P/16f gap
-534/2D/2K/18f gap
-535/2D/2S/21f gap
-536/2D/2H/33f gap
-537/2D/j.P/25f gap
-538/2D/j.K/22f gap
-539/2D/j.S/23f gap
-540/2D/j.H/29f gap
-541/2D/j.D/24f gap
-542/2D/6P/21f gap
-543/2D/6H/27f gap
-544/2D/2D/21f gap
-545/2D/5D/31f gap
-546/2D/5[D]/39f gap
-547/2D/236P/16f gap
-548/2D/236K/"N/A"
-549/2D/236S/-1f gap
-550/2D/236H/3f gap
-551/2D/236H P/Anji_Mito 2D > 236H P: 236H P is a follow-up move that cannot be performed after 2D.
-552/2D/236H K/Anji_Mito 2D > 236H K: 236H K is a follow-up move that cannot be performed after 2D.
-553/2D/236H S/Anji_Mito 2D > 236H S: 236H S is a follow-up move that cannot be performed after 2D.
-554/2D/236H H/Anji_Mito 2D > 236H H: 236H H is a follow-up move that cannot be performed after 2D.
-555/2D/632146H/4f gap
-556/2D/632146S/"N/A"
-557/2D/632146S Attack Near/-10f gap
-558/2D/632146S Attack Far/-10f gap
-559/2D/236[S]/15f gap
-560/2D/236[H]/19f gap
-561/5D/5P/21f gap
-562/5D/5K/23f gap
-563/5D/c.S/22f gap
-564/5D/f.S/26f gap
-565/5D/5H/30f gap
-566/5D/2P/20f gap
-567/5D/2K/22f gap
-568/5D/2S/25f gap
-569/5D/2H/37f gap
-570/5D/j.P/29f gap
-571/5D/j.K/26f gap
-572/5D/j.S/27f gap
-573/5D/j.H/33f gap
-574/5D/j.D/28f gap
-575/5D/6P/25f gap
-576/5D/6H/31f gap
-577/5D/2D/25f gap
-578/5D/5D/35f gap
-579/5D/5[D]/43f gap
-580/5D/236P/44f gap
-581/5D/236K/"N/A"
-582/5D/236S/27f gap
-583/5D/236H/31f gap
-584/5D/236H P/Anji_Mito 5D > 236H P: 236H P is a follow-up move that cannot be performed after 5D.
-585/5D/236H K/Anji_Mito 5D > 236H K: 236H K is a follow-up move that cannot be performed after 5D.
-586/5D/236H S/Anji_Mito 5D > 236H S: 236H S is a follow-up move that cannot be performed after 5D.
-587/5D/236H H/Anji_Mito 5D > 236H H: 236H H is a follow-up move that cannot be performed after 5D.
-588/5D/632146H/32f gap
-589/5D/632146S/"N/A"
-590/5D/632146S Attack Near/18f gap
-591/5D/632146S Attack Far/18f gap
-592/5D/236[S]/43f gap
-593/5D/236[H]/47f gap
-594/5[D]/5P/16f gap
-595/5[D]/5K/18f gap
-596/5[D]/c.S/17f gap
-597/5[D]/f.S/21f gap
-598/5[D]/5H/25f gap
-599/5[D]/2P/15f gap
-600/5[D]/2K/17f gap
-601/5[D]/2S/20f gap
-602/5[D]/2H/32f gap
-603/5[D]/j.P/24f gap
-604/5[D]/j.K/21f gap
-605/5[D]/j.S/22f gap
-606/5[D]/j.H/28f gap
-607/5[D]/j.D/23f gap
-608/5[D]/6P/20f gap
-609/5[D]/6H/26f gap
-610/5[D]/2D/20f gap
-611/5[D]/5D/30f gap
-612/5[D]/5[D]/38f gap
-613/5[D]/236P/39f gap
-614/5[D]/236K/"N/A"
-615/5[D]/236S/22f gap
-616/5[D]/236H/26f gap
-617/5[D]/236H P/Anji_Mito 5[D] > 236H P: 236H P is a follow-up move that cannot be performed after 5[D].
-618/5[D]/236H K/Anji_Mito 5[D] > 236H K: 236H K is a follow-up move that cannot be performed after 5[D].
-619/5[D]/236H S/Anji_Mito 5[D] > 236H S: 236H S is a follow-up move that cannot be performed after 5[D].
-620/5[D]/236H H/Anji_Mito 5[D] > 236H H: 236H H is a follow-up move that cannot be performed after 5[D].
-621/5[D]/632146H/27f gap
-622/5[D]/632146S/"N/A"
-623/5[D]/632146S Attack Near/13f gap
-624/5[D]/632146S Attack Far/13f gap
-625/5[D]/236[S]/38f gap
-626/5[D]/236[H]/42f gap
-627/236P/5P/12f gap
-628/236P/5K/14f gap
-629/236P/c.S/13f gap
-630/236P/f.S/17f gap
-631/236P/5H/21f gap
-632/236P/2P/11f gap
-633/236P/2K/13f gap
-634/236P/2S/16f gap
-635/236P/2H/28f gap
-636/236P/j.P/20f gap
-637/236P/j.K/17f gap
-638/236P/j.S/18f gap
-639/236P/j.H/24f gap
-640/236P/j.D/19f gap
-641/236P/6P/16f gap
-642/236P/6H/22f gap
-643/236P/2D/16f gap
-644/236P/5D/26f gap
-645/236P/5[D]/34f gap
-646/236P/236P/35f gap
-647/236P/236K/"N/A"
-648/236P/236S/18f gap
-649/236P/236H/22f gap
-650/236P/236H P/Anji_Mito 236P > 236H P: 236H P is a follow-up move that cannot be performed after 236P.
-651/236P/236H K/Anji_Mito 236P > 236H K: 236H K is a follow-up move that cannot be performed after 236P.
-652/236P/236H S/Anji_Mito 236P > 236H S: 236H S is a follow-up move that cannot be performed after 236P.
-653/236P/236H H/Anji_Mito 236P > 236H H: 236H H is a follow-up move that cannot be performed after 236P.
-654/236P/632146H/23f gap
-655/236P/632146S/"N/A"
-656/236P/632146S Attack Near/9f gap
-657/236P/632146S Attack Far/9f gap
-658/236P/236[S]/34f gap
-659/236P/236[H]/38f gap
-660/236K/5P/"N/A"
-661/236K/5K/"N/A"
-662/236K/c.S/"N/A"
-663/236K/f.S/"N/A"
-664/236K/5H/"N/A"
-665/236K/2P/"N/A"
-666/236K/2K/"N/A"
-667/236K/2S/"N/A"
-668/236K/2H/"N/A"
-669/236K/j.P/"N/A"
-670/236K/j.K/"N/A"
-671/236K/j.S/"N/A"
-672/236K/j.H/"N/A"
-673/236K/j.D/"N/A"
-674/236K/6P/"N/A"
-675/236K/6H/"N/A"
-676/236K/2D/"N/A"
-677/236K/5D/"N/A"
-678/236K/5[D]/"N/A"
-679/236K/236P/"N/A"
-680/236K/236K/"N/A"
-681/236K/236S/"N/A"
-682/236K/236H/"N/A"
-683/236K/236H P/Anji_Mito 236K > 236H P: 236H P is a follow-up move that cannot be performed after 236K.
-684/236K/236H K/Anji_Mito 236K > 236H K: 236H K is a follow-up move that cannot be performed after 236K.
-685/236K/236H S/Anji_Mito 236K > 236H S: 236H S is a follow-up move that cannot be performed after 236K.
-686/236K/236H H/Anji_Mito 236K > 236H H: 236H H is a follow-up move that cannot be performed after 236K.
-687/236K/632146H/"N/A"
-688/236K/632146S/"N/A"
-689/236K/632146S Attack Near/"N/A"
-690/236K/632146S Attack Far/"N/A"
-691/236K/236[S]/"N/A"
-692/236K/236[H]/"N/A"
-693/236S/5P/"N/A"
-694/236S/5K/"N/A"
-695/236S/c.S/"N/A"
-696/236S/f.S/"N/A"
-697/236S/5H/"N/A"
-698/236S/2P/"N/A"
-699/236S/2K/"N/A"
-700/236S/2S/"N/A"
-701/236S/2H/"N/A"
-702/236S/j.P/"N/A"
-703/236S/j.K/"N/A"
-704/236S/j.S/"N/A"
-705/236S/j.H/"N/A"
-706/236S/j.D/"N/A"
-707/236S/6P/"N/A"
-708/236S/6H/"N/A"
-709/236S/2D/"N/A"
-710/236S/5D/"N/A"
-711/236S/5[D]/"N/A"
-712/236S/236P/"N/A"
-713/236S/236K/"N/A"
-714/236S/236S/"N/A"
-715/236S/236H/"N/A"
-716/236S/236H P/Anji_Mito 236S > 236H P: 236H P is a follow-up move that cannot be performed after 236S.
-717/236S/236H K/Anji_Mito 236S > 236H K: 236H K is a follow-up move that cannot be performed after 236S.
-718/236S/236H S/Anji_Mito 236S > 236H S: 236H S is a follow-up move that cannot be performed after 236S.
-719/236S/236H H/Anji_Mito 236S > 236H H: 236H H is a follow-up move that cannot be performed after 236S.
-720/236S/632146H/"N/A"
-721/236S/632146S/"N/A"
-722/236S/632146S Attack Near/"N/A"
-723/236S/632146S Attack Far/"N/A"
-724/236S/236[S]/"N/A"
-725/236S/236[H]/"N/A"
-726/236H/5P/14f gap
-727/236H/5K/16f gap
-728/236H/c.S/15f gap
-729/236H/f.S/19f gap
-730/236H/5H/23f gap
-731/236H/2P/13f gap
-732/236H/2K/15f gap
-733/236H/2S/18f gap
-734/236H/2H/30f gap
-735/236H/j.P/22f gap
-736/236H/j.K/19f gap
-737/236H/j.S/20f gap
-738/236H/j.H/26f gap
-739/236H/j.D/21f gap
-740/236H/6P/18f gap
-741/236H/6H/24f gap
-742/236H/2D/18f gap
-743/236H/5D/28f gap
-744/236H/5[D]/36f gap
-745/236H/236P/37f gap
-746/236H/236K/"N/A"
-747/236H/236S/20f gap
-748/236H/236H/24f gap
-749/236H/236H P/14f gap
-750/236H/236H K/Anji_Mito 236H > 236H K: 236H K is a follow-up move that cannot be performed after 236H.
-751/236H/236H S/Anji_Mito 236H > 236H S: 236H S is a follow-up move that cannot be performed after 236H.
-752/236H/236H H/Anji_Mito 236H > 236H H: 236H H is a follow-up move that cannot be performed after 236H.
-753/236H/632146H/25f gap
-754/236H/632146S/"N/A"
-755/236H/632146S Attack Near/11f gap
-756/236H/632146S Attack Far/11f gap
-757/236H/236[S]/36f gap
-758/236H/236[H]/40f gap
-759/236H P/5P/-1f gap
-760/236H P/5K/1f gap
-761/236H P/c.S/0f gap
-762/236H P/f.S/4f gap
-763/236H P/5H/8f gap
-764/236H P/2P/-2f gap
-765/236H P/2K/0f gap
-766/236H P/2S/3f gap
-767/236H P/2H/15f gap
-768/236H P/j.P/7f gap
-769/236H P/j.K/4f gap
-770/236H P/j.S/5f gap
-771/236H P/j.H/11f gap
-772/236H P/j.D/6f gap
-773/236H P/6P/3f gap
-774/236H P/6H/9f gap
-775/236H P/2D/3f gap
-776/236H P/5D/13f gap
-777/236H P/5[D]/21f gap
-778/236H P/236P/22f gap
-779/236H P/236K/"N/A"
-780/236H P/236S/5f gap
-781/236H P/236H/9f gap
-782/236H P/236H P/Anji_Mito 236H P > 236H P: 236H P is a follow-up move that cannot be performed after 236H P.
-783/236H P/236H K/Anji_Mito 236H P > 236H K: 236H K is a follow-up move that cannot be performed after 236H P.
-784/236H P/236H S/Anji_Mito 236H P > 236H S: 236H S is a follow-up move that cannot be performed after 236H P.
-785/236H P/236H H/Anji_Mito 236H P > 236H H: 236H H is a follow-up move that cannot be performed after 236H P.
-786/236H P/632146H/10f gap
-787/236H P/632146S/"N/A"
-788/236H P/632146S Attack Near/-4f gap
-789/236H P/632146S Attack Far/-4f gap
-790/236H P/236[S]/21f gap
-791/236H P/236[H]/25f gap
-792/236H K/5P/"N/A"
-793/236H K/5K/"N/A"
-794/236H K/c.S/"N/A"
-795/236H K/f.S/"N/A"
-796/236H K/5H/"N/A"
-797/236H K/2P/"N/A"
-798/236H K/2K/"N/A"
-799/236H K/2S/"N/A"
-800/236H K/2H/"N/A"
-801/236H K/j.P/"N/A"
-802/236H K/j.K/"N/A"
-803/236H K/j.S/"N/A"
-804/236H K/j.H/"N/A"
-805/236H K/j.D/"N/A"
-806/236H K/6P/"N/A"
-807/236H K/6H/"N/A"
-808/236H K/2D/"N/A"
-809/236H K/5D/"N/A"
-810/236H K/5[D]/"N/A"
-811/236H K/236P/"N/A"
-812/236H K/236K/"N/A"
-813/236H K/236S/"N/A"
-814/236H K/236H/"N/A"
-815/236H K/236H P/Anji_Mito 236H K > 236H P: 236H P is a follow-up move that cannot be performed after 236H K.
-816/236H K/236H K/Anji_Mito 236H K > 236H K: 236H K is a follow-up move that cannot be performed after 236H K.
-817/236H K/236H S/Anji_Mito 236H K > 236H S: 236H S is a follow-up move that cannot be performed after 236H K.
-818/236H K/236H H/Anji_Mito 236H K > 236H H: 236H H is a follow-up move that cannot be performed after 236H K.
-819/236H K/632146H/"N/A"
-820/236H K/632146S/"N/A"
-821/236H K/632146S Attack Near/"N/A"
-822/236H K/632146S Attack Far/"N/A"
-823/236H K/236[S]/"N/A"
-824/236H K/236[H]/"N/A"
-825/236H S/5P/13f gap
-826/236H S/5K/15f gap
-827/236H S/c.S/14f gap
-828/236H S/f.S/18f gap
-829/236H S/5H/22f gap
-830/236H S/2P/12f gap
-831/236H S/2K/14f gap
-832/236H S/2S/17f gap
-833/236H S/2H/29f gap
-834/236H S/j.P/21f gap
-835/236H S/j.K/18f gap
-836/236H S/j.S/19f gap
-837/236H S/j.H/25f gap
-838/236H S/j.D/20f gap
-839/236H S/6P/17f gap
-840/236H S/6H/23f gap
-841/236H S/2D/17f gap
-842/236H S/5D/27f gap
-843/236H S/5[D]/35f gap
-844/236H S/236P/36f gap
-845/236H S/236K/"N/A"
-846/236H S/236S/19f gap
-847/236H S/236H/23f gap
-848/236H S/236H P/Anji_Mito 236H S > 236H P: 236H P is a follow-up move that cannot be performed after 236H S.
-849/236H S/236H K/Anji_Mito 236H S > 236H K: 236H K is a follow-up move that cannot be performed after 236H S.
-850/236H S/236H S/Anji_Mito 236H S > 236H S: 236H S is a follow-up move that cannot be performed after 236H S.
-851/236H S/236H H/Anji_Mito 236H S > 236H H: 236H H is a follow-up move that cannot be performed after 236H S.
-852/236H S/632146H/24f gap
-853/236H S/632146S/"N/A"
-854/236H S/632146S Attack Near/10f gap
-855/236H S/632146S Attack Far/10f gap
-856/236H S/236[S]/35f gap
-857/236H S/236[H]/39f gap
-858/236H H/5P/15f gap
-859/236H H/5K/17f gap
-860/236H H/c.S/16f gap
-861/236H H/f.S/20f gap
-862/236H H/5H/24f gap
-863/236H H/2P/14f gap
-864/236H H/2K/16f gap
-865/236H H/2S/19f gap
-866/236H H/2H/31f gap
-867/236H H/j.P/23f gap
-868/236H H/j.K/20f gap
-869/236H H/j.S/21f gap
-870/236H H/j.H/27f gap
-871/236H H/j.D/22f gap
-872/236H H/6P/19f gap
-873/236H H/6H/25f gap
-874/236H H/2D/19f gap
-875/236H H/5D/29f gap
-876/236H H/5[D]/37f gap
-877/236H H/236P/38f gap
-878/236H H/236K/"N/A"
-879/236H H/236S/21f gap
-880/236H H/236H/25f gap
-881/236H H/236H P/Anji_Mito 236H H > 236H P: 236H P is a follow-up move that cannot be performed after 236H H.
-882/236H H/236H K/Anji_Mito 236H H > 236H K: 236H K is a follow-up move that cannot be performed after 236H H.
-883/236H H/236H S/Anji_Mito 236H H > 236H S: 236H S is a follow-up move that cannot be performed after 236H H.
-884/236H H/236H H/Anji_Mito 236H H > 236H H: 236H H is a follow-up move that cannot be performed after 236H H.
-885/236H H/632146H/26f gap
-886/236H H/632146S/"N/A"
-887/236H H/632146S Attack Near/12f gap
-888/236H H/632146S Attack Far/12f gap
-889/236H H/236[S]/37f gap
-890/236H H/236[H]/41f gap
-891/632146H/5P/36f gap
-892/632146H/5K/38f gap
-893/632146H/c.S/37f gap
-894/632146H/f.S/41f gap
-895/632146H/5H/45f gap
-896/632146H/2P/35f gap
-897/632146H/2K/37f gap
-898/632146H/2S/40f gap
-899/632146H/2H/52f gap
-900/632146H/j.P/44f gap
-901/632146H/j.K/41f gap
-902/632146H/j.S/42f gap
-903/632146H/j.H/48f gap
-904/632146H/j.D/43f gap
-905/632146H/6P/40f gap
-906/632146H/6H/46f gap
-907/632146H/2D/40f gap
-908/632146H/5D/50f gap
-909/632146H/5[D]/58f gap
-910/632146H/236P/59f gap
-911/632146H/236K/"N/A"
-912/632146H/236S/42f gap
-913/632146H/236H/46f gap
-914/632146H/236H P/Anji_Mito 632146H > 236H P: 236H P is a follow-up move that cannot be performed after 632146H.
-915/632146H/236H K/Anji_Mito 632146H > 236H K: 236H K is a follow-up move that cannot be performed after 632146H.
-916/632146H/236H S/Anji_Mito 632146H > 236H S: 236H S is a follow-up move that cannot be performed after 632146H.
-917/632146H/236H H/Anji_Mito 632146H > 236H H: 236H H is a follow-up move that cannot be performed after 632146H.
-918/632146H/632146H/47f gap
-919/632146H/632146S/"N/A"
-920/632146H/632146S Attack Near/33f gap
-921/632146H/632146S Attack Far/33f gap
-922/632146H/236[S]/58f gap
-923/632146H/236[H]/62f gap
-924/632146S/5P/"N/A"
-925/632146S/5K/"N/A"
-926/632146S/c.S/"N/A"
-927/632146S/f.S/"N/A"
-928/632146S/5H/"N/A"
-929/632146S/2P/"N/A"
-930/632146S/2K/"N/A"
-931/632146S/2S/"N/A"
-932/632146S/2H/"N/A"
-933/632146S/j.P/"N/A"
-934/632146S/j.K/"N/A"
-935/632146S/j.S/"N/A"
-936/632146S/j.H/"N/A"
-937/632146S/j.D/"N/A"
-938/632146S/6P/"N/A"
-939/632146S/6H/"N/A"
-940/632146S/2D/"N/A"
-941/632146S/5D/"N/A"
-942/632146S/5[D]/"N/A"
-943/632146S/236P/"N/A"
-944/632146S/236K/"N/A"
-945/632146S/236S/"N/A"
-946/632146S/236H/"N/A"
-947/632146S/236H P/Anji_Mito 632146S > 236H P: 236H P is a follow-up move that cannot be performed after 632146S.
-948/632146S/236H K/Anji_Mito 632146S > 236H K: 236H K is a follow-up move that cannot be performed after 632146S.
-949/632146S/236H S/Anji_Mito 632146S > 236H S: 236H S is a follow-up move that cannot be performed after 632146S.
-950/632146S/236H H/Anji_Mito 632146S > 236H H: 236H H is a follow-up move that cannot be performed after 632146S.
-951/632146S/632146H/"N/A"
-952/632146S/632146S/"N/A"
-953/632146S/632146S Attack Near/"N/A"
-954/632146S/632146S Attack Far/"N/A"
-955/632146S/236[S]/"N/A"
-956/632146S/236[H]/"N/A"
-957/632146S Attack Near/5P/"N/A"
-958/632146S Attack Near/5K/"N/A"
-959/632146S Attack Near/c.S/"N/A"
-960/632146S Attack Near/f.S/"N/A"
-961/632146S Attack Near/5H/"N/A"
-962/632146S Attack Near/2P/"N/A"
-963/632146S Attack Near/2K/"N/A"
-964/632146S Attack Near/2S/"N/A"
-965/632146S Attack Near/2H/"N/A"
-966/632146S Attack Near/j.P/"N/A"
-967/632146S Attack Near/j.K/"N/A"
-968/632146S Attack Near/j.S/"N/A"
-969/632146S Attack Near/j.H/"N/A"
-970/632146S Attack Near/j.D/"N/A"
-971/632146S Attack Near/6P/"N/A"
-972/632146S Attack Near/6H/"N/A"
-973/632146S Attack Near/2D/"N/A"
-974/632146S Attack Near/5D/"N/A"
-975/632146S Attack Near/5[D]/"N/A"
-976/632146S Attack Near/236P/"N/A"
-977/632146S Attack Near/236K/"N/A"
-978/632146S Attack Near/236S/"N/A"
-979/632146S Attack Near/236H/"N/A"
-980/632146S Attack Near/236H P/Anji_Mito 632146S Attack Near > 236H P: 236H P is a follow-up move that cannot be performed after 632146S Attack Near.
-981/632146S Attack Near/236H K/Anji_Mito 632146S Attack Near > 236H K: 236H K is a follow-up move that cannot be performed after 632146S Attack Near.
-982/632146S Attack Near/236H S/Anji_Mito 632146S Attack Near > 236H S: 236H S is a follow-up move that cannot be performed after 632146S Attack Near.
-983/632146S Attack Near/236H H/Anji_Mito 632146S Attack Near > 236H H: 236H H is a follow-up move that cannot be performed after 632146S Attack Near.
-984/632146S Attack Near/632146H/"N/A"
-985/632146S Attack Near/632146S/"N/A"
-986/632146S Attack Near/632146S Attack Near/"N/A"
-987/632146S Attack Near/632146S Attack Far/"N/A"
-988/632146S Attack Near/236[S]/"N/A"
-989/632146S Attack Near/236[H]/"N/A"
-990/632146S Attack Far/5P/7f gap
-991/632146S Attack Far/5K/9f gap
-992/632146S Attack Far/c.S/8f gap
-993/632146S Attack Far/f.S/12f gap
-994/632146S Attack Far/5H/16f gap
-995/632146S Attack Far/2P/6f gap
-996/632146S Attack Far/2K/8f gap
-997/632146S Attack Far/2S/11f gap
-998/632146S Attack Far/2H/23f gap
-999/632146S Attack Far/j.P/15f gap
-1000/632146S Attack Far/j.K/12f gap
-1001/632146S Attack Far/j.S/13f gap
-1002/632146S Attack Far/j.H/19f gap
-1003/632146S Attack Far/j.D/14f gap
-1004/632146S Attack Far/6P/11f gap
-1005/632146S Attack Far/6H/17f gap
-1006/632146S Attack Far/2D/11f gap
-1007/632146S Attack Far/5D/21f gap
-1008/632146S Attack Far/5[D]/29f gap
-1009/632146S Attack Far/236P/30f gap
-1010/632146S Attack Far/236K/"N/A"
-1011/632146S Attack Far/236S/13f gap
-1012/632146S Attack Far/236H/17f gap
-1013/632146S Attack Far/236H P/Anji_Mito 632146S Attack Far > 236H P: 236H P is a follow-up move that cannot be performed after 632146S Attack Far.
-1014/632146S Attack Far/236H K/Anji_Mito 632146S Attack Far > 236H K: 236H K is a follow-up move that cannot be performed after 632146S Attack Far.
-1015/632146S Attack Far/236H S/Anji_Mito 632146S Attack Far > 236H S: 236H S is a follow-up move that cannot be performed after 632146S Attack Far.
-1016/632146S Attack Far/236H H/Anji_Mito 632146S Attack Far > 236H H: 236H H is a follow-up move that cannot be performed after 632146S Attack Far.
-1017/632146S Attack Far/632146H/18f gap
-1018/632146S Attack Far/632146S/"N/A"
-1019/632146S Attack Far/632146S Attack Near/4f gap
-1020/632146S Attack Far/632146S Attack Far/4f gap
-1021/632146S Attack Far/236[S]/29f gap
-1022/632146S Attack Far/236[H]/33f gap
-1023/236[S]/5P/"N/A"
-1024/236[S]/5K/"N/A"
-1025/236[S]/c.S/"N/A"
-1026/236[S]/f.S/"N/A"
-1027/236[S]/5H/"N/A"
-1028/236[S]/2P/"N/A"
-1029/236[S]/2K/"N/A"
-1030/236[S]/2S/"N/A"
-1031/236[S]/2H/"N/A"
-1032/236[S]/j.P/"N/A"
-1033/236[S]/j.K/"N/A"
-1034/236[S]/j.S/"N/A"
-1035/236[S]/j.H/"N/A"
-1036/236[S]/j.D/"N/A"
-1037/236[S]/6P/"N/A"
-1038/236[S]/6H/"N/A"
-1039/236[S]/2D/"N/A"
-1040/236[S]/5D/"N/A"
-1041/236[S]/5[D]/"N/A"
-1042/236[S]/236P/"N/A"
-1043/236[S]/236K/"N/A"
-1044/236[S]/236S/"N/A"
-1045/236[S]/236H/"N/A"
-1046/236[S]/236H P/Anji_Mito 236[S] > 236H P: 236H P is a follow-up move that cannot be performed after 236[S].
-1047/236[S]/236H K/Anji_Mito 236[S] > 236H K: 236H K is a follow-up move that cannot be performed after 236[S].
-1048/236[S]/236H S/Anji_Mito 236[S] > 236H S: 236H S is a follow-up move that cannot be performed after 236[S].
-1049/236[S]/236H H/Anji_Mito 236[S] > 236H H: 236H H is a follow-up move that cannot be performed after 236[S].
-1050/236[S]/632146H/"N/A"
-1051/236[S]/632146S/"N/A"
-1052/236[S]/632146S Attack Near/"N/A"
-1053/236[S]/632146S Attack Far/"N/A"
-1054/236[S]/236[S]/"N/A"
-1055/236[S]/236[H]/"N/A"
-1056/236[H]/5P/12f gap
-1057/236[H]/5K/14f gap
-1058/236[H]/c.S/13f gap
-1059/236[H]/f.S/17f gap
-1060/236[H]/5H/21f gap
-1061/236[H]/2P/11f gap
-1062/236[H]/2K/13f gap
-1063/236[H]/2S/16f gap
-1064/236[H]/2H/28f gap
-1065/236[H]/j.P/20f gap
-1066/236[H]/j.K/17f gap
-1067/236[H]/j.S/18f gap
-1068/236[H]/j.H/24f gap
-1069/236[H]/j.D/19f gap
-1070/236[H]/6P/16f gap
-1071/236[H]/6H/22f gap
-1072/236[H]/2D/16f gap
-1073/236[H]/5D/26f gap
-1074/236[H]/5[D]/34f gap
-1075/236[H]/236P/35f gap
-1076/236[H]/236K/"N/A"
-1077/236[H]/236S/18f gap
-1078/236[H]/236H/22f gap
-1079/236[H]/236H P/12f gap
-1080/236[H]/236H K/Anji_Mito 236[H] > 236H K: 236H K is a follow-up move that cannot be performed after 236[H].
-1081/236[H]/236H S/Anji_Mito 236[H] > 236H S: 236H S is a follow-up move that cannot be performed after 236[H].
-1082/236[H]/236H H/Anji_Mito 236[H] > 236H H: 236H H is a follow-up move that cannot be performed after 236[H].
-1083/236[H]/632146H/23f gap
-1084/236[H]/632146S/"N/A"
-1085/236[H]/632146S Attack Near/9f gap
-1086/236[H]/632146S Attack Far/9f gap
-1087/236[H]/236[S]/34f gap
-1088/236[H]/236[H]/38f gap
+21/5P/236K~214P/-4f gap
+22/5P/236S/1f gap
+23/5P/236H/5f gap
+24/5P/236H P/236H P is a follow-up move and cannot be done after 5P
+25/5P/236H K/236H K is a follow-up move and cannot be done after 5P
+26/5P/236H S/236H S is a follow-up move and cannot be done after 5P
+27/5P/236H H/236H H is a follow-up move and cannot be done after 5P
+28/5P/632146H/6f gap
+29/5P/632146S/"N/A"
+30/5P/632146S Attack Near/-8f gap
+31/5P/632146S Attack Far/-8f gap
+32/5P/236[S]/17f gap
+33/5P/236[H]/21f gap
+34/5P/236D/5f gap
+35/5P/236[D]/17f gap
+36/5K/5P/8f gap
+37/5K/5K/10f gap
+38/5K/c.S/9f gap
+39/5K/f.S/13f gap
+40/5K/5H/17f gap
+41/5K/2P/7f gap
+42/5K/2K/9f gap
+43/5K/2S/12f gap
+44/5K/2H/24f gap
+45/5K/j.P/3f gap
+46/5K/j.K/0f gap
+47/5K/j.S/1f gap
+48/5K/j.H/7f gap
+49/5K/j.D/2f gap
+50/5K/6P/-1f gap
+51/5K/6H/5f gap
+52/5K/2D/-1f gap
+53/5K/5D/9f gap
+54/5K/5[D]/30f gap
+55/5K/236P/18f gap
+56/5K/236K/"N/A"
+57/5K/236K~214P/-4f gap
+58/5K/236S/1f gap
+59/5K/236H/5f gap
+60/5K/236H P/236H P is a follow-up move and cannot be done after 5K
+61/5K/236H K/236H K is a follow-up move and cannot be done after 5K
+62/5K/236H S/236H S is a follow-up move and cannot be done after 5K
+63/5K/236H H/236H H is a follow-up move and cannot be done after 5K
+64/5K/632146H/6f gap
+65/5K/632146S/"N/A"
+66/5K/632146S Attack Near/-8f gap
+67/5K/632146S Attack Far/-8f gap
+68/5K/236[S]/17f gap
+69/5K/236[H]/21f gap
+70/5K/236D/5f gap
+71/5K/236[D]/17f gap
+72/c.S/5P/5f gap
+73/c.S/5K/7f gap
+74/c.S/c.S/6f gap
+75/c.S/f.S/-7f gap
+76/c.S/5H/-3f gap
+77/c.S/2P/4f gap
+78/c.S/2K/6f gap
+79/c.S/2S/-8f gap
+80/c.S/2H/4f gap
+81/c.S/j.P/-4f gap
+82/c.S/j.K/-7f gap
+83/c.S/j.S/-6f gap
+84/c.S/j.H/0f gap
+85/c.S/j.D/-5f gap
+86/c.S/6P/-8f gap
+87/c.S/6H/-2f gap
+88/c.S/2D/-8f gap
+89/c.S/5D/2f gap
+90/c.S/5[D]/27f gap
+91/c.S/236P/11f gap
+92/c.S/236K/"N/A"
+93/c.S/236K~214P/-11f gap
+94/c.S/236S/-6f gap
+95/c.S/236H/-2f gap
+96/c.S/236H P/236H P is a follow-up move and cannot be done after c.S
+97/c.S/236H K/236H K is a follow-up move and cannot be done after c.S
+98/c.S/236H S/236H S is a follow-up move and cannot be done after c.S
+99/c.S/236H H/236H H is a follow-up move and cannot be done after c.S
+100/c.S/632146H/-1f gap
+101/c.S/632146S/"N/A"
+102/c.S/632146S Attack Near/-15f gap
+103/c.S/632146S Attack Far/-15f gap
+104/c.S/236[S]/10f gap
+105/c.S/236[H]/14f gap
+106/c.S/236D/-2f gap
+107/c.S/236[D]/10f gap
+108/f.S/5P/15f gap
+109/f.S/5K/17f gap
+110/f.S/c.S/16f gap
+111/f.S/f.S/20f gap
+112/f.S/5H/2f gap
+113/f.S/2P/14f gap
+114/f.S/2K/16f gap
+115/f.S/2S/19f gap
+116/f.S/2H/9f gap
+117/f.S/j.P/23f gap
+118/f.S/j.K/20f gap
+119/f.S/j.S/21f gap
+120/f.S/j.H/27f gap
+121/f.S/j.D/22f gap
+122/f.S/6P/19f gap
+123/f.S/6H/25f gap
+124/f.S/2D/19f gap
+125/f.S/5D/29f gap
+126/f.S/5[D]/37f gap
+127/f.S/236P/16f gap
+128/f.S/236K/"N/A"
+129/f.S/236K~214P/-6f gap
+130/f.S/236S/-1f gap
+131/f.S/236H/3f gap
+132/f.S/236H P/236H P is a follow-up move and cannot be done after f.S
+133/f.S/236H K/236H K is a follow-up move and cannot be done after f.S
+134/f.S/236H S/236H S is a follow-up move and cannot be done after f.S
+135/f.S/236H H/236H H is a follow-up move and cannot be done after f.S
+136/f.S/632146H/4f gap
+137/f.S/632146S/"N/A"
+138/f.S/632146S Attack Near/-10f gap
+139/f.S/632146S Attack Far/-10f gap
+140/f.S/236[S]/15f gap
+141/f.S/236[H]/19f gap
+142/f.S/236D/3f gap
+143/f.S/236[D]/15f gap
+144/5H/5P/14f gap
+145/5H/5K/16f gap
+146/5H/c.S/15f gap
+147/5H/f.S/19f gap
+148/5H/5H/23f gap
+149/5H/2P/13f gap
+150/5H/2K/15f gap
+151/5H/2S/18f gap
+152/5H/2H/30f gap
+153/5H/j.P/22f gap
+154/5H/j.K/19f gap
+155/5H/j.S/20f gap
+156/5H/j.H/26f gap
+157/5H/j.D/21f gap
+158/5H/6P/18f gap
+159/5H/6H/24f gap
+160/5H/2D/18f gap
+161/5H/5D/28f gap
+162/5H/5[D]/36f gap
+163/5H/236P/11f gap
+164/5H/236K/"N/A"
+165/5H/236K~214P/-11f gap
+166/5H/236S/-6f gap
+167/5H/236H/-2f gap
+168/5H/236H P/236H P is a follow-up move and cannot be done after 5H
+169/5H/236H K/236H K is a follow-up move and cannot be done after 5H
+170/5H/236H S/236H S is a follow-up move and cannot be done after 5H
+171/5H/236H H/236H H is a follow-up move and cannot be done after 5H
+172/5H/632146H/-1f gap
+173/5H/632146S/"N/A"
+174/5H/632146S Attack Near/-15f gap
+175/5H/632146S Attack Far/-15f gap
+176/5H/236[S]/10f gap
+177/5H/236[H]/14f gap
+178/5H/236D/-2f gap
+179/5H/236[D]/10f gap
+180/2P/5P/-3f gap
+181/2P/5K/10f gap
+182/2P/c.S/9f gap
+183/2P/f.S/13f gap
+184/2P/5H/17f gap
+185/2P/2P/-4f gap
+186/2P/2K/9f gap
+187/2P/2S/12f gap
+188/2P/2H/24f gap
+189/2P/j.P/16f gap
+190/2P/j.K/13f gap
+191/2P/j.S/14f gap
+192/2P/j.H/20f gap
+193/2P/j.D/15f gap
+194/2P/6P/1f gap
+195/2P/6H/7f gap
+196/2P/2D/12f gap
+197/2P/5D/22f gap
+198/2P/5[D]/30f gap
+199/2P/236P/20f gap
+200/2P/236K/"N/A"
+201/2P/236K~214P/-2f gap
+202/2P/236S/3f gap
+203/2P/236H/7f gap
+204/2P/236H P/236H P is a follow-up move and cannot be done after 2P
+205/2P/236H K/236H K is a follow-up move and cannot be done after 2P
+206/2P/236H S/236H S is a follow-up move and cannot be done after 2P
+207/2P/236H H/236H H is a follow-up move and cannot be done after 2P
+208/2P/632146H/8f gap
+209/2P/632146S/"N/A"
+210/2P/632146S Attack Near/-6f gap
+211/2P/632146S Attack Far/-6f gap
+212/2P/236[S]/19f gap
+213/2P/236[H]/23f gap
+214/2P/236D/7f gap
+215/2P/236[D]/19f gap
+216/2K/5P/8f gap
+217/2K/5K/10f gap
+218/2K/c.S/9f gap
+219/2K/f.S/13f gap
+220/2K/5H/17f gap
+221/2K/2P/7f gap
+222/2K/2K/9f gap
+223/2K/2S/12f gap
+224/2K/2H/24f gap
+225/2K/j.P/16f gap
+226/2K/j.K/13f gap
+227/2K/j.S/14f gap
+228/2K/j.H/20f gap
+229/2K/j.D/15f gap
+230/2K/6P/-1f gap
+231/2K/6H/5f gap
+232/2K/2D/-1f gap
+233/2K/5D/9f gap
+234/2K/5[D]/30f gap
+235/2K/236P/18f gap
+236/2K/236K/"N/A"
+237/2K/236K~214P/-4f gap
+238/2K/236S/1f gap
+239/2K/236H/5f gap
+240/2K/236H P/236H P is a follow-up move and cannot be done after 2K
+241/2K/236H K/236H K is a follow-up move and cannot be done after 2K
+242/2K/236H S/236H S is a follow-up move and cannot be done after 2K
+243/2K/236H H/236H H is a follow-up move and cannot be done after 2K
+244/2K/632146H/6f gap
+245/2K/632146S/"N/A"
+246/2K/632146S Attack Near/-8f gap
+247/2K/632146S Attack Far/-8f gap
+248/2K/236[S]/17f gap
+249/2K/236[H]/21f gap
+250/2K/236D/5f gap
+251/2K/236[D]/17f gap
+252/2S/5P/12f gap
+253/2S/5K/14f gap
+254/2S/c.S/13f gap
+255/2S/f.S/17f gap
+256/2S/5H/2f gap
+257/2S/2P/11f gap
+258/2S/2K/13f gap
+259/2S/2S/16f gap
+260/2S/2H/9f gap
+261/2S/j.P/20f gap
+262/2S/j.K/17f gap
+263/2S/j.S/18f gap
+264/2S/j.H/24f gap
+265/2S/j.D/19f gap
+266/2S/6P/16f gap
+267/2S/6H/22f gap
+268/2S/2D/16f gap
+269/2S/5D/26f gap
+270/2S/5[D]/34f gap
+271/2S/236P/16f gap
+272/2S/236K/"N/A"
+273/2S/236K~214P/-6f gap
+274/2S/236S/-1f gap
+275/2S/236H/3f gap
+276/2S/236H P/236H P is a follow-up move and cannot be done after 2S
+277/2S/236H K/236H K is a follow-up move and cannot be done after 2S
+278/2S/236H S/236H S is a follow-up move and cannot be done after 2S
+279/2S/236H H/236H H is a follow-up move and cannot be done after 2S
+280/2S/632146H/4f gap
+281/2S/632146S/"N/A"
+282/2S/632146S Attack Near/-10f gap
+283/2S/632146S Attack Far/-10f gap
+284/2S/236[S]/15f gap
+285/2S/236[H]/19f gap
+286/2S/236D/3f gap
+287/2S/236[D]/15f gap
+288/2H/5P/10f gap
+289/2H/5K/12f gap
+290/2H/c.S/11f gap
+291/2H/f.S/15f gap
+292/2H/5H/19f gap
+293/2H/2P/9f gap
+294/2H/2K/11f gap
+295/2H/2S/14f gap
+296/2H/2H/26f gap
+297/2H/j.P/18f gap
+298/2H/j.K/15f gap
+299/2H/j.S/16f gap
+300/2H/j.H/22f gap
+301/2H/j.D/17f gap
+302/2H/6P/14f gap
+303/2H/6H/20f gap
+304/2H/2D/14f gap
+305/2H/5D/24f gap
+306/2H/5[D]/32f gap
+307/2H/236P/11f gap
+308/2H/236K/"N/A"
+309/2H/236K~214P/-11f gap
+310/2H/236S/-6f gap
+311/2H/236H/-2f gap
+312/2H/236H P/236H P is a follow-up move and cannot be done after 2H
+313/2H/236H K/236H K is a follow-up move and cannot be done after 2H
+314/2H/236H S/236H S is a follow-up move and cannot be done after 2H
+315/2H/236H H/236H H is a follow-up move and cannot be done after 2H
+316/2H/632146H/-1f gap
+317/2H/632146S/"N/A"
+318/2H/632146S Attack Near/-15f gap
+319/2H/632146S Attack Far/-15f gap
+320/2H/236[S]/10f gap
+321/2H/236[H]/14f gap
+322/2H/236D/-2f gap
+323/2H/236[D]/10f gap
+324/j.P/5P/j.P has 9f of blockstun, while 5P has 6.0f of startup
+325/j.P/5K/j.P has 9f of blockstun, while 5K has 8.0f of startup
+326/j.P/c.S/j.P has 9f of blockstun, while c.S has 7.0f of startup
+327/j.P/f.S/j.P has 9f of blockstun, while f.S has 11.0f of startup
+328/j.P/5H/j.P has 9f of blockstun, while 5H has 15.0f of startup
+329/j.P/2P/j.P has 9f of blockstun, while 2P has 5.0f of startup
+330/j.P/2K/j.P has 9f of blockstun, while 2K has 7.0f of startup
+331/j.P/2S/j.P has 9f of blockstun, while 2S has 10.0f of startup
+332/j.P/2H/j.P has 9f of blockstun, while 2H has 22.0f of startup
+333/j.P/j.P/0f gap
+334/j.P/j.K/j.P has 9f of blockstun, while j.K has 6.0f of startup
+335/j.P/j.S/j.P has 9f of blockstun, while j.S has 7.0f of startup
+336/j.P/j.H/j.P has 9f of blockstun, while j.H has 13.0f of startup
+337/j.P/j.D/j.P has 9f of blockstun, while j.D has 8.0f of startup
+338/j.P/6P/j.P has 9f of blockstun, while 6P has 10.0f of startup
+339/j.P/6H/j.P has 9f of blockstun, while 6H has 16.0f of startup
+340/j.P/2D/j.P has 9f of blockstun, while 2D has 10.0f of startup
+341/j.P/5D/j.P has 9f of blockstun, while 5D has 20.0f of startup
+342/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28.0f of startup
+343/j.P/236P/j.P has 9f of blockstun, while 236P has 29.0f of startup
+344/j.P/236K/j.P has 9f of blockstun, while 236K has f of startup
+345/j.P/236K~214P/j.P has 9f of blockstun, while 236K~214P has 7.0f of startup
+346/j.P/236S/j.P has 9f of blockstun, while 236S has 12.0f of startup
+347/j.P/236H/j.P has 9f of blockstun, while 236H has 16.0f of startup
+348/j.P/236H P/236H P is a follow-up move and cannot be done after j.P
+349/j.P/236H K/236H K is a follow-up move and cannot be done after j.P
+350/j.P/236H S/236H S is a follow-up move and cannot be done after j.P
+351/j.P/236H H/236H H is a follow-up move and cannot be done after j.P
+352/j.P/632146H/j.P has 9f of blockstun, while 632146H has 17.0f of startup
+353/j.P/632146S/j.P has 9f of blockstun, while 632146S has f of startup
+354/j.P/632146S Attack Near/j.P has 9f of blockstun, while 632146S Attack Near has 3.0f of startup
+355/j.P/632146S Attack Far/j.P has 9f of blockstun, while 632146S Attack Far has 3.0f of startup
+356/j.P/236[S]/j.P has 9f of blockstun, while 236[S] has 28.0f of startup
+357/j.P/236[H]/j.P has 9f of blockstun, while 236[H] has 32.0f of startup
+358/j.P/236D/j.P has 9f of blockstun, while 236D has 16.0f of startup
+359/j.P/236[D]/j.P has 9f of blockstun, while 236[D] has 28.0f of startup
+360/j.K/5P/j.K has 11f of blockstun, while 5P has 6.0f of startup
+361/j.K/5K/j.K has 11f of blockstun, while 5K has 8.0f of startup
+362/j.K/c.S/j.K has 11f of blockstun, while c.S has 7.0f of startup
+363/j.K/f.S/j.K has 11f of blockstun, while f.S has 11.0f of startup
+364/j.K/5H/j.K has 11f of blockstun, while 5H has 15.0f of startup
+365/j.K/2P/j.K has 11f of blockstun, while 2P has 5.0f of startup
+366/j.K/2K/j.K has 11f of blockstun, while 2K has 7.0f of startup
+367/j.K/2S/j.K has 11f of blockstun, while 2S has 10.0f of startup
+368/j.K/2H/j.K has 11f of blockstun, while 2H has 22.0f of startup
+369/j.K/j.P/j.K has 11f of blockstun, while j.P has 9.0f of startup
+370/j.K/j.K/j.K has 11f of blockstun, while j.K has 6.0f of startup
+371/j.K/j.S/j.K has 11f of blockstun, while j.S has 7.0f of startup
+372/j.K/j.H/j.K has 11f of blockstun, while j.H has 13.0f of startup
+373/j.K/j.D/-3f gap
+374/j.K/6P/j.K has 11f of blockstun, while 6P has 10.0f of startup
+375/j.K/6H/j.K has 11f of blockstun, while 6H has 16.0f of startup
+376/j.K/2D/j.K has 11f of blockstun, while 2D has 10.0f of startup
+377/j.K/5D/j.K has 11f of blockstun, while 5D has 20.0f of startup
+378/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28.0f of startup
+379/j.K/236P/j.K has 11f of blockstun, while 236P has 29.0f of startup
+380/j.K/236K/j.K has 11f of blockstun, while 236K has f of startup
+381/j.K/236K~214P/j.K has 11f of blockstun, while 236K~214P has 7.0f of startup
+382/j.K/236S/j.K has 11f of blockstun, while 236S has 12.0f of startup
+383/j.K/236H/j.K has 11f of blockstun, while 236H has 16.0f of startup
+384/j.K/236H P/236H P is a follow-up move and cannot be done after j.K
+385/j.K/236H K/236H K is a follow-up move and cannot be done after j.K
+386/j.K/236H S/236H S is a follow-up move and cannot be done after j.K
+387/j.K/236H H/236H H is a follow-up move and cannot be done after j.K
+388/j.K/632146H/j.K has 11f of blockstun, while 632146H has 17.0f of startup
+389/j.K/632146S/j.K has 11f of blockstun, while 632146S has f of startup
+390/j.K/632146S Attack Near/j.K has 11f of blockstun, while 632146S Attack Near has 3.0f of startup
+391/j.K/632146S Attack Far/j.K has 11f of blockstun, while 632146S Attack Far has 3.0f of startup
+392/j.K/236[S]/j.K has 11f of blockstun, while 236[S] has 28.0f of startup
+393/j.K/236[H]/j.K has 11f of blockstun, while 236[H] has 32.0f of startup
+394/j.K/236D/j.K has 11f of blockstun, while 236D has 16.0f of startup
+395/j.K/236[D]/j.K has 11f of blockstun, while 236[D] has 28.0f of startup
+396/j.S/5P/j.S has 13f of blockstun, while 5P has 6.0f of startup
+397/j.S/5K/j.S has 13f of blockstun, while 5K has 8.0f of startup
+398/j.S/c.S/j.S has 13f of blockstun, while c.S has 7.0f of startup
+399/j.S/f.S/j.S has 13f of blockstun, while f.S has 11.0f of startup
+400/j.S/5H/j.S has 13f of blockstun, while 5H has 15.0f of startup
+401/j.S/2P/j.S has 13f of blockstun, while 2P has 5.0f of startup
+402/j.S/2K/j.S has 13f of blockstun, while 2K has 7.0f of startup
+403/j.S/2S/j.S has 13f of blockstun, while 2S has 10.0f of startup
+404/j.S/2H/j.S has 13f of blockstun, while 2H has 22.0f of startup
+405/j.S/j.P/j.S has 13f of blockstun, while j.P has 9.0f of startup
+406/j.S/j.K/j.S has 13f of blockstun, while j.K has 6.0f of startup
+407/j.S/j.S/j.S has 13f of blockstun, while j.S has 7.0f of startup
+408/j.S/j.H/0f gap
+409/j.S/j.D/-5f gap
+410/j.S/6P/j.S has 13f of blockstun, while 6P has 10.0f of startup
+411/j.S/6H/j.S has 13f of blockstun, while 6H has 16.0f of startup
+412/j.S/2D/j.S has 13f of blockstun, while 2D has 10.0f of startup
+413/j.S/5D/j.S has 13f of blockstun, while 5D has 20.0f of startup
+414/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28.0f of startup
+415/j.S/236P/j.S has 13f of blockstun, while 236P has 29.0f of startup
+416/j.S/236K/j.S has 13f of blockstun, while 236K has f of startup
+417/j.S/236K~214P/j.S has 13f of blockstun, while 236K~214P has 7.0f of startup
+418/j.S/236S/j.S has 13f of blockstun, while 236S has 12.0f of startup
+419/j.S/236H/j.S has 13f of blockstun, while 236H has 16.0f of startup
+420/j.S/236H P/236H P is a follow-up move and cannot be done after j.S
+421/j.S/236H K/236H K is a follow-up move and cannot be done after j.S
+422/j.S/236H S/236H S is a follow-up move and cannot be done after j.S
+423/j.S/236H H/236H H is a follow-up move and cannot be done after j.S
+424/j.S/632146H/j.S has 13f of blockstun, while 632146H has 17.0f of startup
+425/j.S/632146S/j.S has 13f of blockstun, while 632146S has f of startup
+426/j.S/632146S Attack Near/j.S has 13f of blockstun, while 632146S Attack Near has 3.0f of startup
+427/j.S/632146S Attack Far/j.S has 13f of blockstun, while 632146S Attack Far has 3.0f of startup
+428/j.S/236[S]/j.S has 13f of blockstun, while 236[S] has 28.0f of startup
+429/j.S/236[H]/j.S has 13f of blockstun, while 236[H] has 32.0f of startup
+430/j.S/236D/j.S has 13f of blockstun, while 236D has 16.0f of startup
+431/j.S/236[D]/j.S has 13f of blockstun, while 236[D] has 28.0f of startup
+432/j.H/5P/j.H has 13f of blockstun, while 5P has 6.0f of startup
+433/j.H/5K/j.H has 13f of blockstun, while 5K has 8.0f of startup
+434/j.H/c.S/j.H has 13f of blockstun, while c.S has 7.0f of startup
+435/j.H/f.S/j.H has 13f of blockstun, while f.S has 11.0f of startup
+436/j.H/5H/j.H has 13f of blockstun, while 5H has 15.0f of startup
+437/j.H/2P/j.H has 13f of blockstun, while 2P has 5.0f of startup
+438/j.H/2K/j.H has 13f of blockstun, while 2K has 7.0f of startup
+439/j.H/2S/j.H has 13f of blockstun, while 2S has 10.0f of startup
+440/j.H/2H/j.H has 13f of blockstun, while 2H has 22.0f of startup
+441/j.H/j.P/j.H has 13f of blockstun, while j.P has 9.0f of startup
+442/j.H/j.K/j.H has 13f of blockstun, while j.K has 6.0f of startup
+443/j.H/j.S/j.H has 13f of blockstun, while j.S has 7.0f of startup
+444/j.H/j.H/j.H has 13f of blockstun, while j.H has 13.0f of startup
+445/j.H/j.D/-5f gap
+446/j.H/6P/j.H has 13f of blockstun, while 6P has 10.0f of startup
+447/j.H/6H/j.H has 13f of blockstun, while 6H has 16.0f of startup
+448/j.H/2D/j.H has 13f of blockstun, while 2D has 10.0f of startup
+449/j.H/5D/j.H has 13f of blockstun, while 5D has 20.0f of startup
+450/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28.0f of startup
+451/j.H/236P/j.H has 13f of blockstun, while 236P has 29.0f of startup
+452/j.H/236K/j.H has 13f of blockstun, while 236K has f of startup
+453/j.H/236K~214P/j.H has 13f of blockstun, while 236K~214P has 7.0f of startup
+454/j.H/236S/j.H has 13f of blockstun, while 236S has 12.0f of startup
+455/j.H/236H/j.H has 13f of blockstun, while 236H has 16.0f of startup
+456/j.H/236H P/236H P is a follow-up move and cannot be done after j.H
+457/j.H/236H K/236H K is a follow-up move and cannot be done after j.H
+458/j.H/236H S/236H S is a follow-up move and cannot be done after j.H
+459/j.H/236H H/236H H is a follow-up move and cannot be done after j.H
+460/j.H/632146H/j.H has 13f of blockstun, while 632146H has 17.0f of startup
+461/j.H/632146S/j.H has 13f of blockstun, while 632146S has f of startup
+462/j.H/632146S Attack Near/j.H has 13f of blockstun, while 632146S Attack Near has 3.0f of startup
+463/j.H/632146S Attack Far/j.H has 13f of blockstun, while 632146S Attack Far has 3.0f of startup
+464/j.H/236[S]/j.H has 13f of blockstun, while 236[S] has 28.0f of startup
+465/j.H/236[H]/j.H has 13f of blockstun, while 236[H] has 32.0f of startup
+466/j.H/236D/j.H has 13f of blockstun, while 236D has 16.0f of startup
+467/j.H/236[D]/j.H has 13f of blockstun, while 236[D] has 28.0f of startup
+468/j.D/5P/j.D has 16f of blockstun, while 5P has 6.0f of startup
+469/j.D/5K/j.D has 16f of blockstun, while 5K has 8.0f of startup
+470/j.D/c.S/j.D has 16f of blockstun, while c.S has 7.0f of startup
+471/j.D/f.S/j.D has 16f of blockstun, while f.S has 11.0f of startup
+472/j.D/5H/j.D has 16f of blockstun, while 5H has 15.0f of startup
+473/j.D/2P/j.D has 16f of blockstun, while 2P has 5.0f of startup
+474/j.D/2K/j.D has 16f of blockstun, while 2K has 7.0f of startup
+475/j.D/2S/j.D has 16f of blockstun, while 2S has 10.0f of startup
+476/j.D/2H/j.D has 16f of blockstun, while 2H has 22.0f of startup
+477/j.D/j.P/j.D has 16f of blockstun, while j.P has 9.0f of startup
+478/j.D/j.K/j.D has 16f of blockstun, while j.K has 6.0f of startup
+479/j.D/j.S/j.D has 16f of blockstun, while j.S has 7.0f of startup
+480/j.D/j.H/j.D has 16f of blockstun, while j.H has 13.0f of startup
+481/j.D/j.D/j.D has 16f of blockstun, while j.D has 8.0f of startup
+482/j.D/6P/j.D has 16f of blockstun, while 6P has 10.0f of startup
+483/j.D/6H/j.D has 16f of blockstun, while 6H has 16.0f of startup
+484/j.D/2D/j.D has 16f of blockstun, while 2D has 10.0f of startup
+485/j.D/5D/j.D has 16f of blockstun, while 5D has 20.0f of startup
+486/j.D/5[D]/j.D has 16f of blockstun, while 5[D] has 28.0f of startup
+487/j.D/236P/j.D has 16f of blockstun, while 236P has 29.0f of startup
+488/j.D/236K/j.D has 16f of blockstun, while 236K has f of startup
+489/j.D/236K~214P/j.D has 16f of blockstun, while 236K~214P has 7.0f of startup
+490/j.D/236S/j.D has 16f of blockstun, while 236S has 12.0f of startup
+491/j.D/236H/j.D has 16f of blockstun, while 236H has 16.0f of startup
+492/j.D/236H P/236H P is a follow-up move and cannot be done after j.D
+493/j.D/236H K/236H K is a follow-up move and cannot be done after j.D
+494/j.D/236H S/236H S is a follow-up move and cannot be done after j.D
+495/j.D/236H H/236H H is a follow-up move and cannot be done after j.D
+496/j.D/632146H/j.D has 16f of blockstun, while 632146H has 17.0f of startup
+497/j.D/632146S/j.D has 16f of blockstun, while 632146S has f of startup
+498/j.D/632146S Attack Near/j.D has 16f of blockstun, while 632146S Attack Near has 3.0f of startup
+499/j.D/632146S Attack Far/j.D has 16f of blockstun, while 632146S Attack Far has 3.0f of startup
+500/j.D/236[S]/j.D has 16f of blockstun, while 236[S] has 28.0f of startup
+501/j.D/236[H]/j.D has 16f of blockstun, while 236[H] has 32.0f of startup
+502/j.D/236D/j.D has 16f of blockstun, while 236D has 16.0f of startup
+503/j.D/236[D]/j.D has 16f of blockstun, while 236[D] has 28.0f of startup
+504/6P/5P/23f gap
+505/6P/5K/25f gap
+506/6P/c.S/24f gap
+507/6P/f.S/28f gap
+508/6P/5H/32f gap
+509/6P/2P/22f gap
+510/6P/2K/24f gap
+511/6P/2S/27f gap
+512/6P/2H/39f gap
+513/6P/j.P/31f gap
+514/6P/j.K/28f gap
+515/6P/j.S/29f gap
+516/6P/j.H/35f gap
+517/6P/j.D/30f gap
+518/6P/6P/27f gap
+519/6P/6H/33f gap
+520/6P/2D/27f gap
+521/6P/5D/37f gap
+522/6P/5[D]/45f gap
+523/6P/236P/16f gap
+524/6P/236K/"N/A"
+525/6P/236K~214P/-6f gap
+526/6P/236S/-1f gap
+527/6P/236H/3f gap
+528/6P/236H P/236H P is a follow-up move and cannot be done after 6P
+529/6P/236H K/236H K is a follow-up move and cannot be done after 6P
+530/6P/236H S/236H S is a follow-up move and cannot be done after 6P
+531/6P/236H H/236H H is a follow-up move and cannot be done after 6P
+532/6P/632146H/4f gap
+533/6P/632146S/"N/A"
+534/6P/632146S Attack Near/-10f gap
+535/6P/632146S Attack Far/-10f gap
+536/6P/236[S]/15f gap
+537/6P/236[H]/19f gap
+538/6P/236D/3f gap
+539/6P/236[D]/15f gap
+540/6H/5P/14f gap
+541/6H/5K/16f gap
+542/6H/c.S/15f gap
+543/6H/f.S/19f gap
+544/6H/5H/23f gap
+545/6H/2P/13f gap
+546/6H/2K/15f gap
+547/6H/2S/18f gap
+548/6H/2H/30f gap
+549/6H/j.P/22f gap
+550/6H/j.K/19f gap
+551/6H/j.S/20f gap
+552/6H/j.H/26f gap
+553/6H/j.D/21f gap
+554/6H/6P/18f gap
+555/6H/6H/24f gap
+556/6H/2D/18f gap
+557/6H/5D/28f gap
+558/6H/5[D]/36f gap
+559/6H/236P/13f gap
+560/6H/236K/"N/A"
+561/6H/236K~214P/-9f gap
+562/6H/236S/-4f gap
+563/6H/236H/0f gap
+564/6H/236H P/236H P is a follow-up move and cannot be done after 6H
+565/6H/236H K/236H K is a follow-up move and cannot be done after 6H
+566/6H/236H S/236H S is a follow-up move and cannot be done after 6H
+567/6H/236H H/236H H is a follow-up move and cannot be done after 6H
+568/6H/632146H/1f gap
+569/6H/632146S/"N/A"
+570/6H/632146S Attack Near/-13f gap
+571/6H/632146S Attack Far/-13f gap
+572/6H/236[S]/12f gap
+573/6H/236[H]/16f gap
+574/6H/236D/0f gap
+575/6H/236[D]/12f gap
+576/2D/5P/17f gap
+577/2D/5K/19f gap
+578/2D/c.S/18f gap
+579/2D/f.S/22f gap
+580/2D/5H/26f gap
+581/2D/2P/16f gap
+582/2D/2K/18f gap
+583/2D/2S/21f gap
+584/2D/2H/33f gap
+585/2D/j.P/25f gap
+586/2D/j.K/22f gap
+587/2D/j.S/23f gap
+588/2D/j.H/29f gap
+589/2D/j.D/24f gap
+590/2D/6P/21f gap
+591/2D/6H/27f gap
+592/2D/2D/21f gap
+593/2D/5D/31f gap
+594/2D/5[D]/39f gap
+595/2D/236P/16f gap
+596/2D/236K/"N/A"
+597/2D/236K~214P/-6f gap
+598/2D/236S/-1f gap
+599/2D/236H/3f gap
+600/2D/236H P/236H P is a follow-up move and cannot be done after 2D
+601/2D/236H K/236H K is a follow-up move and cannot be done after 2D
+602/2D/236H S/236H S is a follow-up move and cannot be done after 2D
+603/2D/236H H/236H H is a follow-up move and cannot be done after 2D
+604/2D/632146H/4f gap
+605/2D/632146S/"N/A"
+606/2D/632146S Attack Near/-10f gap
+607/2D/632146S Attack Far/-10f gap
+608/2D/236[S]/15f gap
+609/2D/236[H]/19f gap
+610/2D/236D/3f gap
+611/2D/236[D]/15f gap
+612/5D/5P/21f gap
+613/5D/5K/23f gap
+614/5D/c.S/22f gap
+615/5D/f.S/26f gap
+616/5D/5H/30f gap
+617/5D/2P/20f gap
+618/5D/2K/22f gap
+619/5D/2S/25f gap
+620/5D/2H/37f gap
+621/5D/j.P/29f gap
+622/5D/j.K/26f gap
+623/5D/j.S/27f gap
+624/5D/j.H/33f gap
+625/5D/j.D/28f gap
+626/5D/6P/25f gap
+627/5D/6H/31f gap
+628/5D/2D/25f gap
+629/5D/5D/35f gap
+630/5D/5[D]/43f gap
+631/5D/236P/44f gap
+632/5D/236K/"N/A"
+633/5D/236K~214P/22f gap
+634/5D/236S/27f gap
+635/5D/236H/31f gap
+636/5D/236H P/236H P is a follow-up move and cannot be done after 5D
+637/5D/236H K/236H K is a follow-up move and cannot be done after 5D
+638/5D/236H S/236H S is a follow-up move and cannot be done after 5D
+639/5D/236H H/236H H is a follow-up move and cannot be done after 5D
+640/5D/632146H/32f gap
+641/5D/632146S/"N/A"
+642/5D/632146S Attack Near/18f gap
+643/5D/632146S Attack Far/18f gap
+644/5D/236[S]/43f gap
+645/5D/236[H]/47f gap
+646/5D/236D/31f gap
+647/5D/236[D]/43f gap
+648/5[D]/5P/16f gap
+649/5[D]/5K/18f gap
+650/5[D]/c.S/17f gap
+651/5[D]/f.S/21f gap
+652/5[D]/5H/25f gap
+653/5[D]/2P/15f gap
+654/5[D]/2K/17f gap
+655/5[D]/2S/20f gap
+656/5[D]/2H/32f gap
+657/5[D]/j.P/24f gap
+658/5[D]/j.K/21f gap
+659/5[D]/j.S/22f gap
+660/5[D]/j.H/28f gap
+661/5[D]/j.D/23f gap
+662/5[D]/6P/20f gap
+663/5[D]/6H/26f gap
+664/5[D]/2D/20f gap
+665/5[D]/5D/30f gap
+666/5[D]/5[D]/38f gap
+667/5[D]/236P/39f gap
+668/5[D]/236K/"N/A"
+669/5[D]/236K~214P/17f gap
+670/5[D]/236S/22f gap
+671/5[D]/236H/26f gap
+672/5[D]/236H P/236H P is a follow-up move and cannot be done after 5[D]
+673/5[D]/236H K/236H K is a follow-up move and cannot be done after 5[D]
+674/5[D]/236H S/236H S is a follow-up move and cannot be done after 5[D]
+675/5[D]/236H H/236H H is a follow-up move and cannot be done after 5[D]
+676/5[D]/632146H/27f gap
+677/5[D]/632146S/"N/A"
+678/5[D]/632146S Attack Near/13f gap
+679/5[D]/632146S Attack Far/13f gap
+680/5[D]/236[S]/38f gap
+681/5[D]/236[H]/42f gap
+682/5[D]/236D/26f gap
+683/5[D]/236[D]/38f gap
+684/236P/5P/12f gap
+685/236P/5K/14f gap
+686/236P/c.S/13f gap
+687/236P/f.S/17f gap
+688/236P/5H/21f gap
+689/236P/2P/11f gap
+690/236P/2K/13f gap
+691/236P/2S/16f gap
+692/236P/2H/28f gap
+693/236P/j.P/20f gap
+694/236P/j.K/17f gap
+695/236P/j.S/18f gap
+696/236P/j.H/24f gap
+697/236P/j.D/19f gap
+698/236P/6P/16f gap
+699/236P/6H/22f gap
+700/236P/2D/16f gap
+701/236P/5D/26f gap
+702/236P/5[D]/34f gap
+703/236P/236P/35f gap
+704/236P/236K/"N/A"
+705/236P/236K~214P/13f gap
+706/236P/236S/18f gap
+707/236P/236H/22f gap
+708/236P/236H P/236H P is a follow-up move and cannot be done after 236P
+709/236P/236H K/236H K is a follow-up move and cannot be done after 236P
+710/236P/236H S/236H S is a follow-up move and cannot be done after 236P
+711/236P/236H H/236H H is a follow-up move and cannot be done after 236P
+712/236P/632146H/23f gap
+713/236P/632146S/"N/A"
+714/236P/632146S Attack Near/9f gap
+715/236P/632146S Attack Far/9f gap
+716/236P/236[S]/34f gap
+717/236P/236[H]/38f gap
+718/236P/236D/22f gap
+719/236P/236[D]/34f gap
+720/236K/5P/"N/A"
+721/236K/5K/"N/A"
+722/236K/c.S/"N/A"
+723/236K/f.S/"N/A"
+724/236K/5H/"N/A"
+725/236K/2P/"N/A"
+726/236K/2K/"N/A"
+727/236K/2S/"N/A"
+728/236K/2H/"N/A"
+729/236K/j.P/"N/A"
+730/236K/j.K/"N/A"
+731/236K/j.S/"N/A"
+732/236K/j.H/"N/A"
+733/236K/j.D/"N/A"
+734/236K/6P/"N/A"
+735/236K/6H/"N/A"
+736/236K/2D/"N/A"
+737/236K/5D/"N/A"
+738/236K/5[D]/"N/A"
+739/236K/236P/"N/A"
+740/236K/236K/"N/A"
+741/236K/236K~214P/"N/A"
+742/236K/236S/"N/A"
+743/236K/236H/"N/A"
+744/236K/236H P/236H P is a follow-up move and cannot be done after 236K
+745/236K/236H K/236H K is a follow-up move and cannot be done after 236K
+746/236K/236H S/236H S is a follow-up move and cannot be done after 236K
+747/236K/236H H/236H H is a follow-up move and cannot be done after 236K
+748/236K/632146H/"N/A"
+749/236K/632146S/"N/A"
+750/236K/632146S Attack Near/"N/A"
+751/236K/632146S Attack Far/"N/A"
+752/236K/236[S]/"N/A"
+753/236K/236[H]/"N/A"
+754/236K/236D/"N/A"
+755/236K/236[D]/"N/A"
+756/236K~214P/5P/-5f gap
+757/236K~214P/5K/-3f gap
+758/236K~214P/c.S/-4f gap
+759/236K~214P/f.S/0f gap
+760/236K~214P/5H/4f gap
+761/236K~214P/2P/-6f gap
+762/236K~214P/2K/-4f gap
+763/236K~214P/2S/-1f gap
+764/236K~214P/2H/11f gap
+765/236K~214P/j.P/3f gap
+766/236K~214P/j.K/0f gap
+767/236K~214P/j.S/1f gap
+768/236K~214P/j.H/7f gap
+769/236K~214P/j.D/2f gap
+770/236K~214P/6P/-1f gap
+771/236K~214P/6H/5f gap
+772/236K~214P/2D/-1f gap
+773/236K~214P/5D/9f gap
+774/236K~214P/5[D]/17f gap
+775/236K~214P/236P/18f gap
+776/236K~214P/236K/"N/A"
+777/236K~214P/236K~214P/-4f gap
+778/236K~214P/236S/1f gap
+779/236K~214P/236H/5f gap
+780/236K~214P/236H P/236H P is a follow-up move and cannot be done after 236K~214P
+781/236K~214P/236H K/236H K is a follow-up move and cannot be done after 236K~214P
+782/236K~214P/236H S/236H S is a follow-up move and cannot be done after 236K~214P
+783/236K~214P/236H H/236H H is a follow-up move and cannot be done after 236K~214P
+784/236K~214P/632146H/6f gap
+785/236K~214P/632146S/"N/A"
+786/236K~214P/632146S Attack Near/-8f gap
+787/236K~214P/632146S Attack Far/-8f gap
+788/236K~214P/236[S]/17f gap
+789/236K~214P/236[H]/21f gap
+790/236K~214P/236D/5f gap
+791/236K~214P/236[D]/17f gap
+792/236S/5P/"N/A"
+793/236S/5K/"N/A"
+794/236S/c.S/"N/A"
+795/236S/f.S/"N/A"
+796/236S/5H/"N/A"
+797/236S/2P/"N/A"
+798/236S/2K/"N/A"
+799/236S/2S/"N/A"
+800/236S/2H/"N/A"
+801/236S/j.P/"N/A"
+802/236S/j.K/"N/A"
+803/236S/j.S/"N/A"
+804/236S/j.H/"N/A"
+805/236S/j.D/"N/A"
+806/236S/6P/"N/A"
+807/236S/6H/"N/A"
+808/236S/2D/"N/A"
+809/236S/5D/"N/A"
+810/236S/5[D]/"N/A"
+811/236S/236P/"N/A"
+812/236S/236K/"N/A"
+813/236S/236K~214P/"N/A"
+814/236S/236S/"N/A"
+815/236S/236H/"N/A"
+816/236S/236H P/236H P is a follow-up move and cannot be done after 236S
+817/236S/236H K/236H K is a follow-up move and cannot be done after 236S
+818/236S/236H S/236H S is a follow-up move and cannot be done after 236S
+819/236S/236H H/236H H is a follow-up move and cannot be done after 236S
+820/236S/632146H/"N/A"
+821/236S/632146S/"N/A"
+822/236S/632146S Attack Near/"N/A"
+823/236S/632146S Attack Far/"N/A"
+824/236S/236[S]/"N/A"
+825/236S/236[H]/"N/A"
+826/236S/236D/"N/A"
+827/236S/236[D]/"N/A"
+828/236H/5P/14f gap
+829/236H/5K/16f gap
+830/236H/c.S/15f gap
+831/236H/f.S/19f gap
+832/236H/5H/23f gap
+833/236H/2P/13f gap
+834/236H/2K/15f gap
+835/236H/2S/18f gap
+836/236H/2H/30f gap
+837/236H/j.P/22f gap
+838/236H/j.K/19f gap
+839/236H/j.S/20f gap
+840/236H/j.H/26f gap
+841/236H/j.D/21f gap
+842/236H/6P/18f gap
+843/236H/6H/24f gap
+844/236H/2D/18f gap
+845/236H/5D/28f gap
+846/236H/5[D]/36f gap
+847/236H/236P/37f gap
+848/236H/236K/"N/A"
+849/236H/236K~214P/15f gap
+850/236H/236S/20f gap
+851/236H/236H/24f gap
+852/236H/236H P/14f gap
+853/236H/236H K/236H K is a follow-up move and cannot be done after 236H
+854/236H/236H S/236H S is a follow-up move and cannot be done after 236H
+855/236H/236H H/236H H is a follow-up move and cannot be done after 236H
+856/236H/632146H/25f gap
+857/236H/632146S/"N/A"
+858/236H/632146S Attack Near/11f gap
+859/236H/632146S Attack Far/11f gap
+860/236H/236[S]/36f gap
+861/236H/236[H]/40f gap
+862/236H/236D/24f gap
+863/236H/236[D]/36f gap
+864/236H P/5P/-1f gap
+865/236H P/5K/1f gap
+866/236H P/c.S/0f gap
+867/236H P/f.S/4f gap
+868/236H P/5H/8f gap
+869/236H P/2P/-2f gap
+870/236H P/2K/0f gap
+871/236H P/2S/3f gap
+872/236H P/2H/15f gap
+873/236H P/j.P/7f gap
+874/236H P/j.K/4f gap
+875/236H P/j.S/5f gap
+876/236H P/j.H/11f gap
+877/236H P/j.D/6f gap
+878/236H P/6P/3f gap
+879/236H P/6H/9f gap
+880/236H P/2D/3f gap
+881/236H P/5D/13f gap
+882/236H P/5[D]/21f gap
+883/236H P/236P/22f gap
+884/236H P/236K/"N/A"
+885/236H P/236K~214P/0f gap
+886/236H P/236S/5f gap
+887/236H P/236H/9f gap
+888/236H P/236H P/236H P is a follow-up move and cannot be done after 236H P
+889/236H P/236H K/236H K is a follow-up move and cannot be done after 236H P
+890/236H P/236H S/236H S is a follow-up move and cannot be done after 236H P
+891/236H P/236H H/236H H is a follow-up move and cannot be done after 236H P
+892/236H P/632146H/10f gap
+893/236H P/632146S/"N/A"
+894/236H P/632146S Attack Near/-4f gap
+895/236H P/632146S Attack Far/-4f gap
+896/236H P/236[S]/21f gap
+897/236H P/236[H]/25f gap
+898/236H P/236D/9f gap
+899/236H P/236[D]/21f gap
+900/236H K/5P/"N/A"
+901/236H K/5K/"N/A"
+902/236H K/c.S/"N/A"
+903/236H K/f.S/"N/A"
+904/236H K/5H/"N/A"
+905/236H K/2P/"N/A"
+906/236H K/2K/"N/A"
+907/236H K/2S/"N/A"
+908/236H K/2H/"N/A"
+909/236H K/j.P/"N/A"
+910/236H K/j.K/"N/A"
+911/236H K/j.S/"N/A"
+912/236H K/j.H/"N/A"
+913/236H K/j.D/"N/A"
+914/236H K/6P/"N/A"
+915/236H K/6H/"N/A"
+916/236H K/2D/"N/A"
+917/236H K/5D/"N/A"
+918/236H K/5[D]/"N/A"
+919/236H K/236P/"N/A"
+920/236H K/236K/"N/A"
+921/236H K/236K~214P/"N/A"
+922/236H K/236S/"N/A"
+923/236H K/236H/"N/A"
+924/236H K/236H P/236H P is a follow-up move and cannot be done after 236H K
+925/236H K/236H K/236H K is a follow-up move and cannot be done after 236H K
+926/236H K/236H S/236H S is a follow-up move and cannot be done after 236H K
+927/236H K/236H H/236H H is a follow-up move and cannot be done after 236H K
+928/236H K/632146H/"N/A"
+929/236H K/632146S/"N/A"
+930/236H K/632146S Attack Near/"N/A"
+931/236H K/632146S Attack Far/"N/A"
+932/236H K/236[S]/"N/A"
+933/236H K/236[H]/"N/A"
+934/236H K/236D/"N/A"
+935/236H K/236[D]/"N/A"
+936/236H S/5P/13f gap
+937/236H S/5K/15f gap
+938/236H S/c.S/14f gap
+939/236H S/f.S/18f gap
+940/236H S/5H/22f gap
+941/236H S/2P/12f gap
+942/236H S/2K/14f gap
+943/236H S/2S/17f gap
+944/236H S/2H/29f gap
+945/236H S/j.P/21f gap
+946/236H S/j.K/18f gap
+947/236H S/j.S/19f gap
+948/236H S/j.H/25f gap
+949/236H S/j.D/20f gap
+950/236H S/6P/17f gap
+951/236H S/6H/23f gap
+952/236H S/2D/17f gap
+953/236H S/5D/27f gap
+954/236H S/5[D]/35f gap
+955/236H S/236P/36f gap
+956/236H S/236K/"N/A"
+957/236H S/236K~214P/14f gap
+958/236H S/236S/19f gap
+959/236H S/236H/23f gap
+960/236H S/236H P/236H P is a follow-up move and cannot be done after 236H S
+961/236H S/236H K/236H K is a follow-up move and cannot be done after 236H S
+962/236H S/236H S/236H S is a follow-up move and cannot be done after 236H S
+963/236H S/236H H/236H H is a follow-up move and cannot be done after 236H S
+964/236H S/632146H/24f gap
+965/236H S/632146S/"N/A"
+966/236H S/632146S Attack Near/10f gap
+967/236H S/632146S Attack Far/10f gap
+968/236H S/236[S]/35f gap
+969/236H S/236[H]/39f gap
+970/236H S/236D/23f gap
+971/236H S/236[D]/35f gap
+972/236H H/5P/15f gap
+973/236H H/5K/17f gap
+974/236H H/c.S/16f gap
+975/236H H/f.S/20f gap
+976/236H H/5H/24f gap
+977/236H H/2P/14f gap
+978/236H H/2K/16f gap
+979/236H H/2S/19f gap
+980/236H H/2H/31f gap
+981/236H H/j.P/23f gap
+982/236H H/j.K/20f gap
+983/236H H/j.S/21f gap
+984/236H H/j.H/27f gap
+985/236H H/j.D/22f gap
+986/236H H/6P/19f gap
+987/236H H/6H/25f gap
+988/236H H/2D/19f gap
+989/236H H/5D/29f gap
+990/236H H/5[D]/37f gap
+991/236H H/236P/38f gap
+992/236H H/236K/"N/A"
+993/236H H/236K~214P/16f gap
+994/236H H/236S/21f gap
+995/236H H/236H/25f gap
+996/236H H/236H P/236H P is a follow-up move and cannot be done after 236H H
+997/236H H/236H K/236H K is a follow-up move and cannot be done after 236H H
+998/236H H/236H S/236H S is a follow-up move and cannot be done after 236H H
+999/236H H/236H H/236H H is a follow-up move and cannot be done after 236H H
+1000/236H H/632146H/26f gap
+1001/236H H/632146S/"N/A"
+1002/236H H/632146S Attack Near/12f gap
+1003/236H H/632146S Attack Far/12f gap
+1004/236H H/236[S]/37f gap
+1005/236H H/236[H]/41f gap
+1006/236H H/236D/25f gap
+1007/236H H/236[D]/37f gap
+1008/632146H/5P/36f gap
+1009/632146H/5K/38f gap
+1010/632146H/c.S/37f gap
+1011/632146H/f.S/41f gap
+1012/632146H/5H/45f gap
+1013/632146H/2P/35f gap
+1014/632146H/2K/37f gap
+1015/632146H/2S/40f gap
+1016/632146H/2H/52f gap
+1017/632146H/j.P/44f gap
+1018/632146H/j.K/41f gap
+1019/632146H/j.S/42f gap
+1020/632146H/j.H/48f gap
+1021/632146H/j.D/43f gap
+1022/632146H/6P/40f gap
+1023/632146H/6H/46f gap
+1024/632146H/2D/40f gap
+1025/632146H/5D/50f gap
+1026/632146H/5[D]/58f gap
+1027/632146H/236P/59f gap
+1028/632146H/236K/"N/A"
+1029/632146H/236K~214P/37f gap
+1030/632146H/236S/42f gap
+1031/632146H/236H/46f gap
+1032/632146H/236H P/236H P is a follow-up move and cannot be done after 632146H
+1033/632146H/236H K/236H K is a follow-up move and cannot be done after 632146H
+1034/632146H/236H S/236H S is a follow-up move and cannot be done after 632146H
+1035/632146H/236H H/236H H is a follow-up move and cannot be done after 632146H
+1036/632146H/632146H/47f gap
+1037/632146H/632146S/"N/A"
+1038/632146H/632146S Attack Near/33f gap
+1039/632146H/632146S Attack Far/33f gap
+1040/632146H/236[S]/58f gap
+1041/632146H/236[H]/62f gap
+1042/632146H/236D/46f gap
+1043/632146H/236[D]/58f gap
+1044/632146S/5P/"N/A"
+1045/632146S/5K/"N/A"
+1046/632146S/c.S/"N/A"
+1047/632146S/f.S/"N/A"
+1048/632146S/5H/"N/A"
+1049/632146S/2P/"N/A"
+1050/632146S/2K/"N/A"
+1051/632146S/2S/"N/A"
+1052/632146S/2H/"N/A"
+1053/632146S/j.P/"N/A"
+1054/632146S/j.K/"N/A"
+1055/632146S/j.S/"N/A"
+1056/632146S/j.H/"N/A"
+1057/632146S/j.D/"N/A"
+1058/632146S/6P/"N/A"
+1059/632146S/6H/"N/A"
+1060/632146S/2D/"N/A"
+1061/632146S/5D/"N/A"
+1062/632146S/5[D]/"N/A"
+1063/632146S/236P/"N/A"
+1064/632146S/236K/"N/A"
+1065/632146S/236K~214P/"N/A"
+1066/632146S/236S/"N/A"
+1067/632146S/236H/"N/A"
+1068/632146S/236H P/236H P is a follow-up move and cannot be done after 632146S
+1069/632146S/236H K/236H K is a follow-up move and cannot be done after 632146S
+1070/632146S/236H S/236H S is a follow-up move and cannot be done after 632146S
+1071/632146S/236H H/236H H is a follow-up move and cannot be done after 632146S
+1072/632146S/632146H/"N/A"
+1073/632146S/632146S/"N/A"
+1074/632146S/632146S Attack Near/"N/A"
+1075/632146S/632146S Attack Far/"N/A"
+1076/632146S/236[S]/"N/A"
+1077/632146S/236[H]/"N/A"
+1078/632146S/236D/"N/A"
+1079/632146S/236[D]/"N/A"
+1080/632146S Attack Near/5P/"N/A"
+1081/632146S Attack Near/5K/"N/A"
+1082/632146S Attack Near/c.S/"N/A"
+1083/632146S Attack Near/f.S/"N/A"
+1084/632146S Attack Near/5H/"N/A"
+1085/632146S Attack Near/2P/"N/A"
+1086/632146S Attack Near/2K/"N/A"
+1087/632146S Attack Near/2S/"N/A"
+1088/632146S Attack Near/2H/"N/A"
+1089/632146S Attack Near/j.P/"N/A"
+1090/632146S Attack Near/j.K/"N/A"
+1091/632146S Attack Near/j.S/"N/A"
+1092/632146S Attack Near/j.H/"N/A"
+1093/632146S Attack Near/j.D/"N/A"
+1094/632146S Attack Near/6P/"N/A"
+1095/632146S Attack Near/6H/"N/A"
+1096/632146S Attack Near/2D/"N/A"
+1097/632146S Attack Near/5D/"N/A"
+1098/632146S Attack Near/5[D]/"N/A"
+1099/632146S Attack Near/236P/"N/A"
+1100/632146S Attack Near/236K/"N/A"
+1101/632146S Attack Near/236K~214P/"N/A"
+1102/632146S Attack Near/236S/"N/A"
+1103/632146S Attack Near/236H/"N/A"
+1104/632146S Attack Near/236H P/236H P is a follow-up move and cannot be done after 632146S Attack Near
+1105/632146S Attack Near/236H K/236H K is a follow-up move and cannot be done after 632146S Attack Near
+1106/632146S Attack Near/236H S/236H S is a follow-up move and cannot be done after 632146S Attack Near
+1107/632146S Attack Near/236H H/236H H is a follow-up move and cannot be done after 632146S Attack Near
+1108/632146S Attack Near/632146H/"N/A"
+1109/632146S Attack Near/632146S/"N/A"
+1110/632146S Attack Near/632146S Attack Near/"N/A"
+1111/632146S Attack Near/632146S Attack Far/"N/A"
+1112/632146S Attack Near/236[S]/"N/A"
+1113/632146S Attack Near/236[H]/"N/A"
+1114/632146S Attack Near/236D/"N/A"
+1115/632146S Attack Near/236[D]/"N/A"
+1116/632146S Attack Far/5P/7f gap
+1117/632146S Attack Far/5K/9f gap
+1118/632146S Attack Far/c.S/8f gap
+1119/632146S Attack Far/f.S/12f gap
+1120/632146S Attack Far/5H/16f gap
+1121/632146S Attack Far/2P/6f gap
+1122/632146S Attack Far/2K/8f gap
+1123/632146S Attack Far/2S/11f gap
+1124/632146S Attack Far/2H/23f gap
+1125/632146S Attack Far/j.P/15f gap
+1126/632146S Attack Far/j.K/12f gap
+1127/632146S Attack Far/j.S/13f gap
+1128/632146S Attack Far/j.H/19f gap
+1129/632146S Attack Far/j.D/14f gap
+1130/632146S Attack Far/6P/11f gap
+1131/632146S Attack Far/6H/17f gap
+1132/632146S Attack Far/2D/11f gap
+1133/632146S Attack Far/5D/21f gap
+1134/632146S Attack Far/5[D]/29f gap
+1135/632146S Attack Far/236P/30f gap
+1136/632146S Attack Far/236K/"N/A"
+1137/632146S Attack Far/236K~214P/8f gap
+1138/632146S Attack Far/236S/13f gap
+1139/632146S Attack Far/236H/17f gap
+1140/632146S Attack Far/236H P/236H P is a follow-up move and cannot be done after 632146S Attack Far
+1141/632146S Attack Far/236H K/236H K is a follow-up move and cannot be done after 632146S Attack Far
+1142/632146S Attack Far/236H S/236H S is a follow-up move and cannot be done after 632146S Attack Far
+1143/632146S Attack Far/236H H/236H H is a follow-up move and cannot be done after 632146S Attack Far
+1144/632146S Attack Far/632146H/18f gap
+1145/632146S Attack Far/632146S/"N/A"
+1146/632146S Attack Far/632146S Attack Near/4f gap
+1147/632146S Attack Far/632146S Attack Far/4f gap
+1148/632146S Attack Far/236[S]/29f gap
+1149/632146S Attack Far/236[H]/33f gap
+1150/632146S Attack Far/236D/17f gap
+1151/632146S Attack Far/236[D]/29f gap
+1152/236[S]/5P/"N/A"
+1153/236[S]/5K/"N/A"
+1154/236[S]/c.S/"N/A"
+1155/236[S]/f.S/"N/A"
+1156/236[S]/5H/"N/A"
+1157/236[S]/2P/"N/A"
+1158/236[S]/2K/"N/A"
+1159/236[S]/2S/"N/A"
+1160/236[S]/2H/"N/A"
+1161/236[S]/j.P/"N/A"
+1162/236[S]/j.K/"N/A"
+1163/236[S]/j.S/"N/A"
+1164/236[S]/j.H/"N/A"
+1165/236[S]/j.D/"N/A"
+1166/236[S]/6P/"N/A"
+1167/236[S]/6H/"N/A"
+1168/236[S]/2D/"N/A"
+1169/236[S]/5D/"N/A"
+1170/236[S]/5[D]/"N/A"
+1171/236[S]/236P/"N/A"
+1172/236[S]/236K/"N/A"
+1173/236[S]/236K~214P/"N/A"
+1174/236[S]/236S/"N/A"
+1175/236[S]/236H/"N/A"
+1176/236[S]/236H P/236H P is a follow-up move and cannot be done after 236[S]
+1177/236[S]/236H K/236H K is a follow-up move and cannot be done after 236[S]
+1178/236[S]/236H S/236H S is a follow-up move and cannot be done after 236[S]
+1179/236[S]/236H H/236H H is a follow-up move and cannot be done after 236[S]
+1180/236[S]/632146H/"N/A"
+1181/236[S]/632146S/"N/A"
+1182/236[S]/632146S Attack Near/"N/A"
+1183/236[S]/632146S Attack Far/"N/A"
+1184/236[S]/236[S]/"N/A"
+1185/236[S]/236[H]/"N/A"
+1186/236[S]/236D/"N/A"
+1187/236[S]/236[D]/"N/A"
+1188/236[H]/5P/12f gap
+1189/236[H]/5K/14f gap
+1190/236[H]/c.S/13f gap
+1191/236[H]/f.S/17f gap
+1192/236[H]/5H/21f gap
+1193/236[H]/2P/11f gap
+1194/236[H]/2K/13f gap
+1195/236[H]/2S/16f gap
+1196/236[H]/2H/28f gap
+1197/236[H]/j.P/20f gap
+1198/236[H]/j.K/17f gap
+1199/236[H]/j.S/18f gap
+1200/236[H]/j.H/24f gap
+1201/236[H]/j.D/19f gap
+1202/236[H]/6P/16f gap
+1203/236[H]/6H/22f gap
+1204/236[H]/2D/16f gap
+1205/236[H]/5D/26f gap
+1206/236[H]/5[D]/34f gap
+1207/236[H]/236P/35f gap
+1208/236[H]/236K/"N/A"
+1209/236[H]/236K~214P/13f gap
+1210/236[H]/236S/18f gap
+1211/236[H]/236H/22f gap
+1212/236[H]/236H P/12f gap
+1213/236[H]/236H K/236H K is a follow-up move and cannot be done after 236[H]
+1214/236[H]/236H S/236H S is a follow-up move and cannot be done after 236[H]
+1215/236[H]/236H H/236H H is a follow-up move and cannot be done after 236[H]
+1216/236[H]/632146H/23f gap
+1217/236[H]/632146S/"N/A"
+1218/236[H]/632146S Attack Near/9f gap
+1219/236[H]/632146S Attack Far/9f gap
+1220/236[H]/236[S]/34f gap
+1221/236[H]/236[H]/38f gap
+1222/236[H]/236D/22f gap
+1223/236[H]/236[D]/34f gap
+1224/236D/5P/-3f gap
+1225/236D/5K/-1f gap
+1226/236D/c.S/-2f gap
+1227/236D/f.S/2f gap
+1228/236D/5H/6f gap
+1229/236D/2P/-4f gap
+1230/236D/2K/-2f gap
+1231/236D/2S/1f gap
+1232/236D/2H/13f gap
+1233/236D/j.P/18f gap
+1234/236D/j.K/15f gap
+1235/236D/j.S/16f gap
+1236/236D/j.H/22f gap
+1237/236D/j.D/17f gap
+1238/236D/6P/1f gap
+1239/236D/6H/7f gap
+1240/236D/2D/1f gap
+1241/236D/5D/11f gap
+1242/236D/5[D]/19f gap
+1243/236D/236P/20f gap
+1244/236D/236K/"N/A"
+1245/236D/236K~214P/-2f gap
+1246/236D/236S/3f gap
+1247/236D/236H/7f gap
+1248/236D/236H P/21f gap
+1249/236D/236H K/"N/A"
+1250/236D/236H S/6f gap
+1251/236D/236H H/12f gap
+1252/236D/632146H/8f gap
+1253/236D/632146S/"N/A"
+1254/236D/632146S Attack Near/-6f gap
+1255/236D/632146S Attack Far/-6f gap
+1256/236D/236[S]/19f gap
+1257/236D/236[H]/23f gap
+1258/236D/236D/20f gap
+1259/236D/236[D]/32f gap
+1260/236[D]/5P/-3f gap
+1261/236[D]/5K/-1f gap
+1262/236[D]/c.S/-2f gap
+1263/236[D]/f.S/2f gap
+1264/236[D]/5H/6f gap
+1265/236[D]/2P/-4f gap
+1266/236[D]/2K/-2f gap
+1267/236[D]/2S/1f gap
+1268/236[D]/2H/13f gap
+1269/236[D]/j.P/18f gap
+1270/236[D]/j.K/15f gap
+1271/236[D]/j.S/16f gap
+1272/236[D]/j.H/22f gap
+1273/236[D]/j.D/17f gap
+1274/236[D]/6P/1f gap
+1275/236[D]/6H/7f gap
+1276/236[D]/2D/1f gap
+1277/236[D]/5D/11f gap
+1278/236[D]/5[D]/19f gap
+1279/236[D]/236P/20f gap
+1280/236[D]/236K/"N/A"
+1281/236[D]/236K~214P/-2f gap
+1282/236[D]/236S/3f gap
+1283/236[D]/236H/7f gap
+1284/236[D]/236H P/21f gap
+1285/236[D]/236H K/"N/A"
+1286/236[D]/236H S/6f gap
+1287/236[D]/236H H/12f gap
+1288/236[D]/632146H/8f gap
+1289/236[D]/632146S/"N/A"
+1290/236[D]/632146S Attack Near/-6f gap
+1291/236[D]/632146S Attack Far/-6f gap
+1292/236[D]/236[S]/19f gap
+1293/236[D]/236[H]/23f gap
+1294/236[D]/236D/7f gap
+1295/236[D]/236[D]/32f gap

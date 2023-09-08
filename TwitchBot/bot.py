@@ -49,7 +49,7 @@ async def test(ctx, *, text):
             userInputs = text.split(" ",1)
             moves = userInputs[1].split(">")
             print(userInputs[0], moves) 
-            reply = fc.frameTrapCalc(userInputs[0], moves[0].rstrip().lstrip(), moves[1].rstrip().lstrip())
+            reply = ggst.frameTrap(userInputs[0], moves[0].rstrip().lstrip(), moves[1].rstrip().lstrip())
         except:
             reply = "Nope. Get owned, nerd. (!ft format/faq or !movelist [char]) OSFrog"
         await ctx.send(reply)
@@ -60,7 +60,7 @@ async def movelist(ctx, *, text):
 
 @bot.command(name="gg")
 async def gg(ctx, *, text):
-    await ctx.send(ggst.moveLookup(text.split(" ")[0], text.split(" ")[1]))
+    await ctx.send(ggst.moveLookup(text.split(" ",1)[0], text.split(" ",1)[1]))
 
 heyUserList = []
 

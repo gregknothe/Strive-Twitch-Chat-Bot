@@ -25,7 +25,7 @@
 23/5P/[2]8S/0f gap
 24/5P/[2]8H/1f gap
 25/5P/236S/3f gap
-26/5P/236H/14f gap
+26/5P/236H/16f gap
 27/5P/214S/12f gap
 28/5P/bt.214K/21f gap
 29/5P/bt.214H/20f gap
@@ -35,1648 +35,1816 @@
 33/5P/bt.K/6f gap
 34/5P/bt.S/7f gap
 35/5P/bt.H/19f gap
-36/5P/236[H]/16f gap
+36/5P/236[H]/18f gap
 37/5P/bt.[P]/8f gap
 38/5P/bt.[K]/6f gap
 39/5P/bt.[S]/7f gap
 40/5P/bt.[H]/19f gap
-41/5K/5P/8f gap
-42/5K/5K/12f gap
-43/5K/c.S/10f gap
-44/5K/f.S/15f gap
-45/5K/5H/18f gap
-46/5K/2P/9f gap
-47/5K/2K/10f gap
-48/5K/2S/13f gap
-49/5K/2H/15f gap
-50/5K/j.P/-3f gap
-51/5K/j.K/2f gap
-52/5K/j.S/-1f gap
-53/5K/j.H/3f gap
-54/5K/j.D/14f gap
-55/5K/6P/-3f gap
-56/5K/6K/1f gap
-57/5K/6H/15f gap
-58/5K/2D/-1f gap
-59/5K/5D/7f gap
-60/5K/5[D]/31f gap
-61/5K/"[s/h] h/s"/13f gap
-62/5K/[4]6S/-3f gap
-63/5K/[4]6H/10f gap
-64/5K/[2]8S/-4f gap
-65/5K/[2]8H/-3f gap
-66/5K/236S/-1f gap
-67/5K/236H/10f gap
-68/5K/214S/8f gap
-69/5K/bt.214K/17f gap
-70/5K/bt.214H/16f gap
-71/5K/632146S/-8f gap
-72/5K/632146H/-2f gap
-73/5K/bt.P/10f gap
-74/5K/bt.K/8f gap
-75/5K/bt.S/9f gap
-76/5K/bt.H/21f gap
-77/5K/236[H]/12f gap
-78/5K/bt.[P]/10f gap
-79/5K/bt.[K]/8f gap
-80/5K/bt.[S]/9f gap
-81/5K/bt.[H]/21f gap
-82/c.S/5P/4f gap
-83/c.S/5K/8f gap
-84/c.S/c.S/6f gap
-85/c.S/f.S/-4f gap
-86/c.S/5H/-1f gap
-87/c.S/2P/5f gap
-88/c.S/2K/6f gap
-89/c.S/2S/-6f gap
-90/c.S/2H/-4f gap
-91/c.S/j.P/-6f gap
-92/c.S/j.K/-1f gap
-93/c.S/j.S/-4f gap
-94/c.S/j.H/0f gap
-95/c.S/j.D/11f gap
-96/c.S/6P/-6f gap
-97/c.S/6K/-2f gap
-98/c.S/6H/12f gap
-99/c.S/2D/-4f gap
-100/c.S/5D/4f gap
-101/c.S/5[D]/27f gap
-102/c.S/"[s/h] h/s"/9f gap
-103/c.S/[4]6S/-6f gap
-104/c.S/[4]6H/7f gap
-105/c.S/[2]8S/-7f gap
-106/c.S/[2]8H/-6f gap
-107/c.S/236S/-4f gap
-108/c.S/236H/7f gap
-109/c.S/214S/5f gap
-110/c.S/bt.214K/14f gap
-111/c.S/bt.214H/13f gap
-112/c.S/632146S/-11f gap
-113/c.S/632146H/-5f gap
-114/c.S/bt.P/6f gap
-115/c.S/bt.K/4f gap
-116/c.S/bt.S/5f gap
-117/c.S/bt.H/17f gap
-118/c.S/236[H]/9f gap
-119/c.S/bt.[P]/6f gap
-120/c.S/bt.[K]/4f gap
-121/c.S/bt.[S]/5f gap
-122/c.S/bt.[H]/17f gap
-123/f.S/5P/18f gap
-124/f.S/5K/22f gap
-125/f.S/c.S/20f gap
-126/f.S/f.S/25f gap
-127/f.S/5H/2f gap
-128/f.S/2P/19f gap
-129/f.S/2K/20f gap
-130/f.S/2S/23f gap
-131/f.S/2H/-1f gap
-132/f.S/j.P/23f gap
-133/f.S/j.K/28f gap
-134/f.S/j.S/25f gap
-135/f.S/j.H/29f gap
-136/f.S/j.D/40f gap
-137/f.S/6P/23f gap
-138/f.S/6K/27f gap
-139/f.S/6H/15f gap
-140/f.S/2D/25f gap
-141/f.S/5D/33f gap
-142/f.S/5[D]/41f gap
-143/f.S/"[s/h] h/s"/23f gap
-144/f.S/[4]6S/-3f gap
-145/f.S/[4]6H/10f gap
-146/f.S/[2]8S/-4f gap
-147/f.S/[2]8H/-3f gap
-148/f.S/236S/-1f gap
-149/f.S/236H/10f gap
-150/f.S/214S/8f gap
-151/f.S/bt.214K/17f gap
-152/f.S/bt.214H/16f gap
-153/f.S/632146S/-8f gap
-154/f.S/632146H/-2f gap
-155/f.S/bt.P/20f gap
-156/f.S/bt.K/18f gap
-157/f.S/bt.S/19f gap
-158/f.S/bt.H/31f gap
-159/f.S/236[H]/12f gap
-160/f.S/bt.[P]/20f gap
-161/f.S/bt.[K]/18f gap
-162/f.S/bt.[S]/19f gap
-163/f.S/bt.[H]/31f gap
-164/5H/5P/15f gap
-165/5H/5K/19f gap
-166/5H/c.S/17f gap
-167/5H/f.S/-4f gap
-168/5H/5H/25f gap
-169/5H/2P/16f gap
-170/5H/2K/17f gap
-171/5H/2S/-6f gap
-172/5H/2H/22f gap
-173/5H/j.P/20f gap
-174/5H/j.K/25f gap
-175/5H/j.S/22f gap
-176/5H/j.H/26f gap
-177/5H/j.D/37f gap
-178/5H/6P/20f gap
-179/5H/6K/24f gap
-180/5H/6H/38f gap
-181/5H/2D/22f gap
-182/5H/5D/30f gap
-183/5H/5[D]/38f gap
-184/5H/"[s/h] h/s"/20f gap
-185/5H/[4]6S/-6f gap
-186/5H/[4]6H/7f gap
-187/5H/[2]8S/-7f gap
-188/5H/[2]8H/-6f gap
-189/5H/236S/-4f gap
-190/5H/236H/7f gap
-191/5H/214S/5f gap
-192/5H/bt.214K/14f gap
-193/5H/bt.214H/13f gap
-194/5H/632146S/-11f gap
-195/5H/632146H/-5f gap
-196/5H/bt.P/17f gap
-197/5H/bt.K/15f gap
-198/5H/bt.S/16f gap
-199/5H/bt.H/28f gap
-200/5H/236[H]/9f gap
-201/5H/bt.[P]/17f gap
-202/5H/bt.[K]/15f gap
-203/5H/bt.[S]/16f gap
-204/5H/bt.[H]/28f gap
-205/2P/5P/-4f gap
-206/2P/5K/11f gap
-207/2P/c.S/9f gap
-208/2P/f.S/14f gap
-209/2P/5H/17f gap
-210/2P/2P/-3f gap
-211/2P/2K/9f gap
-212/2P/2S/12f gap
-213/2P/2H/14f gap
-214/2P/j.P/12f gap
-215/2P/j.K/17f gap
-216/2P/j.S/14f gap
-217/2P/j.H/18f gap
-218/2P/j.D/29f gap
-219/2P/6P/1f gap
-220/2P/6K/5f gap
-221/2P/6H/19f gap
-222/2P/2D/14f gap
-223/2P/5D/22f gap
-224/2P/5[D]/30f gap
-225/2P/"[s/h] h/s"/12f gap
-226/2P/[4]6S/1f gap
-227/2P/[4]6H/14f gap
-228/2P/[2]8S/0f gap
-229/2P/[2]8H/1f gap
-230/2P/236S/3f gap
-231/2P/236H/14f gap
-232/2P/214S/12f gap
-233/2P/bt.214K/21f gap
-234/2P/bt.214H/20f gap
-235/2P/632146S/-4f gap
-236/2P/632146H/2f gap
-237/2P/bt.P/9f gap
-238/2P/bt.K/7f gap
-239/2P/bt.S/8f gap
-240/2P/bt.H/20f gap
-241/2P/236[H]/16f gap
-242/2P/bt.[P]/9f gap
-243/2P/bt.[K]/7f gap
-244/2P/bt.[S]/8f gap
-245/2P/bt.[H]/20f gap
-246/2K/5P/10f gap
-247/2K/5K/14f gap
-248/2K/c.S/12f gap
-249/2K/f.S/17f gap
-250/2K/5H/20f gap
-251/2K/2P/11f gap
-252/2K/2K/12f gap
-253/2K/2S/15f gap
-254/2K/2H/17f gap
-255/2K/j.P/15f gap
-256/2K/j.K/20f gap
-257/2K/j.S/17f gap
-258/2K/j.H/21f gap
-259/2K/j.D/32f gap
-260/2K/6P/-1f gap
-261/2K/6K/3f gap
-262/2K/6H/17f gap
-263/2K/2D/1f gap
-264/2K/5D/9f gap
-265/2K/5[D]/33f gap
-266/2K/"[s/h] h/s"/15f gap
-267/2K/[4]6S/-1f gap
-268/2K/[4]6H/12f gap
-269/2K/[2]8S/-2f gap
-270/2K/[2]8H/-1f gap
-271/2K/236S/1f gap
-272/2K/236H/12f gap
-273/2K/214S/10f gap
-274/2K/bt.214K/19f gap
-275/2K/bt.214H/18f gap
-276/2K/632146S/-6f gap
-277/2K/632146H/0f gap
-278/2K/bt.P/12f gap
-279/2K/bt.K/10f gap
-280/2K/bt.S/11f gap
-281/2K/bt.H/23f gap
-282/2K/236[H]/14f gap
-283/2K/bt.[P]/12f gap
-284/2K/bt.[K]/10f gap
-285/2K/bt.[S]/11f gap
-286/2K/bt.[H]/23f gap
-287/2S/5P/7f gap
-288/2S/5K/11f gap
-289/2S/c.S/9f gap
-290/2S/f.S/14f gap
-291/2S/5H/2f gap
-292/2S/2P/8f gap
-293/2S/2K/9f gap
-294/2S/2S/12f gap
-295/2S/2H/-1f gap
-296/2S/j.P/12f gap
-297/2S/j.K/17f gap
-298/2S/j.S/14f gap
-299/2S/j.H/18f gap
-300/2S/j.D/29f gap
-301/2S/6P/12f gap
-302/2S/6K/16f gap
-303/2S/6H/15f gap
-304/2S/2D/14f gap
-305/2S/5D/22f gap
-306/2S/5[D]/30f gap
-307/2S/"[s/h] h/s"/12f gap
-308/2S/[4]6S/-3f gap
-309/2S/[4]6H/10f gap
-310/2S/[2]8S/-4f gap
-311/2S/[2]8H/-3f gap
-312/2S/236S/-1f gap
-313/2S/236H/10f gap
-314/2S/214S/8f gap
-315/2S/bt.214K/17f gap
-316/2S/bt.214H/16f gap
-317/2S/632146S/-8f gap
-318/2S/632146H/-2f gap
-319/2S/bt.P/9f gap
-320/2S/bt.K/7f gap
-321/2S/bt.S/8f gap
-322/2S/bt.H/20f gap
-323/2S/236[H]/12f gap
-324/2S/bt.[P]/9f gap
-325/2S/bt.[K]/7f gap
-326/2S/bt.[S]/8f gap
-327/2S/bt.[H]/20f gap
-328/2H/5P/25f gap
-329/2H/5K/29f gap
-330/2H/c.S/27f gap
-331/2H/f.S/-4f gap
-332/2H/5H/35f gap
-333/2H/2P/26f gap
-334/2H/2K/27f gap
-335/2H/2S/-6f gap
-336/2H/2H/32f gap
-337/2H/j.P/30f gap
-338/2H/j.K/35f gap
-339/2H/j.S/32f gap
-340/2H/j.H/36f gap
-341/2H/j.D/47f gap
-342/2H/6P/30f gap
-343/2H/6K/34f gap
-344/2H/6H/48f gap
-345/2H/2D/32f gap
-346/2H/5D/40f gap
-347/2H/5[D]/48f gap
-348/2H/"[s/h] h/s"/30f gap
-349/2H/[4]6S/-6f gap
-350/2H/[4]6H/7f gap
-351/2H/[2]8S/-7f gap
-352/2H/[2]8H/-6f gap
-353/2H/236S/-4f gap
-354/2H/236H/7f gap
-355/2H/214S/5f gap
-356/2H/bt.214K/14f gap
-357/2H/bt.214H/13f gap
-358/2H/632146S/-11f gap
-359/2H/632146H/-5f gap
-360/2H/bt.P/27f gap
-361/2H/bt.K/25f gap
-362/2H/bt.S/26f gap
-363/2H/bt.H/38f gap
-364/2H/236[H]/9f gap
-365/2H/bt.[P]/27f gap
-366/2H/bt.[K]/25f gap
-367/2H/bt.[S]/26f gap
-368/2H/bt.[H]/38f gap
-369/j.P/5P/j.P has 9f of blockstun, while 5P has 5f of startup
-370/j.P/5K/j.P has 9f of blockstun, while 5K has 9f of startup
-371/j.P/c.S/j.P has 9f of blockstun, while c.S has 7f of startup
-372/j.P/f.S/j.P has 9f of blockstun, while f.S has 12f of startup
-373/j.P/5H/j.P has 9f of blockstun, while 5H has 15f of startup
-374/j.P/2P/j.P has 9f of blockstun, while 2P has 6f of startup
-375/j.P/2K/j.P has 9f of blockstun, while 2K has 7f of startup
-376/j.P/2S/j.P has 9f of blockstun, while 2S has 10f of startup
-377/j.P/2H/j.P has 9f of blockstun, while 2H has 12f of startup
-378/j.P/j.P/-4f gap
-379/j.P/j.K/j.P has 9f of blockstun, while j.K has 10f of startup
-380/j.P/j.S/j.P has 9f of blockstun, while j.S has 7f of startup
-381/j.P/j.H/j.P has 9f of blockstun, while j.H has 11f of startup
-382/j.P/j.D/j.P has 9f of blockstun, while j.D has 22f of startup
-383/j.P/6P/j.P has 9f of blockstun, while 6P has 10f of startup
-384/j.P/6K/j.P has 9f of blockstun, while 6K has 14f of startup
-385/j.P/6H/j.P has 9f of blockstun, while 6H has 28f of startup
-386/j.P/2D/j.P has 9f of blockstun, while 2D has 12f of startup
-387/j.P/5D/j.P has 9f of blockstun, while 5D has 20f of startup
-388/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28f of startup
-389/j.P/"[s/h] h/s"/"j.P has 9f of blockstun, while [s/h] h/s has 10f of startup"
-390/j.P/[4]6S/j.P has 9f of blockstun, while [4]6S has 10f of startup
-391/j.P/[4]6H/j.P has 9f of blockstun, while [4]6H has 23f of startup
-392/j.P/[2]8S/j.P has 9f of blockstun, while [2]8S has 9f of startup
-393/j.P/[2]8H/j.P has 9f of blockstun, while [2]8H has 10f of startup
-394/j.P/236S/j.P has 9f of blockstun, while 236S has 12f of startup
-395/j.P/236H/j.P has 9f of blockstun, while 236H has 23f of startup
-396/j.P/214S/j.P has 9f of blockstun, while 214S has 21f of startup
-397/j.P/bt.214K/j.P has 9f of blockstun, while bt.214K has 30f of startup
-398/j.P/bt.214H/j.P has 9f of blockstun, while bt.214H has 29f of startup
-399/j.P/632146S/j.P has 9f of blockstun, while 632146S has 5f of startup
-400/j.P/632146H/j.P has 9f of blockstun, while 632146H has 11f of startup
-401/j.P/bt.P/j.P has 9f of blockstun, while bt.P has 7f of startup
-402/j.P/bt.K/j.P has 9f of blockstun, while bt.K has 5f of startup
-403/j.P/bt.S/j.P has 9f of blockstun, while bt.S has 6f of startup
-404/j.P/bt.H/j.P has 9f of blockstun, while bt.H has 18f of startup
-405/j.P/236[H]/j.P has 9f of blockstun, while 236[H] has 25f of startup
-406/j.P/bt.[P]/j.P has 9f of blockstun, while bt.[P] has 7f of startup
-407/j.P/bt.[K]/j.P has 9f of blockstun, while bt.[K] has 5f of startup
-408/j.P/bt.[S]/j.P has 9f of blockstun, while bt.[S] has 6f of startup
-409/j.P/bt.[H]/j.P has 9f of blockstun, while bt.[H] has 18f of startup
-410/j.K/5P/j.K has 11f of blockstun, while 5P has 5f of startup
-411/j.K/5K/j.K has 11f of blockstun, while 5K has 9f of startup
-412/j.K/c.S/j.K has 11f of blockstun, while c.S has 7f of startup
-413/j.K/f.S/j.K has 11f of blockstun, while f.S has 12f of startup
-414/j.K/5H/j.K has 11f of blockstun, while 5H has 15f of startup
-415/j.K/2P/j.K has 11f of blockstun, while 2P has 6f of startup
-416/j.K/2K/j.K has 11f of blockstun, while 2K has 7f of startup
-417/j.K/2S/j.K has 11f of blockstun, while 2S has 10f of startup
-418/j.K/2H/j.K has 11f of blockstun, while 2H has 12f of startup
-419/j.K/j.P/j.K has 11f of blockstun, while j.P has 5f of startup
-420/j.K/j.K/j.K has 11f of blockstun, while j.K has 10f of startup
-421/j.K/j.S/j.K has 11f of blockstun, while j.S has 7f of startup
-422/j.K/j.H/j.K has 11f of blockstun, while j.H has 11f of startup
-423/j.K/j.D/11f gap
-424/j.K/6P/j.K has 11f of blockstun, while 6P has 10f of startup
-425/j.K/6K/j.K has 11f of blockstun, while 6K has 14f of startup
-426/j.K/6H/j.K has 11f of blockstun, while 6H has 28f of startup
-427/j.K/2D/j.K has 11f of blockstun, while 2D has 12f of startup
-428/j.K/5D/j.K has 11f of blockstun, while 5D has 20f of startup
-429/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28f of startup
-430/j.K/"[s/h] h/s"/"j.K has 11f of blockstun, while [s/h] h/s has 10f of startup"
-431/j.K/[4]6S/j.K has 11f of blockstun, while [4]6S has 10f of startup
-432/j.K/[4]6H/j.K has 11f of blockstun, while [4]6H has 23f of startup
-433/j.K/[2]8S/j.K has 11f of blockstun, while [2]8S has 9f of startup
-434/j.K/[2]8H/j.K has 11f of blockstun, while [2]8H has 10f of startup
-435/j.K/236S/j.K has 11f of blockstun, while 236S has 12f of startup
-436/j.K/236H/j.K has 11f of blockstun, while 236H has 23f of startup
-437/j.K/214S/j.K has 11f of blockstun, while 214S has 21f of startup
-438/j.K/bt.214K/j.K has 11f of blockstun, while bt.214K has 30f of startup
-439/j.K/bt.214H/j.K has 11f of blockstun, while bt.214H has 29f of startup
-440/j.K/632146S/j.K has 11f of blockstun, while 632146S has 5f of startup
-441/j.K/632146H/j.K has 11f of blockstun, while 632146H has 11f of startup
-442/j.K/bt.P/j.K has 11f of blockstun, while bt.P has 7f of startup
-443/j.K/bt.K/j.K has 11f of blockstun, while bt.K has 5f of startup
-444/j.K/bt.S/j.K has 11f of blockstun, while bt.S has 6f of startup
-445/j.K/bt.H/j.K has 11f of blockstun, while bt.H has 18f of startup
-446/j.K/236[H]/j.K has 11f of blockstun, while 236[H] has 25f of startup
-447/j.K/bt.[P]/j.K has 11f of blockstun, while bt.[P] has 7f of startup
-448/j.K/bt.[K]/j.K has 11f of blockstun, while bt.[K] has 5f of startup
-449/j.K/bt.[S]/j.K has 11f of blockstun, while bt.[S] has 6f of startup
-450/j.K/bt.[H]/j.K has 11f of blockstun, while bt.[H] has 18f of startup
-451/j.S/5P/j.S has 13f of blockstun, while 5P has 5f of startup
-452/j.S/5K/j.S has 13f of blockstun, while 5K has 9f of startup
-453/j.S/c.S/j.S has 13f of blockstun, while c.S has 7f of startup
-454/j.S/f.S/j.S has 13f of blockstun, while f.S has 12f of startup
-455/j.S/5H/j.S has 13f of blockstun, while 5H has 15f of startup
-456/j.S/2P/j.S has 13f of blockstun, while 2P has 6f of startup
-457/j.S/2K/j.S has 13f of blockstun, while 2K has 7f of startup
-458/j.S/2S/j.S has 13f of blockstun, while 2S has 10f of startup
-459/j.S/2H/j.S has 13f of blockstun, while 2H has 12f of startup
-460/j.S/j.P/j.S has 13f of blockstun, while j.P has 5f of startup
-461/j.S/j.K/j.S has 13f of blockstun, while j.K has 10f of startup
-462/j.S/j.S/j.S has 13f of blockstun, while j.S has 7f of startup
-463/j.S/j.H/-2f gap
-464/j.S/j.D/9f gap
-465/j.S/6P/j.S has 13f of blockstun, while 6P has 10f of startup
-466/j.S/6K/j.S has 13f of blockstun, while 6K has 14f of startup
-467/j.S/6H/j.S has 13f of blockstun, while 6H has 28f of startup
-468/j.S/2D/j.S has 13f of blockstun, while 2D has 12f of startup
-469/j.S/5D/j.S has 13f of blockstun, while 5D has 20f of startup
-470/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28f of startup
-471/j.S/"[s/h] h/s"/"j.S has 13f of blockstun, while [s/h] h/s has 10f of startup"
-472/j.S/[4]6S/j.S has 13f of blockstun, while [4]6S has 10f of startup
-473/j.S/[4]6H/j.S has 13f of blockstun, while [4]6H has 23f of startup
-474/j.S/[2]8S/j.S has 13f of blockstun, while [2]8S has 9f of startup
-475/j.S/[2]8H/j.S has 13f of blockstun, while [2]8H has 10f of startup
-476/j.S/236S/j.S has 13f of blockstun, while 236S has 12f of startup
-477/j.S/236H/j.S has 13f of blockstun, while 236H has 23f of startup
-478/j.S/214S/j.S has 13f of blockstun, while 214S has 21f of startup
-479/j.S/bt.214K/j.S has 13f of blockstun, while bt.214K has 30f of startup
-480/j.S/bt.214H/j.S has 13f of blockstun, while bt.214H has 29f of startup
-481/j.S/632146S/j.S has 13f of blockstun, while 632146S has 5f of startup
-482/j.S/632146H/j.S has 13f of blockstun, while 632146H has 11f of startup
-483/j.S/bt.P/j.S has 13f of blockstun, while bt.P has 7f of startup
-484/j.S/bt.K/j.S has 13f of blockstun, while bt.K has 5f of startup
-485/j.S/bt.S/j.S has 13f of blockstun, while bt.S has 6f of startup
-486/j.S/bt.H/j.S has 13f of blockstun, while bt.H has 18f of startup
-487/j.S/236[H]/j.S has 13f of blockstun, while 236[H] has 25f of startup
-488/j.S/bt.[P]/j.S has 13f of blockstun, while bt.[P] has 7f of startup
-489/j.S/bt.[K]/j.S has 13f of blockstun, while bt.[K] has 5f of startup
-490/j.S/bt.[S]/j.S has 13f of blockstun, while bt.[S] has 6f of startup
-491/j.S/bt.[H]/j.S has 13f of blockstun, while bt.[H] has 18f of startup
-492/j.H/5P/j.H has 13f of blockstun, while 5P has 5f of startup
-493/j.H/5K/j.H has 13f of blockstun, while 5K has 9f of startup
-494/j.H/c.S/j.H has 13f of blockstun, while c.S has 7f of startup
-495/j.H/f.S/j.H has 13f of blockstun, while f.S has 12f of startup
-496/j.H/5H/j.H has 13f of blockstun, while 5H has 15f of startup
-497/j.H/2P/j.H has 13f of blockstun, while 2P has 6f of startup
-498/j.H/2K/j.H has 13f of blockstun, while 2K has 7f of startup
-499/j.H/2S/j.H has 13f of blockstun, while 2S has 10f of startup
-500/j.H/2H/j.H has 13f of blockstun, while 2H has 12f of startup
-501/j.H/j.P/j.H has 13f of blockstun, while j.P has 5f of startup
-502/j.H/j.K/j.H has 13f of blockstun, while j.K has 10f of startup
-503/j.H/j.S/j.H has 13f of blockstun, while j.S has 7f of startup
-504/j.H/j.H/j.H has 13f of blockstun, while j.H has 11f of startup
-505/j.H/j.D/9f gap
-506/j.H/6P/j.H has 13f of blockstun, while 6P has 10f of startup
-507/j.H/6K/j.H has 13f of blockstun, while 6K has 14f of startup
-508/j.H/6H/j.H has 13f of blockstun, while 6H has 28f of startup
-509/j.H/2D/j.H has 13f of blockstun, while 2D has 12f of startup
-510/j.H/5D/j.H has 13f of blockstun, while 5D has 20f of startup
-511/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28f of startup
-512/j.H/"[s/h] h/s"/"j.H has 13f of blockstun, while [s/h] h/s has 10f of startup"
-513/j.H/[4]6S/j.H has 13f of blockstun, while [4]6S has 10f of startup
-514/j.H/[4]6H/j.H has 13f of blockstun, while [4]6H has 23f of startup
-515/j.H/[2]8S/j.H has 13f of blockstun, while [2]8S has 9f of startup
-516/j.H/[2]8H/j.H has 13f of blockstun, while [2]8H has 10f of startup
-517/j.H/236S/j.H has 13f of blockstun, while 236S has 12f of startup
-518/j.H/236H/j.H has 13f of blockstun, while 236H has 23f of startup
-519/j.H/214S/j.H has 13f of blockstun, while 214S has 21f of startup
-520/j.H/bt.214K/j.H has 13f of blockstun, while bt.214K has 30f of startup
-521/j.H/bt.214H/j.H has 13f of blockstun, while bt.214H has 29f of startup
-522/j.H/632146S/j.H has 13f of blockstun, while 632146S has 5f of startup
-523/j.H/632146H/j.H has 13f of blockstun, while 632146H has 11f of startup
-524/j.H/bt.P/j.H has 13f of blockstun, while bt.P has 7f of startup
-525/j.H/bt.K/j.H has 13f of blockstun, while bt.K has 5f of startup
-526/j.H/bt.S/j.H has 13f of blockstun, while bt.S has 6f of startup
-527/j.H/bt.H/j.H has 13f of blockstun, while bt.H has 18f of startup
-528/j.H/236[H]/j.H has 13f of blockstun, while 236[H] has 25f of startup
-529/j.H/bt.[P]/j.H has 13f of blockstun, while bt.[P] has 7f of startup
-530/j.H/bt.[K]/j.H has 13f of blockstun, while bt.[K] has 5f of startup
-531/j.H/bt.[S]/j.H has 13f of blockstun, while bt.[S] has 6f of startup
-532/j.H/bt.[H]/j.H has 13f of blockstun, while bt.[H] has 18f of startup
-533/j.D/5P/j.D has 13f of blockstun, while 5P has 5f of startup
-534/j.D/5K/j.D has 13f of blockstun, while 5K has 9f of startup
-535/j.D/c.S/j.D has 13f of blockstun, while c.S has 7f of startup
-536/j.D/f.S/j.D has 13f of blockstun, while f.S has 12f of startup
-537/j.D/5H/j.D has 13f of blockstun, while 5H has 15f of startup
-538/j.D/2P/j.D has 13f of blockstun, while 2P has 6f of startup
-539/j.D/2K/j.D has 13f of blockstun, while 2K has 7f of startup
-540/j.D/2S/j.D has 13f of blockstun, while 2S has 10f of startup
-541/j.D/2H/j.D has 13f of blockstun, while 2H has 12f of startup
-542/j.D/j.P/j.D has 13f of blockstun, while j.P has 5f of startup
-543/j.D/j.K/j.D has 13f of blockstun, while j.K has 10f of startup
-544/j.D/j.S/j.D has 13f of blockstun, while j.S has 7f of startup
-545/j.D/j.H/j.D has 13f of blockstun, while j.H has 11f of startup
-546/j.D/j.D/j.D has 13f of blockstun, while j.D has 22f of startup
-547/j.D/6P/j.D has 13f of blockstun, while 6P has 10f of startup
-548/j.D/6K/j.D has 13f of blockstun, while 6K has 14f of startup
-549/j.D/6H/j.D has 13f of blockstun, while 6H has 28f of startup
-550/j.D/2D/j.D has 13f of blockstun, while 2D has 12f of startup
-551/j.D/5D/j.D has 13f of blockstun, while 5D has 20f of startup
-552/j.D/5[D]/j.D has 13f of blockstun, while 5[D] has 28f of startup
-553/j.D/"[s/h] h/s"/"j.D has 13f of blockstun, while [s/h] h/s has 10f of startup"
-554/j.D/[4]6S/j.D has 13f of blockstun, while [4]6S has 10f of startup
-555/j.D/[4]6H/j.D has 13f of blockstun, while [4]6H has 23f of startup
-556/j.D/[2]8S/j.D has 13f of blockstun, while [2]8S has 9f of startup
-557/j.D/[2]8H/j.D has 13f of blockstun, while [2]8H has 10f of startup
-558/j.D/236S/j.D has 13f of blockstun, while 236S has 12f of startup
-559/j.D/236H/j.D has 13f of blockstun, while 236H has 23f of startup
-560/j.D/214S/j.D has 13f of blockstun, while 214S has 21f of startup
-561/j.D/bt.214K/j.D has 13f of blockstun, while bt.214K has 30f of startup
-562/j.D/bt.214H/j.D has 13f of blockstun, while bt.214H has 29f of startup
-563/j.D/632146S/j.D has 13f of blockstun, while 632146S has 5f of startup
-564/j.D/632146H/j.D has 13f of blockstun, while 632146H has 11f of startup
-565/j.D/bt.P/j.D has 13f of blockstun, while bt.P has 7f of startup
-566/j.D/bt.K/j.D has 13f of blockstun, while bt.K has 5f of startup
-567/j.D/bt.S/j.D has 13f of blockstun, while bt.S has 6f of startup
-568/j.D/bt.H/j.D has 13f of blockstun, while bt.H has 18f of startup
-569/j.D/236[H]/j.D has 13f of blockstun, while 236[H] has 25f of startup
-570/j.D/bt.[P]/j.D has 13f of blockstun, while bt.[P] has 7f of startup
-571/j.D/bt.[K]/j.D has 13f of blockstun, while bt.[K] has 5f of startup
-572/j.D/bt.[S]/j.D has 13f of blockstun, while bt.[S] has 6f of startup
-573/j.D/bt.[H]/j.D has 13f of blockstun, while bt.[H] has 18f of startup
-574/6P/5P/10f gap
-575/6P/5K/14f gap
-576/6P/c.S/12f gap
-577/6P/f.S/17f gap
-578/6P/5H/20f gap
-579/6P/2P/11f gap
-580/6P/2K/12f gap
-581/6P/2S/15f gap
-582/6P/2H/17f gap
-583/6P/j.P/15f gap
-584/6P/j.K/20f gap
-585/6P/j.S/17f gap
-586/6P/j.H/21f gap
-587/6P/j.D/32f gap
-588/6P/6P/15f gap
-589/6P/6K/19f gap
-590/6P/6H/33f gap
-591/6P/2D/17f gap
-592/6P/5D/25f gap
-593/6P/5[D]/33f gap
-594/6P/"[s/h] h/s"/15f gap
-595/6P/[4]6S/-6f gap
-596/6P/[4]6H/7f gap
-597/6P/[2]8S/-7f gap
-598/6P/[2]8H/-6f gap
-599/6P/236S/-4f gap
-600/6P/236H/7f gap
-601/6P/214S/5f gap
-602/6P/bt.214K/14f gap
-603/6P/bt.214H/13f gap
-604/6P/632146S/-11f gap
-605/6P/632146H/-5f gap
-606/6P/bt.P/12f gap
-607/6P/bt.K/10f gap
-608/6P/bt.S/11f gap
-609/6P/bt.H/23f gap
-610/6P/236[H]/9f gap
-611/6P/bt.[P]/12f gap
-612/6P/bt.[K]/10f gap
-613/6P/bt.[S]/11f gap
-614/6P/bt.[H]/23f gap
-615/6K/5P/9f gap
-616/6K/5K/13f gap
-617/6K/c.S/11f gap
-618/6K/f.S/16f gap
-619/6K/5H/19f gap
-620/6K/2P/10f gap
-621/6K/2K/11f gap
-622/6K/2S/14f gap
-623/6K/2H/16f gap
-624/6K/j.P/14f gap
-625/6K/j.K/19f gap
-626/6K/j.S/16f gap
-627/6K/j.H/20f gap
-628/6K/j.D/31f gap
-629/6K/6P/14f gap
-630/6K/6K/18f gap
-631/6K/6H/32f gap
-632/6K/2D/16f gap
-633/6K/5D/24f gap
-634/6K/5[D]/32f gap
-635/6K/"[s/h] h/s"/14f gap
-636/6K/[4]6S/-6f gap
-637/6K/[4]6H/7f gap
-638/6K/[2]8S/-7f gap
-639/6K/[2]8H/-6f gap
-640/6K/236S/-4f gap
-641/6K/236H/7f gap
-642/6K/214S/5f gap
-643/6K/bt.214K/14f gap
-644/6K/bt.214H/13f gap
-645/6K/632146S/-11f gap
-646/6K/632146H/-5f gap
-647/6K/bt.P/11f gap
-648/6K/bt.K/9f gap
-649/6K/bt.S/10f gap
-650/6K/bt.H/22f gap
-651/6K/236[H]/9f gap
-652/6K/bt.[P]/11f gap
-653/6K/bt.[K]/9f gap
-654/6K/bt.[S]/10f gap
-655/6K/bt.[H]/22f gap
-656/6H/5P/20f gap
-657/6H/5K/24f gap
-658/6H/c.S/22f gap
-659/6H/f.S/-4f gap
-660/6H/5H/30f gap
-661/6H/2P/21f gap
-662/6H/2K/22f gap
-663/6H/2S/-6f gap
-664/6H/2H/27f gap
-665/6H/j.P/25f gap
-666/6H/j.K/30f gap
-667/6H/j.S/27f gap
-668/6H/j.H/31f gap
-669/6H/j.D/42f gap
-670/6H/6P/25f gap
-671/6H/6K/29f gap
-672/6H/6H/43f gap
-673/6H/2D/27f gap
-674/6H/5D/35f gap
-675/6H/5[D]/43f gap
-676/6H/"[s/h] h/s"/25f gap
-677/6H/[4]6S/-6f gap
-678/6H/[4]6H/7f gap
-679/6H/[2]8S/-7f gap
-680/6H/[2]8H/-6f gap
-681/6H/236S/-4f gap
-682/6H/236H/7f gap
-683/6H/214S/5f gap
-684/6H/bt.214K/14f gap
-685/6H/bt.214H/13f gap
-686/6H/632146S/-11f gap
-687/6H/632146H/-5f gap
-688/6H/bt.P/22f gap
-689/6H/bt.K/20f gap
-690/6H/bt.S/21f gap
-691/6H/bt.H/33f gap
-692/6H/236[H]/9f gap
-693/6H/bt.[P]/22f gap
-694/6H/bt.[K]/20f gap
-695/6H/bt.[S]/21f gap
-696/6H/bt.[H]/33f gap
-697/2D/5P/13f gap
-698/2D/5K/17f gap
-699/2D/c.S/15f gap
-700/2D/f.S/20f gap
-701/2D/5H/23f gap
-702/2D/2P/14f gap
-703/2D/2K/15f gap
-704/2D/2S/18f gap
-705/2D/2H/20f gap
-706/2D/j.P/18f gap
-707/2D/j.K/23f gap
-708/2D/j.S/20f gap
-709/2D/j.H/24f gap
-710/2D/j.D/35f gap
-711/2D/6P/18f gap
-712/2D/6K/22f gap
-713/2D/6H/36f gap
-714/2D/2D/20f gap
-715/2D/5D/28f gap
-716/2D/5[D]/36f gap
-717/2D/"[s/h] h/s"/18f gap
-718/2D/[4]6S/18f gap
-719/2D/[4]6H/31f gap
-720/2D/[2]8S/17f gap
-721/2D/[2]8H/18f gap
-722/2D/236S/20f gap
-723/2D/236H/31f gap
-724/2D/214S/29f gap
-725/2D/bt.214K/38f gap
-726/2D/bt.214H/37f gap
-727/2D/632146S/13f gap
-728/2D/632146H/19f gap
-729/2D/bt.P/15f gap
-730/2D/bt.K/13f gap
-731/2D/bt.S/14f gap
-732/2D/bt.H/26f gap
-733/2D/236[H]/33f gap
-734/2D/bt.[P]/15f gap
-735/2D/bt.[K]/13f gap
-736/2D/bt.[S]/14f gap
-737/2D/bt.[H]/26f gap
-738/5D/5P/20f gap
-739/5D/5K/24f gap
-740/5D/c.S/22f gap
-741/5D/f.S/27f gap
-742/5D/5H/30f gap
-743/5D/2P/21f gap
-744/5D/2K/22f gap
-745/5D/2S/25f gap
-746/5D/2H/27f gap
-747/5D/j.P/25f gap
-748/5D/j.K/30f gap
-749/5D/j.S/27f gap
-750/5D/j.H/31f gap
-751/5D/j.D/42f gap
-752/5D/6P/25f gap
-753/5D/6K/29f gap
-754/5D/6H/43f gap
-755/5D/2D/27f gap
-756/5D/5D/35f gap
-757/5D/5[D]/43f gap
-758/5D/"[s/h] h/s"/25f gap
-759/5D/[4]6S/25f gap
-760/5D/[4]6H/38f gap
-761/5D/[2]8S/24f gap
-762/5D/[2]8H/25f gap
-763/5D/236S/27f gap
-764/5D/236H/38f gap
-765/5D/214S/36f gap
-766/5D/bt.214K/45f gap
-767/5D/bt.214H/44f gap
-768/5D/632146S/20f gap
-769/5D/632146H/26f gap
-770/5D/bt.P/22f gap
-771/5D/bt.K/20f gap
-772/5D/bt.S/21f gap
-773/5D/bt.H/33f gap
-774/5D/236[H]/40f gap
-775/5D/bt.[P]/22f gap
-776/5D/bt.[K]/20f gap
-777/5D/bt.[S]/21f gap
-778/5D/bt.[H]/33f gap
-779/5[D]/5P/15f gap
-780/5[D]/5K/19f gap
-781/5[D]/c.S/17f gap
-782/5[D]/f.S/22f gap
-783/5[D]/5H/25f gap
-784/5[D]/2P/16f gap
-785/5[D]/2K/17f gap
-786/5[D]/2S/20f gap
-787/5[D]/2H/22f gap
-788/5[D]/j.P/20f gap
-789/5[D]/j.K/25f gap
-790/5[D]/j.S/22f gap
-791/5[D]/j.H/26f gap
-792/5[D]/j.D/37f gap
-793/5[D]/6P/20f gap
-794/5[D]/6K/24f gap
-795/5[D]/6H/38f gap
-796/5[D]/2D/22f gap
-797/5[D]/5D/30f gap
-798/5[D]/5[D]/38f gap
-799/5[D]/"[s/h] h/s"/20f gap
-800/5[D]/[4]6S/20f gap
-801/5[D]/[4]6H/33f gap
-802/5[D]/[2]8S/19f gap
-803/5[D]/[2]8H/20f gap
-804/5[D]/236S/22f gap
-805/5[D]/236H/33f gap
-806/5[D]/214S/31f gap
-807/5[D]/bt.214K/40f gap
-808/5[D]/bt.214H/39f gap
-809/5[D]/632146S/15f gap
-810/5[D]/632146H/21f gap
-811/5[D]/bt.P/17f gap
-812/5[D]/bt.K/15f gap
-813/5[D]/bt.S/16f gap
-814/5[D]/bt.H/28f gap
-815/5[D]/236[H]/35f gap
-816/5[D]/bt.[P]/17f gap
-817/5[D]/bt.[K]/15f gap
-818/5[D]/bt.[S]/16f gap
-819/5[D]/bt.[H]/28f gap
-820/"[s/h] h/s"/5P/5f gap
-821/"[s/h] h/s"/5K/9f gap
-822/"[s/h] h/s"/c.S/7f gap
-823/"[s/h] h/s"/f.S/12f gap
-824/"[s/h] h/s"/5H/15f gap
-825/"[s/h] h/s"/2P/6f gap
-826/"[s/h] h/s"/2K/7f gap
-827/"[s/h] h/s"/2S/10f gap
-828/"[s/h] h/s"/2H/12f gap
-829/"[s/h] h/s"/j.P/10f gap
-830/"[s/h] h/s"/j.K/15f gap
-831/"[s/h] h/s"/j.S/12f gap
-832/"[s/h] h/s"/j.H/16f gap
-833/"[s/h] h/s"/j.D/27f gap
-834/"[s/h] h/s"/6P/10f gap
-835/"[s/h] h/s"/6K/14f gap
-836/"[s/h] h/s"/6H/28f gap
-837/"[s/h] h/s"/2D/12f gap
-838/"[s/h] h/s"/5D/20f gap
-839/"[s/h] h/s"/5[D]/28f gap
-840/"[s/h] h/s"/"[s/h] h/s"/10f gap
-841/"[s/h] h/s"/[4]6S/10f gap
-842/"[s/h] h/s"/[4]6H/23f gap
-843/"[s/h] h/s"/[2]8S/9f gap
-844/"[s/h] h/s"/[2]8H/10f gap
-845/"[s/h] h/s"/236S/12f gap
-846/"[s/h] h/s"/236H/23f gap
-847/"[s/h] h/s"/214S/21f gap
-848/"[s/h] h/s"/bt.214K/30f gap
-849/"[s/h] h/s"/bt.214H/29f gap
-850/"[s/h] h/s"/632146S/5f gap
-851/"[s/h] h/s"/632146H/11f gap
-852/"[s/h] h/s"/bt.P/7f gap
-853/"[s/h] h/s"/bt.K/5f gap
-854/"[s/h] h/s"/bt.S/6f gap
-855/"[s/h] h/s"/bt.H/18f gap
-856/"[s/h] h/s"/236[H]/25f gap
-857/"[s/h] h/s"/bt.[P]/7f gap
-858/"[s/h] h/s"/bt.[K]/5f gap
-859/"[s/h] h/s"/bt.[S]/6f gap
-860/"[s/h] h/s"/bt.[H]/18f gap
-861/[4]6S/5P/21f gap
-862/[4]6S/5K/25f gap
-863/[4]6S/c.S/23f gap
-864/[4]6S/f.S/28f gap
-865/[4]6S/5H/31f gap
-866/[4]6S/2P/22f gap
-867/[4]6S/2K/23f gap
-868/[4]6S/2S/26f gap
-869/[4]6S/2H/28f gap
-870/[4]6S/j.P/26f gap
-871/[4]6S/j.K/31f gap
-872/[4]6S/j.S/28f gap
-873/[4]6S/j.H/32f gap
-874/[4]6S/j.D/43f gap
-875/[4]6S/6P/26f gap
-876/[4]6S/6K/30f gap
-877/[4]6S/6H/44f gap
-878/[4]6S/2D/28f gap
-879/[4]6S/5D/36f gap
-880/[4]6S/5[D]/44f gap
-881/[4]6S/"[s/h] h/s"/26f gap
-882/[4]6S/[4]6S/26f gap
-883/[4]6S/[4]6H/39f gap
-884/[4]6S/[2]8S/25f gap
-885/[4]6S/[2]8H/26f gap
-886/[4]6S/236S/28f gap
-887/[4]6S/236H/39f gap
-888/[4]6S/214S/37f gap
-889/[4]6S/bt.214K/46f gap
-890/[4]6S/bt.214H/45f gap
-891/[4]6S/632146S/21f gap
-892/[4]6S/632146H/27f gap
-893/[4]6S/bt.P/23f gap
-894/[4]6S/bt.K/21f gap
-895/[4]6S/bt.S/22f gap
-896/[4]6S/bt.H/34f gap
-897/[4]6S/236[H]/41f gap
-898/[4]6S/bt.[P]/23f gap
-899/[4]6S/bt.[K]/21f gap
-900/[4]6S/bt.[S]/22f gap
-901/[4]6S/bt.[H]/34f gap
-902/[4]6H/5P/-6f gap
-903/[4]6H/5K/-2f gap
-904/[4]6H/c.S/-4f gap
-905/[4]6H/f.S/1f gap
-906/[4]6H/5H/4f gap
-907/[4]6H/2P/-5f gap
-908/[4]6H/2K/-4f gap
-909/[4]6H/2S/-1f gap
-910/[4]6H/2H/1f gap
-911/[4]6H/j.P/-1f gap
-912/[4]6H/j.K/4f gap
-913/[4]6H/j.S/1f gap
-914/[4]6H/j.H/5f gap
-915/[4]6H/j.D/16f gap
-916/[4]6H/6P/-1f gap
-917/[4]6H/6K/3f gap
-918/[4]6H/6H/17f gap
-919/[4]6H/2D/1f gap
-920/[4]6H/5D/9f gap
-921/[4]6H/5[D]/17f gap
-922/[4]6H/"[s/h] h/s"/-1f gap
-923/[4]6H/[4]6S/-1f gap
-924/[4]6H/[4]6H/12f gap
-925/[4]6H/[2]8S/-2f gap
-926/[4]6H/[2]8H/-1f gap
-927/[4]6H/236S/1f gap
-928/[4]6H/236H/12f gap
-929/[4]6H/214S/10f gap
-930/[4]6H/bt.214K/19f gap
-931/[4]6H/bt.214H/18f gap
-932/[4]6H/632146S/-6f gap
-933/[4]6H/632146H/0f gap
-934/[4]6H/bt.P/-4f gap
-935/[4]6H/bt.K/-6f gap
-936/[4]6H/bt.S/-5f gap
-937/[4]6H/bt.H/7f gap
-938/[4]6H/236[H]/14f gap
-939/[4]6H/bt.[P]/-4f gap
-940/[4]6H/bt.[K]/-6f gap
-941/[4]6H/bt.[S]/-5f gap
-942/[4]6H/bt.[H]/7f gap
-943/[2]8S/5P/33f gap
-944/[2]8S/5K/37f gap
-945/[2]8S/c.S/35f gap
-946/[2]8S/f.S/40f gap
-947/[2]8S/5H/43f gap
-948/[2]8S/2P/34f gap
-949/[2]8S/2K/35f gap
-950/[2]8S/2S/38f gap
-951/[2]8S/2H/40f gap
-952/[2]8S/j.P/38f gap
-953/[2]8S/j.K/43f gap
-954/[2]8S/j.S/40f gap
-955/[2]8S/j.H/44f gap
-956/[2]8S/j.D/55f gap
-957/[2]8S/6P/38f gap
-958/[2]8S/6K/42f gap
-959/[2]8S/6H/56f gap
-960/[2]8S/2D/40f gap
-961/[2]8S/5D/48f gap
-962/[2]8S/5[D]/56f gap
-963/[2]8S/"[s/h] h/s"/38f gap
-964/[2]8S/[4]6S/38f gap
-965/[2]8S/[4]6H/51f gap
-966/[2]8S/[2]8S/37f gap
-967/[2]8S/[2]8H/38f gap
-968/[2]8S/236S/40f gap
-969/[2]8S/236H/51f gap
-970/[2]8S/214S/49f gap
-971/[2]8S/bt.214K/58f gap
-972/[2]8S/bt.214H/57f gap
-973/[2]8S/632146S/33f gap
-974/[2]8S/632146H/39f gap
-975/[2]8S/bt.P/35f gap
-976/[2]8S/bt.K/33f gap
-977/[2]8S/bt.S/34f gap
-978/[2]8S/bt.H/46f gap
-979/[2]8S/236[H]/53f gap
-980/[2]8S/bt.[P]/35f gap
-981/[2]8S/bt.[K]/33f gap
-982/[2]8S/bt.[S]/34f gap
-983/[2]8S/bt.[H]/46f gap
-984/[2]8H/5P/57f gap
-985/[2]8H/5K/61f gap
-986/[2]8H/c.S/59f gap
-987/[2]8H/f.S/64f gap
-988/[2]8H/5H/67f gap
-989/[2]8H/2P/58f gap
-990/[2]8H/2K/59f gap
-991/[2]8H/2S/62f gap
-992/[2]8H/2H/64f gap
-993/[2]8H/j.P/62f gap
-994/[2]8H/j.K/67f gap
-995/[2]8H/j.S/64f gap
-996/[2]8H/j.H/68f gap
-997/[2]8H/j.D/79f gap
-998/[2]8H/6P/62f gap
-999/[2]8H/6K/66f gap
-1000/[2]8H/6H/80f gap
-1001/[2]8H/2D/64f gap
-1002/[2]8H/5D/72f gap
-1003/[2]8H/5[D]/80f gap
-1004/[2]8H/"[s/h] h/s"/62f gap
-1005/[2]8H/[4]6S/62f gap
-1006/[2]8H/[4]6H/75f gap
-1007/[2]8H/[2]8S/61f gap
-1008/[2]8H/[2]8H/62f gap
-1009/[2]8H/236S/64f gap
-1010/[2]8H/236H/75f gap
-1011/[2]8H/214S/73f gap
-1012/[2]8H/bt.214K/82f gap
-1013/[2]8H/bt.214H/81f gap
-1014/[2]8H/632146S/57f gap
-1015/[2]8H/632146H/63f gap
-1016/[2]8H/bt.P/59f gap
-1017/[2]8H/bt.K/57f gap
-1018/[2]8H/bt.S/58f gap
-1019/[2]8H/bt.H/70f gap
-1020/[2]8H/236[H]/77f gap
-1021/[2]8H/bt.[P]/59f gap
-1022/[2]8H/bt.[K]/57f gap
-1023/[2]8H/bt.[S]/58f gap
-1024/[2]8H/bt.[H]/70f gap
-1025/236S/5P/11f gap
-1026/236S/5K/15f gap
-1027/236S/c.S/13f gap
-1028/236S/f.S/18f gap
-1029/236S/5H/21f gap
-1030/236S/2P/12f gap
-1031/236S/2K/13f gap
-1032/236S/2S/16f gap
-1033/236S/2H/18f gap
-1034/236S/j.P/16f gap
-1035/236S/j.K/21f gap
-1036/236S/j.S/18f gap
-1037/236S/j.H/22f gap
-1038/236S/j.D/33f gap
-1039/236S/6P/16f gap
-1040/236S/6K/20f gap
-1041/236S/6H/34f gap
-1042/236S/2D/18f gap
-1043/236S/5D/26f gap
-1044/236S/5[D]/34f gap
-1045/236S/"[s/h] h/s"/16f gap
-1046/236S/[4]6S/16f gap
-1047/236S/[4]6H/29f gap
-1048/236S/[2]8S/15f gap
-1049/236S/[2]8H/16f gap
-1050/236S/236S/18f gap
-1051/236S/236H/29f gap
-1052/236S/214S/27f gap
-1053/236S/bt.214K/36f gap
-1054/236S/bt.214H/35f gap
-1055/236S/632146S/11f gap
-1056/236S/632146H/17f gap
-1057/236S/bt.P/13f gap
-1058/236S/bt.K/11f gap
-1059/236S/bt.S/12f gap
-1060/236S/bt.H/24f gap
-1061/236S/236[H]/31f gap
-1062/236S/bt.[P]/13f gap
-1063/236S/bt.[K]/11f gap
-1064/236S/bt.[S]/12f gap
-1065/236S/bt.[H]/24f gap
-1066/236H/5P/11f gap
-1067/236H/5K/15f gap
-1068/236H/c.S/13f gap
-1069/236H/f.S/18f gap
-1070/236H/5H/21f gap
-1071/236H/2P/12f gap
-1072/236H/2K/13f gap
-1073/236H/2S/16f gap
-1074/236H/2H/18f gap
-1075/236H/j.P/16f gap
-1076/236H/j.K/21f gap
-1077/236H/j.S/18f gap
-1078/236H/j.H/22f gap
-1079/236H/j.D/33f gap
-1080/236H/6P/16f gap
-1081/236H/6K/20f gap
-1082/236H/6H/34f gap
-1083/236H/2D/18f gap
-1084/236H/5D/26f gap
-1085/236H/5[D]/34f gap
-1086/236H/"[s/h] h/s"/16f gap
-1087/236H/[4]6S/16f gap
-1088/236H/[4]6H/29f gap
-1089/236H/[2]8S/15f gap
-1090/236H/[2]8H/16f gap
-1091/236H/236S/18f gap
-1092/236H/236H/29f gap
-1093/236H/214S/27f gap
-1094/236H/bt.214K/36f gap
-1095/236H/bt.214H/35f gap
-1096/236H/632146S/11f gap
-1097/236H/632146H/17f gap
-1098/236H/bt.P/13f gap
-1099/236H/bt.K/11f gap
-1100/236H/bt.S/12f gap
-1101/236H/bt.H/24f gap
-1102/236H/236[H]/31f gap
-1103/236H/bt.[P]/13f gap
-1104/236H/bt.[K]/11f gap
-1105/236H/bt.[S]/12f gap
-1106/236H/bt.[H]/24f gap
-1107/214S/5P/13f gap
-1108/214S/5K/17f gap
-1109/214S/c.S/15f gap
-1110/214S/f.S/20f gap
-1111/214S/5H/23f gap
-1112/214S/2P/14f gap
-1113/214S/2K/15f gap
-1114/214S/2S/18f gap
-1115/214S/2H/20f gap
-1116/214S/j.P/18f gap
-1117/214S/j.K/23f gap
-1118/214S/j.S/20f gap
-1119/214S/j.H/24f gap
-1120/214S/j.D/35f gap
-1121/214S/6P/18f gap
-1122/214S/6K/22f gap
-1123/214S/6H/36f gap
-1124/214S/2D/20f gap
-1125/214S/5D/28f gap
-1126/214S/5[D]/36f gap
-1127/214S/"[s/h] h/s"/18f gap
-1128/214S/[4]6S/18f gap
-1129/214S/[4]6H/31f gap
-1130/214S/[2]8S/17f gap
-1131/214S/[2]8H/18f gap
-1132/214S/236S/20f gap
-1133/214S/236H/31f gap
-1134/214S/214S/29f gap
-1135/214S/bt.214K/38f gap
-1136/214S/bt.214H/37f gap
-1137/214S/632146S/13f gap
-1138/214S/632146H/19f gap
-1139/214S/bt.P/15f gap
-1140/214S/bt.K/13f gap
-1141/214S/bt.S/14f gap
-1142/214S/bt.H/26f gap
-1143/214S/236[H]/33f gap
-1144/214S/bt.[P]/15f gap
-1145/214S/bt.[K]/13f gap
-1146/214S/bt.[S]/14f gap
-1147/214S/bt.[H]/26f gap
-1148/bt.214K/5P/"N/A"
-1149/bt.214K/5K/"N/A"
-1150/bt.214K/c.S/"N/A"
-1151/bt.214K/f.S/"N/A"
-1152/bt.214K/5H/"N/A"
-1153/bt.214K/2P/"N/A"
-1154/bt.214K/2K/"N/A"
-1155/bt.214K/2S/"N/A"
-1156/bt.214K/2H/"N/A"
-1157/bt.214K/j.P/"N/A"
-1158/bt.214K/j.K/"N/A"
-1159/bt.214K/j.S/"N/A"
-1160/bt.214K/j.H/"N/A"
-1161/bt.214K/j.D/"N/A"
-1162/bt.214K/6P/"N/A"
-1163/bt.214K/6K/"N/A"
-1164/bt.214K/6H/"N/A"
-1165/bt.214K/2D/"N/A"
-1166/bt.214K/5D/"N/A"
-1167/bt.214K/5[D]/"N/A"
-1168/bt.214K/"[s/h] h/s"/"N/A"
-1169/bt.214K/[4]6S/"N/A"
-1170/bt.214K/[4]6H/"N/A"
-1171/bt.214K/[2]8S/"N/A"
-1172/bt.214K/[2]8H/"N/A"
-1173/bt.214K/236S/"N/A"
-1174/bt.214K/236H/"N/A"
-1175/bt.214K/214S/"N/A"
-1176/bt.214K/bt.214K/"N/A"
-1177/bt.214K/bt.214H/"N/A"
-1178/bt.214K/632146S/"N/A"
-1179/bt.214K/632146H/"N/A"
-1180/bt.214K/bt.P/"N/A"
-1181/bt.214K/bt.K/"N/A"
-1182/bt.214K/bt.S/"N/A"
-1183/bt.214K/bt.H/"N/A"
-1184/bt.214K/236[H]/"N/A"
-1185/bt.214K/bt.[P]/"N/A"
-1186/bt.214K/bt.[K]/"N/A"
-1187/bt.214K/bt.[S]/"N/A"
-1188/bt.214K/bt.[H]/"N/A"
-1189/bt.214H/5P/-16f gap
-1190/bt.214H/5K/-12f gap
-1191/bt.214H/c.S/-14f gap
-1192/bt.214H/f.S/-9f gap
-1193/bt.214H/5H/-6f gap
-1194/bt.214H/2P/-15f gap
-1195/bt.214H/2K/-14f gap
-1196/bt.214H/2S/-11f gap
-1197/bt.214H/2H/-9f gap
-1198/bt.214H/j.P/-11f gap
-1199/bt.214H/j.K/-6f gap
-1200/bt.214H/j.S/-9f gap
-1201/bt.214H/j.H/-5f gap
-1202/bt.214H/j.D/6f gap
-1203/bt.214H/6P/-11f gap
-1204/bt.214H/6K/-7f gap
-1205/bt.214H/6H/7f gap
-1206/bt.214H/2D/-9f gap
-1207/bt.214H/5D/-1f gap
-1208/bt.214H/5[D]/7f gap
-1209/bt.214H/"[s/h] h/s"/-11f gap
-1210/bt.214H/[4]6S/-11f gap
-1211/bt.214H/[4]6H/2f gap
-1212/bt.214H/[2]8S/-12f gap
-1213/bt.214H/[2]8H/-11f gap
-1214/bt.214H/236S/-9f gap
-1215/bt.214H/236H/2f gap
-1216/bt.214H/214S/0f gap
-1217/bt.214H/bt.214K/9f gap
-1218/bt.214H/bt.214H/8f gap
-1219/bt.214H/632146S/-16f gap
-1220/bt.214H/632146H/-10f gap
-1221/bt.214H/bt.P/-14f gap
-1222/bt.214H/bt.K/-16f gap
-1223/bt.214H/bt.S/-15f gap
-1224/bt.214H/bt.H/-3f gap
-1225/bt.214H/236[H]/4f gap
-1226/bt.214H/bt.[P]/-14f gap
-1227/bt.214H/bt.[K]/-16f gap
-1228/bt.214H/bt.[S]/-15f gap
-1229/bt.214H/bt.[H]/-3f gap
-1230/632146S/5P/-9f gap
-1231/632146S/5K/-5f gap
-1232/632146S/c.S/-7f gap
-1233/632146S/f.S/-2f gap
-1234/632146S/5H/1f gap
-1235/632146S/2P/-8f gap
-1236/632146S/2K/-7f gap
-1237/632146S/2S/-4f gap
-1238/632146S/2H/-2f gap
-1239/632146S/j.P/-4f gap
-1240/632146S/j.K/1f gap
-1241/632146S/j.S/-2f gap
-1242/632146S/j.H/2f gap
-1243/632146S/j.D/13f gap
-1244/632146S/6P/-4f gap
-1245/632146S/6K/0f gap
-1246/632146S/6H/14f gap
-1247/632146S/2D/-2f gap
-1248/632146S/5D/6f gap
-1249/632146S/5[D]/14f gap
-1250/632146S/"[s/h] h/s"/-4f gap
-1251/632146S/[4]6S/-4f gap
-1252/632146S/[4]6H/9f gap
-1253/632146S/[2]8S/-5f gap
-1254/632146S/[2]8H/-4f gap
-1255/632146S/236S/-2f gap
-1256/632146S/236H/9f gap
-1257/632146S/214S/7f gap
-1258/632146S/bt.214K/16f gap
-1259/632146S/bt.214H/15f gap
-1260/632146S/632146S/-9f gap
-1261/632146S/632146H/-3f gap
-1262/632146S/bt.P/-7f gap
-1263/632146S/bt.K/-9f gap
-1264/632146S/bt.S/-8f gap
-1265/632146S/bt.H/4f gap
-1266/632146S/236[H]/11f gap
-1267/632146S/bt.[P]/-7f gap
-1268/632146S/bt.[K]/-9f gap
-1269/632146S/bt.[S]/-8f gap
-1270/632146S/bt.[H]/4f gap
-1271/632146H/5P/38f gap
-1272/632146H/5K/42f gap
-1273/632146H/c.S/40f gap
-1274/632146H/f.S/45f gap
-1275/632146H/5H/48f gap
-1276/632146H/2P/39f gap
-1277/632146H/2K/40f gap
-1278/632146H/2S/43f gap
-1279/632146H/2H/45f gap
-1280/632146H/j.P/43f gap
-1281/632146H/j.K/48f gap
-1282/632146H/j.S/45f gap
-1283/632146H/j.H/49f gap
-1284/632146H/j.D/60f gap
-1285/632146H/6P/43f gap
-1286/632146H/6K/47f gap
-1287/632146H/6H/61f gap
-1288/632146H/2D/45f gap
-1289/632146H/5D/53f gap
-1290/632146H/5[D]/61f gap
-1291/632146H/"[s/h] h/s"/43f gap
-1292/632146H/[4]6S/43f gap
-1293/632146H/[4]6H/56f gap
-1294/632146H/[2]8S/42f gap
-1295/632146H/[2]8H/43f gap
-1296/632146H/236S/45f gap
-1297/632146H/236H/56f gap
-1298/632146H/214S/54f gap
-1299/632146H/bt.214K/63f gap
-1300/632146H/bt.214H/62f gap
-1301/632146H/632146S/38f gap
-1302/632146H/632146H/44f gap
-1303/632146H/bt.P/40f gap
-1304/632146H/bt.K/38f gap
-1305/632146H/bt.S/39f gap
-1306/632146H/bt.H/51f gap
-1307/632146H/236[H]/58f gap
-1308/632146H/bt.[P]/40f gap
-1309/632146H/bt.[K]/38f gap
-1310/632146H/bt.[S]/39f gap
-1311/632146H/bt.[H]/51f gap
-1312/bt.P/5P/7f gap
-1313/bt.P/5K/11f gap
-1314/bt.P/c.S/9f gap
-1315/bt.P/f.S/14f gap
-1316/bt.P/5H/17f gap
-1317/bt.P/2P/8f gap
-1318/bt.P/2K/9f gap
-1319/bt.P/2S/12f gap
-1320/bt.P/2H/14f gap
-1321/bt.P/j.P/12f gap
-1322/bt.P/j.K/17f gap
-1323/bt.P/j.S/14f gap
-1324/bt.P/j.H/18f gap
-1325/bt.P/j.D/29f gap
-1326/bt.P/6P/12f gap
-1327/bt.P/6K/16f gap
-1328/bt.P/6H/30f gap
-1329/bt.P/2D/14f gap
-1330/bt.P/5D/22f gap
-1331/bt.P/5[D]/30f gap
-1332/bt.P/"[s/h] h/s"/12f gap
-1333/bt.P/[4]6S/-3f gap
-1334/bt.P/[4]6H/10f gap
-1335/bt.P/[2]8S/-4f gap
-1336/bt.P/[2]8H/-3f gap
-1337/bt.P/236S/-1f gap
-1338/bt.P/236H/10f gap
-1339/bt.P/214S/8f gap
-1340/bt.P/bt.214K/17f gap
-1341/bt.P/bt.214H/16f gap
-1342/bt.P/632146S/-8f gap
-1343/bt.P/632146H/-2f gap
-1344/bt.P/bt.P/9f gap
-1345/bt.P/bt.K/-8f gap
-1346/bt.P/bt.S/-7f gap
-1347/bt.P/bt.H/5f gap
-1348/bt.P/236[H]/12f gap
-1349/bt.P/bt.[P]/9f gap
-1350/bt.P/bt.[K]/7f gap
-1351/bt.P/bt.[S]/8f gap
-1352/bt.P/bt.[H]/20f gap
-1353/bt.K/5P/2f gap
-1354/bt.K/5K/6f gap
-1355/bt.K/c.S/4f gap
-1356/bt.K/f.S/9f gap
-1357/bt.K/5H/12f gap
-1358/bt.K/2P/3f gap
-1359/bt.K/2K/4f gap
-1360/bt.K/2S/7f gap
-1361/bt.K/2H/9f gap
-1362/bt.K/j.P/-1f gap
-1363/bt.K/j.K/4f gap
-1364/bt.K/j.S/1f gap
-1365/bt.K/j.H/5f gap
-1366/bt.K/j.D/16f gap
-1367/bt.K/6P/7f gap
-1368/bt.K/6K/11f gap
-1369/bt.K/6H/25f gap
-1370/bt.K/2D/9f gap
-1371/bt.K/5D/17f gap
-1372/bt.K/5[D]/25f gap
-1373/bt.K/"[s/h] h/s"/7f gap
-1374/bt.K/[4]6S/-1f gap
-1375/bt.K/[4]6H/12f gap
-1376/bt.K/[2]8S/-2f gap
-1377/bt.K/[2]8H/-1f gap
-1378/bt.K/236S/1f gap
-1379/bt.K/236H/12f gap
-1380/bt.K/214S/10f gap
-1381/bt.K/bt.214K/19f gap
-1382/bt.K/bt.214H/18f gap
-1383/bt.K/632146S/-6f gap
-1384/bt.K/632146H/0f gap
-1385/bt.K/bt.P/-4f gap
-1386/bt.K/bt.K/2f gap
-1387/bt.K/bt.S/-5f gap
-1388/bt.K/bt.H/7f gap
-1389/bt.K/236[H]/14f gap
-1390/bt.K/bt.[P]/4f gap
-1391/bt.K/bt.[K]/2f gap
-1392/bt.K/bt.[S]/3f gap
-1393/bt.K/bt.[H]/15f gap
-1394/bt.S/5P/8f gap
-1395/bt.S/5K/12f gap
-1396/bt.S/c.S/10f gap
-1397/bt.S/f.S/15f gap
-1398/bt.S/5H/18f gap
-1399/bt.S/2P/9f gap
-1400/bt.S/2K/10f gap
-1401/bt.S/2S/13f gap
-1402/bt.S/2H/15f gap
-1403/bt.S/j.P/13f gap
-1404/bt.S/j.K/18f gap
-1405/bt.S/j.S/15f gap
-1406/bt.S/j.H/19f gap
-1407/bt.S/j.D/30f gap
-1408/bt.S/6P/13f gap
-1409/bt.S/6K/17f gap
-1410/bt.S/6H/31f gap
-1411/bt.S/2D/15f gap
-1412/bt.S/5D/23f gap
-1413/bt.S/5[D]/31f gap
-1414/bt.S/"[s/h] h/s"/13f gap
-1415/bt.S/[4]6S/-6f gap
-1416/bt.S/[4]6H/7f gap
-1417/bt.S/[2]8S/-7f gap
-1418/bt.S/[2]8H/-6f gap
-1419/bt.S/236S/-4f gap
-1420/bt.S/236H/7f gap
-1421/bt.S/214S/5f gap
-1422/bt.S/bt.214K/14f gap
-1423/bt.S/bt.214H/13f gap
-1424/bt.S/632146S/-11f gap
-1425/bt.S/632146H/-5f gap
-1426/bt.S/bt.P/10f gap
-1427/bt.S/bt.K/8f gap
-1428/bt.S/bt.S/9f gap
-1429/bt.S/bt.H/2f gap
-1430/bt.S/236[H]/9f gap
-1431/bt.S/bt.[P]/10f gap
-1432/bt.S/bt.[K]/8f gap
-1433/bt.S/bt.[S]/9f gap
-1434/bt.S/bt.[H]/21f gap
-1435/bt.H/5P/12f gap
-1436/bt.H/5K/16f gap
-1437/bt.H/c.S/14f gap
-1438/bt.H/f.S/19f gap
-1439/bt.H/5H/22f gap
-1440/bt.H/2P/13f gap
-1441/bt.H/2K/14f gap
-1442/bt.H/2S/17f gap
-1443/bt.H/2H/19f gap
-1444/bt.H/j.P/17f gap
-1445/bt.H/j.K/22f gap
-1446/bt.H/j.S/19f gap
-1447/bt.H/j.H/23f gap
-1448/bt.H/j.D/34f gap
-1449/bt.H/6P/17f gap
-1450/bt.H/6K/21f gap
-1451/bt.H/6H/35f gap
-1452/bt.H/2D/19f gap
-1453/bt.H/5D/27f gap
-1454/bt.H/5[D]/35f gap
-1455/bt.H/"[s/h] h/s"/17f gap
-1456/bt.H/[4]6S/-8f gap
-1457/bt.H/[4]6H/5f gap
-1458/bt.H/[2]8S/-9f gap
-1459/bt.H/[2]8H/-8f gap
-1460/bt.H/236S/-6f gap
-1461/bt.H/236H/5f gap
-1462/bt.H/214S/3f gap
-1463/bt.H/bt.214K/12f gap
-1464/bt.H/bt.214H/11f gap
-1465/bt.H/632146S/-13f gap
-1466/bt.H/632146H/-7f gap
-1467/bt.H/bt.P/14f gap
-1468/bt.H/bt.K/12f gap
-1469/bt.H/bt.S/13f gap
-1470/bt.H/bt.H/25f gap
-1471/bt.H/236[H]/7f gap
-1472/bt.H/bt.[P]/14f gap
-1473/bt.H/bt.[K]/12f gap
-1474/bt.H/bt.[S]/13f gap
-1475/bt.H/bt.[H]/25f gap
-1476/236[H]/5P/3f gap
-1477/236[H]/5K/7f gap
-1478/236[H]/c.S/5f gap
-1479/236[H]/f.S/10f gap
-1480/236[H]/5H/13f gap
-1481/236[H]/2P/4f gap
-1482/236[H]/2K/5f gap
-1483/236[H]/2S/8f gap
-1484/236[H]/2H/10f gap
-1485/236[H]/j.P/8f gap
-1486/236[H]/j.K/13f gap
-1487/236[H]/j.S/10f gap
-1488/236[H]/j.H/14f gap
-1489/236[H]/j.D/25f gap
-1490/236[H]/6P/8f gap
-1491/236[H]/6K/12f gap
-1492/236[H]/6H/26f gap
-1493/236[H]/2D/10f gap
-1494/236[H]/5D/18f gap
-1495/236[H]/5[D]/26f gap
-1496/236[H]/"[s/h] h/s"/8f gap
-1497/236[H]/[4]6S/8f gap
-1498/236[H]/[4]6H/21f gap
-1499/236[H]/[2]8S/7f gap
-1500/236[H]/[2]8H/8f gap
-1501/236[H]/236S/10f gap
-1502/236[H]/236H/21f gap
-1503/236[H]/214S/19f gap
-1504/236[H]/bt.214K/28f gap
-1505/236[H]/bt.214H/27f gap
-1506/236[H]/632146S/3f gap
-1507/236[H]/632146H/9f gap
-1508/236[H]/bt.P/5f gap
-1509/236[H]/bt.K/3f gap
-1510/236[H]/bt.S/4f gap
-1511/236[H]/bt.H/16f gap
-1512/236[H]/236[H]/23f gap
-1513/236[H]/bt.[P]/5f gap
-1514/236[H]/bt.[K]/3f gap
-1515/236[H]/bt.[S]/4f gap
-1516/236[H]/bt.[H]/16f gap
-1517/bt.[P]/5P/3f gap
-1518/bt.[P]/5K/7f gap
-1519/bt.[P]/c.S/5f gap
-1520/bt.[P]/f.S/10f gap
-1521/bt.[P]/5H/13f gap
-1522/bt.[P]/2P/4f gap
-1523/bt.[P]/2K/5f gap
-1524/bt.[P]/2S/8f gap
-1525/bt.[P]/2H/10f gap
-1526/bt.[P]/j.P/8f gap
-1527/bt.[P]/j.K/13f gap
-1528/bt.[P]/j.S/10f gap
-1529/bt.[P]/j.H/14f gap
-1530/bt.[P]/j.D/25f gap
-1531/bt.[P]/6P/8f gap
-1532/bt.[P]/6K/12f gap
-1533/bt.[P]/6H/26f gap
-1534/bt.[P]/2D/10f gap
-1535/bt.[P]/5D/18f gap
-1536/bt.[P]/5[D]/26f gap
-1537/bt.[P]/"[s/h] h/s"/8f gap
-1538/bt.[P]/[4]6S/8f gap
-1539/bt.[P]/[4]6H/21f gap
-1540/bt.[P]/[2]8S/7f gap
-1541/bt.[P]/[2]8H/8f gap
-1542/bt.[P]/236S/10f gap
-1543/bt.[P]/236H/21f gap
-1544/bt.[P]/214S/19f gap
-1545/bt.[P]/bt.214K/28f gap
-1546/bt.[P]/bt.214H/27f gap
-1547/bt.[P]/632146S/3f gap
-1548/bt.[P]/632146H/9f gap
-1549/bt.[P]/bt.P/5f gap
-1550/bt.[P]/bt.K/3f gap
-1551/bt.[P]/bt.S/4f gap
-1552/bt.[P]/bt.H/16f gap
-1553/bt.[P]/236[H]/23f gap
-1554/bt.[P]/bt.[P]/5f gap
-1555/bt.[P]/bt.[K]/3f gap
-1556/bt.[P]/bt.[S]/4f gap
-1557/bt.[P]/bt.[H]/16f gap
-1558/bt.[K]/5P/5f gap
-1559/bt.[K]/5K/9f gap
-1560/bt.[K]/c.S/7f gap
-1561/bt.[K]/f.S/12f gap
-1562/bt.[K]/5H/15f gap
-1563/bt.[K]/2P/6f gap
-1564/bt.[K]/2K/7f gap
-1565/bt.[K]/2S/10f gap
-1566/bt.[K]/2H/12f gap
-1567/bt.[K]/j.P/10f gap
-1568/bt.[K]/j.K/15f gap
-1569/bt.[K]/j.S/12f gap
-1570/bt.[K]/j.H/16f gap
-1571/bt.[K]/j.D/27f gap
-1572/bt.[K]/6P/10f gap
-1573/bt.[K]/6K/14f gap
-1574/bt.[K]/6H/28f gap
-1575/bt.[K]/2D/12f gap
-1576/bt.[K]/5D/20f gap
-1577/bt.[K]/5[D]/28f gap
-1578/bt.[K]/"[s/h] h/s"/10f gap
-1579/bt.[K]/[4]6S/10f gap
-1580/bt.[K]/[4]6H/23f gap
-1581/bt.[K]/[2]8S/9f gap
-1582/bt.[K]/[2]8H/10f gap
-1583/bt.[K]/236S/12f gap
-1584/bt.[K]/236H/23f gap
-1585/bt.[K]/214S/21f gap
-1586/bt.[K]/bt.214K/30f gap
-1587/bt.[K]/bt.214H/29f gap
-1588/bt.[K]/632146S/5f gap
-1589/bt.[K]/632146H/11f gap
-1590/bt.[K]/bt.P/7f gap
-1591/bt.[K]/bt.K/5f gap
-1592/bt.[K]/bt.S/6f gap
-1593/bt.[K]/bt.H/18f gap
-1594/bt.[K]/236[H]/25f gap
-1595/bt.[K]/bt.[P]/7f gap
-1596/bt.[K]/bt.[K]/5f gap
-1597/bt.[K]/bt.[S]/6f gap
-1598/bt.[K]/bt.[H]/18f gap
-1599/bt.[S]/5P/0f gap
-1600/bt.[S]/5K/4f gap
-1601/bt.[S]/c.S/2f gap
-1602/bt.[S]/f.S/7f gap
-1603/bt.[S]/5H/10f gap
-1604/bt.[S]/2P/1f gap
-1605/bt.[S]/2K/2f gap
-1606/bt.[S]/2S/5f gap
-1607/bt.[S]/2H/7f gap
-1608/bt.[S]/j.P/5f gap
-1609/bt.[S]/j.K/10f gap
-1610/bt.[S]/j.S/7f gap
-1611/bt.[S]/j.H/11f gap
-1612/bt.[S]/j.D/22f gap
-1613/bt.[S]/6P/5f gap
-1614/bt.[S]/6K/9f gap
-1615/bt.[S]/6H/23f gap
-1616/bt.[S]/2D/7f gap
-1617/bt.[S]/5D/15f gap
-1618/bt.[S]/5[D]/23f gap
-1619/bt.[S]/"[s/h] h/s"/5f gap
-1620/bt.[S]/[4]6S/5f gap
-1621/bt.[S]/[4]6H/18f gap
-1622/bt.[S]/[2]8S/4f gap
-1623/bt.[S]/[2]8H/5f gap
-1624/bt.[S]/236S/7f gap
-1625/bt.[S]/236H/18f gap
-1626/bt.[S]/214S/16f gap
-1627/bt.[S]/bt.214K/25f gap
-1628/bt.[S]/bt.214H/24f gap
-1629/bt.[S]/632146S/0f gap
-1630/bt.[S]/632146H/6f gap
-1631/bt.[S]/bt.P/2f gap
-1632/bt.[S]/bt.K/0f gap
-1633/bt.[S]/bt.S/1f gap
-1634/bt.[S]/bt.H/13f gap
-1635/bt.[S]/236[H]/20f gap
-1636/bt.[S]/bt.[P]/2f gap
-1637/bt.[S]/bt.[K]/0f gap
-1638/bt.[S]/bt.[S]/1f gap
-1639/bt.[S]/bt.[H]/13f gap
-1640/bt.[H]/5P/0f gap
-1641/bt.[H]/5K/4f gap
-1642/bt.[H]/c.S/2f gap
-1643/bt.[H]/f.S/7f gap
-1644/bt.[H]/5H/10f gap
-1645/bt.[H]/2P/1f gap
-1646/bt.[H]/2K/2f gap
-1647/bt.[H]/2S/5f gap
-1648/bt.[H]/2H/7f gap
-1649/bt.[H]/j.P/5f gap
-1650/bt.[H]/j.K/10f gap
-1651/bt.[H]/j.S/7f gap
-1652/bt.[H]/j.H/11f gap
-1653/bt.[H]/j.D/22f gap
-1654/bt.[H]/6P/5f gap
-1655/bt.[H]/6K/9f gap
-1656/bt.[H]/6H/23f gap
-1657/bt.[H]/2D/7f gap
-1658/bt.[H]/5D/15f gap
-1659/bt.[H]/5[D]/23f gap
-1660/bt.[H]/"[s/h] h/s"/5f gap
-1661/bt.[H]/[4]6S/5f gap
-1662/bt.[H]/[4]6H/18f gap
-1663/bt.[H]/[2]8S/4f gap
-1664/bt.[H]/[2]8H/5f gap
-1665/bt.[H]/236S/7f gap
-1666/bt.[H]/236H/18f gap
-1667/bt.[H]/214S/16f gap
-1668/bt.[H]/bt.214K/25f gap
-1669/bt.[H]/bt.214H/24f gap
-1670/bt.[H]/632146S/0f gap
-1671/bt.[H]/632146H/6f gap
-1672/bt.[H]/bt.P/2f gap
-1673/bt.[H]/bt.K/0f gap
-1674/bt.[H]/bt.S/1f gap
-1675/bt.[H]/bt.H/13f gap
-1676/bt.[H]/236[H]/20f gap
-1677/bt.[H]/bt.[P]/2f gap
-1678/bt.[H]/bt.[K]/0f gap
-1679/bt.[H]/bt.[S]/1f gap
-1680/bt.[H]/bt.[H]/13f gap
+41/5P/236D/7f gap
+42/5P/236[D]/19f gap
+43/5K/5P/8f gap
+44/5K/5K/12f gap
+45/5K/c.S/10f gap
+46/5K/f.S/15f gap
+47/5K/5H/18f gap
+48/5K/2P/9f gap
+49/5K/2K/10f gap
+50/5K/2S/13f gap
+51/5K/2H/15f gap
+52/5K/j.P/-3f gap
+53/5K/j.K/2f gap
+54/5K/j.S/-1f gap
+55/5K/j.H/3f gap
+56/5K/j.D/14f gap
+57/5K/6P/-3f gap
+58/5K/6K/1f gap
+59/5K/6H/15f gap
+60/5K/2D/-1f gap
+61/5K/5D/7f gap
+62/5K/5[D]/31f gap
+63/5K/"[s/h] h/s"/13f gap
+64/5K/[4]6S/-3f gap
+65/5K/[4]6H/10f gap
+66/5K/[2]8S/-4f gap
+67/5K/[2]8H/-3f gap
+68/5K/236S/-1f gap
+69/5K/236H/12f gap
+70/5K/214S/8f gap
+71/5K/bt.214K/17f gap
+72/5K/bt.214H/16f gap
+73/5K/632146S/-8f gap
+74/5K/632146H/-2f gap
+75/5K/bt.P/10f gap
+76/5K/bt.K/8f gap
+77/5K/bt.S/9f gap
+78/5K/bt.H/21f gap
+79/5K/236[H]/14f gap
+80/5K/bt.[P]/10f gap
+81/5K/bt.[K]/8f gap
+82/5K/bt.[S]/9f gap
+83/5K/bt.[H]/21f gap
+84/5K/236D/3f gap
+85/5K/236[D]/15f gap
+86/c.S/5P/4f gap
+87/c.S/5K/8f gap
+88/c.S/c.S/6f gap
+89/c.S/f.S/-4f gap
+90/c.S/5H/-1f gap
+91/c.S/2P/5f gap
+92/c.S/2K/6f gap
+93/c.S/2S/-6f gap
+94/c.S/2H/-4f gap
+95/c.S/j.P/-6f gap
+96/c.S/j.K/-1f gap
+97/c.S/j.S/-4f gap
+98/c.S/j.H/0f gap
+99/c.S/j.D/11f gap
+100/c.S/6P/-6f gap
+101/c.S/6K/-2f gap
+102/c.S/6H/12f gap
+103/c.S/2D/-4f gap
+104/c.S/5D/4f gap
+105/c.S/5[D]/27f gap
+106/c.S/"[s/h] h/s"/9f gap
+107/c.S/[4]6S/-6f gap
+108/c.S/[4]6H/7f gap
+109/c.S/[2]8S/-7f gap
+110/c.S/[2]8H/-6f gap
+111/c.S/236S/-4f gap
+112/c.S/236H/9f gap
+113/c.S/214S/5f gap
+114/c.S/bt.214K/14f gap
+115/c.S/bt.214H/13f gap
+116/c.S/632146S/-11f gap
+117/c.S/632146H/-5f gap
+118/c.S/bt.P/6f gap
+119/c.S/bt.K/4f gap
+120/c.S/bt.S/5f gap
+121/c.S/bt.H/17f gap
+122/c.S/236[H]/11f gap
+123/c.S/bt.[P]/6f gap
+124/c.S/bt.[K]/4f gap
+125/c.S/bt.[S]/5f gap
+126/c.S/bt.[H]/17f gap
+127/c.S/236D/0f gap
+128/c.S/236[D]/12f gap
+129/f.S/5P/18f gap
+130/f.S/5K/22f gap
+131/f.S/c.S/20f gap
+132/f.S/f.S/25f gap
+133/f.S/5H/2f gap
+134/f.S/2P/19f gap
+135/f.S/2K/20f gap
+136/f.S/2S/23f gap
+137/f.S/2H/-1f gap
+138/f.S/j.P/23f gap
+139/f.S/j.K/28f gap
+140/f.S/j.S/25f gap
+141/f.S/j.H/29f gap
+142/f.S/j.D/40f gap
+143/f.S/6P/23f gap
+144/f.S/6K/27f gap
+145/f.S/6H/15f gap
+146/f.S/2D/25f gap
+147/f.S/5D/33f gap
+148/f.S/5[D]/41f gap
+149/f.S/"[s/h] h/s"/23f gap
+150/f.S/[4]6S/-3f gap
+151/f.S/[4]6H/10f gap
+152/f.S/[2]8S/-4f gap
+153/f.S/[2]8H/-3f gap
+154/f.S/236S/-1f gap
+155/f.S/236H/12f gap
+156/f.S/214S/8f gap
+157/f.S/bt.214K/17f gap
+158/f.S/bt.214H/16f gap
+159/f.S/632146S/-8f gap
+160/f.S/632146H/-2f gap
+161/f.S/bt.P/20f gap
+162/f.S/bt.K/18f gap
+163/f.S/bt.S/19f gap
+164/f.S/bt.H/31f gap
+165/f.S/236[H]/14f gap
+166/f.S/bt.[P]/20f gap
+167/f.S/bt.[K]/18f gap
+168/f.S/bt.[S]/19f gap
+169/f.S/bt.[H]/31f gap
+170/f.S/236D/3f gap
+171/f.S/236[D]/15f gap
+172/5H/5P/13f gap
+173/5H/5K/17f gap
+174/5H/c.S/15f gap
+175/5H/f.S/-6f gap
+176/5H/5H/23f gap
+177/5H/2P/14f gap
+178/5H/2K/15f gap
+179/5H/2S/-8f gap
+180/5H/2H/20f gap
+181/5H/j.P/18f gap
+182/5H/j.K/23f gap
+183/5H/j.S/20f gap
+184/5H/j.H/24f gap
+185/5H/j.D/35f gap
+186/5H/6P/18f gap
+187/5H/6K/22f gap
+188/5H/6H/36f gap
+189/5H/2D/20f gap
+190/5H/5D/28f gap
+191/5H/5[D]/36f gap
+192/5H/"[s/h] h/s"/18f gap
+193/5H/[4]6S/-8f gap
+194/5H/[4]6H/5f gap
+195/5H/[2]8S/-9f gap
+196/5H/[2]8H/-8f gap
+197/5H/236S/-6f gap
+198/5H/236H/7f gap
+199/5H/214S/3f gap
+200/5H/bt.214K/12f gap
+201/5H/bt.214H/11f gap
+202/5H/632146S/-13f gap
+203/5H/632146H/-7f gap
+204/5H/bt.P/15f gap
+205/5H/bt.K/13f gap
+206/5H/bt.S/14f gap
+207/5H/bt.H/26f gap
+208/5H/236[H]/9f gap
+209/5H/bt.[P]/15f gap
+210/5H/bt.[K]/13f gap
+211/5H/bt.[S]/14f gap
+212/5H/bt.[H]/26f gap
+213/5H/236D/-2f gap
+214/5H/236[D]/10f gap
+215/2P/5P/-4f gap
+216/2P/5K/11f gap
+217/2P/c.S/9f gap
+218/2P/f.S/14f gap
+219/2P/5H/17f gap
+220/2P/2P/-3f gap
+221/2P/2K/9f gap
+222/2P/2S/12f gap
+223/2P/2H/14f gap
+224/2P/j.P/12f gap
+225/2P/j.K/17f gap
+226/2P/j.S/14f gap
+227/2P/j.H/18f gap
+228/2P/j.D/29f gap
+229/2P/6P/1f gap
+230/2P/6K/5f gap
+231/2P/6H/19f gap
+232/2P/2D/14f gap
+233/2P/5D/22f gap
+234/2P/5[D]/30f gap
+235/2P/"[s/h] h/s"/12f gap
+236/2P/[4]6S/1f gap
+237/2P/[4]6H/14f gap
+238/2P/[2]8S/0f gap
+239/2P/[2]8H/1f gap
+240/2P/236S/3f gap
+241/2P/236H/16f gap
+242/2P/214S/12f gap
+243/2P/bt.214K/21f gap
+244/2P/bt.214H/20f gap
+245/2P/632146S/-4f gap
+246/2P/632146H/2f gap
+247/2P/bt.P/9f gap
+248/2P/bt.K/7f gap
+249/2P/bt.S/8f gap
+250/2P/bt.H/20f gap
+251/2P/236[H]/18f gap
+252/2P/bt.[P]/9f gap
+253/2P/bt.[K]/7f gap
+254/2P/bt.[S]/8f gap
+255/2P/bt.[H]/20f gap
+256/2P/236D/7f gap
+257/2P/236[D]/19f gap
+258/2K/5P/10f gap
+259/2K/5K/14f gap
+260/2K/c.S/12f gap
+261/2K/f.S/17f gap
+262/2K/5H/20f gap
+263/2K/2P/11f gap
+264/2K/2K/12f gap
+265/2K/2S/15f gap
+266/2K/2H/17f gap
+267/2K/j.P/15f gap
+268/2K/j.K/20f gap
+269/2K/j.S/17f gap
+270/2K/j.H/21f gap
+271/2K/j.D/32f gap
+272/2K/6P/-1f gap
+273/2K/6K/3f gap
+274/2K/6H/17f gap
+275/2K/2D/1f gap
+276/2K/5D/9f gap
+277/2K/5[D]/33f gap
+278/2K/"[s/h] h/s"/15f gap
+279/2K/[4]6S/-1f gap
+280/2K/[4]6H/12f gap
+281/2K/[2]8S/-2f gap
+282/2K/[2]8H/-1f gap
+283/2K/236S/1f gap
+284/2K/236H/14f gap
+285/2K/214S/10f gap
+286/2K/bt.214K/19f gap
+287/2K/bt.214H/18f gap
+288/2K/632146S/-6f gap
+289/2K/632146H/0f gap
+290/2K/bt.P/12f gap
+291/2K/bt.K/10f gap
+292/2K/bt.S/11f gap
+293/2K/bt.H/23f gap
+294/2K/236[H]/16f gap
+295/2K/bt.[P]/12f gap
+296/2K/bt.[K]/10f gap
+297/2K/bt.[S]/11f gap
+298/2K/bt.[H]/23f gap
+299/2K/236D/5f gap
+300/2K/236[D]/17f gap
+301/2S/5P/7f gap
+302/2S/5K/11f gap
+303/2S/c.S/9f gap
+304/2S/f.S/14f gap
+305/2S/5H/2f gap
+306/2S/2P/8f gap
+307/2S/2K/9f gap
+308/2S/2S/12f gap
+309/2S/2H/-1f gap
+310/2S/j.P/12f gap
+311/2S/j.K/17f gap
+312/2S/j.S/14f gap
+313/2S/j.H/18f gap
+314/2S/j.D/29f gap
+315/2S/6P/12f gap
+316/2S/6K/16f gap
+317/2S/6H/15f gap
+318/2S/2D/14f gap
+319/2S/5D/22f gap
+320/2S/5[D]/30f gap
+321/2S/"[s/h] h/s"/12f gap
+322/2S/[4]6S/-3f gap
+323/2S/[4]6H/10f gap
+324/2S/[2]8S/-4f gap
+325/2S/[2]8H/-3f gap
+326/2S/236S/-1f gap
+327/2S/236H/12f gap
+328/2S/214S/8f gap
+329/2S/bt.214K/17f gap
+330/2S/bt.214H/16f gap
+331/2S/632146S/-8f gap
+332/2S/632146H/-2f gap
+333/2S/bt.P/9f gap
+334/2S/bt.K/7f gap
+335/2S/bt.S/8f gap
+336/2S/bt.H/20f gap
+337/2S/236[H]/14f gap
+338/2S/bt.[P]/9f gap
+339/2S/bt.[K]/7f gap
+340/2S/bt.[S]/8f gap
+341/2S/bt.[H]/20f gap
+342/2S/236D/3f gap
+343/2S/236[D]/15f gap
+344/2H/5P/25f gap
+345/2H/5K/29f gap
+346/2H/c.S/27f gap
+347/2H/f.S/-4f gap
+348/2H/5H/35f gap
+349/2H/2P/26f gap
+350/2H/2K/27f gap
+351/2H/2S/-6f gap
+352/2H/2H/32f gap
+353/2H/j.P/30f gap
+354/2H/j.K/35f gap
+355/2H/j.S/32f gap
+356/2H/j.H/36f gap
+357/2H/j.D/47f gap
+358/2H/6P/30f gap
+359/2H/6K/34f gap
+360/2H/6H/48f gap
+361/2H/2D/32f gap
+362/2H/5D/40f gap
+363/2H/5[D]/48f gap
+364/2H/"[s/h] h/s"/30f gap
+365/2H/[4]6S/-6f gap
+366/2H/[4]6H/7f gap
+367/2H/[2]8S/-7f gap
+368/2H/[2]8H/-6f gap
+369/2H/236S/-4f gap
+370/2H/236H/9f gap
+371/2H/214S/5f gap
+372/2H/bt.214K/14f gap
+373/2H/bt.214H/13f gap
+374/2H/632146S/-11f gap
+375/2H/632146H/-5f gap
+376/2H/bt.P/27f gap
+377/2H/bt.K/25f gap
+378/2H/bt.S/26f gap
+379/2H/bt.H/38f gap
+380/2H/236[H]/11f gap
+381/2H/bt.[P]/27f gap
+382/2H/bt.[K]/25f gap
+383/2H/bt.[S]/26f gap
+384/2H/bt.[H]/38f gap
+385/2H/236D/0f gap
+386/2H/236[D]/12f gap
+387/j.P/5P/j.P has 9f of blockstun, while 5P has 5f of startup
+388/j.P/5K/j.P has 9f of blockstun, while 5K has 9f of startup
+389/j.P/c.S/j.P has 9f of blockstun, while c.S has 7f of startup
+390/j.P/f.S/j.P has 9f of blockstun, while f.S has 12f of startup
+391/j.P/5H/j.P has 9f of blockstun, while 5H has 15f of startup
+392/j.P/2P/j.P has 9f of blockstun, while 2P has 6f of startup
+393/j.P/2K/j.P has 9f of blockstun, while 2K has 7f of startup
+394/j.P/2S/j.P has 9f of blockstun, while 2S has 10f of startup
+395/j.P/2H/j.P has 9f of blockstun, while 2H has 12f of startup
+396/j.P/j.P/-4f gap
+397/j.P/j.K/j.P has 9f of blockstun, while j.K has 10f of startup
+398/j.P/j.S/j.P has 9f of blockstun, while j.S has 7f of startup
+399/j.P/j.H/j.P has 9f of blockstun, while j.H has 11f of startup
+400/j.P/j.D/j.P has 9f of blockstun, while j.D has 22f of startup
+401/j.P/6P/j.P has 9f of blockstun, while 6P has 10f of startup
+402/j.P/6K/j.P has 9f of blockstun, while 6K has 14f of startup
+403/j.P/6H/j.P has 9f of blockstun, while 6H has 28f of startup
+404/j.P/2D/j.P has 9f of blockstun, while 2D has 12f of startup
+405/j.P/5D/j.P has 9f of blockstun, while 5D has 20f of startup
+406/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28f of startup
+407/j.P/"[s/h] h/s"/"j.P has 9f of blockstun, while [s/h] h/s has 10f of startup"
+408/j.P/[4]6S/j.P has 9f of blockstun, while [4]6S has 10f of startup
+409/j.P/[4]6H/j.P has 9f of blockstun, while [4]6H has 23f of startup
+410/j.P/[2]8S/j.P has 9f of blockstun, while [2]8S has 9f of startup
+411/j.P/[2]8H/j.P has 9f of blockstun, while [2]8H has 10f of startup
+412/j.P/236S/j.P has 9f of blockstun, while 236S has 12f of startup
+413/j.P/236H/j.P has 9f of blockstun, while 236H has 25f of startup
+414/j.P/214S/j.P has 9f of blockstun, while 214S has 21f of startup
+415/j.P/bt.214K/j.P has 9f of blockstun, while bt.214K has 30f of startup
+416/j.P/bt.214H/j.P has 9f of blockstun, while bt.214H has 29f of startup
+417/j.P/632146S/j.P has 9f of blockstun, while 632146S has 5f of startup
+418/j.P/632146H/j.P has 9f of blockstun, while 632146H has 11f of startup
+419/j.P/bt.P/j.P has 9f of blockstun, while bt.P has 7f of startup
+420/j.P/bt.K/j.P has 9f of blockstun, while bt.K has 5f of startup
+421/j.P/bt.S/j.P has 9f of blockstun, while bt.S has 6f of startup
+422/j.P/bt.H/j.P has 9f of blockstun, while bt.H has 18f of startup
+423/j.P/236[H]/j.P has 9f of blockstun, while 236[H] has 27f of startup
+424/j.P/bt.[P]/j.P has 9f of blockstun, while bt.[P] has 7f of startup
+425/j.P/bt.[K]/j.P has 9f of blockstun, while bt.[K] has 5f of startup
+426/j.P/bt.[S]/j.P has 9f of blockstun, while bt.[S] has 6f of startup
+427/j.P/bt.[H]/j.P has 9f of blockstun, while bt.[H] has 18f of startup
+428/j.P/236D/j.P has 9f of blockstun, while 236D has 16f of startup
+429/j.P/236[D]/j.P has 9f of blockstun, while 236[D] has 28f of startup
+430/j.K/5P/j.K has 11f of blockstun, while 5P has 5f of startup
+431/j.K/5K/j.K has 11f of blockstun, while 5K has 9f of startup
+432/j.K/c.S/j.K has 11f of blockstun, while c.S has 7f of startup
+433/j.K/f.S/j.K has 11f of blockstun, while f.S has 12f of startup
+434/j.K/5H/j.K has 11f of blockstun, while 5H has 15f of startup
+435/j.K/2P/j.K has 11f of blockstun, while 2P has 6f of startup
+436/j.K/2K/j.K has 11f of blockstun, while 2K has 7f of startup
+437/j.K/2S/j.K has 11f of blockstun, while 2S has 10f of startup
+438/j.K/2H/j.K has 11f of blockstun, while 2H has 12f of startup
+439/j.K/j.P/j.K has 11f of blockstun, while j.P has 5f of startup
+440/j.K/j.K/j.K has 11f of blockstun, while j.K has 10f of startup
+441/j.K/j.S/j.K has 11f of blockstun, while j.S has 7f of startup
+442/j.K/j.H/j.K has 11f of blockstun, while j.H has 11f of startup
+443/j.K/j.D/11f gap
+444/j.K/6P/j.K has 11f of blockstun, while 6P has 10f of startup
+445/j.K/6K/j.K has 11f of blockstun, while 6K has 14f of startup
+446/j.K/6H/j.K has 11f of blockstun, while 6H has 28f of startup
+447/j.K/2D/j.K has 11f of blockstun, while 2D has 12f of startup
+448/j.K/5D/j.K has 11f of blockstun, while 5D has 20f of startup
+449/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28f of startup
+450/j.K/"[s/h] h/s"/"j.K has 11f of blockstun, while [s/h] h/s has 10f of startup"
+451/j.K/[4]6S/j.K has 11f of blockstun, while [4]6S has 10f of startup
+452/j.K/[4]6H/j.K has 11f of blockstun, while [4]6H has 23f of startup
+453/j.K/[2]8S/j.K has 11f of blockstun, while [2]8S has 9f of startup
+454/j.K/[2]8H/j.K has 11f of blockstun, while [2]8H has 10f of startup
+455/j.K/236S/j.K has 11f of blockstun, while 236S has 12f of startup
+456/j.K/236H/j.K has 11f of blockstun, while 236H has 25f of startup
+457/j.K/214S/j.K has 11f of blockstun, while 214S has 21f of startup
+458/j.K/bt.214K/j.K has 11f of blockstun, while bt.214K has 30f of startup
+459/j.K/bt.214H/j.K has 11f of blockstun, while bt.214H has 29f of startup
+460/j.K/632146S/j.K has 11f of blockstun, while 632146S has 5f of startup
+461/j.K/632146H/j.K has 11f of blockstun, while 632146H has 11f of startup
+462/j.K/bt.P/j.K has 11f of blockstun, while bt.P has 7f of startup
+463/j.K/bt.K/j.K has 11f of blockstun, while bt.K has 5f of startup
+464/j.K/bt.S/j.K has 11f of blockstun, while bt.S has 6f of startup
+465/j.K/bt.H/j.K has 11f of blockstun, while bt.H has 18f of startup
+466/j.K/236[H]/j.K has 11f of blockstun, while 236[H] has 27f of startup
+467/j.K/bt.[P]/j.K has 11f of blockstun, while bt.[P] has 7f of startup
+468/j.K/bt.[K]/j.K has 11f of blockstun, while bt.[K] has 5f of startup
+469/j.K/bt.[S]/j.K has 11f of blockstun, while bt.[S] has 6f of startup
+470/j.K/bt.[H]/j.K has 11f of blockstun, while bt.[H] has 18f of startup
+471/j.K/236D/j.K has 11f of blockstun, while 236D has 16f of startup
+472/j.K/236[D]/j.K has 11f of blockstun, while 236[D] has 28f of startup
+473/j.S/5P/j.S has 13f of blockstun, while 5P has 5f of startup
+474/j.S/5K/j.S has 13f of blockstun, while 5K has 9f of startup
+475/j.S/c.S/j.S has 13f of blockstun, while c.S has 7f of startup
+476/j.S/f.S/j.S has 13f of blockstun, while f.S has 12f of startup
+477/j.S/5H/j.S has 13f of blockstun, while 5H has 15f of startup
+478/j.S/2P/j.S has 13f of blockstun, while 2P has 6f of startup
+479/j.S/2K/j.S has 13f of blockstun, while 2K has 7f of startup
+480/j.S/2S/j.S has 13f of blockstun, while 2S has 10f of startup
+481/j.S/2H/j.S has 13f of blockstun, while 2H has 12f of startup
+482/j.S/j.P/j.S has 13f of blockstun, while j.P has 5f of startup
+483/j.S/j.K/j.S has 13f of blockstun, while j.K has 10f of startup
+484/j.S/j.S/j.S has 13f of blockstun, while j.S has 7f of startup
+485/j.S/j.H/-2f gap
+486/j.S/j.D/9f gap
+487/j.S/6P/j.S has 13f of blockstun, while 6P has 10f of startup
+488/j.S/6K/j.S has 13f of blockstun, while 6K has 14f of startup
+489/j.S/6H/j.S has 13f of blockstun, while 6H has 28f of startup
+490/j.S/2D/j.S has 13f of blockstun, while 2D has 12f of startup
+491/j.S/5D/j.S has 13f of blockstun, while 5D has 20f of startup
+492/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28f of startup
+493/j.S/"[s/h] h/s"/"j.S has 13f of blockstun, while [s/h] h/s has 10f of startup"
+494/j.S/[4]6S/j.S has 13f of blockstun, while [4]6S has 10f of startup
+495/j.S/[4]6H/j.S has 13f of blockstun, while [4]6H has 23f of startup
+496/j.S/[2]8S/j.S has 13f of blockstun, while [2]8S has 9f of startup
+497/j.S/[2]8H/j.S has 13f of blockstun, while [2]8H has 10f of startup
+498/j.S/236S/j.S has 13f of blockstun, while 236S has 12f of startup
+499/j.S/236H/j.S has 13f of blockstun, while 236H has 25f of startup
+500/j.S/214S/j.S has 13f of blockstun, while 214S has 21f of startup
+501/j.S/bt.214K/j.S has 13f of blockstun, while bt.214K has 30f of startup
+502/j.S/bt.214H/j.S has 13f of blockstun, while bt.214H has 29f of startup
+503/j.S/632146S/j.S has 13f of blockstun, while 632146S has 5f of startup
+504/j.S/632146H/j.S has 13f of blockstun, while 632146H has 11f of startup
+505/j.S/bt.P/j.S has 13f of blockstun, while bt.P has 7f of startup
+506/j.S/bt.K/j.S has 13f of blockstun, while bt.K has 5f of startup
+507/j.S/bt.S/j.S has 13f of blockstun, while bt.S has 6f of startup
+508/j.S/bt.H/j.S has 13f of blockstun, while bt.H has 18f of startup
+509/j.S/236[H]/j.S has 13f of blockstun, while 236[H] has 27f of startup
+510/j.S/bt.[P]/j.S has 13f of blockstun, while bt.[P] has 7f of startup
+511/j.S/bt.[K]/j.S has 13f of blockstun, while bt.[K] has 5f of startup
+512/j.S/bt.[S]/j.S has 13f of blockstun, while bt.[S] has 6f of startup
+513/j.S/bt.[H]/j.S has 13f of blockstun, while bt.[H] has 18f of startup
+514/j.S/236D/j.S has 13f of blockstun, while 236D has 16f of startup
+515/j.S/236[D]/j.S has 13f of blockstun, while 236[D] has 28f of startup
+516/j.H/5P/j.H has 13f of blockstun, while 5P has 5f of startup
+517/j.H/5K/j.H has 13f of blockstun, while 5K has 9f of startup
+518/j.H/c.S/j.H has 13f of blockstun, while c.S has 7f of startup
+519/j.H/f.S/j.H has 13f of blockstun, while f.S has 12f of startup
+520/j.H/5H/j.H has 13f of blockstun, while 5H has 15f of startup
+521/j.H/2P/j.H has 13f of blockstun, while 2P has 6f of startup
+522/j.H/2K/j.H has 13f of blockstun, while 2K has 7f of startup
+523/j.H/2S/j.H has 13f of blockstun, while 2S has 10f of startup
+524/j.H/2H/j.H has 13f of blockstun, while 2H has 12f of startup
+525/j.H/j.P/j.H has 13f of blockstun, while j.P has 5f of startup
+526/j.H/j.K/j.H has 13f of blockstun, while j.K has 10f of startup
+527/j.H/j.S/j.H has 13f of blockstun, while j.S has 7f of startup
+528/j.H/j.H/j.H has 13f of blockstun, while j.H has 11f of startup
+529/j.H/j.D/9f gap
+530/j.H/6P/j.H has 13f of blockstun, while 6P has 10f of startup
+531/j.H/6K/j.H has 13f of blockstun, while 6K has 14f of startup
+532/j.H/6H/j.H has 13f of blockstun, while 6H has 28f of startup
+533/j.H/2D/j.H has 13f of blockstun, while 2D has 12f of startup
+534/j.H/5D/j.H has 13f of blockstun, while 5D has 20f of startup
+535/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28f of startup
+536/j.H/"[s/h] h/s"/"j.H has 13f of blockstun, while [s/h] h/s has 10f of startup"
+537/j.H/[4]6S/j.H has 13f of blockstun, while [4]6S has 10f of startup
+538/j.H/[4]6H/j.H has 13f of blockstun, while [4]6H has 23f of startup
+539/j.H/[2]8S/j.H has 13f of blockstun, while [2]8S has 9f of startup
+540/j.H/[2]8H/j.H has 13f of blockstun, while [2]8H has 10f of startup
+541/j.H/236S/j.H has 13f of blockstun, while 236S has 12f of startup
+542/j.H/236H/j.H has 13f of blockstun, while 236H has 25f of startup
+543/j.H/214S/j.H has 13f of blockstun, while 214S has 21f of startup
+544/j.H/bt.214K/j.H has 13f of blockstun, while bt.214K has 30f of startup
+545/j.H/bt.214H/j.H has 13f of blockstun, while bt.214H has 29f of startup
+546/j.H/632146S/j.H has 13f of blockstun, while 632146S has 5f of startup
+547/j.H/632146H/j.H has 13f of blockstun, while 632146H has 11f of startup
+548/j.H/bt.P/j.H has 13f of blockstun, while bt.P has 7f of startup
+549/j.H/bt.K/j.H has 13f of blockstun, while bt.K has 5f of startup
+550/j.H/bt.S/j.H has 13f of blockstun, while bt.S has 6f of startup
+551/j.H/bt.H/j.H has 13f of blockstun, while bt.H has 18f of startup
+552/j.H/236[H]/j.H has 13f of blockstun, while 236[H] has 27f of startup
+553/j.H/bt.[P]/j.H has 13f of blockstun, while bt.[P] has 7f of startup
+554/j.H/bt.[K]/j.H has 13f of blockstun, while bt.[K] has 5f of startup
+555/j.H/bt.[S]/j.H has 13f of blockstun, while bt.[S] has 6f of startup
+556/j.H/bt.[H]/j.H has 13f of blockstun, while bt.[H] has 18f of startup
+557/j.H/236D/j.H has 13f of blockstun, while 236D has 16f of startup
+558/j.H/236[D]/j.H has 13f of blockstun, while 236[D] has 28f of startup
+559/j.D/5P/j.D has 13f of blockstun, while 5P has 5f of startup
+560/j.D/5K/j.D has 13f of blockstun, while 5K has 9f of startup
+561/j.D/c.S/j.D has 13f of blockstun, while c.S has 7f of startup
+562/j.D/f.S/j.D has 13f of blockstun, while f.S has 12f of startup
+563/j.D/5H/j.D has 13f of blockstun, while 5H has 15f of startup
+564/j.D/2P/j.D has 13f of blockstun, while 2P has 6f of startup
+565/j.D/2K/j.D has 13f of blockstun, while 2K has 7f of startup
+566/j.D/2S/j.D has 13f of blockstun, while 2S has 10f of startup
+567/j.D/2H/j.D has 13f of blockstun, while 2H has 12f of startup
+568/j.D/j.P/j.D has 13f of blockstun, while j.P has 5f of startup
+569/j.D/j.K/j.D has 13f of blockstun, while j.K has 10f of startup
+570/j.D/j.S/j.D has 13f of blockstun, while j.S has 7f of startup
+571/j.D/j.H/j.D has 13f of blockstun, while j.H has 11f of startup
+572/j.D/j.D/j.D has 13f of blockstun, while j.D has 22f of startup
+573/j.D/6P/j.D has 13f of blockstun, while 6P has 10f of startup
+574/j.D/6K/j.D has 13f of blockstun, while 6K has 14f of startup
+575/j.D/6H/j.D has 13f of blockstun, while 6H has 28f of startup
+576/j.D/2D/j.D has 13f of blockstun, while 2D has 12f of startup
+577/j.D/5D/j.D has 13f of blockstun, while 5D has 20f of startup
+578/j.D/5[D]/j.D has 13f of blockstun, while 5[D] has 28f of startup
+579/j.D/"[s/h] h/s"/"j.D has 13f of blockstun, while [s/h] h/s has 10f of startup"
+580/j.D/[4]6S/j.D has 13f of blockstun, while [4]6S has 10f of startup
+581/j.D/[4]6H/j.D has 13f of blockstun, while [4]6H has 23f of startup
+582/j.D/[2]8S/j.D has 13f of blockstun, while [2]8S has 9f of startup
+583/j.D/[2]8H/j.D has 13f of blockstun, while [2]8H has 10f of startup
+584/j.D/236S/j.D has 13f of blockstun, while 236S has 12f of startup
+585/j.D/236H/j.D has 13f of blockstun, while 236H has 25f of startup
+586/j.D/214S/j.D has 13f of blockstun, while 214S has 21f of startup
+587/j.D/bt.214K/j.D has 13f of blockstun, while bt.214K has 30f of startup
+588/j.D/bt.214H/j.D has 13f of blockstun, while bt.214H has 29f of startup
+589/j.D/632146S/j.D has 13f of blockstun, while 632146S has 5f of startup
+590/j.D/632146H/j.D has 13f of blockstun, while 632146H has 11f of startup
+591/j.D/bt.P/j.D has 13f of blockstun, while bt.P has 7f of startup
+592/j.D/bt.K/j.D has 13f of blockstun, while bt.K has 5f of startup
+593/j.D/bt.S/j.D has 13f of blockstun, while bt.S has 6f of startup
+594/j.D/bt.H/j.D has 13f of blockstun, while bt.H has 18f of startup
+595/j.D/236[H]/j.D has 13f of blockstun, while 236[H] has 27f of startup
+596/j.D/bt.[P]/j.D has 13f of blockstun, while bt.[P] has 7f of startup
+597/j.D/bt.[K]/j.D has 13f of blockstun, while bt.[K] has 5f of startup
+598/j.D/bt.[S]/j.D has 13f of blockstun, while bt.[S] has 6f of startup
+599/j.D/bt.[H]/j.D has 13f of blockstun, while bt.[H] has 18f of startup
+600/j.D/236D/j.D has 13f of blockstun, while 236D has 16f of startup
+601/j.D/236[D]/j.D has 13f of blockstun, while 236[D] has 28f of startup
+602/6P/5P/10f gap
+603/6P/5K/14f gap
+604/6P/c.S/12f gap
+605/6P/f.S/17f gap
+606/6P/5H/20f gap
+607/6P/2P/11f gap
+608/6P/2K/12f gap
+609/6P/2S/15f gap
+610/6P/2H/17f gap
+611/6P/j.P/15f gap
+612/6P/j.K/20f gap
+613/6P/j.S/17f gap
+614/6P/j.H/21f gap
+615/6P/j.D/32f gap
+616/6P/6P/15f gap
+617/6P/6K/19f gap
+618/6P/6H/33f gap
+619/6P/2D/17f gap
+620/6P/5D/25f gap
+621/6P/5[D]/33f gap
+622/6P/"[s/h] h/s"/15f gap
+623/6P/[4]6S/-6f gap
+624/6P/[4]6H/7f gap
+625/6P/[2]8S/-7f gap
+626/6P/[2]8H/-6f gap
+627/6P/236S/-4f gap
+628/6P/236H/9f gap
+629/6P/214S/5f gap
+630/6P/bt.214K/14f gap
+631/6P/bt.214H/13f gap
+632/6P/632146S/-11f gap
+633/6P/632146H/-5f gap
+634/6P/bt.P/12f gap
+635/6P/bt.K/10f gap
+636/6P/bt.S/11f gap
+637/6P/bt.H/23f gap
+638/6P/236[H]/11f gap
+639/6P/bt.[P]/12f gap
+640/6P/bt.[K]/10f gap
+641/6P/bt.[S]/11f gap
+642/6P/bt.[H]/23f gap
+643/6P/236D/0f gap
+644/6P/236[D]/12f gap
+645/6K/5P/9f gap
+646/6K/5K/13f gap
+647/6K/c.S/11f gap
+648/6K/f.S/16f gap
+649/6K/5H/19f gap
+650/6K/2P/10f gap
+651/6K/2K/11f gap
+652/6K/2S/14f gap
+653/6K/2H/16f gap
+654/6K/j.P/14f gap
+655/6K/j.K/19f gap
+656/6K/j.S/16f gap
+657/6K/j.H/20f gap
+658/6K/j.D/31f gap
+659/6K/6P/14f gap
+660/6K/6K/18f gap
+661/6K/6H/32f gap
+662/6K/2D/16f gap
+663/6K/5D/24f gap
+664/6K/5[D]/32f gap
+665/6K/"[s/h] h/s"/14f gap
+666/6K/[4]6S/-6f gap
+667/6K/[4]6H/7f gap
+668/6K/[2]8S/-7f gap
+669/6K/[2]8H/-6f gap
+670/6K/236S/-4f gap
+671/6K/236H/9f gap
+672/6K/214S/5f gap
+673/6K/bt.214K/14f gap
+674/6K/bt.214H/13f gap
+675/6K/632146S/-11f gap
+676/6K/632146H/-5f gap
+677/6K/bt.P/11f gap
+678/6K/bt.K/9f gap
+679/6K/bt.S/10f gap
+680/6K/bt.H/22f gap
+681/6K/236[H]/11f gap
+682/6K/bt.[P]/11f gap
+683/6K/bt.[K]/9f gap
+684/6K/bt.[S]/10f gap
+685/6K/bt.[H]/22f gap
+686/6K/236D/0f gap
+687/6K/236[D]/12f gap
+688/6H/5P/20f gap
+689/6H/5K/24f gap
+690/6H/c.S/22f gap
+691/6H/f.S/-4f gap
+692/6H/5H/30f gap
+693/6H/2P/21f gap
+694/6H/2K/22f gap
+695/6H/2S/-6f gap
+696/6H/2H/27f gap
+697/6H/j.P/25f gap
+698/6H/j.K/30f gap
+699/6H/j.S/27f gap
+700/6H/j.H/31f gap
+701/6H/j.D/42f gap
+702/6H/6P/25f gap
+703/6H/6K/29f gap
+704/6H/6H/43f gap
+705/6H/2D/27f gap
+706/6H/5D/35f gap
+707/6H/5[D]/43f gap
+708/6H/"[s/h] h/s"/25f gap
+709/6H/[4]6S/-6f gap
+710/6H/[4]6H/7f gap
+711/6H/[2]8S/-7f gap
+712/6H/[2]8H/-6f gap
+713/6H/236S/-4f gap
+714/6H/236H/9f gap
+715/6H/214S/5f gap
+716/6H/bt.214K/14f gap
+717/6H/bt.214H/13f gap
+718/6H/632146S/-11f gap
+719/6H/632146H/-5f gap
+720/6H/bt.P/22f gap
+721/6H/bt.K/20f gap
+722/6H/bt.S/21f gap
+723/6H/bt.H/33f gap
+724/6H/236[H]/11f gap
+725/6H/bt.[P]/22f gap
+726/6H/bt.[K]/20f gap
+727/6H/bt.[S]/21f gap
+728/6H/bt.[H]/33f gap
+729/6H/236D/0f gap
+730/6H/236[D]/12f gap
+731/2D/5P/13f gap
+732/2D/5K/17f gap
+733/2D/c.S/15f gap
+734/2D/f.S/20f gap
+735/2D/5H/23f gap
+736/2D/2P/14f gap
+737/2D/2K/15f gap
+738/2D/2S/18f gap
+739/2D/2H/20f gap
+740/2D/j.P/18f gap
+741/2D/j.K/23f gap
+742/2D/j.S/20f gap
+743/2D/j.H/24f gap
+744/2D/j.D/35f gap
+745/2D/6P/18f gap
+746/2D/6K/22f gap
+747/2D/6H/36f gap
+748/2D/2D/20f gap
+749/2D/5D/28f gap
+750/2D/5[D]/36f gap
+751/2D/"[s/h] h/s"/18f gap
+752/2D/[4]6S/18f gap
+753/2D/[4]6H/31f gap
+754/2D/[2]8S/17f gap
+755/2D/[2]8H/18f gap
+756/2D/236S/20f gap
+757/2D/236H/33f gap
+758/2D/214S/29f gap
+759/2D/bt.214K/38f gap
+760/2D/bt.214H/37f gap
+761/2D/632146S/13f gap
+762/2D/632146H/19f gap
+763/2D/bt.P/15f gap
+764/2D/bt.K/13f gap
+765/2D/bt.S/14f gap
+766/2D/bt.H/26f gap
+767/2D/236[H]/35f gap
+768/2D/bt.[P]/15f gap
+769/2D/bt.[K]/13f gap
+770/2D/bt.[S]/14f gap
+771/2D/bt.[H]/26f gap
+772/2D/236D/24f gap
+773/2D/236[D]/36f gap
+774/5D/5P/20f gap
+775/5D/5K/24f gap
+776/5D/c.S/22f gap
+777/5D/f.S/27f gap
+778/5D/5H/30f gap
+779/5D/2P/21f gap
+780/5D/2K/22f gap
+781/5D/2S/25f gap
+782/5D/2H/27f gap
+783/5D/j.P/25f gap
+784/5D/j.K/30f gap
+785/5D/j.S/27f gap
+786/5D/j.H/31f gap
+787/5D/j.D/42f gap
+788/5D/6P/25f gap
+789/5D/6K/29f gap
+790/5D/6H/43f gap
+791/5D/2D/27f gap
+792/5D/5D/35f gap
+793/5D/5[D]/43f gap
+794/5D/"[s/h] h/s"/25f gap
+795/5D/[4]6S/25f gap
+796/5D/[4]6H/38f gap
+797/5D/[2]8S/24f gap
+798/5D/[2]8H/25f gap
+799/5D/236S/27f gap
+800/5D/236H/40f gap
+801/5D/214S/36f gap
+802/5D/bt.214K/45f gap
+803/5D/bt.214H/44f gap
+804/5D/632146S/20f gap
+805/5D/632146H/26f gap
+806/5D/bt.P/22f gap
+807/5D/bt.K/20f gap
+808/5D/bt.S/21f gap
+809/5D/bt.H/33f gap
+810/5D/236[H]/42f gap
+811/5D/bt.[P]/22f gap
+812/5D/bt.[K]/20f gap
+813/5D/bt.[S]/21f gap
+814/5D/bt.[H]/33f gap
+815/5D/236D/31f gap
+816/5D/236[D]/43f gap
+817/5[D]/5P/15f gap
+818/5[D]/5K/19f gap
+819/5[D]/c.S/17f gap
+820/5[D]/f.S/22f gap
+821/5[D]/5H/25f gap
+822/5[D]/2P/16f gap
+823/5[D]/2K/17f gap
+824/5[D]/2S/20f gap
+825/5[D]/2H/22f gap
+826/5[D]/j.P/20f gap
+827/5[D]/j.K/25f gap
+828/5[D]/j.S/22f gap
+829/5[D]/j.H/26f gap
+830/5[D]/j.D/37f gap
+831/5[D]/6P/20f gap
+832/5[D]/6K/24f gap
+833/5[D]/6H/38f gap
+834/5[D]/2D/22f gap
+835/5[D]/5D/30f gap
+836/5[D]/5[D]/38f gap
+837/5[D]/"[s/h] h/s"/20f gap
+838/5[D]/[4]6S/20f gap
+839/5[D]/[4]6H/33f gap
+840/5[D]/[2]8S/19f gap
+841/5[D]/[2]8H/20f gap
+842/5[D]/236S/22f gap
+843/5[D]/236H/35f gap
+844/5[D]/214S/31f gap
+845/5[D]/bt.214K/40f gap
+846/5[D]/bt.214H/39f gap
+847/5[D]/632146S/15f gap
+848/5[D]/632146H/21f gap
+849/5[D]/bt.P/17f gap
+850/5[D]/bt.K/15f gap
+851/5[D]/bt.S/16f gap
+852/5[D]/bt.H/28f gap
+853/5[D]/236[H]/37f gap
+854/5[D]/bt.[P]/17f gap
+855/5[D]/bt.[K]/15f gap
+856/5[D]/bt.[S]/16f gap
+857/5[D]/bt.[H]/28f gap
+858/5[D]/236D/26f gap
+859/5[D]/236[D]/38f gap
+860/"[s/h] h/s"/5P/5f gap
+861/"[s/h] h/s"/5K/9f gap
+862/"[s/h] h/s"/c.S/7f gap
+863/"[s/h] h/s"/f.S/12f gap
+864/"[s/h] h/s"/5H/15f gap
+865/"[s/h] h/s"/2P/6f gap
+866/"[s/h] h/s"/2K/7f gap
+867/"[s/h] h/s"/2S/10f gap
+868/"[s/h] h/s"/2H/12f gap
+869/"[s/h] h/s"/j.P/10f gap
+870/"[s/h] h/s"/j.K/15f gap
+871/"[s/h] h/s"/j.S/12f gap
+872/"[s/h] h/s"/j.H/16f gap
+873/"[s/h] h/s"/j.D/27f gap
+874/"[s/h] h/s"/6P/10f gap
+875/"[s/h] h/s"/6K/14f gap
+876/"[s/h] h/s"/6H/28f gap
+877/"[s/h] h/s"/2D/12f gap
+878/"[s/h] h/s"/5D/20f gap
+879/"[s/h] h/s"/5[D]/28f gap
+880/"[s/h] h/s"/"[s/h] h/s"/10f gap
+881/"[s/h] h/s"/[4]6S/10f gap
+882/"[s/h] h/s"/[4]6H/23f gap
+883/"[s/h] h/s"/[2]8S/9f gap
+884/"[s/h] h/s"/[2]8H/10f gap
+885/"[s/h] h/s"/236S/12f gap
+886/"[s/h] h/s"/236H/25f gap
+887/"[s/h] h/s"/214S/21f gap
+888/"[s/h] h/s"/bt.214K/30f gap
+889/"[s/h] h/s"/bt.214H/29f gap
+890/"[s/h] h/s"/632146S/5f gap
+891/"[s/h] h/s"/632146H/11f gap
+892/"[s/h] h/s"/bt.P/7f gap
+893/"[s/h] h/s"/bt.K/5f gap
+894/"[s/h] h/s"/bt.S/6f gap
+895/"[s/h] h/s"/bt.H/18f gap
+896/"[s/h] h/s"/236[H]/27f gap
+897/"[s/h] h/s"/bt.[P]/7f gap
+898/"[s/h] h/s"/bt.[K]/5f gap
+899/"[s/h] h/s"/bt.[S]/6f gap
+900/"[s/h] h/s"/bt.[H]/18f gap
+901/"[s/h] h/s"/236D/16f gap
+902/"[s/h] h/s"/236[D]/28f gap
+903/[4]6S/5P/21f gap
+904/[4]6S/5K/25f gap
+905/[4]6S/c.S/23f gap
+906/[4]6S/f.S/28f gap
+907/[4]6S/5H/31f gap
+908/[4]6S/2P/22f gap
+909/[4]6S/2K/23f gap
+910/[4]6S/2S/26f gap
+911/[4]6S/2H/28f gap
+912/[4]6S/j.P/26f gap
+913/[4]6S/j.K/31f gap
+914/[4]6S/j.S/28f gap
+915/[4]6S/j.H/32f gap
+916/[4]6S/j.D/43f gap
+917/[4]6S/6P/26f gap
+918/[4]6S/6K/30f gap
+919/[4]6S/6H/44f gap
+920/[4]6S/2D/28f gap
+921/[4]6S/5D/36f gap
+922/[4]6S/5[D]/44f gap
+923/[4]6S/"[s/h] h/s"/26f gap
+924/[4]6S/[4]6S/26f gap
+925/[4]6S/[4]6H/39f gap
+926/[4]6S/[2]8S/25f gap
+927/[4]6S/[2]8H/26f gap
+928/[4]6S/236S/28f gap
+929/[4]6S/236H/41f gap
+930/[4]6S/214S/37f gap
+931/[4]6S/bt.214K/46f gap
+932/[4]6S/bt.214H/45f gap
+933/[4]6S/632146S/21f gap
+934/[4]6S/632146H/27f gap
+935/[4]6S/bt.P/23f gap
+936/[4]6S/bt.K/21f gap
+937/[4]6S/bt.S/22f gap
+938/[4]6S/bt.H/34f gap
+939/[4]6S/236[H]/43f gap
+940/[4]6S/bt.[P]/23f gap
+941/[4]6S/bt.[K]/21f gap
+942/[4]6S/bt.[S]/22f gap
+943/[4]6S/bt.[H]/34f gap
+944/[4]6S/236D/32f gap
+945/[4]6S/236[D]/44f gap
+946/[4]6H/5P/-6f gap
+947/[4]6H/5K/-2f gap
+948/[4]6H/c.S/-4f gap
+949/[4]6H/f.S/1f gap
+950/[4]6H/5H/4f gap
+951/[4]6H/2P/-5f gap
+952/[4]6H/2K/-4f gap
+953/[4]6H/2S/-1f gap
+954/[4]6H/2H/1f gap
+955/[4]6H/j.P/-1f gap
+956/[4]6H/j.K/4f gap
+957/[4]6H/j.S/1f gap
+958/[4]6H/j.H/5f gap
+959/[4]6H/j.D/16f gap
+960/[4]6H/6P/-1f gap
+961/[4]6H/6K/3f gap
+962/[4]6H/6H/17f gap
+963/[4]6H/2D/1f gap
+964/[4]6H/5D/9f gap
+965/[4]6H/5[D]/17f gap
+966/[4]6H/"[s/h] h/s"/-1f gap
+967/[4]6H/[4]6S/-1f gap
+968/[4]6H/[4]6H/12f gap
+969/[4]6H/[2]8S/-2f gap
+970/[4]6H/[2]8H/-1f gap
+971/[4]6H/236S/1f gap
+972/[4]6H/236H/14f gap
+973/[4]6H/214S/10f gap
+974/[4]6H/bt.214K/19f gap
+975/[4]6H/bt.214H/18f gap
+976/[4]6H/632146S/-6f gap
+977/[4]6H/632146H/0f gap
+978/[4]6H/bt.P/-4f gap
+979/[4]6H/bt.K/-6f gap
+980/[4]6H/bt.S/-5f gap
+981/[4]6H/bt.H/7f gap
+982/[4]6H/236[H]/16f gap
+983/[4]6H/bt.[P]/-4f gap
+984/[4]6H/bt.[K]/-6f gap
+985/[4]6H/bt.[S]/-5f gap
+986/[4]6H/bt.[H]/7f gap
+987/[4]6H/236D/5f gap
+988/[4]6H/236[D]/17f gap
+989/[2]8S/5P/33f gap
+990/[2]8S/5K/37f gap
+991/[2]8S/c.S/35f gap
+992/[2]8S/f.S/40f gap
+993/[2]8S/5H/43f gap
+994/[2]8S/2P/34f gap
+995/[2]8S/2K/35f gap
+996/[2]8S/2S/38f gap
+997/[2]8S/2H/40f gap
+998/[2]8S/j.P/38f gap
+999/[2]8S/j.K/43f gap
+1000/[2]8S/j.S/40f gap
+1001/[2]8S/j.H/44f gap
+1002/[2]8S/j.D/55f gap
+1003/[2]8S/6P/38f gap
+1004/[2]8S/6K/42f gap
+1005/[2]8S/6H/56f gap
+1006/[2]8S/2D/40f gap
+1007/[2]8S/5D/48f gap
+1008/[2]8S/5[D]/56f gap
+1009/[2]8S/"[s/h] h/s"/38f gap
+1010/[2]8S/[4]6S/38f gap
+1011/[2]8S/[4]6H/51f gap
+1012/[2]8S/[2]8S/37f gap
+1013/[2]8S/[2]8H/38f gap
+1014/[2]8S/236S/40f gap
+1015/[2]8S/236H/53f gap
+1016/[2]8S/214S/49f gap
+1017/[2]8S/bt.214K/58f gap
+1018/[2]8S/bt.214H/57f gap
+1019/[2]8S/632146S/33f gap
+1020/[2]8S/632146H/39f gap
+1021/[2]8S/bt.P/35f gap
+1022/[2]8S/bt.K/33f gap
+1023/[2]8S/bt.S/34f gap
+1024/[2]8S/bt.H/46f gap
+1025/[2]8S/236[H]/55f gap
+1026/[2]8S/bt.[P]/35f gap
+1027/[2]8S/bt.[K]/33f gap
+1028/[2]8S/bt.[S]/34f gap
+1029/[2]8S/bt.[H]/46f gap
+1030/[2]8S/236D/44f gap
+1031/[2]8S/236[D]/56f gap
+1032/[2]8H/5P/57f gap
+1033/[2]8H/5K/61f gap
+1034/[2]8H/c.S/59f gap
+1035/[2]8H/f.S/64f gap
+1036/[2]8H/5H/67f gap
+1037/[2]8H/2P/58f gap
+1038/[2]8H/2K/59f gap
+1039/[2]8H/2S/62f gap
+1040/[2]8H/2H/64f gap
+1041/[2]8H/j.P/62f gap
+1042/[2]8H/j.K/67f gap
+1043/[2]8H/j.S/64f gap
+1044/[2]8H/j.H/68f gap
+1045/[2]8H/j.D/79f gap
+1046/[2]8H/6P/62f gap
+1047/[2]8H/6K/66f gap
+1048/[2]8H/6H/80f gap
+1049/[2]8H/2D/64f gap
+1050/[2]8H/5D/72f gap
+1051/[2]8H/5[D]/80f gap
+1052/[2]8H/"[s/h] h/s"/62f gap
+1053/[2]8H/[4]6S/62f gap
+1054/[2]8H/[4]6H/75f gap
+1055/[2]8H/[2]8S/61f gap
+1056/[2]8H/[2]8H/62f gap
+1057/[2]8H/236S/64f gap
+1058/[2]8H/236H/77f gap
+1059/[2]8H/214S/73f gap
+1060/[2]8H/bt.214K/82f gap
+1061/[2]8H/bt.214H/81f gap
+1062/[2]8H/632146S/57f gap
+1063/[2]8H/632146H/63f gap
+1064/[2]8H/bt.P/59f gap
+1065/[2]8H/bt.K/57f gap
+1066/[2]8H/bt.S/58f gap
+1067/[2]8H/bt.H/70f gap
+1068/[2]8H/236[H]/79f gap
+1069/[2]8H/bt.[P]/59f gap
+1070/[2]8H/bt.[K]/57f gap
+1071/[2]8H/bt.[S]/58f gap
+1072/[2]8H/bt.[H]/70f gap
+1073/[2]8H/236D/68f gap
+1074/[2]8H/236[D]/80f gap
+1075/236S/5P/11f gap
+1076/236S/5K/15f gap
+1077/236S/c.S/13f gap
+1078/236S/f.S/18f gap
+1079/236S/5H/21f gap
+1080/236S/2P/12f gap
+1081/236S/2K/13f gap
+1082/236S/2S/16f gap
+1083/236S/2H/18f gap
+1084/236S/j.P/16f gap
+1085/236S/j.K/21f gap
+1086/236S/j.S/18f gap
+1087/236S/j.H/22f gap
+1088/236S/j.D/33f gap
+1089/236S/6P/16f gap
+1090/236S/6K/20f gap
+1091/236S/6H/34f gap
+1092/236S/2D/18f gap
+1093/236S/5D/26f gap
+1094/236S/5[D]/34f gap
+1095/236S/"[s/h] h/s"/16f gap
+1096/236S/[4]6S/16f gap
+1097/236S/[4]6H/29f gap
+1098/236S/[2]8S/15f gap
+1099/236S/[2]8H/16f gap
+1100/236S/236S/18f gap
+1101/236S/236H/31f gap
+1102/236S/214S/27f gap
+1103/236S/bt.214K/36f gap
+1104/236S/bt.214H/35f gap
+1105/236S/632146S/11f gap
+1106/236S/632146H/17f gap
+1107/236S/bt.P/13f gap
+1108/236S/bt.K/11f gap
+1109/236S/bt.S/12f gap
+1110/236S/bt.H/24f gap
+1111/236S/236[H]/33f gap
+1112/236S/bt.[P]/13f gap
+1113/236S/bt.[K]/11f gap
+1114/236S/bt.[S]/12f gap
+1115/236S/bt.[H]/24f gap
+1116/236S/236D/22f gap
+1117/236S/236[D]/34f gap
+1118/236H/5P/11f gap
+1119/236H/5K/15f gap
+1120/236H/c.S/13f gap
+1121/236H/f.S/18f gap
+1122/236H/5H/21f gap
+1123/236H/2P/12f gap
+1124/236H/2K/13f gap
+1125/236H/2S/16f gap
+1126/236H/2H/18f gap
+1127/236H/j.P/16f gap
+1128/236H/j.K/21f gap
+1129/236H/j.S/18f gap
+1130/236H/j.H/22f gap
+1131/236H/j.D/33f gap
+1132/236H/6P/16f gap
+1133/236H/6K/20f gap
+1134/236H/6H/34f gap
+1135/236H/2D/18f gap
+1136/236H/5D/26f gap
+1137/236H/5[D]/34f gap
+1138/236H/"[s/h] h/s"/16f gap
+1139/236H/[4]6S/16f gap
+1140/236H/[4]6H/29f gap
+1141/236H/[2]8S/15f gap
+1142/236H/[2]8H/16f gap
+1143/236H/236S/18f gap
+1144/236H/236H/31f gap
+1145/236H/214S/27f gap
+1146/236H/bt.214K/36f gap
+1147/236H/bt.214H/35f gap
+1148/236H/632146S/11f gap
+1149/236H/632146H/17f gap
+1150/236H/bt.P/13f gap
+1151/236H/bt.K/11f gap
+1152/236H/bt.S/12f gap
+1153/236H/bt.H/24f gap
+1154/236H/236[H]/33f gap
+1155/236H/bt.[P]/13f gap
+1156/236H/bt.[K]/11f gap
+1157/236H/bt.[S]/12f gap
+1158/236H/bt.[H]/24f gap
+1159/236H/236D/22f gap
+1160/236H/236[D]/34f gap
+1161/214S/5P/13f gap
+1162/214S/5K/17f gap
+1163/214S/c.S/15f gap
+1164/214S/f.S/20f gap
+1165/214S/5H/23f gap
+1166/214S/2P/14f gap
+1167/214S/2K/15f gap
+1168/214S/2S/18f gap
+1169/214S/2H/20f gap
+1170/214S/j.P/18f gap
+1171/214S/j.K/23f gap
+1172/214S/j.S/20f gap
+1173/214S/j.H/24f gap
+1174/214S/j.D/35f gap
+1175/214S/6P/18f gap
+1176/214S/6K/22f gap
+1177/214S/6H/36f gap
+1178/214S/2D/20f gap
+1179/214S/5D/28f gap
+1180/214S/5[D]/36f gap
+1181/214S/"[s/h] h/s"/18f gap
+1182/214S/[4]6S/18f gap
+1183/214S/[4]6H/31f gap
+1184/214S/[2]8S/17f gap
+1185/214S/[2]8H/18f gap
+1186/214S/236S/20f gap
+1187/214S/236H/33f gap
+1188/214S/214S/29f gap
+1189/214S/bt.214K/38f gap
+1190/214S/bt.214H/37f gap
+1191/214S/632146S/13f gap
+1192/214S/632146H/19f gap
+1193/214S/bt.P/15f gap
+1194/214S/bt.K/13f gap
+1195/214S/bt.S/14f gap
+1196/214S/bt.H/26f gap
+1197/214S/236[H]/35f gap
+1198/214S/bt.[P]/15f gap
+1199/214S/bt.[K]/13f gap
+1200/214S/bt.[S]/14f gap
+1201/214S/bt.[H]/26f gap
+1202/214S/236D/24f gap
+1203/214S/236[D]/36f gap
+1204/bt.214K/5P/"N/A"
+1205/bt.214K/5K/"N/A"
+1206/bt.214K/c.S/"N/A"
+1207/bt.214K/f.S/"N/A"
+1208/bt.214K/5H/"N/A"
+1209/bt.214K/2P/"N/A"
+1210/bt.214K/2K/"N/A"
+1211/bt.214K/2S/"N/A"
+1212/bt.214K/2H/"N/A"
+1213/bt.214K/j.P/"N/A"
+1214/bt.214K/j.K/"N/A"
+1215/bt.214K/j.S/"N/A"
+1216/bt.214K/j.H/"N/A"
+1217/bt.214K/j.D/"N/A"
+1218/bt.214K/6P/"N/A"
+1219/bt.214K/6K/"N/A"
+1220/bt.214K/6H/"N/A"
+1221/bt.214K/2D/"N/A"
+1222/bt.214K/5D/"N/A"
+1223/bt.214K/5[D]/"N/A"
+1224/bt.214K/"[s/h] h/s"/"N/A"
+1225/bt.214K/[4]6S/"N/A"
+1226/bt.214K/[4]6H/"N/A"
+1227/bt.214K/[2]8S/"N/A"
+1228/bt.214K/[2]8H/"N/A"
+1229/bt.214K/236S/"N/A"
+1230/bt.214K/236H/"N/A"
+1231/bt.214K/214S/"N/A"
+1232/bt.214K/bt.214K/"N/A"
+1233/bt.214K/bt.214H/"N/A"
+1234/bt.214K/632146S/"N/A"
+1235/bt.214K/632146H/"N/A"
+1236/bt.214K/bt.P/"N/A"
+1237/bt.214K/bt.K/"N/A"
+1238/bt.214K/bt.S/"N/A"
+1239/bt.214K/bt.H/"N/A"
+1240/bt.214K/236[H]/"N/A"
+1241/bt.214K/bt.[P]/"N/A"
+1242/bt.214K/bt.[K]/"N/A"
+1243/bt.214K/bt.[S]/"N/A"
+1244/bt.214K/bt.[H]/"N/A"
+1245/bt.214K/236D/"N/A"
+1246/bt.214K/236[D]/"N/A"
+1247/bt.214H/5P/-16f gap
+1248/bt.214H/5K/-12f gap
+1249/bt.214H/c.S/-14f gap
+1250/bt.214H/f.S/-9f gap
+1251/bt.214H/5H/-6f gap
+1252/bt.214H/2P/-15f gap
+1253/bt.214H/2K/-14f gap
+1254/bt.214H/2S/-11f gap
+1255/bt.214H/2H/-9f gap
+1256/bt.214H/j.P/-11f gap
+1257/bt.214H/j.K/-6f gap
+1258/bt.214H/j.S/-9f gap
+1259/bt.214H/j.H/-5f gap
+1260/bt.214H/j.D/6f gap
+1261/bt.214H/6P/-11f gap
+1262/bt.214H/6K/-7f gap
+1263/bt.214H/6H/7f gap
+1264/bt.214H/2D/-9f gap
+1265/bt.214H/5D/-1f gap
+1266/bt.214H/5[D]/7f gap
+1267/bt.214H/"[s/h] h/s"/-11f gap
+1268/bt.214H/[4]6S/-11f gap
+1269/bt.214H/[4]6H/2f gap
+1270/bt.214H/[2]8S/-12f gap
+1271/bt.214H/[2]8H/-11f gap
+1272/bt.214H/236S/-9f gap
+1273/bt.214H/236H/4f gap
+1274/bt.214H/214S/0f gap
+1275/bt.214H/bt.214K/9f gap
+1276/bt.214H/bt.214H/8f gap
+1277/bt.214H/632146S/-16f gap
+1278/bt.214H/632146H/-10f gap
+1279/bt.214H/bt.P/-14f gap
+1280/bt.214H/bt.K/-16f gap
+1281/bt.214H/bt.S/-15f gap
+1282/bt.214H/bt.H/-3f gap
+1283/bt.214H/236[H]/6f gap
+1284/bt.214H/bt.[P]/-14f gap
+1285/bt.214H/bt.[K]/-16f gap
+1286/bt.214H/bt.[S]/-15f gap
+1287/bt.214H/bt.[H]/-3f gap
+1288/bt.214H/236D/-5f gap
+1289/bt.214H/236[D]/7f gap
+1290/632146S/5P/-9f gap
+1291/632146S/5K/-5f gap
+1292/632146S/c.S/-7f gap
+1293/632146S/f.S/-2f gap
+1294/632146S/5H/1f gap
+1295/632146S/2P/-8f gap
+1296/632146S/2K/-7f gap
+1297/632146S/2S/-4f gap
+1298/632146S/2H/-2f gap
+1299/632146S/j.P/-4f gap
+1300/632146S/j.K/1f gap
+1301/632146S/j.S/-2f gap
+1302/632146S/j.H/2f gap
+1303/632146S/j.D/13f gap
+1304/632146S/6P/-4f gap
+1305/632146S/6K/0f gap
+1306/632146S/6H/14f gap
+1307/632146S/2D/-2f gap
+1308/632146S/5D/6f gap
+1309/632146S/5[D]/14f gap
+1310/632146S/"[s/h] h/s"/-4f gap
+1311/632146S/[4]6S/-4f gap
+1312/632146S/[4]6H/9f gap
+1313/632146S/[2]8S/-5f gap
+1314/632146S/[2]8H/-4f gap
+1315/632146S/236S/-2f gap
+1316/632146S/236H/11f gap
+1317/632146S/214S/7f gap
+1318/632146S/bt.214K/16f gap
+1319/632146S/bt.214H/15f gap
+1320/632146S/632146S/-9f gap
+1321/632146S/632146H/-3f gap
+1322/632146S/bt.P/-7f gap
+1323/632146S/bt.K/-9f gap
+1324/632146S/bt.S/-8f gap
+1325/632146S/bt.H/4f gap
+1326/632146S/236[H]/13f gap
+1327/632146S/bt.[P]/-7f gap
+1328/632146S/bt.[K]/-9f gap
+1329/632146S/bt.[S]/-8f gap
+1330/632146S/bt.[H]/4f gap
+1331/632146S/236D/2f gap
+1332/632146S/236[D]/14f gap
+1333/632146H/5P/38f gap
+1334/632146H/5K/42f gap
+1335/632146H/c.S/40f gap
+1336/632146H/f.S/45f gap
+1337/632146H/5H/48f gap
+1338/632146H/2P/39f gap
+1339/632146H/2K/40f gap
+1340/632146H/2S/43f gap
+1341/632146H/2H/45f gap
+1342/632146H/j.P/43f gap
+1343/632146H/j.K/48f gap
+1344/632146H/j.S/45f gap
+1345/632146H/j.H/49f gap
+1346/632146H/j.D/60f gap
+1347/632146H/6P/43f gap
+1348/632146H/6K/47f gap
+1349/632146H/6H/61f gap
+1350/632146H/2D/45f gap
+1351/632146H/5D/53f gap
+1352/632146H/5[D]/61f gap
+1353/632146H/"[s/h] h/s"/43f gap
+1354/632146H/[4]6S/43f gap
+1355/632146H/[4]6H/56f gap
+1356/632146H/[2]8S/42f gap
+1357/632146H/[2]8H/43f gap
+1358/632146H/236S/45f gap
+1359/632146H/236H/58f gap
+1360/632146H/214S/54f gap
+1361/632146H/bt.214K/63f gap
+1362/632146H/bt.214H/62f gap
+1363/632146H/632146S/38f gap
+1364/632146H/632146H/44f gap
+1365/632146H/bt.P/40f gap
+1366/632146H/bt.K/38f gap
+1367/632146H/bt.S/39f gap
+1368/632146H/bt.H/51f gap
+1369/632146H/236[H]/60f gap
+1370/632146H/bt.[P]/40f gap
+1371/632146H/bt.[K]/38f gap
+1372/632146H/bt.[S]/39f gap
+1373/632146H/bt.[H]/51f gap
+1374/632146H/236D/49f gap
+1375/632146H/236[D]/61f gap
+1376/bt.P/5P/7f gap
+1377/bt.P/5K/11f gap
+1378/bt.P/c.S/9f gap
+1379/bt.P/f.S/14f gap
+1380/bt.P/5H/17f gap
+1381/bt.P/2P/8f gap
+1382/bt.P/2K/9f gap
+1383/bt.P/2S/12f gap
+1384/bt.P/2H/14f gap
+1385/bt.P/j.P/12f gap
+1386/bt.P/j.K/17f gap
+1387/bt.P/j.S/14f gap
+1388/bt.P/j.H/18f gap
+1389/bt.P/j.D/29f gap
+1390/bt.P/6P/12f gap
+1391/bt.P/6K/16f gap
+1392/bt.P/6H/30f gap
+1393/bt.P/2D/14f gap
+1394/bt.P/5D/22f gap
+1395/bt.P/5[D]/30f gap
+1396/bt.P/"[s/h] h/s"/12f gap
+1397/bt.P/[4]6S/-3f gap
+1398/bt.P/[4]6H/10f gap
+1399/bt.P/[2]8S/-4f gap
+1400/bt.P/[2]8H/-3f gap
+1401/bt.P/236S/-1f gap
+1402/bt.P/236H/12f gap
+1403/bt.P/214S/8f gap
+1404/bt.P/bt.214K/17f gap
+1405/bt.P/bt.214H/16f gap
+1406/bt.P/632146S/-8f gap
+1407/bt.P/632146H/-2f gap
+1408/bt.P/bt.P/9f gap
+1409/bt.P/bt.K/-8f gap
+1410/bt.P/bt.S/-7f gap
+1411/bt.P/bt.H/5f gap
+1412/bt.P/236[H]/14f gap
+1413/bt.P/bt.[P]/9f gap
+1414/bt.P/bt.[K]/7f gap
+1415/bt.P/bt.[S]/8f gap
+1416/bt.P/bt.[H]/20f gap
+1417/bt.P/236D/3f gap
+1418/bt.P/236[D]/15f gap
+1419/bt.K/5P/2f gap
+1420/bt.K/5K/6f gap
+1421/bt.K/c.S/4f gap
+1422/bt.K/f.S/9f gap
+1423/bt.K/5H/12f gap
+1424/bt.K/2P/3f gap
+1425/bt.K/2K/4f gap
+1426/bt.K/2S/7f gap
+1427/bt.K/2H/9f gap
+1428/bt.K/j.P/-1f gap
+1429/bt.K/j.K/4f gap
+1430/bt.K/j.S/1f gap
+1431/bt.K/j.H/5f gap
+1432/bt.K/j.D/16f gap
+1433/bt.K/6P/7f gap
+1434/bt.K/6K/11f gap
+1435/bt.K/6H/25f gap
+1436/bt.K/2D/9f gap
+1437/bt.K/5D/17f gap
+1438/bt.K/5[D]/25f gap
+1439/bt.K/"[s/h] h/s"/7f gap
+1440/bt.K/[4]6S/-1f gap
+1441/bt.K/[4]6H/12f gap
+1442/bt.K/[2]8S/-2f gap
+1443/bt.K/[2]8H/-1f gap
+1444/bt.K/236S/1f gap
+1445/bt.K/236H/14f gap
+1446/bt.K/214S/10f gap
+1447/bt.K/bt.214K/19f gap
+1448/bt.K/bt.214H/18f gap
+1449/bt.K/632146S/-6f gap
+1450/bt.K/632146H/0f gap
+1451/bt.K/bt.P/-4f gap
+1452/bt.K/bt.K/2f gap
+1453/bt.K/bt.S/-5f gap
+1454/bt.K/bt.H/7f gap
+1455/bt.K/236[H]/16f gap
+1456/bt.K/bt.[P]/4f gap
+1457/bt.K/bt.[K]/2f gap
+1458/bt.K/bt.[S]/3f gap
+1459/bt.K/bt.[H]/15f gap
+1460/bt.K/236D/5f gap
+1461/bt.K/236[D]/17f gap
+1462/bt.S/5P/8f gap
+1463/bt.S/5K/12f gap
+1464/bt.S/c.S/10f gap
+1465/bt.S/f.S/15f gap
+1466/bt.S/5H/18f gap
+1467/bt.S/2P/9f gap
+1468/bt.S/2K/10f gap
+1469/bt.S/2S/13f gap
+1470/bt.S/2H/15f gap
+1471/bt.S/j.P/13f gap
+1472/bt.S/j.K/18f gap
+1473/bt.S/j.S/15f gap
+1474/bt.S/j.H/19f gap
+1475/bt.S/j.D/30f gap
+1476/bt.S/6P/13f gap
+1477/bt.S/6K/17f gap
+1478/bt.S/6H/31f gap
+1479/bt.S/2D/15f gap
+1480/bt.S/5D/23f gap
+1481/bt.S/5[D]/31f gap
+1482/bt.S/"[s/h] h/s"/13f gap
+1483/bt.S/[4]6S/-6f gap
+1484/bt.S/[4]6H/7f gap
+1485/bt.S/[2]8S/-7f gap
+1486/bt.S/[2]8H/-6f gap
+1487/bt.S/236S/-4f gap
+1488/bt.S/236H/9f gap
+1489/bt.S/214S/5f gap
+1490/bt.S/bt.214K/14f gap
+1491/bt.S/bt.214H/13f gap
+1492/bt.S/632146S/-11f gap
+1493/bt.S/632146H/-5f gap
+1494/bt.S/bt.P/10f gap
+1495/bt.S/bt.K/8f gap
+1496/bt.S/bt.S/9f gap
+1497/bt.S/bt.H/2f gap
+1498/bt.S/236[H]/11f gap
+1499/bt.S/bt.[P]/10f gap
+1500/bt.S/bt.[K]/8f gap
+1501/bt.S/bt.[S]/9f gap
+1502/bt.S/bt.[H]/21f gap
+1503/bt.S/236D/0f gap
+1504/bt.S/236[D]/12f gap
+1505/bt.H/5P/12f gap
+1506/bt.H/5K/16f gap
+1507/bt.H/c.S/14f gap
+1508/bt.H/f.S/19f gap
+1509/bt.H/5H/22f gap
+1510/bt.H/2P/13f gap
+1511/bt.H/2K/14f gap
+1512/bt.H/2S/17f gap
+1513/bt.H/2H/19f gap
+1514/bt.H/j.P/17f gap
+1515/bt.H/j.K/22f gap
+1516/bt.H/j.S/19f gap
+1517/bt.H/j.H/23f gap
+1518/bt.H/j.D/34f gap
+1519/bt.H/6P/17f gap
+1520/bt.H/6K/21f gap
+1521/bt.H/6H/35f gap
+1522/bt.H/2D/19f gap
+1523/bt.H/5D/27f gap
+1524/bt.H/5[D]/35f gap
+1525/bt.H/"[s/h] h/s"/17f gap
+1526/bt.H/[4]6S/-8f gap
+1527/bt.H/[4]6H/5f gap
+1528/bt.H/[2]8S/-9f gap
+1529/bt.H/[2]8H/-8f gap
+1530/bt.H/236S/-6f gap
+1531/bt.H/236H/7f gap
+1532/bt.H/214S/3f gap
+1533/bt.H/bt.214K/12f gap
+1534/bt.H/bt.214H/11f gap
+1535/bt.H/632146S/-13f gap
+1536/bt.H/632146H/-7f gap
+1537/bt.H/bt.P/14f gap
+1538/bt.H/bt.K/12f gap
+1539/bt.H/bt.S/13f gap
+1540/bt.H/bt.H/25f gap
+1541/bt.H/236[H]/9f gap
+1542/bt.H/bt.[P]/14f gap
+1543/bt.H/bt.[K]/12f gap
+1544/bt.H/bt.[S]/13f gap
+1545/bt.H/bt.[H]/25f gap
+1546/bt.H/236D/-2f gap
+1547/bt.H/236[D]/10f gap
+1548/236[H]/5P/3f gap
+1549/236[H]/5K/7f gap
+1550/236[H]/c.S/5f gap
+1551/236[H]/f.S/10f gap
+1552/236[H]/5H/13f gap
+1553/236[H]/2P/4f gap
+1554/236[H]/2K/5f gap
+1555/236[H]/2S/8f gap
+1556/236[H]/2H/10f gap
+1557/236[H]/j.P/8f gap
+1558/236[H]/j.K/13f gap
+1559/236[H]/j.S/10f gap
+1560/236[H]/j.H/14f gap
+1561/236[H]/j.D/25f gap
+1562/236[H]/6P/8f gap
+1563/236[H]/6K/12f gap
+1564/236[H]/6H/26f gap
+1565/236[H]/2D/10f gap
+1566/236[H]/5D/18f gap
+1567/236[H]/5[D]/26f gap
+1568/236[H]/"[s/h] h/s"/8f gap
+1569/236[H]/[4]6S/8f gap
+1570/236[H]/[4]6H/21f gap
+1571/236[H]/[2]8S/7f gap
+1572/236[H]/[2]8H/8f gap
+1573/236[H]/236S/10f gap
+1574/236[H]/236H/23f gap
+1575/236[H]/214S/19f gap
+1576/236[H]/bt.214K/28f gap
+1577/236[H]/bt.214H/27f gap
+1578/236[H]/632146S/3f gap
+1579/236[H]/632146H/9f gap
+1580/236[H]/bt.P/5f gap
+1581/236[H]/bt.K/3f gap
+1582/236[H]/bt.S/4f gap
+1583/236[H]/bt.H/16f gap
+1584/236[H]/236[H]/25f gap
+1585/236[H]/bt.[P]/5f gap
+1586/236[H]/bt.[K]/3f gap
+1587/236[H]/bt.[S]/4f gap
+1588/236[H]/bt.[H]/16f gap
+1589/236[H]/236D/14f gap
+1590/236[H]/236[D]/26f gap
+1591/bt.[P]/5P/3f gap
+1592/bt.[P]/5K/7f gap
+1593/bt.[P]/c.S/5f gap
+1594/bt.[P]/f.S/10f gap
+1595/bt.[P]/5H/13f gap
+1596/bt.[P]/2P/4f gap
+1597/bt.[P]/2K/5f gap
+1598/bt.[P]/2S/8f gap
+1599/bt.[P]/2H/10f gap
+1600/bt.[P]/j.P/8f gap
+1601/bt.[P]/j.K/13f gap
+1602/bt.[P]/j.S/10f gap
+1603/bt.[P]/j.H/14f gap
+1604/bt.[P]/j.D/25f gap
+1605/bt.[P]/6P/8f gap
+1606/bt.[P]/6K/12f gap
+1607/bt.[P]/6H/26f gap
+1608/bt.[P]/2D/10f gap
+1609/bt.[P]/5D/18f gap
+1610/bt.[P]/5[D]/26f gap
+1611/bt.[P]/"[s/h] h/s"/8f gap
+1612/bt.[P]/[4]6S/8f gap
+1613/bt.[P]/[4]6H/21f gap
+1614/bt.[P]/[2]8S/7f gap
+1615/bt.[P]/[2]8H/8f gap
+1616/bt.[P]/236S/10f gap
+1617/bt.[P]/236H/23f gap
+1618/bt.[P]/214S/19f gap
+1619/bt.[P]/bt.214K/28f gap
+1620/bt.[P]/bt.214H/27f gap
+1621/bt.[P]/632146S/3f gap
+1622/bt.[P]/632146H/9f gap
+1623/bt.[P]/bt.P/5f gap
+1624/bt.[P]/bt.K/3f gap
+1625/bt.[P]/bt.S/4f gap
+1626/bt.[P]/bt.H/16f gap
+1627/bt.[P]/236[H]/25f gap
+1628/bt.[P]/bt.[P]/5f gap
+1629/bt.[P]/bt.[K]/3f gap
+1630/bt.[P]/bt.[S]/4f gap
+1631/bt.[P]/bt.[H]/16f gap
+1632/bt.[P]/236D/14f gap
+1633/bt.[P]/236[D]/26f gap
+1634/bt.[K]/5P/5f gap
+1635/bt.[K]/5K/9f gap
+1636/bt.[K]/c.S/7f gap
+1637/bt.[K]/f.S/12f gap
+1638/bt.[K]/5H/15f gap
+1639/bt.[K]/2P/6f gap
+1640/bt.[K]/2K/7f gap
+1641/bt.[K]/2S/10f gap
+1642/bt.[K]/2H/12f gap
+1643/bt.[K]/j.P/10f gap
+1644/bt.[K]/j.K/15f gap
+1645/bt.[K]/j.S/12f gap
+1646/bt.[K]/j.H/16f gap
+1647/bt.[K]/j.D/27f gap
+1648/bt.[K]/6P/10f gap
+1649/bt.[K]/6K/14f gap
+1650/bt.[K]/6H/28f gap
+1651/bt.[K]/2D/12f gap
+1652/bt.[K]/5D/20f gap
+1653/bt.[K]/5[D]/28f gap
+1654/bt.[K]/"[s/h] h/s"/10f gap
+1655/bt.[K]/[4]6S/10f gap
+1656/bt.[K]/[4]6H/23f gap
+1657/bt.[K]/[2]8S/9f gap
+1658/bt.[K]/[2]8H/10f gap
+1659/bt.[K]/236S/12f gap
+1660/bt.[K]/236H/25f gap
+1661/bt.[K]/214S/21f gap
+1662/bt.[K]/bt.214K/30f gap
+1663/bt.[K]/bt.214H/29f gap
+1664/bt.[K]/632146S/5f gap
+1665/bt.[K]/632146H/11f gap
+1666/bt.[K]/bt.P/7f gap
+1667/bt.[K]/bt.K/5f gap
+1668/bt.[K]/bt.S/6f gap
+1669/bt.[K]/bt.H/18f gap
+1670/bt.[K]/236[H]/27f gap
+1671/bt.[K]/bt.[P]/7f gap
+1672/bt.[K]/bt.[K]/5f gap
+1673/bt.[K]/bt.[S]/6f gap
+1674/bt.[K]/bt.[H]/18f gap
+1675/bt.[K]/236D/16f gap
+1676/bt.[K]/236[D]/28f gap
+1677/bt.[S]/5P/0f gap
+1678/bt.[S]/5K/4f gap
+1679/bt.[S]/c.S/2f gap
+1680/bt.[S]/f.S/7f gap
+1681/bt.[S]/5H/10f gap
+1682/bt.[S]/2P/1f gap
+1683/bt.[S]/2K/2f gap
+1684/bt.[S]/2S/5f gap
+1685/bt.[S]/2H/7f gap
+1686/bt.[S]/j.P/5f gap
+1687/bt.[S]/j.K/10f gap
+1688/bt.[S]/j.S/7f gap
+1689/bt.[S]/j.H/11f gap
+1690/bt.[S]/j.D/22f gap
+1691/bt.[S]/6P/5f gap
+1692/bt.[S]/6K/9f gap
+1693/bt.[S]/6H/23f gap
+1694/bt.[S]/2D/7f gap
+1695/bt.[S]/5D/15f gap
+1696/bt.[S]/5[D]/23f gap
+1697/bt.[S]/"[s/h] h/s"/5f gap
+1698/bt.[S]/[4]6S/5f gap
+1699/bt.[S]/[4]6H/18f gap
+1700/bt.[S]/[2]8S/4f gap
+1701/bt.[S]/[2]8H/5f gap
+1702/bt.[S]/236S/7f gap
+1703/bt.[S]/236H/20f gap
+1704/bt.[S]/214S/16f gap
+1705/bt.[S]/bt.214K/25f gap
+1706/bt.[S]/bt.214H/24f gap
+1707/bt.[S]/632146S/0f gap
+1708/bt.[S]/632146H/6f gap
+1709/bt.[S]/bt.P/2f gap
+1710/bt.[S]/bt.K/0f gap
+1711/bt.[S]/bt.S/1f gap
+1712/bt.[S]/bt.H/13f gap
+1713/bt.[S]/236[H]/22f gap
+1714/bt.[S]/bt.[P]/2f gap
+1715/bt.[S]/bt.[K]/0f gap
+1716/bt.[S]/bt.[S]/1f gap
+1717/bt.[S]/bt.[H]/13f gap
+1718/bt.[S]/236D/11f gap
+1719/bt.[S]/236[D]/23f gap
+1720/bt.[H]/5P/0f gap
+1721/bt.[H]/5K/4f gap
+1722/bt.[H]/c.S/2f gap
+1723/bt.[H]/f.S/7f gap
+1724/bt.[H]/5H/10f gap
+1725/bt.[H]/2P/1f gap
+1726/bt.[H]/2K/2f gap
+1727/bt.[H]/2S/5f gap
+1728/bt.[H]/2H/7f gap
+1729/bt.[H]/j.P/5f gap
+1730/bt.[H]/j.K/10f gap
+1731/bt.[H]/j.S/7f gap
+1732/bt.[H]/j.H/11f gap
+1733/bt.[H]/j.D/22f gap
+1734/bt.[H]/6P/5f gap
+1735/bt.[H]/6K/9f gap
+1736/bt.[H]/6H/23f gap
+1737/bt.[H]/2D/7f gap
+1738/bt.[H]/5D/15f gap
+1739/bt.[H]/5[D]/23f gap
+1740/bt.[H]/"[s/h] h/s"/5f gap
+1741/bt.[H]/[4]6S/5f gap
+1742/bt.[H]/[4]6H/18f gap
+1743/bt.[H]/[2]8S/4f gap
+1744/bt.[H]/[2]8H/5f gap
+1745/bt.[H]/236S/7f gap
+1746/bt.[H]/236H/20f gap
+1747/bt.[H]/214S/16f gap
+1748/bt.[H]/bt.214K/25f gap
+1749/bt.[H]/bt.214H/24f gap
+1750/bt.[H]/632146S/0f gap
+1751/bt.[H]/632146H/6f gap
+1752/bt.[H]/bt.P/2f gap
+1753/bt.[H]/bt.K/0f gap
+1754/bt.[H]/bt.S/1f gap
+1755/bt.[H]/bt.H/13f gap
+1756/bt.[H]/236[H]/22f gap
+1757/bt.[H]/bt.[P]/2f gap
+1758/bt.[H]/bt.[K]/0f gap
+1759/bt.[H]/bt.[S]/1f gap
+1760/bt.[H]/bt.[H]/13f gap
+1761/bt.[H]/236D/11f gap
+1762/bt.[H]/236[D]/23f gap
+1763/236D/5P/-4f gap
+1764/236D/5K/0f gap
+1765/236D/c.S/-2f gap
+1766/236D/f.S/3f gap
+1767/236D/5H/6f gap
+1768/236D/2P/-3f gap
+1769/236D/2K/-2f gap
+1770/236D/2S/1f gap
+1771/236D/2H/3f gap
+1772/236D/j.P/14f gap
+1773/236D/j.K/19f gap
+1774/236D/j.S/16f gap
+1775/236D/j.H/20f gap
+1776/236D/j.D/31f gap
+1777/236D/6P/1f gap
+1778/236D/6K/5f gap
+1779/236D/6H/19f gap
+1780/236D/2D/3f gap
+1781/236D/5D/11f gap
+1782/236D/5[D]/19f gap
+1783/236D/"[s/h] h/s"/1f gap
+1784/236D/[4]6S/1f gap
+1785/236D/[4]6H/14f gap
+1786/236D/[2]8S/0f gap
+1787/236D/[2]8H/1f gap
+1788/236D/236S/3f gap
+1789/236D/236H/16f gap
+1790/236D/214S/12f gap
+1791/236D/bt.214K/21f gap
+1792/236D/bt.214H/20f gap
+1793/236D/632146S/-4f gap
+1794/236D/632146H/2f gap
+1795/236D/bt.P/-2f gap
+1796/236D/bt.K/-4f gap
+1797/236D/bt.S/-3f gap
+1798/236D/bt.H/9f gap
+1799/236D/236[H]/18f gap
+1800/236D/bt.[P]/-2f gap
+1801/236D/bt.[K]/-4f gap
+1802/236D/bt.[S]/-3f gap
+1803/236D/bt.[H]/9f gap
+1804/236D/236D/20f gap
+1805/236D/236[D]/32f gap
+1806/236[D]/5P/-4f gap
+1807/236[D]/5K/0f gap
+1808/236[D]/c.S/-2f gap
+1809/236[D]/f.S/3f gap
+1810/236[D]/5H/6f gap
+1811/236[D]/2P/-3f gap
+1812/236[D]/2K/-2f gap
+1813/236[D]/2S/1f gap
+1814/236[D]/2H/3f gap
+1815/236[D]/j.P/14f gap
+1816/236[D]/j.K/19f gap
+1817/236[D]/j.S/16f gap
+1818/236[D]/j.H/20f gap
+1819/236[D]/j.D/31f gap
+1820/236[D]/6P/1f gap
+1821/236[D]/6K/5f gap
+1822/236[D]/6H/19f gap
+1823/236[D]/2D/3f gap
+1824/236[D]/5D/11f gap
+1825/236[D]/5[D]/19f gap
+1826/236[D]/"[s/h] h/s"/1f gap
+1827/236[D]/[4]6S/1f gap
+1828/236[D]/[4]6H/14f gap
+1829/236[D]/[2]8S/0f gap
+1830/236[D]/[2]8H/1f gap
+1831/236[D]/236S/3f gap
+1832/236[D]/236H/16f gap
+1833/236[D]/214S/12f gap
+1834/236[D]/bt.214K/21f gap
+1835/236[D]/bt.214H/20f gap
+1836/236[D]/632146S/-4f gap
+1837/236[D]/632146H/2f gap
+1838/236[D]/bt.P/-2f gap
+1839/236[D]/bt.K/-4f gap
+1840/236[D]/bt.S/-3f gap
+1841/236[D]/bt.H/9f gap
+1842/236[D]/236[H]/18f gap
+1843/236[D]/bt.[P]/-2f gap
+1844/236[D]/bt.[K]/-4f gap
+1845/236[D]/bt.[S]/-3f gap
+1846/236[D]/bt.[H]/9f gap
+1847/236[D]/236D/7f gap
+1848/236[D]/236[D]/32f gap

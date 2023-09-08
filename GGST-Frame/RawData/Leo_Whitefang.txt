@@ -3,7 +3,7 @@
 1//5K/32/All/9/4/13/-3/0/2/Small//90%/1500/1000/
 2//c.S/40/All/7/6/10/+1/+4/3/Mid//100%/2000/1000/
 3//f.S/34/All/12/6/21/-13/-10/2/Mid//90%/1500/1000/
-4//5H/42/All/15/5/22/-10/-7/3/Large//90%/2000/1000/
+4//5H/42/All/15/5/22/-8/-5/4/Large//90%/2000/1000/
 5//2P/22/All/6/4/8/-2/+1/0/Small//80%/500/1500/
 6//2K/26/Low/7/6/11/-5/-2/1/Small//70%/750/1000/
 7//2S/26/Low/10/3/13/-2/+1/2/Mid//90%/1125/1000/
@@ -24,23 +24,25 @@
 0//[4]6S/20×2/All/10/31 or Until Hit*2/Total 54F/-16/-13/2/Very Small//80%/100×2/1000/S Graviert Wurde
 1//[4]6H/16×4/All/23/Until Hit*4/Total 73F/+11/+14/2/Very Small//80%/100×4/1000/H Graviert Wurde
 2//[2]8S/2825/All/9/312/33/-28/KD +22/23/Large/1-9 Strike/60%/700, 1000/1000/S Eisen Sturm
-3//[2]8H/282528/All/10/3,12(10)5/42/-52/HKD +48/234/Large/1-10 Strike/60%/500, 600, 800/1000/H Eisen Sturm
-4//236S/37/All/12/3/20/-6/KD +30/3/Very Small//90%/2000/1000/Kaltes Gestöber Erst
-5//236H/41/All/23 [25]/3/22 [16]/-6 [+2]/KD +26 [KD +34]/4/Very Small//90%/2500/1000/Kaltes Gestöber Zweit
+3//[2]8H/282528/All/10/3,12(10)5/42/-52/HKD +48/234/Large/7-10 Strike/60%/500, 600, 800/1000/H Eisen Sturm
+4//236S/37/All/12/3/20/-6/KD +30/3/Very Small//80%/2000/1000/Kaltes Gestöber Erst
+5//236H/41/All/25 [27]/3/22 [16]/-6 [+2]/KD +26 [KD +34]/4/Very Small//80%/2500/1000/Kaltes Gestöber Zweit
 6//214S/55/All/21/6/21/-8/KD +37/4/Large//90%/2500/2000/Turbulenz
-7//bt.214K/115/Ground Throw/30/3/42//HKD +50////50%//2500/Gländzendes Dunkel
+7//bt.214K/105/Ground Throw/30/3/42//HKD +50////50%//2500/Gländzendes Dunkel
 8//bt.214H/65/All (Guard Crush)/29/3/33/+21/HKD +59/4/Large//90%/2500/1000/Blitzschlag
 9//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146S/170/All/4+1//Total 27F/+14/HKD +67/4/Very Small//100%/500/1000/Stahl Wirbel
-1//632146H/20×4,50/All/10+1/8(15)12(13)8(10)8(44)6/43/-33/HKD +34/4/Mid/1-18 Full/100%/500×5/1000/Leidenschaft des Dirigenten
+0//632146S/150/All/4+1//Total 27F/+14/HKD +67/4/Very Small//100%/500/1000/Stahl Wirbel
+1//632146H/17*4,42/All/10+1/8(15)12(13)8(10)8(44)6/43/-33/HKD +34/4/Mid/1-18 Full/100%/500×5/1000/Leidenschaft des Dirigenten
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +50////50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +48 (IAD)////50%//2500/Air Throw
-2///////Total 22/////////Dash Cancel
-3///30/All/7/4/12/-2 [+2]/13 [+17]/2/Mid/1-10 Upper Body/90%/1500/1000/bt.P
-4///24/Low/5/3/6/+3 [+0]/+6 [+3]/1/Small//70%/750/1000/bt.K
-5///28/All/6/6/14/-3 [+5]/0 [+8]/3/Mid//90%/2000/1000/bt.S
-6///42/High/18/4/22/-7 [+5]/KD +38 [KD +50]/4/Mid/9~19F Airborne/80%/1875/2000/bt.H
-7///74/All/3/17/18//KD +31///"1-2 Strike/Projectile 3-19 Parry"/50%//2500/Kahn Schild
-8/////-//Total 11F/////////Brynhildr Cancel
-9///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+2////All/16/3/20/-4////////Wild Assault
+3/////28/3/20/-4////////Wild Assault
+4///////Total 22/////////Dash Cancel
+5///30/All/7/4/12/-2 [+2]/13 [+17]/2/Mid/1-10 Upper Body/90%/1500/1000/bt.P
+6///24/Low/5/3/6/+3 [+0]/+6 [+3]/1/Small//70%/750/1000/bt.K
+7///28/All/6/6/14/-3 [+5]/0 [+8]/3/Mid//90%/2000/1000/bt.S
+8///42/High/18/4/22/-7 [+5]/KD +38 [KD +50]/4/Mid/9~19F Airborne/80%/1875/2000/bt.H
+9///54/All/3/17/18//KD +31///"1-2 Strike/Projectile 3-19 Parry"/50%//2500/Kahn Schild
+10/////-//Total 11F/////////Brynhildr Cancel
+11///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

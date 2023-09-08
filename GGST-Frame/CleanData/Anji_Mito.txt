@@ -20,15 +20,18 @@
 18/5[D]/28/3/26/-10/4/Normal/
 19/236P/29/71/Total 52/-6/1/Special/
 20/236K///Total 34~50///Special/
-21/236S/12/9(6)5/14//3/Special/
-22/236H/16/4/21/-8/3/Special/236H P, 236H K, 236H S, 236H H
-23/236H P/30 /8/Total 43+6 after Landing/7/2/Rekka Followup/
-24/236H K///22+6 after Landing///Rekka Followup/
-25/236H S/15 /4/20/-7/3/Rekka Followup/
-26/236H H/21 /2/24/-9/3/Rekka Followup/
-27/632146H/17///-30//Super/
-28/632146S///Total 40///Super/
-29/632146S Attack Near/3/////Super/
-30/632146S Attack Far/3///-1//Super/
-31/236[S]/28/9(6)5/14//3/Special/
-32/236[H]/32/4/21/-6/4/Special/236H P, 236H K, 236H S, 236H H
+21/236K~214P/7/3/30/11/3/Super/
+22/236S/12/9(6)5/14//3/Special/
+23/236H/16/4/21/-8/3/Special/236H P, 236H K, 236H S, 236H H
+24/236H P/30 /8/Total 43+6 after Landing/7/2/Rekka Followup/
+25/236H K///22+6 after Landing///Rekka Followup/
+26/236H S/15 /4/20/-7/3/Rekka Followup/
+27/236H H/21 /2/24/-9/3/Rekka Followup/
+28/632146H/17///-30//Super/
+29/632146S///Total 40///Super/
+30/632146S Attack Near/3/////Super/
+31/632146S Attack Far/3///-1//Super/
+32/236[S]/28/9(6)5/14//3/Special/
+33/236[H]/32/4/21/-6/4/Special/236H P, 236H K, 236H S, 236H H
+34/236D/16/3/20/-4/4/Special/All
+35/236[D]/28/3/20/-4/4/Special/All

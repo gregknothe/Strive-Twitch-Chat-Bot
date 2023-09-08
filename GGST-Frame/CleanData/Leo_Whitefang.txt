@@ -3,7 +3,7 @@
 1/5K/9/4/13/-3/2/Normal/6P,6K,6H,5D,2D,Jump,Special,Super
 2/c.S/7/6/10/1/3/Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
 3/f.S/12/6/21/-13/2/Normal/5H,2H,6H,Special,Super
-4/5H/15/5/22/-10/3/Normal/f.S,2S,Special,Super
+4/5H/15/5/22/-8/4/Normal/f.S,2S,Special,Super
 5/2P/6/4/8/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
 6/2K/7/6/11/-5/1/Normal/6P,6K,6H,5D,2D,Special,Super
 7/2S/10/3/13/-2/2/Normal/5H,2H,6H,Special,Super
@@ -25,7 +25,7 @@
 23/[2]8S/9/312/33/-28/3/Special/
 24/[2]8H/10/3,12(10)5/42/-52/4/Special/
 25/236S/12/3/20/-6/3/Special/
-26/236H/23/3/22 [16]/-6/4/Special/
+26/236H/25/3/22 [16]/-6/4/Special/
 27/214S/21/6/21/-8/4/Special/
 28/bt.214K/30/3/42///Special/
 29/bt.214H/29/3/33/21/4/Special/
@@ -35,8 +35,10 @@
 33/bt.K/5/3/6/3/1/Normal/bt.P,bt.S,bt.H,bt.D,Jump,ForwardDash,Special,Super
 34/bt.S/6/6/14/-3/3/Normal/bt.H,bt.D,Special,Super
 35/bt.H/18/4/22/-7/4/Normal/bt.D,Special,Super
-36/236[H]/25/3/22 [16]/2/4/Special/
+36/236[H]/27/3/22 [16]/2/4/Special/
 37/bt.[P]/7/4/12/2/2/Normal/
 38/bt.[K]/5/3/6/0/1/Normal/
 39/bt.[S]/6/6/14/5/3/Normal/
 40/bt.[H]/18/4/22/5/4/Normal/
+41/236D/16/3/20/-4/4/Special/All
+42/236[D]/28/3/20/-4/4/Special/All

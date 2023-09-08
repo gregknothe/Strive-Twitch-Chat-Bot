@@ -21,20 +21,25 @@
 19/5D/20/3/26/-15/2/Normal/
 20/5[D]/28/3/26/-10/4/Normal/
 21/41236K/26/12/19/-12/4/Special/
-22/41236K 4/61/2/30///Super/
-23/41236K 4 H/8/8/41/-30//Super/
-24/236P/26//Total 40///Special/
-25/236S/17//14 after Landing/-7/3/Special/
-26/j.236S/17//14 After Landing//3/jump Special/
-27/236H/6/3/41///Special/
-28/j.236P/27//Total 48//2/jump Special/
-29/j.236P (With Afro)/27//Total 48//2/jump Special/
-30/214P/54/11,12 [11,8,3]/10 [7]/-8/2/Special/
-31/214K/54/11,12 [11,8,3]/10 [7]/-8/2/Special/
-32/214S/50/17/36/-32/2/Special/
-33/632146H/21/3/48/-32//Super/
-34/236236P/4//Total 33///Super/
-35/236236236P/8/////Super/
-36/214[P]/84/11,12 [11,8,3]/10 [7]/7/4/Special/
-37/214[K]/84/11,12 [11,8,3]/10 [7]/7/4/Special/
-38/214[S]/69/17/36/-27/4/Special/
+22/41236[K]/38/12/19/14/4/Special/
+23/41236K 4/61/2/30///Super/
+24/41236K 4 H/8/8/41/-30//Super/
+25/236P/26//Total 40///Special/
+26/236[P]/15//Total 31///Special/
+27/22P/26//Total 40///Special/
+28/236S/17/15 to 34/14 after Landing/-7/3/Special/
+29/j.236S/17//14 After Landing//3/jump Special/
+30/236H/6/3/41///Special/
+31/j.236P/27//Total 48//2/jump Special/
+32/j.236P (With Afro)/27//Total 48//2/jump Special/
+33/214P/54/11,12 [11,8,3]/10 [7]/-8/2/Special/
+34/214K/54/11,12 [11,8,3]/10 [7]/-8/2/Special/
+35/214S/50/17/36/-32/2/Special/
+36/632146H/21/3/48/-32//Super/
+37/236236P/4//Total 33///Super/
+38/236236236P/8/////Super/
+39/214[P]/84/11,12 [11,8,3]/10 [7]/7/4/Special/
+40/214[K]/84/11,12 [11,8,3]/10 [7]/7/4/Special/
+41/214[S]/69/17/36/-27/4/Special/
+42/236D/20/3/20/7/4/Special/All
+43/236[D]/32/3/20/12/4/Special/All

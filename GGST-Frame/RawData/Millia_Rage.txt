@@ -22,20 +22,22 @@
 20//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
 0//236S/35/All/12/14/Total 45/-10/KD +31/3/Very Small/9-41F Airborne 42-45F Below Knee/80%/500/1000/S Tandem Top
 1//236H/32×2/All/73/286/Total 51/+36/KD +83/3/Very Small/18F onwards Airborne/80%/500×2/2000/H Tandem Top
-2//214S/7×3, 7x6, 7x9/All/17/[1(3)]×2~8, 1/-16, -18, -20/-5, -7, -9/-2, -4, KD +30/1/Very Small/None/90%/200×3, 200x6, 200x9/1000/Lust Shaker
-3//214S (3-Hit)/7x3/All/17/[1(3)]x2, 1/16/-5/-2/1/Very Small/None/90%/200×3/1000/3-Hit
-4//214S (6-Hit)/7×6/All/17/[1(3)]×5, 1/18/-7/-4/1/Very Small/None/90%/200×6/1000/6-Hit
-5//214S (9-Hit)/7×9/All/17/[1(3)]×8, 1/20/-9/KD +30/1/Very Small/None/90%/200×9/1000/9-Hit
-6//214P/43/Low/20/till corner/17 + 10L/-12/HKD +62/3/Mid/10F onwards Airborne/90%/1500/2000/Iron Savior
+2//214S/7×3, 7x6, 7x9/All/13/[1(3)]×2~8, 1/-16, -18, -20/-5, -7, -9/-2, -4, KD +30/1/Very Small/None/90%/200×3, 200x6, 200x9/1000/Lust Shaker
+3//214S (3-Hit)/7x3/All/13/[1(3)]x2, 1/16/-5/-2/1/Very Small/None/90%/200×3/1000/3-Hit
+4//214S (6-Hit)/7×6/All/13/[1(3)]×5, 1/18/-7/-4/1/Very Small/None/90%/200×6/1000/6-Hit
+5//214S (9-Hit)/7×9/All/13/[1(3)]×8, 1/20/-9/KD +30/1/Very Small/None/90%/200×9/1000/9-Hit
+6//214P/43/Low/20/till corner/17 + 10L/-12/HKD +62/3/Mid/10F onwards Airborne/80%/1500/2000/Iron Savior
 7//j.236P/5×N, 31/High/11/Until Landing/20 + 12L/-21/KD +23/2/Very Small/None/80%/225×N, 1500/1000/Bad Moon
 8//j.236K/-/-/14/-/9L/-/-/-//None////Turbo Fall
-9//214K/-/-/-/-/Total 28/-/-/-//1-3F Upper Body 4-24F Above Knee////Mirazh
+9//214K/-/-/-/-/Total 26/-/-/-//1-2F Upper Body 3-22F Above Knee////Mirazh
 10//j.236H/40/All/13/3/12/-1 (IAS)/KD +42 (IAS)/1/Very Small/1-12F Lower Body/80%/1000/1000/Kapel
 11//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//236236S/20×2,60/All/4+5/Until corner/Total 43/+8/HKD +77/224/Very Small/9-26F Airborne/100%/100×3/1000/Septem Voices
-1//632146H/20×5,60/All/8+1/10(9)15/40/-32/HKD +21/4/Mid/1-8F Full 7-40F Airborne/100%/400×5, 500/1000/Winger
+1//632146H/16×5,50/All/8+1/10(9)15/40/-32/HKD +21/4/Mid/1-8F Full 7-40F Airborne/100%/400×5, 500/1000/Winger
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0///70/Ground Throw/2/3/38/-/HKD +33/-//None/Forced 50%//2500/Ground Throw
-1///4030/Air Throw/2/3/38 or Until Landing+10//HKD +52 (IAD)///None/Forced 50%//2500/Air Throw
-2///////Total 24/////////Dash Cancel
-3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///70/Ground Throw/2/3/38/-/HKD +61/-//None/Forced 50%//2500/Ground Throw
+1///70/Air Throw/2/3/38 or Until Landing+10//HKD +52 (IAD)///None/Forced 50%//2500/Air Throw
+2////////////////Wild Assault
+3////////////////Wild Assault
+4///////Total 24/////////Dash Cancel
+5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

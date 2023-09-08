@@ -38,7 +38,7 @@
 36/Repulsive Rod (Shooting)/19/600/Total 30///Normal/
 37/Howling Metron/11//Total 39/5/4/Special/
 38/Delayed Howling Metron/21//Total 54/22/4/Special/
-39/Howling Metron MS Processing/16//Total 49/10/4/Special/
+39/Howling Metron MS Processing/16,//Total 49/10/4/Special/
 40/Metron Screamer 808/12//Total 34/16/4/Special/
 41/Metron Arpeggio/31//Total 59/113/4/Special/
 42/Delayed Tardus Metron/21//Total 39/57/4/Special/
@@ -52,3 +52,12 @@
 50/Chaotic Option/11//Total 29///Normal/
 51/"632146P/K"/7/Until Hit//36/5/Super/
 52/632146S/16//Total 17///Super/
+53/[H]owling Metron/11//Total 39/16/4/Normal/
+54/Delayed [H]owling Metron/21//Total 54/33/4/Normal/
+55/[H]owling Metron M[S] [P]rocessing/16//Total 49/21/4/Normal/
+56/Metron Arpeggio/31//Total 59/124/4/Special/
+57/Delayed Tardus Metron/21//Total 39/68/4/Special/
+58/Bit [S]hift Metron/14/4/Total 39/19//Normal/
+59/"632146[P]/[K]"/7/Until Hit//47/5/Super/
+60/236D/20/3/20/7/4/Special/All
+61/236[D]/32/3/20/12/4/Special/All

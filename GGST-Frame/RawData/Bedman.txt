@@ -8,10 +8,10 @@
 6//5[D]/62/High/28/3/26/-10/KD +36/4/Very Small//100%/1875/1500 [1000]/
 7//6P/37/All/11/6/24/-16/KD +19/2/Mid/1~2F Upper Body 3~16F Above Knees/90%/1500/1000/
 8//6H/63/High/25/6/30/-16/KD +28/4/Large//80%/1875/1000/
-9//2P/23/All/5/4/8/-2/+1/0/Small//80%/500/1500/
-10//2K/27/Low/7/4/10/-2/+1/1/Small//70%/750/1000/
+9//2P/23/All/5/4/10/-2/+1/1/Small//80%/500/1500/
+10//2K/27/Low/6/4/10/-2/+1/1/Small//70%/750/1000/
 11//2S/33/Low/12/3/22/-11/-8/2/Mid//90%/1125/1000/
-12//2H/8x5/Low/16/10/30/-18/KD +22/2/Large//90%/225×5/1000/
+12//2H/8x5/Low/16/10/30/-15/KD +22/2x4, 3/Large//90%/225×5/1000/
 13//2D/38/Low/12/6/21/-10/HKD +47/3/Large//90%/1500/1000/
 14//j.P/24/High/6/4/9///0/Small//80%/375/1000/
 15//j.K/31/High/8/4/21///1/Small//80%/750/1000/
@@ -25,8 +25,8 @@
 3//13C !P/70/All (Guard Crush)/8 [14]//Total 0 [Total 30]/+47 [+30]/HKD +105 [HKD +88]/4/Very Small///500/1000/
 4//(236P) 214P/32/All/14//16/+3/+6/2/Very Small///500/1000/
 5//13C (236P) 214P/70/All (Guard Crush)///Total 30//HKD +88//Very Small/////
-6//236S/9x5/All/15/18/24/-12/KD +30/2/Very Small///300×5/1000/call 4B3
-7//j.236S/9x5/All/15/18/24/-13 (IAS)/KD/2/Very Small///300×5/1000/call 4B3
+6//236S/9x5/All/14/18/24/-12/KD +30/2/Very Small///300×5/1000/call 4B3
+7//j.236S/9x5/All/14/18/24/-13 (IAS)/KD/2/Very Small///300×5/1000/call 4B3
 8//!S/9x5/All/15 [21]/3x5/Total 0 [Total 30]/+36 [+26]/KD +83 [KD +73]/2/Very Small//80%/100×5/2000/
 9//13C !S/10x9/All/15 [21]/4x9/Total 0 [Total 30]/+62 [+52]/HKD +132 [HKD +122]/4/Very Small//100%/100×9/1000/
 10//(236S) 214P/9x5/All/21/18/Total 30/+26/KD +73/2/Very Small///100×5/2000/
@@ -46,10 +46,12 @@
 24//j.214K/////Total 24/////////call 0x$1.00
 25//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//632146S///4/300/Total 14/////////call 13C
-1//632146H/158/All/9+4/3/70/-39/HKD +43/4//1~13F Full/100%/500/1000/call 4CC
+1//632146H/133/All/9+4/3/70/-39/HKD +43/4//1~13F Full/100%/500/1000/call 4CC
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3///HKD +57////50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +56 (IAD)////50%//2500/Air Throw
-2///80///////4/////1000/Finish Blow
-3///////Total 26/////////Dash Cancel
-4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+2////All/20/3/20/+7////////Wild Assault
+3////All/32/3/20/+12////////Wild Assault
+4///80///////4/////1000/Finish Blow
+5///////Total 26/////////Dash Cancel
+6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

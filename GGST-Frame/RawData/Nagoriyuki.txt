@@ -1,6 +1,6 @@
 /Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//5P/26/All/5/3/9/0/+3/1/Small//80%/1000/1500/
-1//5K/34/All/7/2/12/0/+3/2/Small/3~21 Low crush/90%/1500/1000/
+1//5K/34/All/7/2/14/-2/+3/2/Small/3~21 Low crush/90%/1500/1000/
 2//c.S/40/All/7/6/10/+3/KD +40/4/Mid//100%/2500/1000/
 3//f.S Level 1/25/All/16/3/28/-17/-14/2/Mid//90%/1500/1000/
 4//f.S Level 2/30/All/14/3/28/-17/-14/2/Mid//90%/1500/1000/
@@ -43,8 +43,8 @@
 41//j.D Level 3/65/High/11/3/20///3/Mid//80%/1500/1000/
 42//j.D Level BR/84/High/11/3/20///3/Mid//80%/1500/1000/
 43//6P/34/All/12/5/15/-6/-3/2/Mid/1~3F Upper Body 4~17F Above Knee/90%/1500/1000/
-44//6K/35/Low/15/3/15/-4/-1/2/Mid//90%/1125/1000/
-45//6H Level 1/70/All/17/6/30/-17/KD -3/4/Large//90%/2500/1000/
+44//6K/35/Low/15/3/13/-2/+1/2/Mid//90%/1125/1000/
+45//6H Level 1/70/All/17/6/30/-2/KD +34/4/Large//90%/2500/1000/
 46//6H Level 2/80/All/16/6/30/-17/KD -3/4/Large//90%/2500/1000/
 47//6H Level 3/90/All/15/6/30/-17/KD -3/4/Large//90%/2500/1000/
 48//6H Level BR/117/All/15/6/30/-17/KD -3/4/Large//90%/2500/1000/
@@ -55,9 +55,9 @@
 0//236S/45/All/18~29/9/Total 39/+5/+8/2/Very Small/Projectile Clash 12~[17~28]/80%/500/1000/Zarameyuki
 1//236K///-//Total 25/////1~25F Above Chest////Forward Fukyo
 2//214K///-//Total 16/////1~16F Above Chest////Backward Fukyo
-3//214H/50/All/14/5/17/-3/HKD +56/4/Large//90%/2500/1000/Kamuriyuki
+3//214H/50/Low/14/5/17/-3/HKD +56/4/Large//90%/2500/1000/Kamuriyuki
 4//623H/45/All/11/3/21/-7/HKD +67/3/Large/1-13F Upper Body/90%/1000/1000/Shizuriyuki (1)
-5//623HH/55/All/10/6/29/-16/HKD +28/4/Large//90%/1200/1000/Shizuriyuki (2)
+5//623HH/55/High/10/6/29/-16/HKD +28/4/Large//90%/1200/1000/Shizuriyuki (2)
 6//623P/"80/90/100"/Ground Throw/7/2/48//HKD +36///1~8F Throw/50%//2500/Bloodsucking Universe
 7//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//632146S/70, 3×17, 60 [70]/All/7+(173 Flash)+2/2/54/-39/HKD +39 [HKD +73]/3/Mid/1~10F Full//2000/1000/Wasureyuki
@@ -67,4 +67,6 @@
 1/////1+(59 Flash)//0/////1F Full////BR Deactivation
 2///90/Ground Throw/2/3/38//HKD +41////50%//2500/Ground Throw
 3///90/Air Throw/2/3/38 or Until Landing+10//HKD +51 (IAS)////50%//2500/Air Throw
-4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+4////////////////Wild Assault
+5////////////////Wild Assault
+6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

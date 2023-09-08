@@ -26,18 +26,20 @@
 1//"214S/H"/40/All/130/~/Total 30/~/~/2/Very Small//80%/500/1000/Stop and Dash
 2//214K/32/All/20~38/Until Landing/0/+16 (Airborne)/+19 (Airborne)/3/Very Small/5F onwards Airborne/90%/2000/1000/Rolling Movement
 3//623P/16×4/All/9/3333/39/-28/KD +11/2/Large/1~11F Strike/60%/300×4/1000/Starship
-4//236K/29/All/10/25/9/-20~+4/-17~+4/2/Mid//90%/1500/1000/Kick Start My Heart
-5//236K P/21/All/7/7/19/-6/KD +35/2/Very Small//80%/500/1000/Brake
-6//236K K/37/All/3/20/24/-33/KD +17/2/Mid/3~??F Airborne/90%/1500/1000/Shoot
-7//j.236K/25, 35/All/25/~/15/-5/KD +30/2/Very Small//90%/700×2/1000/Roger Dive
-8//63214P/100/Ground Throw/27/2/28//HKD +55/4//4~20F Airborne/50%//2500/Rock the Baby
-9//j.63214P/100/Air Throw/26/2/28//HKD +60 (IAD)/4//1~20F Airborne/50%//2500/Air Rock the Baby
+4//236K/29/All/10/25/9/-20~+4/-17~+4/2/Very Small//80%/1500/1000/Kick Start My Heart
+5//236K P/21/All/7/7/19/-6/KD +35/2/Very Small//80%/500/2000/Brake
+6//236K K/37/All/3/20/24/-33/KD +17/2/Very Small/3~??F Airborne/80%/1500/1000/Shoot
+7//j.236K/25, 35/All/25/~/15/-5/KD +30/2/Very Small//80%/700×2/1000/Roger Dive
+8//63214P/90/Ground Throw/27/2/28//HKD +55/4//4~20F Airborne/50%//2500/Rock the Baby
+9//j.63214P/90/Air Throw/26/2/28//HKD +60 (IAD)/4//1~20F Airborne/50%//2500/Air Rock the Baby
 10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146S/[10, 1]×6, 10, 80/Mid/9+2/45/47/-29/HKD +53/2/Mid//100%/[300, 100]×7/1000×2/Loop the Loop
+0//632146S/[9, 1]×6, 9, 71/Mid/9+2/45/47/-29/HKD +53/2/Mid//100%/[300, 100]×7/1000×2/Loop the Loop
 1//632146H/15×7/All/9+1/~/~/+8/HKD +74/2/Very Small//100%/100×5/1000/Return of the Killing Machine
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///70/Ground Throw (90000)/2/3/38//HKD +46////50%//1000/Ground Throw
 1///70/Air Throw/2/3/38 or Until Landing+10//HKD +55 (IAD)////50%//1000/Air Throw
-2///80//////KD +23/4/////1000/Finish Blow
-3///////Total 22/////////Dash Cancel
-4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+2///30/All/20~31/3/20/+12////////Wild Assault
+3///50/All/32/3/20/+17////////Wild Assault
+4///80//////KD +23/4/////1000/Finish Blow
+5///////Total 22/////////Dash Cancel
+6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

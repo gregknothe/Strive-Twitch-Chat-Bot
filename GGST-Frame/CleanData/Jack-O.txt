@@ -25,12 +25,15 @@
 23/D while holding Servant///Total 11///Normal/
 24/214P/10//Total 19///Special/
 25/214K/12/6/Total 23/15/2/Special/
-26/214S/4/34/Total 24///Special/
-27/S while holding Servant/4/28/Total 24///Normal/
-28/214H/208/19/Total 24//3/Special/
-29/236K/15/4/25/-12/3/Special/
-30/Bounced Servant/6////0/Normal/
-31/Launched Servant/6///-6/0/Normal/
-32/632146P/11/2/58///Super/
-33/236236S/3/300/Total 15///Super/
-34/236236H/3/300/Total 15///Super/
+26/K while holding Servant/12/6/Total 23/3/2/Normal/
+27/214S/4/34/Total 24/31/1/Special/
+28/S while holding Servant/4/28/Total 24/31/1/Normal/
+29/214H/208/19/Total 24//3/Special/
+30/236K/15/4/25/-12/3/Special/
+31/Bounced Servant/6////0/Normal/
+32/Launched Servant/6///-6/0/Normal/
+33/632146P/11/2/58/-41/4/Super/
+34/236236S/3/300/Total 15///Super/
+35/236236H/3/300/Total 15///Super/
+36/236D/20/3/20/7/4/Special/All
+37/236[D]/32/3/20/12/4/Special/All

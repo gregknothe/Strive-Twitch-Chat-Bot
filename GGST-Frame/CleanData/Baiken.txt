@@ -31,3 +31,5 @@
 29/j.214214P/14/28/Total 45//4/jump Super/
 30/j.236[K]/20/Until Tatami Lands/Until Landing+7/15/0/jump Special/
 31/41236[H]~[H]/23/3/14 (23 on block)/-7/3/Special/
+32/236D/20/3/20/7/4/Special/All
+33/236[D]/32/3/20/12/4/Special/All

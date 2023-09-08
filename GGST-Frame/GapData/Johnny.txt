@@ -1,0 +1,1682 @@
+/move1/move2/gap
+0/5P/5P/-999994f gap
+1/5P/5K/9f gap
+2/5P/c.S/9f gap
+3/5P/f.S/11f gap
+4/5P/5H/15f gap
+5/5P/5D/22f gap
+6/5P/5[D]/30f gap
+7/5P/2P/-999995f gap
+8/5P/2K/8f gap
+9/5P/2S/13f gap
+10/5P/2H/20f gap
+11/5P/2D/12f gap
+12/5P/j.P/14f gap
+13/5P/j.K/15f gap
+14/5P/j.S/17f gap
+15/5P/j.H/22f gap
+16/5P/j.D/15f gap
+17/5P/6P/-999989f gap
+18/5P/6K/-999985f gap
+19/5P/6H/-999982f gap
+20/5P/"214[P/K/S]"/-999993f gap
+21/5P/"j.214[P/K/S]"/14f gap
+22/5P/214]P[/"N/A"
+23/5P/214]K[/"N/A"
+24/5P/214]S[/"N/A"
+25/5P/j.214]P[/"N/A"
+26/5P/j.214]K[/"N/A"
+27/5P/j.214]S[/"N/A"
+28/5P/H or D/"N/A"
+29/5P/Mist Finer 66/"N/A"
+30/5P/Mist Finer 44/"N/A"
+31/5P/Card hit by Mist Finer/19f gap
+32/5P/"236P/K/S"/"N/A"
+33/5P/j.236H/22f gap
+34/5P/236H/"N/A"
+35/5P/236HH/"N/A"
+36/5P/214H/-999982f gap
+37/5P/632146H/-999989f gap
+38/5P/236236S/-999993f gap
+39/5P/236D/-999984f gap
+40/5P/236[D]/-999972f gap
+41/5K/5P/8f gap
+42/5K/5K/9f gap
+43/5K/c.S/9f gap
+44/5K/f.S/11f gap
+45/5K/5H/15f gap
+46/5K/5D/-999980f gap
+47/5K/5[D]/30f gap
+48/5K/2P/7f gap
+49/5K/2K/8f gap
+50/5K/2S/13f gap
+51/5K/2H/20f gap
+52/5K/2D/-999990f gap
+53/5K/j.P/-999988f gap
+54/5K/j.K/-999987f gap
+55/5K/j.S/-999985f gap
+56/5K/j.H/-999980f gap
+57/5K/j.D/-999987f gap
+58/5K/6P/-999989f gap
+59/5K/6K/-999985f gap
+60/5K/6H/-999982f gap
+61/5K/"214[P/K/S]"/-999993f gap
+62/5K/"j.214[P/K/S]"/-999988f gap
+63/5K/214]P[/"N/A"
+64/5K/214]K[/"N/A"
+65/5K/214]S[/"N/A"
+66/5K/j.214]P[/"N/A"
+67/5K/j.214]K[/"N/A"
+68/5K/j.214]S[/"N/A"
+69/5K/H or D/"N/A"
+70/5K/Mist Finer 66/"N/A"
+71/5K/Mist Finer 44/"N/A"
+72/5K/Card hit by Mist Finer/19f gap
+73/5K/"236P/K/S"/"N/A"
+74/5K/j.236H/-999980f gap
+75/5K/236H/"N/A"
+76/5K/236HH/"N/A"
+77/5K/214H/-999982f gap
+78/5K/632146H/-999989f gap
+79/5K/236236S/-999993f gap
+80/5K/236D/-999984f gap
+81/5K/236[D]/-999972f gap
+82/c.S/5P/5f gap
+83/c.S/5K/6f gap
+84/c.S/c.S/6f gap
+85/c.S/f.S/-999991f gap
+86/c.S/5H/-999987f gap
+87/c.S/5D/-999980f gap
+88/c.S/5[D]/27f gap
+89/c.S/2P/4f gap
+90/c.S/2K/5f gap
+91/c.S/2S/-999989f gap
+92/c.S/2H/-999982f gap
+93/c.S/2D/-999990f gap
+94/c.S/j.P/-999988f gap
+95/c.S/j.K/-999987f gap
+96/c.S/j.S/-999985f gap
+97/c.S/j.H/-999980f gap
+98/c.S/j.D/-999987f gap
+99/c.S/6P/-999989f gap
+100/c.S/6K/-999985f gap
+101/c.S/6H/-999982f gap
+102/c.S/"214[P/K/S]"/-999993f gap
+103/c.S/"j.214[P/K/S]"/-999988f gap
+104/c.S/214]P[/"N/A"
+105/c.S/214]K[/"N/A"
+106/c.S/214]S[/"N/A"
+107/c.S/j.214]P[/"N/A"
+108/c.S/j.214]K[/"N/A"
+109/c.S/j.214]S[/"N/A"
+110/c.S/H or D/"N/A"
+111/c.S/Mist Finer 66/"N/A"
+112/c.S/Mist Finer 44/"N/A"
+113/c.S/Card hit by Mist Finer/16f gap
+114/c.S/"236P/K/S"/"N/A"
+115/c.S/j.236H/-999980f gap
+116/c.S/236H/"N/A"
+117/c.S/236HH/"N/A"
+118/c.S/214H/-999982f gap
+119/c.S/632146H/-999989f gap
+120/c.S/236236S/-999993f gap
+121/c.S/236D/-999984f gap
+122/c.S/236[D]/-999972f gap
+123/f.S/5P/17f gap
+124/f.S/5K/18f gap
+125/f.S/c.S/18f gap
+126/f.S/f.S/20f gap
+127/f.S/5H/-999987f gap
+128/f.S/5D/31f gap
+129/f.S/5[D]/39f gap
+130/f.S/2P/16f gap
+131/f.S/2K/17f gap
+132/f.S/2S/22f gap
+133/f.S/2H/-999982f gap
+134/f.S/2D/21f gap
+135/f.S/j.P/23f gap
+136/f.S/j.K/24f gap
+137/f.S/j.S/26f gap
+138/f.S/j.H/31f gap
+139/f.S/j.D/24f gap
+140/f.S/6P/22f gap
+141/f.S/6K/26f gap
+142/f.S/6H/29f gap
+143/f.S/"214[P/K/S]"/-999993f gap
+144/f.S/"j.214[P/K/S]"/23f gap
+145/f.S/214]P[/"N/A"
+146/f.S/214]K[/"N/A"
+147/f.S/214]S[/"N/A"
+148/f.S/j.214]P[/"N/A"
+149/f.S/j.214]K[/"N/A"
+150/f.S/j.214]S[/"N/A"
+151/f.S/H or D/"N/A"
+152/f.S/Mist Finer 66/"N/A"
+153/f.S/Mist Finer 44/"N/A"
+154/f.S/Card hit by Mist Finer/28f gap
+155/f.S/"236P/K/S"/"N/A"
+156/f.S/j.236H/31f gap
+157/f.S/236H/"N/A"
+158/f.S/236HH/"N/A"
+159/f.S/214H/-999982f gap
+160/f.S/632146H/-999989f gap
+161/f.S/236236S/-999993f gap
+162/f.S/236D/-999984f gap
+163/f.S/236[D]/-999972f gap
+164/5H/5P/21f gap
+165/5H/5K/22f gap
+166/5H/c.S/22f gap
+167/5H/f.S/24f gap
+168/5H/5H/28f gap
+169/5H/5D/35f gap
+170/5H/5[D]/43f gap
+171/5H/2P/20f gap
+172/5H/2K/21f gap
+173/5H/2S/26f gap
+174/5H/2H/33f gap
+175/5H/2D/25f gap
+176/5H/j.P/27f gap
+177/5H/j.K/28f gap
+178/5H/j.S/30f gap
+179/5H/j.H/35f gap
+180/5H/j.D/28f gap
+181/5H/6P/26f gap
+182/5H/6K/30f gap
+183/5H/6H/33f gap
+184/5H/"214[P/K/S]"/-999993f gap
+185/5H/"j.214[P/K/S]"/27f gap
+186/5H/214]P[/"N/A"
+187/5H/214]K[/"N/A"
+188/5H/214]S[/"N/A"
+189/5H/j.214]P[/"N/A"
+190/5H/j.214]K[/"N/A"
+191/5H/j.214]S[/"N/A"
+192/5H/H or D/"N/A"
+193/5H/Mist Finer 66/"N/A"
+194/5H/Mist Finer 44/"N/A"
+195/5H/Card hit by Mist Finer/32f gap
+196/5H/"236P/K/S"/"N/A"
+197/5H/j.236H/35f gap
+198/5H/236H/"N/A"
+199/5H/236HH/"N/A"
+200/5H/214H/-999982f gap
+201/5H/632146H/-999989f gap
+202/5H/236236S/-999993f gap
+203/5H/236D/-999984f gap
+204/5H/236[D]/-999972f gap
+205/5D/5P/21f gap
+206/5D/5K/22f gap
+207/5D/c.S/22f gap
+208/5D/f.S/24f gap
+209/5D/5H/28f gap
+210/5D/5D/35f gap
+211/5D/5[D]/43f gap
+212/5D/2P/20f gap
+213/5D/2K/21f gap
+214/5D/2S/26f gap
+215/5D/2H/33f gap
+216/5D/2D/25f gap
+217/5D/j.P/27f gap
+218/5D/j.K/28f gap
+219/5D/j.S/30f gap
+220/5D/j.H/35f gap
+221/5D/j.D/28f gap
+222/5D/6P/26f gap
+223/5D/6K/30f gap
+224/5D/6H/33f gap
+225/5D/"214[P/K/S]"/22f gap
+226/5D/"j.214[P/K/S]"/27f gap
+227/5D/214]P[/"N/A"
+228/5D/214]K[/"N/A"
+229/5D/214]S[/"N/A"
+230/5D/j.214]P[/"N/A"
+231/5D/j.214]K[/"N/A"
+232/5D/j.214]S[/"N/A"
+233/5D/H or D/"N/A"
+234/5D/Mist Finer 66/"N/A"
+235/5D/Mist Finer 44/"N/A"
+236/5D/Card hit by Mist Finer/32f gap
+237/5D/"236P/K/S"/"N/A"
+238/5D/j.236H/35f gap
+239/5D/236H/"N/A"
+240/5D/236HH/"N/A"
+241/5D/214H/33f gap
+242/5D/632146H/26f gap
+243/5D/236236S/22f gap
+244/5D/236D/31f gap
+245/5D/236[D]/43f gap
+246/5[D]/5P/16f gap
+247/5[D]/5K/17f gap
+248/5[D]/c.S/17f gap
+249/5[D]/f.S/19f gap
+250/5[D]/5H/23f gap
+251/5[D]/5D/30f gap
+252/5[D]/5[D]/38f gap
+253/5[D]/2P/15f gap
+254/5[D]/2K/16f gap
+255/5[D]/2S/21f gap
+256/5[D]/2H/28f gap
+257/5[D]/2D/20f gap
+258/5[D]/j.P/22f gap
+259/5[D]/j.K/23f gap
+260/5[D]/j.S/25f gap
+261/5[D]/j.H/30f gap
+262/5[D]/j.D/23f gap
+263/5[D]/6P/21f gap
+264/5[D]/6K/25f gap
+265/5[D]/6H/28f gap
+266/5[D]/"214[P/K/S]"/17f gap
+267/5[D]/"j.214[P/K/S]"/22f gap
+268/5[D]/214]P[/"N/A"
+269/5[D]/214]K[/"N/A"
+270/5[D]/214]S[/"N/A"
+271/5[D]/j.214]P[/"N/A"
+272/5[D]/j.214]K[/"N/A"
+273/5[D]/j.214]S[/"N/A"
+274/5[D]/H or D/"N/A"
+275/5[D]/Mist Finer 66/"N/A"
+276/5[D]/Mist Finer 44/"N/A"
+277/5[D]/Card hit by Mist Finer/27f gap
+278/5[D]/"236P/K/S"/"N/A"
+279/5[D]/j.236H/30f gap
+280/5[D]/236H/"N/A"
+281/5[D]/236HH/"N/A"
+282/5[D]/214H/28f gap
+283/5[D]/632146H/21f gap
+284/5[D]/236236S/17f gap
+285/5[D]/236D/26f gap
+286/5[D]/236[D]/38f gap
+287/2P/5P/-999994f gap
+288/2P/5K/9f gap
+289/2P/c.S/9f gap
+290/2P/f.S/11f gap
+291/2P/5H/15f gap
+292/2P/5D/22f gap
+293/2P/5[D]/30f gap
+294/2P/2P/-999995f gap
+295/2P/2K/8f gap
+296/2P/2S/13f gap
+297/2P/2H/20f gap
+298/2P/2D/12f gap
+299/2P/j.P/14f gap
+300/2P/j.K/15f gap
+301/2P/j.S/17f gap
+302/2P/j.H/22f gap
+303/2P/j.D/15f gap
+304/2P/6P/-999989f gap
+305/2P/6K/-999985f gap
+306/2P/6H/-999982f gap
+307/2P/"214[P/K/S]"/-999993f gap
+308/2P/"j.214[P/K/S]"/14f gap
+309/2P/214]P[/"N/A"
+310/2P/214]K[/"N/A"
+311/2P/214]S[/"N/A"
+312/2P/j.214]P[/"N/A"
+313/2P/j.214]K[/"N/A"
+314/2P/j.214]S[/"N/A"
+315/2P/H or D/"N/A"
+316/2P/Mist Finer 66/"N/A"
+317/2P/Mist Finer 44/"N/A"
+318/2P/Card hit by Mist Finer/19f gap
+319/2P/"236P/K/S"/"N/A"
+320/2P/j.236H/22f gap
+321/2P/236H/"N/A"
+322/2P/236HH/"N/A"
+323/2P/214H/-999982f gap
+324/2P/632146H/-999989f gap
+325/2P/236236S/-999993f gap
+326/2P/236D/-999984f gap
+327/2P/236[D]/-999972f gap
+328/2K/5P/8f gap
+329/2K/5K/9f gap
+330/2K/c.S/9f gap
+331/2K/f.S/11f gap
+332/2K/5H/15f gap
+333/2K/5D/-999980f gap
+334/2K/5[D]/30f gap
+335/2K/2P/7f gap
+336/2K/2K/8f gap
+337/2K/2S/13f gap
+338/2K/2H/20f gap
+339/2K/2D/-999990f gap
+340/2K/j.P/14f gap
+341/2K/j.K/15f gap
+342/2K/j.S/17f gap
+343/2K/j.H/22f gap
+344/2K/j.D/15f gap
+345/2K/6P/-999989f gap
+346/2K/6K/-999985f gap
+347/2K/6H/-999982f gap
+348/2K/"214[P/K/S]"/-999993f gap
+349/2K/"j.214[P/K/S]"/14f gap
+350/2K/214]P[/"N/A"
+351/2K/214]K[/"N/A"
+352/2K/214]S[/"N/A"
+353/2K/j.214]P[/"N/A"
+354/2K/j.214]K[/"N/A"
+355/2K/j.214]S[/"N/A"
+356/2K/H or D/"N/A"
+357/2K/Mist Finer 66/"N/A"
+358/2K/Mist Finer 44/"N/A"
+359/2K/Card hit by Mist Finer/19f gap
+360/2K/"236P/K/S"/"N/A"
+361/2K/j.236H/22f gap
+362/2K/236H/"N/A"
+363/2K/236HH/"N/A"
+364/2K/214H/-999982f gap
+365/2K/632146H/-999989f gap
+366/2K/236236S/-999993f gap
+367/2K/236D/-999984f gap
+368/2K/236[D]/-999972f gap
+369/2S/5P/16f gap
+370/2S/5K/17f gap
+371/2S/c.S/17f gap
+372/2S/f.S/19f gap
+373/2S/5H/-999987f gap
+374/2S/5D/30f gap
+375/2S/5[D]/38f gap
+376/2S/2P/15f gap
+377/2S/2K/16f gap
+378/2S/2S/21f gap
+379/2S/2H/-999982f gap
+380/2S/2D/20f gap
+381/2S/j.P/22f gap
+382/2S/j.K/23f gap
+383/2S/j.S/25f gap
+384/2S/j.H/30f gap
+385/2S/j.D/23f gap
+386/2S/6P/21f gap
+387/2S/6K/25f gap
+388/2S/6H/28f gap
+389/2S/"214[P/K/S]"/-999993f gap
+390/2S/"j.214[P/K/S]"/22f gap
+391/2S/214]P[/"N/A"
+392/2S/214]K[/"N/A"
+393/2S/214]S[/"N/A"
+394/2S/j.214]P[/"N/A"
+395/2S/j.214]K[/"N/A"
+396/2S/j.214]S[/"N/A"
+397/2S/H or D/"N/A"
+398/2S/Mist Finer 66/"N/A"
+399/2S/Mist Finer 44/"N/A"
+400/2S/Card hit by Mist Finer/27f gap
+401/2S/"236P/K/S"/"N/A"
+402/2S/j.236H/30f gap
+403/2S/236H/"N/A"
+404/2S/236HH/"N/A"
+405/2S/214H/-999982f gap
+406/2S/632146H/-999989f gap
+407/2S/236236S/-999993f gap
+408/2S/236D/-999984f gap
+409/2S/236[D]/-999972f gap
+410/2H/5P/20f gap
+411/2H/5K/21f gap
+412/2H/c.S/21f gap
+413/2H/f.S/23f gap
+414/2H/5H/27f gap
+415/2H/5D/34f gap
+416/2H/5[D]/42f gap
+417/2H/2P/19f gap
+418/2H/2K/20f gap
+419/2H/2S/25f gap
+420/2H/2H/32f gap
+421/2H/2D/24f gap
+422/2H/j.P/26f gap
+423/2H/j.K/27f gap
+424/2H/j.S/29f gap
+425/2H/j.H/34f gap
+426/2H/j.D/27f gap
+427/2H/6P/25f gap
+428/2H/6K/29f gap
+429/2H/6H/32f gap
+430/2H/"214[P/K/S]"/-999993f gap
+431/2H/"j.214[P/K/S]"/26f gap
+432/2H/214]P[/"N/A"
+433/2H/214]K[/"N/A"
+434/2H/214]S[/"N/A"
+435/2H/j.214]P[/"N/A"
+436/2H/j.214]K[/"N/A"
+437/2H/j.214]S[/"N/A"
+438/2H/H or D/"N/A"
+439/2H/Mist Finer 66/"N/A"
+440/2H/Mist Finer 44/"N/A"
+441/2H/Card hit by Mist Finer/31f gap
+442/2H/"236P/K/S"/"N/A"
+443/2H/j.236H/34f gap
+444/2H/236H/"N/A"
+445/2H/236HH/"N/A"
+446/2H/214H/-999982f gap
+447/2H/632146H/-999989f gap
+448/2H/236236S/-999993f gap
+449/2H/236D/-999984f gap
+450/2H/236[D]/-999972f gap
+451/2D/5P/21f gap
+452/2D/5K/22f gap
+453/2D/c.S/22f gap
+454/2D/f.S/24f gap
+455/2D/5H/28f gap
+456/2D/5D/35f gap
+457/2D/5[D]/43f gap
+458/2D/2P/20f gap
+459/2D/2K/21f gap
+460/2D/2S/26f gap
+461/2D/2H/33f gap
+462/2D/2D/25f gap
+463/2D/j.P/27f gap
+464/2D/j.K/28f gap
+465/2D/j.S/30f gap
+466/2D/j.H/35f gap
+467/2D/j.D/28f gap
+468/2D/6P/26f gap
+469/2D/6K/30f gap
+470/2D/6H/33f gap
+471/2D/"214[P/K/S]"/-999993f gap
+472/2D/"j.214[P/K/S]"/27f gap
+473/2D/214]P[/"N/A"
+474/2D/214]K[/"N/A"
+475/2D/214]S[/"N/A"
+476/2D/j.214]P[/"N/A"
+477/2D/j.214]K[/"N/A"
+478/2D/j.214]S[/"N/A"
+479/2D/H or D/"N/A"
+480/2D/Mist Finer 66/"N/A"
+481/2D/Mist Finer 44/"N/A"
+482/2D/Card hit by Mist Finer/32f gap
+483/2D/"236P/K/S"/"N/A"
+484/2D/j.236H/35f gap
+485/2D/236H/"N/A"
+486/2D/236HH/"N/A"
+487/2D/214H/-999982f gap
+488/2D/632146H/-999989f gap
+489/2D/236236S/-999993f gap
+490/2D/236D/-999984f gap
+491/2D/236[D]/-999972f gap
+492/j.P/5P/j.P has 1000000f of blockstun, while 5P has 6.0f of startup
+493/j.P/5K/j.P has 1000000f of blockstun, while 5K has 7.0f of startup
+494/j.P/c.S/j.P has 1000000f of blockstun, while c.S has 7.0f of startup
+495/j.P/f.S/j.P has 1000000f of blockstun, while f.S has 9.0f of startup
+496/j.P/5H/j.P has 1000000f of blockstun, while 5H has 13.0f of startup
+497/j.P/5D/j.P has 1000000f of blockstun, while 5D has 20.0f of startup
+498/j.P/5[D]/j.P has 1000000f of blockstun, while 5[D] has 28.0f of startup
+499/j.P/2P/j.P has 1000000f of blockstun, while 2P has 5.0f of startup
+500/j.P/2K/j.P has 1000000f of blockstun, while 2K has 6.0f of startup
+501/j.P/2S/j.P has 1000000f of blockstun, while 2S has 11.0f of startup
+502/j.P/2H/j.P has 1000000f of blockstun, while 2H has 18.0f of startup
+503/j.P/2D/j.P has 1000000f of blockstun, while 2D has 10.0f of startup
+504/j.P/j.P/-999993f gap
+505/j.P/j.K/j.P has 1000000f of blockstun, while j.K has 8.0f of startup
+506/j.P/j.S/j.P has 1000000f of blockstun, while j.S has 10.0f of startup
+507/j.P/j.H/j.P has 1000000f of blockstun, while j.H has 15.0f of startup
+508/j.P/j.D/j.P has 1000000f of blockstun, while j.D has 8.0f of startup
+509/j.P/6P/j.P has 1000000f of blockstun, while 6P has 11.0f of startup
+510/j.P/6K/j.P has 1000000f of blockstun, while 6K has 15.0f of startup
+511/j.P/6H/j.P has 1000000f of blockstun, while 6H has 18.0f of startup
+512/j.P/"214[P/K/S]"/"j.P has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+513/j.P/"j.214[P/K/S]"/"j.P has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+514/j.P/214]P[/"N/A"
+515/j.P/214]K[/"N/A"
+516/j.P/214]S[/"N/A"
+517/j.P/j.214]P[/"N/A"
+518/j.P/j.214]K[/"N/A"
+519/j.P/j.214]S[/"N/A"
+520/j.P/H or D/j.P has 1000000f of blockstun, while H or D has f of startup
+521/j.P/Mist Finer 66/j.P has 1000000f of blockstun, while Mist Finer 66 has f of startup
+522/j.P/Mist Finer 44/j.P has 1000000f of blockstun, while Mist Finer 44 has f of startup
+523/j.P/Card hit by Mist Finer/j.P has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup
+524/j.P/"236P/K/S"/"j.P has 1000000f of blockstun, while 236P/K/S has f of startup"
+525/j.P/j.236H/j.P has 1000000f of blockstun, while j.236H has 15.0f of startup
+526/j.P/236H/j.P has 1000000f of blockstun, while 236H has f of startup
+527/j.P/236HH/j.P has 1000000f of blockstun, while 236HH has f of startup
+528/j.P/214H/j.P has 1000000f of blockstun, while 214H has 18.0f of startup
+529/j.P/632146H/j.P has 1000000f of blockstun, while 632146H has 11.0f of startup
+530/j.P/236236S/j.P has 1000000f of blockstun, while 236236S has 7.0f of startup
+531/j.P/236D/j.P has 1000000f of blockstun, while 236D has 16.0f of startup
+532/j.P/236[D]/j.P has 1000000f of blockstun, while 236[D] has 28.0f of startup
+533/j.K/5P/j.K has 1000000f of blockstun, while 5P has 6.0f of startup
+534/j.K/5K/j.K has 1000000f of blockstun, while 5K has 7.0f of startup
+535/j.K/c.S/j.K has 1000000f of blockstun, while c.S has 7.0f of startup
+536/j.K/f.S/j.K has 1000000f of blockstun, while f.S has 9.0f of startup
+537/j.K/5H/j.K has 1000000f of blockstun, while 5H has 13.0f of startup
+538/j.K/5D/j.K has 1000000f of blockstun, while 5D has 20.0f of startup
+539/j.K/5[D]/j.K has 1000000f of blockstun, while 5[D] has 28.0f of startup
+540/j.K/2P/j.K has 1000000f of blockstun, while 2P has 5.0f of startup
+541/j.K/2K/j.K has 1000000f of blockstun, while 2K has 6.0f of startup
+542/j.K/2S/j.K has 1000000f of blockstun, while 2S has 11.0f of startup
+543/j.K/2H/j.K has 1000000f of blockstun, while 2H has 18.0f of startup
+544/j.K/2D/j.K has 1000000f of blockstun, while 2D has 10.0f of startup
+545/j.K/j.P/j.K has 1000000f of blockstun, while j.P has 7.0f of startup
+546/j.K/j.K/j.K has 1000000f of blockstun, while j.K has 8.0f of startup
+547/j.K/j.S/j.K has 1000000f of blockstun, while j.S has 10.0f of startup
+548/j.K/j.H/j.K has 1000000f of blockstun, while j.H has 15.0f of startup
+549/j.K/j.D/-999992f gap
+550/j.K/6P/j.K has 1000000f of blockstun, while 6P has 11.0f of startup
+551/j.K/6K/j.K has 1000000f of blockstun, while 6K has 15.0f of startup
+552/j.K/6H/j.K has 1000000f of blockstun, while 6H has 18.0f of startup
+553/j.K/"214[P/K/S]"/"j.K has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+554/j.K/"j.214[P/K/S]"/"j.K has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+555/j.K/214]P[/"N/A"
+556/j.K/214]K[/"N/A"
+557/j.K/214]S[/"N/A"
+558/j.K/j.214]P[/"N/A"
+559/j.K/j.214]K[/"N/A"
+560/j.K/j.214]S[/"N/A"
+561/j.K/H or D/j.K has 1000000f of blockstun, while H or D has f of startup
+562/j.K/Mist Finer 66/j.K has 1000000f of blockstun, while Mist Finer 66 has f of startup
+563/j.K/Mist Finer 44/j.K has 1000000f of blockstun, while Mist Finer 44 has f of startup
+564/j.K/Card hit by Mist Finer/j.K has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup
+565/j.K/"236P/K/S"/"j.K has 1000000f of blockstun, while 236P/K/S has f of startup"
+566/j.K/j.236H/j.K has 1000000f of blockstun, while j.236H has 15.0f of startup
+567/j.K/236H/j.K has 1000000f of blockstun, while 236H has f of startup
+568/j.K/236HH/j.K has 1000000f of blockstun, while 236HH has f of startup
+569/j.K/214H/j.K has 1000000f of blockstun, while 214H has 18.0f of startup
+570/j.K/632146H/j.K has 1000000f of blockstun, while 632146H has 11.0f of startup
+571/j.K/236236S/j.K has 1000000f of blockstun, while 236236S has 7.0f of startup
+572/j.K/236D/j.K has 1000000f of blockstun, while 236D has 16.0f of startup
+573/j.K/236[D]/j.K has 1000000f of blockstun, while 236[D] has 28.0f of startup
+574/j.S/5P/j.S has 1000000f of blockstun, while 5P has 6.0f of startup
+575/j.S/5K/j.S has 1000000f of blockstun, while 5K has 7.0f of startup
+576/j.S/c.S/j.S has 1000000f of blockstun, while c.S has 7.0f of startup
+577/j.S/f.S/j.S has 1000000f of blockstun, while f.S has 9.0f of startup
+578/j.S/5H/j.S has 1000000f of blockstun, while 5H has 13.0f of startup
+579/j.S/5D/j.S has 1000000f of blockstun, while 5D has 20.0f of startup
+580/j.S/5[D]/j.S has 1000000f of blockstun, while 5[D] has 28.0f of startup
+581/j.S/2P/j.S has 1000000f of blockstun, while 2P has 5.0f of startup
+582/j.S/2K/j.S has 1000000f of blockstun, while 2K has 6.0f of startup
+583/j.S/2S/j.S has 1000000f of blockstun, while 2S has 11.0f of startup
+584/j.S/2H/j.S has 1000000f of blockstun, while 2H has 18.0f of startup
+585/j.S/2D/j.S has 1000000f of blockstun, while 2D has 10.0f of startup
+586/j.S/j.P/j.S has 1000000f of blockstun, while j.P has 7.0f of startup
+587/j.S/j.K/j.S has 1000000f of blockstun, while j.K has 8.0f of startup
+588/j.S/j.S/j.S has 1000000f of blockstun, while j.S has 10.0f of startup
+589/j.S/j.H/-999985f gap
+590/j.S/j.D/-999992f gap
+591/j.S/6P/j.S has 1000000f of blockstun, while 6P has 11.0f of startup
+592/j.S/6K/j.S has 1000000f of blockstun, while 6K has 15.0f of startup
+593/j.S/6H/j.S has 1000000f of blockstun, while 6H has 18.0f of startup
+594/j.S/"214[P/K/S]"/"j.S has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+595/j.S/"j.214[P/K/S]"/"j.S has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+596/j.S/214]P[/"N/A"
+597/j.S/214]K[/"N/A"
+598/j.S/214]S[/"N/A"
+599/j.S/j.214]P[/"N/A"
+600/j.S/j.214]K[/"N/A"
+601/j.S/j.214]S[/"N/A"
+602/j.S/H or D/j.S has 1000000f of blockstun, while H or D has f of startup
+603/j.S/Mist Finer 66/j.S has 1000000f of blockstun, while Mist Finer 66 has f of startup
+604/j.S/Mist Finer 44/j.S has 1000000f of blockstun, while Mist Finer 44 has f of startup
+605/j.S/Card hit by Mist Finer/j.S has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup
+606/j.S/"236P/K/S"/"j.S has 1000000f of blockstun, while 236P/K/S has f of startup"
+607/j.S/j.236H/j.S has 1000000f of blockstun, while j.236H has 15.0f of startup
+608/j.S/236H/j.S has 1000000f of blockstun, while 236H has f of startup
+609/j.S/236HH/j.S has 1000000f of blockstun, while 236HH has f of startup
+610/j.S/214H/j.S has 1000000f of blockstun, while 214H has 18.0f of startup
+611/j.S/632146H/j.S has 1000000f of blockstun, while 632146H has 11.0f of startup
+612/j.S/236236S/j.S has 1000000f of blockstun, while 236236S has 7.0f of startup
+613/j.S/236D/j.S has 1000000f of blockstun, while 236D has 16.0f of startup
+614/j.S/236[D]/j.S has 1000000f of blockstun, while 236[D] has 28.0f of startup
+615/j.H/5P/j.H has 1000000f of blockstun, while 5P has 6.0f of startup
+616/j.H/5K/j.H has 1000000f of blockstun, while 5K has 7.0f of startup
+617/j.H/c.S/j.H has 1000000f of blockstun, while c.S has 7.0f of startup
+618/j.H/f.S/j.H has 1000000f of blockstun, while f.S has 9.0f of startup
+619/j.H/5H/j.H has 1000000f of blockstun, while 5H has 13.0f of startup
+620/j.H/5D/j.H has 1000000f of blockstun, while 5D has 20.0f of startup
+621/j.H/5[D]/j.H has 1000000f of blockstun, while 5[D] has 28.0f of startup
+622/j.H/2P/j.H has 1000000f of blockstun, while 2P has 5.0f of startup
+623/j.H/2K/j.H has 1000000f of blockstun, while 2K has 6.0f of startup
+624/j.H/2S/j.H has 1000000f of blockstun, while 2S has 11.0f of startup
+625/j.H/2H/j.H has 1000000f of blockstun, while 2H has 18.0f of startup
+626/j.H/2D/j.H has 1000000f of blockstun, while 2D has 10.0f of startup
+627/j.H/j.P/j.H has 1000000f of blockstun, while j.P has 7.0f of startup
+628/j.H/j.K/j.H has 1000000f of blockstun, while j.K has 8.0f of startup
+629/j.H/j.S/j.H has 1000000f of blockstun, while j.S has 10.0f of startup
+630/j.H/j.H/j.H has 1000000f of blockstun, while j.H has 15.0f of startup
+631/j.H/j.D/-999992f gap
+632/j.H/6P/j.H has 1000000f of blockstun, while 6P has 11.0f of startup
+633/j.H/6K/j.H has 1000000f of blockstun, while 6K has 15.0f of startup
+634/j.H/6H/j.H has 1000000f of blockstun, while 6H has 18.0f of startup
+635/j.H/"214[P/K/S]"/"j.H has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+636/j.H/"j.214[P/K/S]"/"j.H has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+637/j.H/214]P[/"N/A"
+638/j.H/214]K[/"N/A"
+639/j.H/214]S[/"N/A"
+640/j.H/j.214]P[/"N/A"
+641/j.H/j.214]K[/"N/A"
+642/j.H/j.214]S[/"N/A"
+643/j.H/H or D/j.H has 1000000f of blockstun, while H or D has f of startup
+644/j.H/Mist Finer 66/j.H has 1000000f of blockstun, while Mist Finer 66 has f of startup
+645/j.H/Mist Finer 44/j.H has 1000000f of blockstun, while Mist Finer 44 has f of startup
+646/j.H/Card hit by Mist Finer/j.H has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup
+647/j.H/"236P/K/S"/"j.H has 1000000f of blockstun, while 236P/K/S has f of startup"
+648/j.H/j.236H/j.H has 1000000f of blockstun, while j.236H has 15.0f of startup
+649/j.H/236H/j.H has 1000000f of blockstun, while 236H has f of startup
+650/j.H/236HH/j.H has 1000000f of blockstun, while 236HH has f of startup
+651/j.H/214H/j.H has 1000000f of blockstun, while 214H has 18.0f of startup
+652/j.H/632146H/j.H has 1000000f of blockstun, while 632146H has 11.0f of startup
+653/j.H/236236S/j.H has 1000000f of blockstun, while 236236S has 7.0f of startup
+654/j.H/236D/j.H has 1000000f of blockstun, while 236D has 16.0f of startup
+655/j.H/236[D]/j.H has 1000000f of blockstun, while 236[D] has 28.0f of startup
+656/j.D/5P/j.D has 1000000f of blockstun, while 5P has 6.0f of startup
+657/j.D/5K/j.D has 1000000f of blockstun, while 5K has 7.0f of startup
+658/j.D/c.S/j.D has 1000000f of blockstun, while c.S has 7.0f of startup
+659/j.D/f.S/j.D has 1000000f of blockstun, while f.S has 9.0f of startup
+660/j.D/5H/j.D has 1000000f of blockstun, while 5H has 13.0f of startup
+661/j.D/5D/j.D has 1000000f of blockstun, while 5D has 20.0f of startup
+662/j.D/5[D]/j.D has 1000000f of blockstun, while 5[D] has 28.0f of startup
+663/j.D/2P/j.D has 1000000f of blockstun, while 2P has 5.0f of startup
+664/j.D/2K/j.D has 1000000f of blockstun, while 2K has 6.0f of startup
+665/j.D/2S/j.D has 1000000f of blockstun, while 2S has 11.0f of startup
+666/j.D/2H/j.D has 1000000f of blockstun, while 2H has 18.0f of startup
+667/j.D/2D/j.D has 1000000f of blockstun, while 2D has 10.0f of startup
+668/j.D/j.P/j.D has 1000000f of blockstun, while j.P has 7.0f of startup
+669/j.D/j.K/j.D has 1000000f of blockstun, while j.K has 8.0f of startup
+670/j.D/j.S/j.D has 1000000f of blockstun, while j.S has 10.0f of startup
+671/j.D/j.H/j.D has 1000000f of blockstun, while j.H has 15.0f of startup
+672/j.D/j.D/j.D has 1000000f of blockstun, while j.D has 8.0f of startup
+673/j.D/6P/j.D has 1000000f of blockstun, while 6P has 11.0f of startup
+674/j.D/6K/j.D has 1000000f of blockstun, while 6K has 15.0f of startup
+675/j.D/6H/j.D has 1000000f of blockstun, while 6H has 18.0f of startup
+676/j.D/"214[P/K/S]"/"j.D has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+677/j.D/"j.214[P/K/S]"/"j.D has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+678/j.D/214]P[/"N/A"
+679/j.D/214]K[/"N/A"
+680/j.D/214]S[/"N/A"
+681/j.D/j.214]P[/"N/A"
+682/j.D/j.214]K[/"N/A"
+683/j.D/j.214]S[/"N/A"
+684/j.D/H or D/j.D has 1000000f of blockstun, while H or D has f of startup
+685/j.D/Mist Finer 66/j.D has 1000000f of blockstun, while Mist Finer 66 has f of startup
+686/j.D/Mist Finer 44/j.D has 1000000f of blockstun, while Mist Finer 44 has f of startup
+687/j.D/Card hit by Mist Finer/j.D has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup
+688/j.D/"236P/K/S"/"j.D has 1000000f of blockstun, while 236P/K/S has f of startup"
+689/j.D/j.236H/j.D has 1000000f of blockstun, while j.236H has 15.0f of startup
+690/j.D/236H/j.D has 1000000f of blockstun, while 236H has f of startup
+691/j.D/236HH/j.D has 1000000f of blockstun, while 236HH has f of startup
+692/j.D/214H/j.D has 1000000f of blockstun, while 214H has 18.0f of startup
+693/j.D/632146H/j.D has 1000000f of blockstun, while 632146H has 11.0f of startup
+694/j.D/236236S/j.D has 1000000f of blockstun, while 236236S has 7.0f of startup
+695/j.D/236D/j.D has 1000000f of blockstun, while 236D has 16.0f of startup
+696/j.D/236[D]/j.D has 1000000f of blockstun, while 236[D] has 28.0f of startup
+697/6P/5P/15f gap
+698/6P/5K/16f gap
+699/6P/c.S/16f gap
+700/6P/f.S/18f gap
+701/6P/5H/22f gap
+702/6P/5D/29f gap
+703/6P/5[D]/37f gap
+704/6P/2P/14f gap
+705/6P/2K/15f gap
+706/6P/2S/20f gap
+707/6P/2H/27f gap
+708/6P/2D/19f gap
+709/6P/j.P/21f gap
+710/6P/j.K/22f gap
+711/6P/j.S/24f gap
+712/6P/j.H/29f gap
+713/6P/j.D/22f gap
+714/6P/6P/20f gap
+715/6P/6K/24f gap
+716/6P/6H/27f gap
+717/6P/"214[P/K/S]"/-999993f gap
+718/6P/"j.214[P/K/S]"/21f gap
+719/6P/214]P[/"N/A"
+720/6P/214]K[/"N/A"
+721/6P/214]S[/"N/A"
+722/6P/j.214]P[/"N/A"
+723/6P/j.214]K[/"N/A"
+724/6P/j.214]S[/"N/A"
+725/6P/H or D/"N/A"
+726/6P/Mist Finer 66/"N/A"
+727/6P/Mist Finer 44/"N/A"
+728/6P/Card hit by Mist Finer/26f gap
+729/6P/"236P/K/S"/"N/A"
+730/6P/j.236H/29f gap
+731/6P/236H/"N/A"
+732/6P/236HH/"N/A"
+733/6P/214H/-999982f gap
+734/6P/632146H/-999989f gap
+735/6P/236236S/-999993f gap
+736/6P/236D/-999984f gap
+737/6P/236[D]/-999972f gap
+738/6K/5P/11f gap
+739/6K/5K/12f gap
+740/6K/c.S/12f gap
+741/6K/f.S/14f gap
+742/6K/5H/18f gap
+743/6K/5D/25f gap
+744/6K/5[D]/33f gap
+745/6K/2P/10f gap
+746/6K/2K/11f gap
+747/6K/2S/16f gap
+748/6K/2H/23f gap
+749/6K/2D/15f gap
+750/6K/j.P/17f gap
+751/6K/j.K/18f gap
+752/6K/j.S/20f gap
+753/6K/j.H/25f gap
+754/6K/j.D/18f gap
+755/6K/6P/16f gap
+756/6K/6K/20f gap
+757/6K/6H/23f gap
+758/6K/"214[P/K/S]"/-999993f gap
+759/6K/"j.214[P/K/S]"/17f gap
+760/6K/214]P[/"N/A"
+761/6K/214]K[/"N/A"
+762/6K/214]S[/"N/A"
+763/6K/j.214]P[/"N/A"
+764/6K/j.214]K[/"N/A"
+765/6K/j.214]S[/"N/A"
+766/6K/H or D/"N/A"
+767/6K/Mist Finer 66/"N/A"
+768/6K/Mist Finer 44/"N/A"
+769/6K/Card hit by Mist Finer/22f gap
+770/6K/"236P/K/S"/"N/A"
+771/6K/j.236H/25f gap
+772/6K/236H/"N/A"
+773/6K/236HH/"N/A"
+774/6K/214H/-999982f gap
+775/6K/632146H/-999989f gap
+776/6K/236236S/-999993f gap
+777/6K/236D/-999984f gap
+778/6K/236[D]/-999972f gap
+779/6H/5P/25f gap
+780/6H/5K/26f gap
+781/6H/c.S/26f gap
+782/6H/f.S/28f gap
+783/6H/5H/32f gap
+784/6H/5D/39f gap
+785/6H/5[D]/47f gap
+786/6H/2P/24f gap
+787/6H/2K/25f gap
+788/6H/2S/30f gap
+789/6H/2H/37f gap
+790/6H/2D/29f gap
+791/6H/j.P/31f gap
+792/6H/j.K/32f gap
+793/6H/j.S/34f gap
+794/6H/j.H/39f gap
+795/6H/j.D/32f gap
+796/6H/6P/30f gap
+797/6H/6K/34f gap
+798/6H/6H/37f gap
+799/6H/"214[P/K/S]"/-999993f gap
+800/6H/"j.214[P/K/S]"/31f gap
+801/6H/214]P[/"N/A"
+802/6H/214]K[/"N/A"
+803/6H/214]S[/"N/A"
+804/6H/j.214]P[/"N/A"
+805/6H/j.214]K[/"N/A"
+806/6H/j.214]S[/"N/A"
+807/6H/H or D/"N/A"
+808/6H/Mist Finer 66/"N/A"
+809/6H/Mist Finer 44/"N/A"
+810/6H/Card hit by Mist Finer/36f gap
+811/6H/"236P/K/S"/"N/A"
+812/6H/j.236H/39f gap
+813/6H/236H/"N/A"
+814/6H/236HH/"N/A"
+815/6H/214H/-999982f gap
+816/6H/632146H/-999989f gap
+817/6H/236236S/-999993f gap
+818/6H/236D/-999984f gap
+819/6H/236[D]/-999972f gap
+820/"214[P/K/S]"/5P/"N/A"
+821/"214[P/K/S]"/5K/"N/A"
+822/"214[P/K/S]"/c.S/"N/A"
+823/"214[P/K/S]"/f.S/"N/A"
+824/"214[P/K/S]"/5H/"N/A"
+825/"214[P/K/S]"/5D/"N/A"
+826/"214[P/K/S]"/5[D]/"N/A"
+827/"214[P/K/S]"/2P/"N/A"
+828/"214[P/K/S]"/2K/"N/A"
+829/"214[P/K/S]"/2S/"N/A"
+830/"214[P/K/S]"/2H/"N/A"
+831/"214[P/K/S]"/2D/"N/A"
+832/"214[P/K/S]"/j.P/"N/A"
+833/"214[P/K/S]"/j.K/"N/A"
+834/"214[P/K/S]"/j.S/"N/A"
+835/"214[P/K/S]"/j.H/"N/A"
+836/"214[P/K/S]"/j.D/"N/A"
+837/"214[P/K/S]"/6P/"N/A"
+838/"214[P/K/S]"/6K/"N/A"
+839/"214[P/K/S]"/6H/"N/A"
+840/"214[P/K/S]"/"214[P/K/S]"/"N/A"
+841/"214[P/K/S]"/"j.214[P/K/S]"/"N/A"
+842/"214[P/K/S]"/214]P[/"N/A"
+843/"214[P/K/S]"/214]K[/"N/A"
+844/"214[P/K/S]"/214]S[/"N/A"
+845/"214[P/K/S]"/j.214]P[/"N/A"
+846/"214[P/K/S]"/j.214]K[/"N/A"
+847/"214[P/K/S]"/j.214]S[/"N/A"
+848/"214[P/K/S]"/H or D/"N/A"
+849/"214[P/K/S]"/Mist Finer 66/"N/A"
+850/"214[P/K/S]"/Mist Finer 44/"N/A"
+851/"214[P/K/S]"/Card hit by Mist Finer/"N/A"
+852/"214[P/K/S]"/"236P/K/S"/"N/A"
+853/"214[P/K/S]"/j.236H/"N/A"
+854/"214[P/K/S]"/236H/"N/A"
+855/"214[P/K/S]"/236HH/"N/A"
+856/"214[P/K/S]"/214H/"N/A"
+857/"214[P/K/S]"/632146H/"N/A"
+858/"214[P/K/S]"/236236S/"N/A"
+859/"214[P/K/S]"/236D/"N/A"
+860/"214[P/K/S]"/236[D]/"N/A"
+861/"j.214[P/K/S]"/5P/"j.214[P/K/S] has 1000000f of blockstun, while 5P has 6.0f of startup"
+862/"j.214[P/K/S]"/5K/"j.214[P/K/S] has 1000000f of blockstun, while 5K has 7.0f of startup"
+863/"j.214[P/K/S]"/c.S/"j.214[P/K/S] has 1000000f of blockstun, while c.S has 7.0f of startup"
+864/"j.214[P/K/S]"/f.S/"j.214[P/K/S] has 1000000f of blockstun, while f.S has 9.0f of startup"
+865/"j.214[P/K/S]"/5H/"j.214[P/K/S] has 1000000f of blockstun, while 5H has 13.0f of startup"
+866/"j.214[P/K/S]"/5D/"j.214[P/K/S] has 1000000f of blockstun, while 5D has 20.0f of startup"
+867/"j.214[P/K/S]"/5[D]/"j.214[P/K/S] has 1000000f of blockstun, while 5[D] has 28.0f of startup"
+868/"j.214[P/K/S]"/2P/"j.214[P/K/S] has 1000000f of blockstun, while 2P has 5.0f of startup"
+869/"j.214[P/K/S]"/2K/"j.214[P/K/S] has 1000000f of blockstun, while 2K has 6.0f of startup"
+870/"j.214[P/K/S]"/2S/"j.214[P/K/S] has 1000000f of blockstun, while 2S has 11.0f of startup"
+871/"j.214[P/K/S]"/2H/"j.214[P/K/S] has 1000000f of blockstun, while 2H has 18.0f of startup"
+872/"j.214[P/K/S]"/2D/"j.214[P/K/S] has 1000000f of blockstun, while 2D has 10.0f of startup"
+873/"j.214[P/K/S]"/j.P/"j.214[P/K/S] has 1000000f of blockstun, while j.P has 7.0f of startup"
+874/"j.214[P/K/S]"/j.K/"j.214[P/K/S] has 1000000f of blockstun, while j.K has 8.0f of startup"
+875/"j.214[P/K/S]"/j.S/"j.214[P/K/S] has 1000000f of blockstun, while j.S has 10.0f of startup"
+876/"j.214[P/K/S]"/j.H/"j.214[P/K/S] has 1000000f of blockstun, while j.H has 15.0f of startup"
+877/"j.214[P/K/S]"/j.D/"j.214[P/K/S] has 1000000f of blockstun, while j.D has 8.0f of startup"
+878/"j.214[P/K/S]"/6P/"j.214[P/K/S] has 1000000f of blockstun, while 6P has 11.0f of startup"
+879/"j.214[P/K/S]"/6K/"j.214[P/K/S] has 1000000f of blockstun, while 6K has 15.0f of startup"
+880/"j.214[P/K/S]"/6H/"j.214[P/K/S] has 1000000f of blockstun, while 6H has 18.0f of startup"
+881/"j.214[P/K/S]"/"214[P/K/S]"/"j.214[P/K/S] has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+882/"j.214[P/K/S]"/"j.214[P/K/S]"/"j.214[P/K/S] has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+883/"j.214[P/K/S]"/214]P[/"N/A"
+884/"j.214[P/K/S]"/214]K[/"N/A"
+885/"j.214[P/K/S]"/214]S[/"N/A"
+886/"j.214[P/K/S]"/j.214]P[/"N/A"
+887/"j.214[P/K/S]"/j.214]K[/"N/A"
+888/"j.214[P/K/S]"/j.214]S[/"N/A"
+889/"j.214[P/K/S]"/H or D/"j.214[P/K/S] has 1000000f of blockstun, while H or D has f of startup"
+890/"j.214[P/K/S]"/Mist Finer 66/"j.214[P/K/S] has 1000000f of blockstun, while Mist Finer 66 has f of startup"
+891/"j.214[P/K/S]"/Mist Finer 44/"j.214[P/K/S] has 1000000f of blockstun, while Mist Finer 44 has f of startup"
+892/"j.214[P/K/S]"/Card hit by Mist Finer/"j.214[P/K/S] has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup"
+893/"j.214[P/K/S]"/"236P/K/S"/"j.214[P/K/S] has 1000000f of blockstun, while 236P/K/S has f of startup"
+894/"j.214[P/K/S]"/j.236H/"j.214[P/K/S] has 1000000f of blockstun, while j.236H has 15.0f of startup"
+895/"j.214[P/K/S]"/236H/"j.214[P/K/S] has 1000000f of blockstun, while 236H has f of startup"
+896/"j.214[P/K/S]"/236HH/"j.214[P/K/S] has 1000000f of blockstun, while 236HH has f of startup"
+897/"j.214[P/K/S]"/214H/"j.214[P/K/S] has 1000000f of blockstun, while 214H has 18.0f of startup"
+898/"j.214[P/K/S]"/632146H/"j.214[P/K/S] has 1000000f of blockstun, while 632146H has 11.0f of startup"
+899/"j.214[P/K/S]"/236236S/"j.214[P/K/S] has 1000000f of blockstun, while 236236S has 7.0f of startup"
+900/"j.214[P/K/S]"/236D/"j.214[P/K/S] has 1000000f of blockstun, while 236D has 16.0f of startup"
+901/"j.214[P/K/S]"/236[D]/"j.214[P/K/S] has 1000000f of blockstun, while 236[D] has 28.0f of startup"
+902/214]P[/5P/"N/A"
+903/214]P[/5K/"N/A"
+904/214]P[/c.S/"N/A"
+905/214]P[/f.S/"N/A"
+906/214]P[/5H/"N/A"
+907/214]P[/5D/"N/A"
+908/214]P[/5[D]/"N/A"
+909/214]P[/2P/"N/A"
+910/214]P[/2K/"N/A"
+911/214]P[/2S/"N/A"
+912/214]P[/2H/"N/A"
+913/214]P[/2D/"N/A"
+914/214]P[/j.P/"N/A"
+915/214]P[/j.K/"N/A"
+916/214]P[/j.S/"N/A"
+917/214]P[/j.H/"N/A"
+918/214]P[/j.D/"N/A"
+919/214]P[/6P/"N/A"
+920/214]P[/6K/"N/A"
+921/214]P[/6H/"N/A"
+922/214]P[/"214[P/K/S]"/"N/A"
+923/214]P[/"j.214[P/K/S]"/"N/A"
+924/214]P[/214]P[/"N/A"
+925/214]P[/214]K[/"N/A"
+926/214]P[/214]S[/"N/A"
+927/214]P[/j.214]P[/"N/A"
+928/214]P[/j.214]K[/"N/A"
+929/214]P[/j.214]S[/"N/A"
+930/214]P[/H or D/"N/A"
+931/214]P[/Mist Finer 66/"N/A"
+932/214]P[/Mist Finer 44/"N/A"
+933/214]P[/Card hit by Mist Finer/"N/A"
+934/214]P[/"236P/K/S"/"N/A"
+935/214]P[/j.236H/"N/A"
+936/214]P[/236H/"N/A"
+937/214]P[/236HH/"N/A"
+938/214]P[/214H/"N/A"
+939/214]P[/632146H/"N/A"
+940/214]P[/236236S/"N/A"
+941/214]P[/236D/"N/A"
+942/214]P[/236[D]/"N/A"
+943/214]K[/5P/"N/A"
+944/214]K[/5K/"N/A"
+945/214]K[/c.S/"N/A"
+946/214]K[/f.S/"N/A"
+947/214]K[/5H/"N/A"
+948/214]K[/5D/"N/A"
+949/214]K[/5[D]/"N/A"
+950/214]K[/2P/"N/A"
+951/214]K[/2K/"N/A"
+952/214]K[/2S/"N/A"
+953/214]K[/2H/"N/A"
+954/214]K[/2D/"N/A"
+955/214]K[/j.P/"N/A"
+956/214]K[/j.K/"N/A"
+957/214]K[/j.S/"N/A"
+958/214]K[/j.H/"N/A"
+959/214]K[/j.D/"N/A"
+960/214]K[/6P/"N/A"
+961/214]K[/6K/"N/A"
+962/214]K[/6H/"N/A"
+963/214]K[/"214[P/K/S]"/"N/A"
+964/214]K[/"j.214[P/K/S]"/"N/A"
+965/214]K[/214]P[/"N/A"
+966/214]K[/214]K[/"N/A"
+967/214]K[/214]S[/"N/A"
+968/214]K[/j.214]P[/"N/A"
+969/214]K[/j.214]K[/"N/A"
+970/214]K[/j.214]S[/"N/A"
+971/214]K[/H or D/"N/A"
+972/214]K[/Mist Finer 66/"N/A"
+973/214]K[/Mist Finer 44/"N/A"
+974/214]K[/Card hit by Mist Finer/"N/A"
+975/214]K[/"236P/K/S"/"N/A"
+976/214]K[/j.236H/"N/A"
+977/214]K[/236H/"N/A"
+978/214]K[/236HH/"N/A"
+979/214]K[/214H/"N/A"
+980/214]K[/632146H/"N/A"
+981/214]K[/236236S/"N/A"
+982/214]K[/236D/"N/A"
+983/214]K[/236[D]/"N/A"
+984/214]S[/5P/"N/A"
+985/214]S[/5K/"N/A"
+986/214]S[/c.S/"N/A"
+987/214]S[/f.S/"N/A"
+988/214]S[/5H/"N/A"
+989/214]S[/5D/"N/A"
+990/214]S[/5[D]/"N/A"
+991/214]S[/2P/"N/A"
+992/214]S[/2K/"N/A"
+993/214]S[/2S/"N/A"
+994/214]S[/2H/"N/A"
+995/214]S[/2D/"N/A"
+996/214]S[/j.P/"N/A"
+997/214]S[/j.K/"N/A"
+998/214]S[/j.S/"N/A"
+999/214]S[/j.H/"N/A"
+1000/214]S[/j.D/"N/A"
+1001/214]S[/6P/"N/A"
+1002/214]S[/6K/"N/A"
+1003/214]S[/6H/"N/A"
+1004/214]S[/"214[P/K/S]"/"N/A"
+1005/214]S[/"j.214[P/K/S]"/"N/A"
+1006/214]S[/214]P[/"N/A"
+1007/214]S[/214]K[/"N/A"
+1008/214]S[/214]S[/"N/A"
+1009/214]S[/j.214]P[/"N/A"
+1010/214]S[/j.214]K[/"N/A"
+1011/214]S[/j.214]S[/"N/A"
+1012/214]S[/H or D/"N/A"
+1013/214]S[/Mist Finer 66/"N/A"
+1014/214]S[/Mist Finer 44/"N/A"
+1015/214]S[/Card hit by Mist Finer/"N/A"
+1016/214]S[/"236P/K/S"/"N/A"
+1017/214]S[/j.236H/"N/A"
+1018/214]S[/236H/"N/A"
+1019/214]S[/236HH/"N/A"
+1020/214]S[/214H/"N/A"
+1021/214]S[/632146H/"N/A"
+1022/214]S[/236236S/"N/A"
+1023/214]S[/236D/"N/A"
+1024/214]S[/236[D]/"N/A"
+1025/j.214]P[/5P/"N/A"
+1026/j.214]P[/5K/"N/A"
+1027/j.214]P[/c.S/"N/A"
+1028/j.214]P[/f.S/"N/A"
+1029/j.214]P[/5H/"N/A"
+1030/j.214]P[/5D/"N/A"
+1031/j.214]P[/5[D]/"N/A"
+1032/j.214]P[/2P/"N/A"
+1033/j.214]P[/2K/"N/A"
+1034/j.214]P[/2S/"N/A"
+1035/j.214]P[/2H/"N/A"
+1036/j.214]P[/2D/"N/A"
+1037/j.214]P[/j.P/"N/A"
+1038/j.214]P[/j.K/"N/A"
+1039/j.214]P[/j.S/"N/A"
+1040/j.214]P[/j.H/"N/A"
+1041/j.214]P[/j.D/"N/A"
+1042/j.214]P[/6P/"N/A"
+1043/j.214]P[/6K/"N/A"
+1044/j.214]P[/6H/"N/A"
+1045/j.214]P[/"214[P/K/S]"/"N/A"
+1046/j.214]P[/"j.214[P/K/S]"/"N/A"
+1047/j.214]P[/214]P[/"N/A"
+1048/j.214]P[/214]K[/"N/A"
+1049/j.214]P[/214]S[/"N/A"
+1050/j.214]P[/j.214]P[/"N/A"
+1051/j.214]P[/j.214]K[/"N/A"
+1052/j.214]P[/j.214]S[/"N/A"
+1053/j.214]P[/H or D/"N/A"
+1054/j.214]P[/Mist Finer 66/"N/A"
+1055/j.214]P[/Mist Finer 44/"N/A"
+1056/j.214]P[/Card hit by Mist Finer/"N/A"
+1057/j.214]P[/"236P/K/S"/"N/A"
+1058/j.214]P[/j.236H/"N/A"
+1059/j.214]P[/236H/"N/A"
+1060/j.214]P[/236HH/"N/A"
+1061/j.214]P[/214H/"N/A"
+1062/j.214]P[/632146H/"N/A"
+1063/j.214]P[/236236S/"N/A"
+1064/j.214]P[/236D/"N/A"
+1065/j.214]P[/236[D]/"N/A"
+1066/j.214]K[/5P/"N/A"
+1067/j.214]K[/5K/"N/A"
+1068/j.214]K[/c.S/"N/A"
+1069/j.214]K[/f.S/"N/A"
+1070/j.214]K[/5H/"N/A"
+1071/j.214]K[/5D/"N/A"
+1072/j.214]K[/5[D]/"N/A"
+1073/j.214]K[/2P/"N/A"
+1074/j.214]K[/2K/"N/A"
+1075/j.214]K[/2S/"N/A"
+1076/j.214]K[/2H/"N/A"
+1077/j.214]K[/2D/"N/A"
+1078/j.214]K[/j.P/"N/A"
+1079/j.214]K[/j.K/"N/A"
+1080/j.214]K[/j.S/"N/A"
+1081/j.214]K[/j.H/"N/A"
+1082/j.214]K[/j.D/"N/A"
+1083/j.214]K[/6P/"N/A"
+1084/j.214]K[/6K/"N/A"
+1085/j.214]K[/6H/"N/A"
+1086/j.214]K[/"214[P/K/S]"/"N/A"
+1087/j.214]K[/"j.214[P/K/S]"/"N/A"
+1088/j.214]K[/214]P[/"N/A"
+1089/j.214]K[/214]K[/"N/A"
+1090/j.214]K[/214]S[/"N/A"
+1091/j.214]K[/j.214]P[/"N/A"
+1092/j.214]K[/j.214]K[/"N/A"
+1093/j.214]K[/j.214]S[/"N/A"
+1094/j.214]K[/H or D/"N/A"
+1095/j.214]K[/Mist Finer 66/"N/A"
+1096/j.214]K[/Mist Finer 44/"N/A"
+1097/j.214]K[/Card hit by Mist Finer/"N/A"
+1098/j.214]K[/"236P/K/S"/"N/A"
+1099/j.214]K[/j.236H/"N/A"
+1100/j.214]K[/236H/"N/A"
+1101/j.214]K[/236HH/"N/A"
+1102/j.214]K[/214H/"N/A"
+1103/j.214]K[/632146H/"N/A"
+1104/j.214]K[/236236S/"N/A"
+1105/j.214]K[/236D/"N/A"
+1106/j.214]K[/236[D]/"N/A"
+1107/j.214]S[/5P/"N/A"
+1108/j.214]S[/5K/"N/A"
+1109/j.214]S[/c.S/"N/A"
+1110/j.214]S[/f.S/"N/A"
+1111/j.214]S[/5H/"N/A"
+1112/j.214]S[/5D/"N/A"
+1113/j.214]S[/5[D]/"N/A"
+1114/j.214]S[/2P/"N/A"
+1115/j.214]S[/2K/"N/A"
+1116/j.214]S[/2S/"N/A"
+1117/j.214]S[/2H/"N/A"
+1118/j.214]S[/2D/"N/A"
+1119/j.214]S[/j.P/"N/A"
+1120/j.214]S[/j.K/"N/A"
+1121/j.214]S[/j.S/"N/A"
+1122/j.214]S[/j.H/"N/A"
+1123/j.214]S[/j.D/"N/A"
+1124/j.214]S[/6P/"N/A"
+1125/j.214]S[/6K/"N/A"
+1126/j.214]S[/6H/"N/A"
+1127/j.214]S[/"214[P/K/S]"/"N/A"
+1128/j.214]S[/"j.214[P/K/S]"/"N/A"
+1129/j.214]S[/214]P[/"N/A"
+1130/j.214]S[/214]K[/"N/A"
+1131/j.214]S[/214]S[/"N/A"
+1132/j.214]S[/j.214]P[/"N/A"
+1133/j.214]S[/j.214]K[/"N/A"
+1134/j.214]S[/j.214]S[/"N/A"
+1135/j.214]S[/H or D/"N/A"
+1136/j.214]S[/Mist Finer 66/"N/A"
+1137/j.214]S[/Mist Finer 44/"N/A"
+1138/j.214]S[/Card hit by Mist Finer/"N/A"
+1139/j.214]S[/"236P/K/S"/"N/A"
+1140/j.214]S[/j.236H/"N/A"
+1141/j.214]S[/236H/"N/A"
+1142/j.214]S[/236HH/"N/A"
+1143/j.214]S[/214H/"N/A"
+1144/j.214]S[/632146H/"N/A"
+1145/j.214]S[/236236S/"N/A"
+1146/j.214]S[/236D/"N/A"
+1147/j.214]S[/236[D]/"N/A"
+1148/H or D/5P/"N/A"
+1149/H or D/5K/"N/A"
+1150/H or D/c.S/"N/A"
+1151/H or D/f.S/"N/A"
+1152/H or D/5H/"N/A"
+1153/H or D/5D/"N/A"
+1154/H or D/5[D]/"N/A"
+1155/H or D/2P/"N/A"
+1156/H or D/2K/"N/A"
+1157/H or D/2S/"N/A"
+1158/H or D/2H/"N/A"
+1159/H or D/2D/"N/A"
+1160/H or D/j.P/"N/A"
+1161/H or D/j.K/"N/A"
+1162/H or D/j.S/"N/A"
+1163/H or D/j.H/"N/A"
+1164/H or D/j.D/"N/A"
+1165/H or D/6P/"N/A"
+1166/H or D/6K/"N/A"
+1167/H or D/6H/"N/A"
+1168/H or D/"214[P/K/S]"/"N/A"
+1169/H or D/"j.214[P/K/S]"/"N/A"
+1170/H or D/214]P[/"N/A"
+1171/H or D/214]K[/"N/A"
+1172/H or D/214]S[/"N/A"
+1173/H or D/j.214]P[/"N/A"
+1174/H or D/j.214]K[/"N/A"
+1175/H or D/j.214]S[/"N/A"
+1176/H or D/H or D/"N/A"
+1177/H or D/Mist Finer 66/"N/A"
+1178/H or D/Mist Finer 44/"N/A"
+1179/H or D/Card hit by Mist Finer/"N/A"
+1180/H or D/"236P/K/S"/"N/A"
+1181/H or D/j.236H/"N/A"
+1182/H or D/236H/"N/A"
+1183/H or D/236HH/"N/A"
+1184/H or D/214H/"N/A"
+1185/H or D/632146H/"N/A"
+1186/H or D/236236S/"N/A"
+1187/H or D/236D/"N/A"
+1188/H or D/236[D]/"N/A"
+1189/Mist Finer 66/5P/"N/A"
+1190/Mist Finer 66/5K/"N/A"
+1191/Mist Finer 66/c.S/"N/A"
+1192/Mist Finer 66/f.S/"N/A"
+1193/Mist Finer 66/5H/"N/A"
+1194/Mist Finer 66/5D/"N/A"
+1195/Mist Finer 66/5[D]/"N/A"
+1196/Mist Finer 66/2P/"N/A"
+1197/Mist Finer 66/2K/"N/A"
+1198/Mist Finer 66/2S/"N/A"
+1199/Mist Finer 66/2H/"N/A"
+1200/Mist Finer 66/2D/"N/A"
+1201/Mist Finer 66/j.P/"N/A"
+1202/Mist Finer 66/j.K/"N/A"
+1203/Mist Finer 66/j.S/"N/A"
+1204/Mist Finer 66/j.H/"N/A"
+1205/Mist Finer 66/j.D/"N/A"
+1206/Mist Finer 66/6P/"N/A"
+1207/Mist Finer 66/6K/"N/A"
+1208/Mist Finer 66/6H/"N/A"
+1209/Mist Finer 66/"214[P/K/S]"/"N/A"
+1210/Mist Finer 66/"j.214[P/K/S]"/"N/A"
+1211/Mist Finer 66/214]P[/"N/A"
+1212/Mist Finer 66/214]K[/"N/A"
+1213/Mist Finer 66/214]S[/"N/A"
+1214/Mist Finer 66/j.214]P[/"N/A"
+1215/Mist Finer 66/j.214]K[/"N/A"
+1216/Mist Finer 66/j.214]S[/"N/A"
+1217/Mist Finer 66/H or D/"N/A"
+1218/Mist Finer 66/Mist Finer 66/"N/A"
+1219/Mist Finer 66/Mist Finer 44/"N/A"
+1220/Mist Finer 66/Card hit by Mist Finer/"N/A"
+1221/Mist Finer 66/"236P/K/S"/"N/A"
+1222/Mist Finer 66/j.236H/"N/A"
+1223/Mist Finer 66/236H/"N/A"
+1224/Mist Finer 66/236HH/"N/A"
+1225/Mist Finer 66/214H/"N/A"
+1226/Mist Finer 66/632146H/"N/A"
+1227/Mist Finer 66/236236S/"N/A"
+1228/Mist Finer 66/236D/"N/A"
+1229/Mist Finer 66/236[D]/"N/A"
+1230/Mist Finer 44/5P/"N/A"
+1231/Mist Finer 44/5K/"N/A"
+1232/Mist Finer 44/c.S/"N/A"
+1233/Mist Finer 44/f.S/"N/A"
+1234/Mist Finer 44/5H/"N/A"
+1235/Mist Finer 44/5D/"N/A"
+1236/Mist Finer 44/5[D]/"N/A"
+1237/Mist Finer 44/2P/"N/A"
+1238/Mist Finer 44/2K/"N/A"
+1239/Mist Finer 44/2S/"N/A"
+1240/Mist Finer 44/2H/"N/A"
+1241/Mist Finer 44/2D/"N/A"
+1242/Mist Finer 44/j.P/"N/A"
+1243/Mist Finer 44/j.K/"N/A"
+1244/Mist Finer 44/j.S/"N/A"
+1245/Mist Finer 44/j.H/"N/A"
+1246/Mist Finer 44/j.D/"N/A"
+1247/Mist Finer 44/6P/"N/A"
+1248/Mist Finer 44/6K/"N/A"
+1249/Mist Finer 44/6H/"N/A"
+1250/Mist Finer 44/"214[P/K/S]"/"N/A"
+1251/Mist Finer 44/"j.214[P/K/S]"/"N/A"
+1252/Mist Finer 44/214]P[/"N/A"
+1253/Mist Finer 44/214]K[/"N/A"
+1254/Mist Finer 44/214]S[/"N/A"
+1255/Mist Finer 44/j.214]P[/"N/A"
+1256/Mist Finer 44/j.214]K[/"N/A"
+1257/Mist Finer 44/j.214]S[/"N/A"
+1258/Mist Finer 44/H or D/"N/A"
+1259/Mist Finer 44/Mist Finer 66/"N/A"
+1260/Mist Finer 44/Mist Finer 44/"N/A"
+1261/Mist Finer 44/Card hit by Mist Finer/"N/A"
+1262/Mist Finer 44/"236P/K/S"/"N/A"
+1263/Mist Finer 44/j.236H/"N/A"
+1264/Mist Finer 44/236H/"N/A"
+1265/Mist Finer 44/236HH/"N/A"
+1266/Mist Finer 44/214H/"N/A"
+1267/Mist Finer 44/632146H/"N/A"
+1268/Mist Finer 44/236236S/"N/A"
+1269/Mist Finer 44/236D/"N/A"
+1270/Mist Finer 44/236[D]/"N/A"
+1271/Card hit by Mist Finer/5P/-18f gap
+1272/Card hit by Mist Finer/5K/-17f gap
+1273/Card hit by Mist Finer/c.S/-17f gap
+1274/Card hit by Mist Finer/f.S/-15f gap
+1275/Card hit by Mist Finer/5H/-11f gap
+1276/Card hit by Mist Finer/5D/-4f gap
+1277/Card hit by Mist Finer/5[D]/4f gap
+1278/Card hit by Mist Finer/2P/-19f gap
+1279/Card hit by Mist Finer/2K/-18f gap
+1280/Card hit by Mist Finer/2S/-13f gap
+1281/Card hit by Mist Finer/2H/-6f gap
+1282/Card hit by Mist Finer/2D/-14f gap
+1283/Card hit by Mist Finer/j.P/-12f gap
+1284/Card hit by Mist Finer/j.K/-11f gap
+1285/Card hit by Mist Finer/j.S/-9f gap
+1286/Card hit by Mist Finer/j.H/-4f gap
+1287/Card hit by Mist Finer/j.D/-11f gap
+1288/Card hit by Mist Finer/6P/-13f gap
+1289/Card hit by Mist Finer/6K/-9f gap
+1290/Card hit by Mist Finer/6H/-6f gap
+1291/Card hit by Mist Finer/"214[P/K/S]"/-17f gap
+1292/Card hit by Mist Finer/"j.214[P/K/S]"/-12f gap
+1293/Card hit by Mist Finer/214]P[/"N/A"
+1294/Card hit by Mist Finer/214]K[/"N/A"
+1295/Card hit by Mist Finer/214]S[/"N/A"
+1296/Card hit by Mist Finer/j.214]P[/"N/A"
+1297/Card hit by Mist Finer/j.214]K[/"N/A"
+1298/Card hit by Mist Finer/j.214]S[/"N/A"
+1299/Card hit by Mist Finer/H or D/"N/A"
+1300/Card hit by Mist Finer/Mist Finer 66/"N/A"
+1301/Card hit by Mist Finer/Mist Finer 44/"N/A"
+1302/Card hit by Mist Finer/Card hit by Mist Finer/-7f gap
+1303/Card hit by Mist Finer/"236P/K/S"/"N/A"
+1304/Card hit by Mist Finer/j.236H/-4f gap
+1305/Card hit by Mist Finer/236H/"N/A"
+1306/Card hit by Mist Finer/236HH/"N/A"
+1307/Card hit by Mist Finer/214H/-6f gap
+1308/Card hit by Mist Finer/632146H/-13f gap
+1309/Card hit by Mist Finer/236236S/-17f gap
+1310/Card hit by Mist Finer/236D/-8f gap
+1311/Card hit by Mist Finer/236[D]/4f gap
+1312/"236P/K/S"/5P/"N/A"
+1313/"236P/K/S"/5K/"N/A"
+1314/"236P/K/S"/c.S/"N/A"
+1315/"236P/K/S"/f.S/"N/A"
+1316/"236P/K/S"/5H/"N/A"
+1317/"236P/K/S"/5D/"N/A"
+1318/"236P/K/S"/5[D]/"N/A"
+1319/"236P/K/S"/2P/"N/A"
+1320/"236P/K/S"/2K/"N/A"
+1321/"236P/K/S"/2S/"N/A"
+1322/"236P/K/S"/2H/"N/A"
+1323/"236P/K/S"/2D/"N/A"
+1324/"236P/K/S"/j.P/"N/A"
+1325/"236P/K/S"/j.K/"N/A"
+1326/"236P/K/S"/j.S/"N/A"
+1327/"236P/K/S"/j.H/"N/A"
+1328/"236P/K/S"/j.D/"N/A"
+1329/"236P/K/S"/6P/"N/A"
+1330/"236P/K/S"/6K/"N/A"
+1331/"236P/K/S"/6H/"N/A"
+1332/"236P/K/S"/"214[P/K/S]"/"N/A"
+1333/"236P/K/S"/"j.214[P/K/S]"/"N/A"
+1334/"236P/K/S"/214]P[/"N/A"
+1335/"236P/K/S"/214]K[/"N/A"
+1336/"236P/K/S"/214]S[/"N/A"
+1337/"236P/K/S"/j.214]P[/"N/A"
+1338/"236P/K/S"/j.214]K[/"N/A"
+1339/"236P/K/S"/j.214]S[/"N/A"
+1340/"236P/K/S"/H or D/"N/A"
+1341/"236P/K/S"/Mist Finer 66/"N/A"
+1342/"236P/K/S"/Mist Finer 44/"N/A"
+1343/"236P/K/S"/Card hit by Mist Finer/"N/A"
+1344/"236P/K/S"/"236P/K/S"/"N/A"
+1345/"236P/K/S"/j.236H/"N/A"
+1346/"236P/K/S"/236H/"N/A"
+1347/"236P/K/S"/236HH/"N/A"
+1348/"236P/K/S"/214H/"N/A"
+1349/"236P/K/S"/632146H/"N/A"
+1350/"236P/K/S"/236236S/"N/A"
+1351/"236P/K/S"/236D/"N/A"
+1352/"236P/K/S"/236[D]/"N/A"
+1353/j.236H/5P/j.236H has 1000000f of blockstun, while 5P has 6.0f of startup
+1354/j.236H/5K/j.236H has 1000000f of blockstun, while 5K has 7.0f of startup
+1355/j.236H/c.S/j.236H has 1000000f of blockstun, while c.S has 7.0f of startup
+1356/j.236H/f.S/j.236H has 1000000f of blockstun, while f.S has 9.0f of startup
+1357/j.236H/5H/j.236H has 1000000f of blockstun, while 5H has 13.0f of startup
+1358/j.236H/5D/j.236H has 1000000f of blockstun, while 5D has 20.0f of startup
+1359/j.236H/5[D]/j.236H has 1000000f of blockstun, while 5[D] has 28.0f of startup
+1360/j.236H/2P/j.236H has 1000000f of blockstun, while 2P has 5.0f of startup
+1361/j.236H/2K/j.236H has 1000000f of blockstun, while 2K has 6.0f of startup
+1362/j.236H/2S/j.236H has 1000000f of blockstun, while 2S has 11.0f of startup
+1363/j.236H/2H/j.236H has 1000000f of blockstun, while 2H has 18.0f of startup
+1364/j.236H/2D/j.236H has 1000000f of blockstun, while 2D has 10.0f of startup
+1365/j.236H/j.P/j.236H has 1000000f of blockstun, while j.P has 7.0f of startup
+1366/j.236H/j.K/j.236H has 1000000f of blockstun, while j.K has 8.0f of startup
+1367/j.236H/j.S/j.236H has 1000000f of blockstun, while j.S has 10.0f of startup
+1368/j.236H/j.H/j.236H has 1000000f of blockstun, while j.H has 15.0f of startup
+1369/j.236H/j.D/j.236H has 1000000f of blockstun, while j.D has 8.0f of startup
+1370/j.236H/6P/j.236H has 1000000f of blockstun, while 6P has 11.0f of startup
+1371/j.236H/6K/j.236H has 1000000f of blockstun, while 6K has 15.0f of startup
+1372/j.236H/6H/j.236H has 1000000f of blockstun, while 6H has 18.0f of startup
+1373/j.236H/"214[P/K/S]"/"j.236H has 1000000f of blockstun, while 214[P/K/S] has 7.0f of startup"
+1374/j.236H/"j.214[P/K/S]"/"j.236H has 1000000f of blockstun, while j.214[P/K/S] has 7.0f of startup"
+1375/j.236H/214]P[/"N/A"
+1376/j.236H/214]K[/"N/A"
+1377/j.236H/214]S[/"N/A"
+1378/j.236H/j.214]P[/"N/A"
+1379/j.236H/j.214]K[/"N/A"
+1380/j.236H/j.214]S[/"N/A"
+1381/j.236H/H or D/j.236H has 1000000f of blockstun, while H or D has f of startup
+1382/j.236H/Mist Finer 66/j.236H has 1000000f of blockstun, while Mist Finer 66 has f of startup
+1383/j.236H/Mist Finer 44/j.236H has 1000000f of blockstun, while Mist Finer 44 has f of startup
+1384/j.236H/Card hit by Mist Finer/j.236H has 1000000f of blockstun, while Card hit by Mist Finer has 17.0f of startup
+1385/j.236H/"236P/K/S"/"j.236H has 1000000f of blockstun, while 236P/K/S has f of startup"
+1386/j.236H/j.236H/j.236H has 1000000f of blockstun, while j.236H has 15.0f of startup
+1387/j.236H/236H/j.236H has 1000000f of blockstun, while 236H has f of startup
+1388/j.236H/236HH/j.236H has 1000000f of blockstun, while 236HH has f of startup
+1389/j.236H/214H/j.236H has 1000000f of blockstun, while 214H has 18.0f of startup
+1390/j.236H/632146H/j.236H has 1000000f of blockstun, while 632146H has 11.0f of startup
+1391/j.236H/236236S/j.236H has 1000000f of blockstun, while 236236S has 7.0f of startup
+1392/j.236H/236D/j.236H has 1000000f of blockstun, while 236D has 16.0f of startup
+1393/j.236H/236[D]/j.236H has 1000000f of blockstun, while 236[D] has 28.0f of startup
+1394/236H/5P/"N/A"
+1395/236H/5K/"N/A"
+1396/236H/c.S/"N/A"
+1397/236H/f.S/"N/A"
+1398/236H/5H/"N/A"
+1399/236H/5D/"N/A"
+1400/236H/5[D]/"N/A"
+1401/236H/2P/"N/A"
+1402/236H/2K/"N/A"
+1403/236H/2S/"N/A"
+1404/236H/2H/"N/A"
+1405/236H/2D/"N/A"
+1406/236H/j.P/"N/A"
+1407/236H/j.K/"N/A"
+1408/236H/j.S/"N/A"
+1409/236H/j.H/"N/A"
+1410/236H/j.D/"N/A"
+1411/236H/6P/"N/A"
+1412/236H/6K/"N/A"
+1413/236H/6H/"N/A"
+1414/236H/"214[P/K/S]"/"N/A"
+1415/236H/"j.214[P/K/S]"/"N/A"
+1416/236H/214]P[/"N/A"
+1417/236H/214]K[/"N/A"
+1418/236H/214]S[/"N/A"
+1419/236H/j.214]P[/"N/A"
+1420/236H/j.214]K[/"N/A"
+1421/236H/j.214]S[/"N/A"
+1422/236H/H or D/"N/A"
+1423/236H/Mist Finer 66/"N/A"
+1424/236H/Mist Finer 44/"N/A"
+1425/236H/Card hit by Mist Finer/"N/A"
+1426/236H/"236P/K/S"/"N/A"
+1427/236H/j.236H/"N/A"
+1428/236H/236H/"N/A"
+1429/236H/236HH/"N/A"
+1430/236H/214H/"N/A"
+1431/236H/632146H/"N/A"
+1432/236H/236236S/"N/A"
+1433/236H/236D/"N/A"
+1434/236H/236[D]/"N/A"
+1435/236HH/5P/"N/A"
+1436/236HH/5K/"N/A"
+1437/236HH/c.S/"N/A"
+1438/236HH/f.S/"N/A"
+1439/236HH/5H/"N/A"
+1440/236HH/5D/"N/A"
+1441/236HH/5[D]/"N/A"
+1442/236HH/2P/"N/A"
+1443/236HH/2K/"N/A"
+1444/236HH/2S/"N/A"
+1445/236HH/2H/"N/A"
+1446/236HH/2D/"N/A"
+1447/236HH/j.P/"N/A"
+1448/236HH/j.K/"N/A"
+1449/236HH/j.S/"N/A"
+1450/236HH/j.H/"N/A"
+1451/236HH/j.D/"N/A"
+1452/236HH/6P/"N/A"
+1453/236HH/6K/"N/A"
+1454/236HH/6H/"N/A"
+1455/236HH/"214[P/K/S]"/"N/A"
+1456/236HH/"j.214[P/K/S]"/"N/A"
+1457/236HH/214]P[/"N/A"
+1458/236HH/214]K[/"N/A"
+1459/236HH/214]S[/"N/A"
+1460/236HH/j.214]P[/"N/A"
+1461/236HH/j.214]K[/"N/A"
+1462/236HH/j.214]S[/"N/A"
+1463/236HH/H or D/"N/A"
+1464/236HH/Mist Finer 66/"N/A"
+1465/236HH/Mist Finer 44/"N/A"
+1466/236HH/Card hit by Mist Finer/"N/A"
+1467/236HH/"236P/K/S"/"N/A"
+1468/236HH/j.236H/"N/A"
+1469/236HH/236H/"N/A"
+1470/236HH/236HH/"N/A"
+1471/236HH/214H/"N/A"
+1472/236HH/632146H/"N/A"
+1473/236HH/236236S/"N/A"
+1474/236HH/236D/"N/A"
+1475/236HH/236[D]/"N/A"
+1476/214H/5P/10f gap
+1477/214H/5K/11f gap
+1478/214H/c.S/11f gap
+1479/214H/f.S/13f gap
+1480/214H/5H/17f gap
+1481/214H/5D/24f gap
+1482/214H/5[D]/32f gap
+1483/214H/2P/9f gap
+1484/214H/2K/10f gap
+1485/214H/2S/15f gap
+1486/214H/2H/22f gap
+1487/214H/2D/14f gap
+1488/214H/j.P/16f gap
+1489/214H/j.K/17f gap
+1490/214H/j.S/19f gap
+1491/214H/j.H/24f gap
+1492/214H/j.D/17f gap
+1493/214H/6P/15f gap
+1494/214H/6K/19f gap
+1495/214H/6H/22f gap
+1496/214H/"214[P/K/S]"/11f gap
+1497/214H/"j.214[P/K/S]"/16f gap
+1498/214H/214]P[/"N/A"
+1499/214H/214]K[/"N/A"
+1500/214H/214]S[/"N/A"
+1501/214H/j.214]P[/"N/A"
+1502/214H/j.214]K[/"N/A"
+1503/214H/j.214]S[/"N/A"
+1504/214H/H or D/"N/A"
+1505/214H/Mist Finer 66/"N/A"
+1506/214H/Mist Finer 44/"N/A"
+1507/214H/Card hit by Mist Finer/21f gap
+1508/214H/"236P/K/S"/"N/A"
+1509/214H/j.236H/24f gap
+1510/214H/236H/"N/A"
+1511/214H/236HH/"N/A"
+1512/214H/214H/22f gap
+1513/214H/632146H/15f gap
+1514/214H/236236S/11f gap
+1515/214H/236D/20f gap
+1516/214H/236[D]/32f gap
+1517/632146H/5P/50f gap
+1518/632146H/5K/51f gap
+1519/632146H/c.S/51f gap
+1520/632146H/f.S/53f gap
+1521/632146H/5H/57f gap
+1522/632146H/5D/64f gap
+1523/632146H/5[D]/72f gap
+1524/632146H/2P/49f gap
+1525/632146H/2K/50f gap
+1526/632146H/2S/55f gap
+1527/632146H/2H/62f gap
+1528/632146H/2D/54f gap
+1529/632146H/j.P/56f gap
+1530/632146H/j.K/57f gap
+1531/632146H/j.S/59f gap
+1532/632146H/j.H/64f gap
+1533/632146H/j.D/57f gap
+1534/632146H/6P/55f gap
+1535/632146H/6K/59f gap
+1536/632146H/6H/62f gap
+1537/632146H/"214[P/K/S]"/51f gap
+1538/632146H/"j.214[P/K/S]"/56f gap
+1539/632146H/214]P[/"N/A"
+1540/632146H/214]K[/"N/A"
+1541/632146H/214]S[/"N/A"
+1542/632146H/j.214]P[/"N/A"
+1543/632146H/j.214]K[/"N/A"
+1544/632146H/j.214]S[/"N/A"
+1545/632146H/H or D/"N/A"
+1546/632146H/Mist Finer 66/"N/A"
+1547/632146H/Mist Finer 44/"N/A"
+1548/632146H/Card hit by Mist Finer/61f gap
+1549/632146H/"236P/K/S"/"N/A"
+1550/632146H/j.236H/64f gap
+1551/632146H/236H/"N/A"
+1552/632146H/236HH/"N/A"
+1553/632146H/214H/62f gap
+1554/632146H/632146H/55f gap
+1555/632146H/236236S/51f gap
+1556/632146H/236D/60f gap
+1557/632146H/236[D]/72f gap
+1558/236236S/5P/22f gap
+1559/236236S/5K/23f gap
+1560/236236S/c.S/23f gap
+1561/236236S/f.S/25f gap
+1562/236236S/5H/29f gap
+1563/236236S/5D/36f gap
+1564/236236S/5[D]/44f gap
+1565/236236S/2P/21f gap
+1566/236236S/2K/22f gap
+1567/236236S/2S/27f gap
+1568/236236S/2H/34f gap
+1569/236236S/2D/26f gap
+1570/236236S/j.P/28f gap
+1571/236236S/j.K/29f gap
+1572/236236S/j.S/31f gap
+1573/236236S/j.H/36f gap
+1574/236236S/j.D/29f gap
+1575/236236S/6P/27f gap
+1576/236236S/6K/31f gap
+1577/236236S/6H/34f gap
+1578/236236S/"214[P/K/S]"/23f gap
+1579/236236S/"j.214[P/K/S]"/28f gap
+1580/236236S/214]P[/"N/A"
+1581/236236S/214]K[/"N/A"
+1582/236236S/214]S[/"N/A"
+1583/236236S/j.214]P[/"N/A"
+1584/236236S/j.214]K[/"N/A"
+1585/236236S/j.214]S[/"N/A"
+1586/236236S/H or D/"N/A"
+1587/236236S/Mist Finer 66/"N/A"
+1588/236236S/Mist Finer 44/"N/A"
+1589/236236S/Card hit by Mist Finer/33f gap
+1590/236236S/"236P/K/S"/"N/A"
+1591/236236S/j.236H/36f gap
+1592/236236S/236H/"N/A"
+1593/236236S/236HH/"N/A"
+1594/236236S/214H/34f gap
+1595/236236S/632146H/27f gap
+1596/236236S/236236S/23f gap
+1597/236236S/236D/32f gap
+1598/236236S/236[D]/44f gap
+1599/236D/5P/-3f gap
+1600/236D/5K/-2f gap
+1601/236D/c.S/-2f gap
+1602/236D/f.S/0f gap
+1603/236D/5H/4f gap
+1604/236D/5D/11f gap
+1605/236D/5[D]/19f gap
+1606/236D/2P/-4f gap
+1607/236D/2K/-3f gap
+1608/236D/2S/2f gap
+1609/236D/2H/9f gap
+1610/236D/2D/1f gap
+1611/236D/j.P/16f gap
+1612/236D/j.K/17f gap
+1613/236D/j.S/19f gap
+1614/236D/j.H/24f gap
+1615/236D/j.D/17f gap
+1616/236D/6P/2f gap
+1617/236D/6K/6f gap
+1618/236D/6H/9f gap
+1619/236D/"214[P/K/S]"/-2f gap
+1620/236D/"j.214[P/K/S]"/16f gap
+1621/236D/214]P[/"N/A"
+1622/236D/214]K[/"N/A"
+1623/236D/214]S[/"N/A"
+1624/236D/j.214]P[/"N/A"
+1625/236D/j.214]K[/"N/A"
+1626/236D/j.214]S[/"N/A"
+1627/236D/H or D/"N/A"
+1628/236D/Mist Finer 66/"N/A"
+1629/236D/Mist Finer 44/"N/A"
+1630/236D/Card hit by Mist Finer/8f gap
+1631/236D/"236P/K/S"/"N/A"
+1632/236D/j.236H/24f gap
+1633/236D/236H/"N/A"
+1634/236D/236HH/"N/A"
+1635/236D/214H/9f gap
+1636/236D/632146H/2f gap
+1637/236D/236236S/-2f gap
+1638/236D/236D/20f gap
+1639/236D/236[D]/32f gap
+1640/236[D]/5P/-3f gap
+1641/236[D]/5K/-2f gap
+1642/236[D]/c.S/-2f gap
+1643/236[D]/f.S/0f gap
+1644/236[D]/5H/4f gap
+1645/236[D]/5D/11f gap
+1646/236[D]/5[D]/19f gap
+1647/236[D]/2P/-4f gap
+1648/236[D]/2K/-3f gap
+1649/236[D]/2S/2f gap
+1650/236[D]/2H/9f gap
+1651/236[D]/2D/1f gap
+1652/236[D]/j.P/16f gap
+1653/236[D]/j.K/17f gap
+1654/236[D]/j.S/19f gap
+1655/236[D]/j.H/24f gap
+1656/236[D]/j.D/17f gap
+1657/236[D]/6P/2f gap
+1658/236[D]/6K/6f gap
+1659/236[D]/6H/9f gap
+1660/236[D]/"214[P/K/S]"/-2f gap
+1661/236[D]/"j.214[P/K/S]"/16f gap
+1662/236[D]/214]P[/"N/A"
+1663/236[D]/214]K[/"N/A"
+1664/236[D]/214]S[/"N/A"
+1665/236[D]/j.214]P[/"N/A"
+1666/236[D]/j.214]K[/"N/A"
+1667/236[D]/j.214]S[/"N/A"
+1668/236[D]/H or D/"N/A"
+1669/236[D]/Mist Finer 66/"N/A"
+1670/236[D]/Mist Finer 44/"N/A"
+1671/236[D]/Card hit by Mist Finer/8f gap
+1672/236[D]/"236P/K/S"/"N/A"
+1673/236[D]/j.236H/24f gap
+1674/236[D]/236H/"N/A"
+1675/236[D]/236HH/"N/A"
+1676/236[D]/214H/9f gap
+1677/236[D]/632146H/2f gap
+1678/236[D]/236236S/-2f gap
+1679/236[D]/236D/7f gap
+1680/236[D]/236[D]/32f gap

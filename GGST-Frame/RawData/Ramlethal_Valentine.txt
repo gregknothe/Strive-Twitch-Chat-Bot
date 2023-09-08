@@ -19,21 +19,24 @@
 17//5D/45/High/20/2/27/-15/0/2/Mid//80%/1125/3000 [1000]/
 18//5[D]/56/High/28/2/27/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
 19//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
-0//236S/25, 30/All/20/Until Wall (34) 15/Total 37/+9/22~40/2/Very Small//80%/500/2000/S Bajoneto
-1//236H/25, 30/All/20/Until Wall (34) 15/Total 43/+3/KD +28 [KD +89]/2/Very Small//80%/500/2000/H Bajoneto
-2//623P/35/All/11/3/27/-10/+5/4/Mid//90%/2500/2000/Dauro
-3//214K/40/All/30/2/13/+2/+6/3/Very Small//80%/2000/1000/Sildo Detruo
-4//j.214K/40/All/30/Until Landing//-3~+3/+3~+6/3/Very Small//80%/2000/1000/Air Sildo Detruo
-5//214H/100 [75] {50}/All/19/4/42/-27 [-27] {-32}/HKD +33 (HKD +37)/4 [4] {2}/Large//90%/2500 [2500] [1500]/2000/Sabrubato
-6//214P/20/All/16/7/12/-5/+10/2/Mid//90%/1500/1000/Erarlumo (1)
-7//214P 214P/25 [40]/All/9/4/25/-12 [-10]/-9 [KD +29]/3 [4]/Mid//90%/1500 [2000]/1000/Erarlumo (2)
-8//214P 214P 214P/30 [60]/All/11/6/38/-25/KD +24/4/Large//90%/2500/1000/Erarlumo (3)
-9//j.214S/30,30 [24,24]/All/12/4(10)4/24/-6 (IAS)/HKD +46 (IAS)/3/Very Small//90%/1000×2 [700×2]/1000 (Once)/Agressa Ordono
-10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146H/1×29, 127/All (Guard Crush)/11+13///+16/HKD +72/1/Small//100%/100×30/1000 (Once)/Calvados
-1//236236S/160 [130] {100}/All/7+2/6/51/-38 [-38] {-43}/HKD +28/4 [4] {2}/Mid/1~14 All/100%/2500 {1500}/1000/Mortobato
+0//236S/15, 20/All/20/Until Wall (34) 15/Total 37/+9/22~40/2/Very Small//80%/500/2000/S Bajoneto
+1//236H/15, 20/All/20/Until Wall (34) 15/Total 43/+3/KD +28 [KD +89]/2/Very Small//80%/500/2000/H Bajoneto
+2//623P/35/All/11/3/27/-10/+5/4/Mid//80%/2500/2000/Dauro
+3//236K/40/All/31/8/16/+7/KD +43/3/Very Small//80%/500/2000/Ondo
+4//214K/40/All/22/2/17/-2/+2/3/Very Small//80%/2000/1000/Sildo Detruo
+5//j.214K/40/All/30/Until Landing//-3~+3/+3~+6/3/Very Small//80%/2000/1000/Air Sildo Detruo
+6//214H/100 [75] {50}/All/19/4/42/-27 [-27] {-32}/HKD +33 (HKD +37)/4 [4] {2}/Large//80%/2500 [2500] [1500]/2000/Sabrubato
+7//214P/20/All/16/7/12/-5/+10/2/Very Small//80%/1500/1000/Erarlumo (1)
+8//214P 214P/25 [40]/All/9/4/25/-12 [-10]/-9 [KD +29]/3 [4]/Very Small//80%/1500 [2000]/1000/Erarlumo (2)
+9//214P 214P 214P/30 [60]/All/11/6/38/-25/KD +24/4/Very Small//80%/2500/1000/Erarlumo (3)
+10//j.214S/30,30 [24,24]/All/12/4(10)4/24/-6 (IAS)/HKD +46 (IAS)/3/Very Small//90%/1000×2 [700×2]/1000 (Once)/Agressa Ordono
+11//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//632146H/1×29, 112/All (Guard Crush)/11+13///+16/HKD +72/1/Small//100%/100×30/1000 (Once)/Calvados
+1//236236S/130 [110] {90}/All/7+2/6/51/-38 [-38] {-43}/HKD +28/4 [4] {2}/Mid/1~14 All/100%/2500 {1500}/1000/Mortobato
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +55////50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +55 (IAD)////50%//2500/Air Throw
-2///////Total 26/////////Dash Cancel
-3///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+2////////////////Wild Assault
+3////////////////Wild Assault
+4///////Total 26/////////Dash Cancel
+5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

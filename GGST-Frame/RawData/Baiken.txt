@@ -26,14 +26,16 @@
 3//41236H/30/All/18/11/19/-3/0/4/Mid//90%/2500/1000/H Kabari
 4//41236H~H/48/All/11 [23]/3/14 (23 on block)/-7/HKD +58/3/Mid//90%/2000/1000/Kabari Followup
 5//j.236S/50/High/9/12/7 after Landing/-14 (IAS)/+6 (IAS)/2/Mid//80%/1125/1000/Youzansen
-6//236P/130/-/1/7/32/-/KD +14 [+11]///1~7 Strike/50% [100%]//2500 [1000]/Hiiragi
+6//236P/100/-/1/7/32/-/KD +14 [+11]///1~7 Strike/50% [100%]//2500 [1000]/Hiiragi
 7//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//236236S/45×2, 100 [45×2, 60]/All/8+1/3(20)3(36)3/48/-32/HKD +42/4/Mid/1~10 Full/100%/800×3/1000/Tsurane Sanzu-watashi
-1//214214P/110/All (Guard Crush)/8+3/28/Total 47/+5/HKD +59/4/Small///500/1000/Kenjyu
-2//j.214214P/110/All (Guard Crush)/11+3/28/Total 45//HKD/4/Small///500/1000/Air Kenjyu
+0//236236S/35×2, 89 [35×2, 55]/All/8+1/3(20)3(36)3/48/-32/HKD +42/4/Mid/1~10 Full/100%/800×3/1000/Tsurane Sanzu-watashi
+1//214214P/3070/All (Guard Crush)/8+3/28/Total 47/+5/HKD +59/4/Small///500/1000/Kenjyu
+2//j.214214P/3070/All (Guard Crush)/11+3/28/Total 45//HKD/4/Small///500/1000/Air Kenjyu
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0///2060/Ground Throw (90000)/2/3/38//HKD +60///none/50%//2500/Ground Throw (Tether)
-1///2060/Ground Throw (90000)/2/3/38//HKD +47///none/50%//2500/Ground Throw (Knockback)
+0///80/Ground Throw (90000)/2/3/38//HKD +60///none/50%//2500/Ground Throw (Tether)
+1///80/Ground Throw (90000)/2/3/38//HKD +47///none/50%//2500/Ground Throw (Knockback)
 2///2060/Air Throw/2/3/38 or Until Landing+10//HKD +43 (IAD)///none/50%//2500/Air Throw
-3///////Total 22/////////Dash Cancel
-4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+3///30/All(Guard Crush)/20/3/20/+12//3/Mid//90%///Wild Assault
+4///50/All(Guard Crush)/32/3/20/+17//4/Mid//90%///Wild Assault
+5///////Total 22/////////Dash Cancel
+6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

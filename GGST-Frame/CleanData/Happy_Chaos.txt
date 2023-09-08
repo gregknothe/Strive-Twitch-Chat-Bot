@@ -31,3 +31,5 @@
 29/236P//-/29 total///Special/
 30/632146S/20///-25/4/Super/
 31/214214P/5/(52 Flash)/Total 11///Super/
+32/236D/20/3/20/7/4/Special/All
+33/236[D]/32/3/20/12/4/Special/All

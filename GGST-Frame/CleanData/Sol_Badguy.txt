@@ -5,7 +5,7 @@
 3/f.S/10/2/13/2/3/Normal/5H,2H,Special,Super
 4/5H/11/4/20/-5/4/Normal/Special,Super
 5/2P/5/4/8/-2/0/Normal/5P,2P,6P,6S,6H,Special,Super
-6/2K/6/3/11/-2/1/Normal/6P,6S,6H,5D,2D,Special,Super
+6/2K/5/3/11/-2/1/Normal/6P,6S,6H,5D,2D,Special,Super
 7/2S/10/6/15/-7/2/Normal/5H,2H,Special,Super
 8/2H/11/5/31/-17/4/Normal/Special,Super
 9/j.P/5/3/8//0/jump Normal/j.P,Special
@@ -36,4 +36,7 @@
 34/41236H/24/3/16/11/4/Special/
 35/632146H/9/3(20)20/41/-44/3/Super/
 36/214214H/20/16/49///Super/
-37/214[S]/32/2 [8]/32 [26]/-17/3/Special/
+37/j.214[K]/30/Until Landing/Until Landing+18//3/jump Special/
+38/214[S]/32/2 [8]/32 [26]/-17/3/Special/
+39/236D/16/3/20/-4/4/Special/All
+40/236[D]/28/3/20/-4/4/Special/All

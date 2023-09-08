@@ -8,10 +8,10 @@
 6/5[D]/28/3/26/-10/4/Normal/
 7/6P/11/6/24/-16/2/Normal/Special,Super
 8/6H/25/6/30/-16/4/Normal/Special,Super
-9/2P/5/4/8/-2/0/Normal/5P,2P,6P,6H,Special,Super
-10/2K/7/4/10/-2/1/Normal/6P,6H,5D,2D,Special,Super
+9/2P/5/4/10/-2/1/Normal/5P,2P,6P,6H,Special,Super
+10/2K/6/4/10/-2/1/Normal/6P,6H,5D,2D,Special,Super
 11/2S/12/3/22/-11/2/Normal/5H,2H,Special,Super
-12/2H/16/10/30/-18/2/Normal/Special,Super
+12/2H/16/10/30/-15/3/Normal/Special,Super
 13/2D/12/6/21/-10/3/Normal/Special,Super
 14/j.P/6/4/9//0/jump Normal/j.P,AirDash,Special,Super
 15/j.K/8/4/21//1/jump Normal/j.D,AirDash,Special,Super
@@ -24,8 +24,8 @@
 22/13C !P/8//Total 0 [Total 30]/47/4/Special/
 23/(236P) 214P/14//16/3/2/Super/
 24/13C (236P) 214P///Total 30///Super/
-25/236S/15/18/24/-12/2/Special/
-26/j.236S/15/18/24/-13/2/jump Special/
+25/236S/14/18/24/-12/2/Special/
+26/j.236S/14/18/24/-13/2/jump Special/
 27/!S/15/3x5/Total 0 [Total 30]/36/2/Normal/
 28/13C !S/15/4x9/Total 0 [Total 30]/62/4/Special/
 29/(236S) 214P/21/18/Total 30/26/2/Super/
@@ -55,3 +55,5 @@
 53/13C ![H]/40/9/Total 0 [Total 30]/64/4/Special/
 54/(236[H]) 214[P]/40/9/Total 30/75/4/Super/
 55/(236{H}) 214{P}/40/9/Total 30/67/4/Super/
+56/236D/20/3/20/12/4/Special/
+57/236[D]/32/3/20/17/4/Special/

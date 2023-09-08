@@ -38,26 +38,28 @@
 9//Shooting Time Stretch (Decelerate)///19/600/Total 30/////////Shooting Time Stretch (Decelerate)
 10//Gravity Rod (Shooting)///19/600/Total 30/////////Gravity Rod (Shooting)
 11//Repulsive Rod (Shooting)///19/600/Total 30/////////Repulsive Rod (Shooting)
-12//Howling Metron/41/All/11//Total 39/+5/KD/4/Very Small//80%///Howling Metron
-13//Delayed Howling Metron/22×3/All/21//Total 54/+22/KD/4/Very Small//80%///Delayed Howling Metron
-14//Howling Metron MS Processing/24×3/All/16, 21, 26//Total 49/+10/KD/4/Very Small//80%///Howling Metron MS Processing
+12//Howling Metron/41/All [Guard Crush]/11//Total 39/+5 [+16]/KD/4/Very Small//80%///Howling Metron
+13//Delayed Howling Metron/22×3/All [Guard Crush]/21//Total 54/+22 [+33]/KD/4/Very Small//80%///Delayed Howling Metron
+14//Howling Metron MS Processing/24×3/All [Guard Crush]/16, 21, 26//Total 49/+10 [+21]/KD/4/Very Small//80%///Howling Metron MS Processing
 15//Metron Screamer 808/53/All (Guard Crush)/12//Total 34/+16/KD/4/Very Small//80%///Metron Screamer 808
-16//Metron Arpeggio/17×10/All/31//Total 59/+113/KD/4/Very Small//80%///Metron Arpeggio
-17//Delayed Tardus Metron/26×3/All/21//Total 39/+57/KD/4/Very Small//80%///Delayed Tardus Metron
+16//Metron Arpeggio/17×10/All [Guard Crush]/31//Total 59/+113 [+124]/KD/4/Very Small//80%///Metron Arpeggio
+17//Delayed Tardus Metron/26×3/All [Guard Crush]/21//Total 39/+57 [+68]/KD/4/Very Small//80%///Delayed Tardus Metron
 18//Terra Metron/47/Low (Air: All)/16//Total 45/+4/KD/4/Very Small//80%///Terra Metron
 19//Accipiter Metron/49/High/19//Total 48/+4/KD/4/Very Small//80%///Accipiter Metron
 20//Aquila Metron/40/All/14//Total 59/-25/KD/2/Very Small/Strike 1~15/60%///Aquila Metron
-21//Bit Shift Metron/28×1~5/All/14/4/Total 39/"+8/+18/+28/+38/+48"/KD//Very Small//80%///Bit Shift Metron
+21//Bit Shift Metron/28×1~5/All [Guard Crush]/14/4/Total 39/"+8/+18/+28/+38/+48 [+19/+29/+39/+49/+59]"/KD//Very Small//80%///Bit Shift Metron
 22//RMS Boost Metron/"55/66/77/88/99"/All (Guard Crush)/14//Total 44/+25/KD/4/Very Small//80%///RMS Boost Metron
 23//Go to Marker///16//Total 35/////16~25 All////Go to Marker
 24//Sampler 404///11/Until Spell Used/Total 29/////////Sampler 404
 25//Chaotic Option///11//Total 29/////////Chaotic Option
 26//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//"632146P/K"/22×5/All/6+1/Until Hit//+36/KD/4x5/Very Small//100%/300//Submicron Particle Sphere
+0//"632146P/K"/22×5/All [Guard Crush]/6+1/Until Hit//+36 [+47]/KD/4x5/Very Small//100%/300//Submicron Particle Sphere
 1//632146S///16//Total 17/////////Bookmark (Full Order)
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0///1×20, 50/Ground Throw: 90/2/3/38//////Forced 50%//2500/Ground Throw
+0///70/Ground Throw: 90/2/3/38//////Forced 50%//2500/Ground Throw
 1///70/Air Throw: 200/2/3/38 or Until Landing+10//////Forced 50%//2500/Air Throw
-2///80//11////HKD (+23)//////1000/Finish Blow
-3///////Total 22/////////Dash Cancel
-4///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+2////All/20/3/20/+12////////Wild Assault
+3////All/32/3/20/+17////////Wild Assault
+4///80//11////HKD (+23)//////1000/Finish Blow
+5///////Total 22/////////Dash Cancel
+6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
