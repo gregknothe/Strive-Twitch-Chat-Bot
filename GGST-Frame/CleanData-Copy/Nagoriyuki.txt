@@ -1,0 +1,64 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/5/3/9/0/1/Normal/5P,2P,6P,6K,6H.1,6H.2,6H.3,6H.BR,Special,Super
+1/5K/7/2/14/-2/2/Normal/6P,6K,6H.1,6H.2,6H.3,6H.BR,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/3/4/Normal/6P,6K,f.S.1,f.S.2,f.S.3,f.S.BR,2S.1,2S.2,2S.3,2S.BR,5H.1,5H.2,5H.3,5H.BR,2H,6H.1,6H.2,6H.3,6H.BR,5D,2D,Special,Super
+3/f.S.1/16/3/28/-17/2/Normal/f.SS.1,5H.1,2H.1
+4/f.S.2/14/3/28/-17/2/Normal/f.SS.2,5H.2,2H.2
+5/f.S.3/12/3/28/-17/2/Normal/f.SS.3,5H.3,2H.3
+6/f.S.BR/12/3/28/-17/2/Normal/f.SS.BR,5H.BR,2H.BR
+7/f.SS.1/13/3/19/-8/2/Rekka Followup/f.SSS.1
+8/f.SS.2/13/3/19/-8/2/Rekka Followup/f.SSS.2
+9/f.SS.3/13/3/19/-8/2/Rekka Followup/f.SSS.3
+10/f.SS.BR/13/3/19/-8/2/Rekka Followup/f.SSS.BR
+11/f.SSS.1/14/6/35/-22/4/Rekka Followup/f.SSS.1
+12/f.SSS.2/14/6/35/-22/4/Rekka Followup/f.SSS.2
+13/f.SSS.3/14/6/35/-22/4/Rekka Followup/f.SSS.3
+14/f.SSS.BR/14/6/35/-22/4/Rekka Followup/f.SSS.BR
+15/5H.1/20/6/27/-14/4/Normal/Special,Super
+16/5H.2/18/6/27/-14/4/Normal/Special,Super
+17/5H.3/16/6/27/-14/4/Normal/Special,Super
+18/5H.BR/16/6/27/-14/4/Normal/Special,Super
+19/2P/6/3/11/-2/1/Normal/5P,2P,6P,6K,6H.1,6H.2,6H.3,6H.BR,Special,Super
+20/2K/7/5/8/-1/1/Normal/6P,6K,6H.1,6H.2,6H.3,6H.BR,5D,2D,Special,Super
+21/2S.1/12/4/21/-11/2/Normal/5H.1,2H.1,Special,Super
+22/2S.2/11/4/21/-11/2/Normal/5H.2,2H.2,Special,Super
+23/2S.3/10/4/21/-11/2/Normal/5H.3,2H.3,Special,Super
+24/2S.BR/10/4/21/-11/2/Normal/5H.BR,2H.BR,Special,Super
+25/2H.1/19/7/29/-17/4/Normal/Special,Super
+26/2H.2/17/7/29/-17/4/Normal/Special,Super
+27/2H.3/15/7/29/-17/4/Normal/Special,Super
+28/2H.BR/15/7/29/-17/4/Normal/Special,Super
+29/j.P/7/3/12//0/jump Normal/j.P,
+30/j.K/7/3/19//1/jump Normal/j.D,
+31/j.S.1/13/3/20//2/jump Normal/j.H.1,j.D.1
+32/j.S.2/12/3/20//2/jump Normal/j.H.2,j.D.2
+33/j.S.3/11/3/20//2/jump Normal/j.H.3,j.D.3
+34/j.S.BR/11/3/20//2/jump Normal/j.H.BR,j.D.BR
+35/j.H.1/16/4/23//3/jump Normal/j.D.1
+36/j.H.2/15/4/23//3/jump Normal/j.D.2
+37/j.H.3/14/4/23//3/jump Normal/j.D.3
+38/j.H.BR/14/4/23//3/jump Normal/j.D.BR
+39/j.D.1/15/3/20//3/jump Normal/
+40/j.D.2/13/3/20//3/jump Normal/
+41/j.D.3/11/3/20//3/jump Normal/
+42/j.D.BR/11/3/20//3/jump Normal/
+43/6P/12/5/15/-6/2/Normal/Special,Super
+44/6K/15/3/13/-2/2/Normal/Special,Super
+45/6H.1/17/6/30/-2/4/Normal/Special,Super
+46/6H.2/16/6/30/-2/4/Normal/Special,Super
+47/6H.3/15/6/30/-2/4/Normal/Special,Super
+48/6H.BR/15/6/30/-2/4/Normal/Special,Super
+49/2D/12/3/18/-7/2/Normal/Special,Super
+50/5D/20/3/26/-15/2/Normal/
+51/5[D]/28/3/26/-10/4/Normal/
+52/236S/18/9/Total 39/5/2/Special/214H,623H
+53/236K///Total 25///Special/
+54/214K///Total 16///Special/
+55/214H/14/5/17/-3/4/Special/236S,623H
+56/623H/11/3/21/-7/3/Special/236S,214H,623HH
+57/623HH/10/6/29/-16/4/Rekka Followup/236S,214H
+58/623P/7/2/48///Special/
+59/632146S/9/2/54/-39/3/Super/
+60/632146H/21/6/80/-66/4/Normal/Special,Super
+61/236D/20/3/20/12/4/Special/
+62/236[D]/32/3/20/17/4/Special/

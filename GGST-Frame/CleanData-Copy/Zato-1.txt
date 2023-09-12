@@ -1,0 +1,42 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/5/4/8/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
+1/5K/8/4/10/-2/1/Normal/6P,6K,6H,5D,2D,Jump,Special,Super
+2/c.S/8/6/10/1/3/Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+3/f.S/10/2×3/23/-12/2/Normal/5H,2H,Special,Super
+4/5H/13/9/19/-9/4/Normal/Special,Super
+5/2P/6/4/9/-3/0/Normal/5P,2P,6P,6K,6H,Special,Super
+6/2K/6/2/13/-3/1/Normal/6P,6K,6H,5D,2D,Special,Super
+7/2S/11/4/20/-10/2/Normal/5H,2H,Special,Super
+8/2H/13/7/26/-13/4/Normal/Special,Super
+9/j.P/8/5, 5, 2/15/5/0/jump Normal/Flight,Super
+10/j.K/7/4/11/1/1/jump Normal/j.D,Flight,Super
+11/j.S/9/4/14/5/2/jump Normal/j.H,j.D,Flight,Super
+12/j.H/12/14/13/12/3/jump Normal/j.D,Flight,Super
+13/j.D/11/4/22/-7/4/jump Normal/Flight,Super
+14/6P/12/8/12/-6/2/Normal/Special,Super
+15/6K/28/5/7/2/2/Normal/Special,Super
+16/6H/30/4/11/-4/3/Normal/Flight,Special,Super
+17/2D/10/6/17/-9/2/Normal/Special,Super
+18/5D/20/3/26/-15/2/Normal/
+19/5[D]/28/3/26/-10/4/Normal/
+20/22H/18/32/2/-7/2/Special/
+21/]P[/13/3(17)2/24//2/Normal/
+22/236P/21 [25]/3(17)2/24//2/Special/
+23/]K[/19////2/Normal/
+24/236K/27 [31]///55/2/Special/
+25/]S[/13/11(6)9/34//3/Normal/
+26/236S/21 [25]/11(6)9/34/46/3/Special/
+27/]H[/66/3×6/(Summon Vanishes)//4/Normal/
+28/236H/74 {78}/3×6/(Summon Vanishes) [36 Zato]//4/Special/
+29/623S/6/2/38///Special/
+30/214K/13/8~59/Total 28~95///Special/
+31/22 During 214K(HOLD)//////Special/
+32/214S/9/10/12/-8/2/Special/
+33/214S (Dash)/30/////Special/
+34/214H/20/////Special/
+35/214H/0/////Special/
+36/632146H/16//Total 43/12/4/Super/
+37/632146S/25///3/4/Super/
+38/j.632146S/25////4/jump Super/
+39/236D/20/3/20/7/4/Special/All
+40/236[D]/32/3/20/12/4/Special/All

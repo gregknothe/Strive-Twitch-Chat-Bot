@@ -1,0 +1,35 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/5/4/8/-2/0/Normal/5P,2P,6P,6H,Special,Super
+1/5K/7/3/11/-2/1/Normal/6P,6H,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+3/f.S/11/6/21/-10/3[2]/Normal/5H,2H,Special,Super
+4/5H/12/3/28/-12/4[3]/Normal/Special,Super
+5/2P/6/4/9/-3/0/Normal/5P,2P,6P,6H,Special,Super
+6/2K/6/5/9/-2/1/Normal/6P,6H,5D,2D,Special,Super
+7/2S/10/4/18/-5/3[2]/Normal/5H,2H,Special,Super
+8/2H/14/9/25/-15/4[3]/Normal/Special,Super
+9/j.P/5/4/8//0/jump Normal/j.P,Special
+10/j.K/7/4/13/0/1/jump Normal/j.D,Jump,ForwardAirDash,Special
+11/j.S/12/4/24/5/2[1]/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
+12/j.H/19/6/31//2[1]/jump Normal/j.D,Jump,ForwardAirDash,Special
+13/j.D/10/2, 2, 2//2/1/jump Normal/Jump,Dash,Special
+14/6P/9/5/18/-9/2/Normal/Special,Super
+15/6H/18/2/33/-16/4[3]/Normal/Special,Super
+16/2D/10/6/19/-8/3/Normal/Special,Super
+17/5D/20/2/27/-15/2/Normal/
+18/5[D]/28/2/27/-10/4/Normal/
+19/236S/20/Until Wall (34) 15/Total 37/9/2/Special/
+20/236H/20/Until Wall (34) 15/Total 43/3/2/Special/
+21/623P/11/3/27/-10/4/Special/
+22/236K/31/8/16/7/3/Special/
+23/214K/22/2/17/-2/3/Special/
+24/j.214K/30/Until Landing//-3/3/jump Special/
+25/214H/19/4/42/-27/4[2]/Special/
+26/214P/16/7/12/-5/2/Special/214P 214P,214[P] 214[P]
+27/214P 214P/9/4/25/-12/3[4]/Rekka Followup/214P 214P 214P
+28/214P 214P 214P/11/6/38/-25/4/Rekka Followup/
+29/j.214S/12/4(10)4/24/-6/3/jump Special/
+30/632146H/24///16/1/Super/
+31/236236S/9/6/51/-38/4[2]/Super/
+32/236D/16/3/20/-4/4/Special/All
+33/236[D]/28/3/20/-4/4/Special/All

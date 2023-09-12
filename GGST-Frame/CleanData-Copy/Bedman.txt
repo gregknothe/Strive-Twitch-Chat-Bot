@@ -1,0 +1,49 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/6/4/8/-2/0/Normal/5P,2P,6P,6H,Special,Super
+1/5K/8/7/14/-7/2/Normal/6P,6H,5D,2D,Jump,ForwardDash,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,ForwardDash,Special,Super
+3/f.S/11/6/17/-9/2/Normal/5H,2H,Special,Super
+4/5H/13/4/22/-7/4/Normal/Special,Super
+5/5D/20/3/26/-15/2/Normal/
+6/5[D]/28/3/26/-10/4/Normal/
+7/6P/11/6/24/-16/2/Normal/Special,Super
+8/6H/25/6/30/-16/4/Normal/Special,Super
+9/2P/5/4/10/-2/1/Normal/5P,2P,6P,6H,Special,Super
+10/2K/6/4/10/-2/1/Normal/6P,6H,5D,2D,Special,Super
+11/2S/12/3/22/-11/2/Normal/5H,2H,Special,Super
+12/2H/16/10/30/-15/2,2,2,2,3/Normal/Special,Super
+13/2D/12/6/21/-10/3/Normal/Special,Super
+14/j.P/6/4/9//0/jump Normal/j.P,AirDash,Special,Super
+15/j.K/8/4/21//1/jump Normal/j.D,AirDash,Special,Super
+16/j.S/10/4/22//2/jump Normal/j.H,j.D,AirDash,Special,Super
+17/j.H/15/2x6/Until Landing+3/10/2/jump Normal/j.D,AirDash,Special,Super
+18/j.D/19/Until Landing/21 after Landing/-11/2/jump Normal/AirDash,Special,Super
+19/236P/16//Total 46/-11/4/Special/
+20/j.236P/16////4/jump Special/
+21/!P/8 [14]//Total 0 [Total 30]/20/2/Normal/
+22/13C !P/8 [14]//Total 0 [Total 30]/47/4/Special/
+23/(236P) 214P/14//16/3/2/Super/
+24/13C (236P) 214P///Total 30///Super/
+25/236S/14/18/24/-12/2/Special/
+26/j.236S/14/18/24/-13/2/jump Special/
+27/!S/15 [21]/3x5/Total 0 [Total 30]/36/2/Normal/
+28/13C !S/15 [21]/4x9/Total 0 [Total 30]/62/4/Special/
+29/(236S) 214P/21/18/Total 30/26/2/Super/
+30/13C (236S) 214P///Total 30/52//Super/
+31/236H/24/9/23/3/4/Special/
+32/236{H}/39/9/23/11/4/Special/
+33/236[H]/67/9/23/19/4/Special/
+34/!H/34 [40]/9/Total 0 [Total 30]/49/4/Normal/
+35/!{H}/34 [40]/9/Total 0 [Total 30]/57/4/Normal/
+36/![H]/34 [40]/9/Total 0 [Total 30]/65/4/Normal/
+37/13C !H/34 [40]/9/Total 0 [Total 30]/64/4/Special/
+38/(236H) 214P/40/9/Total 30/59/4/Super/
+39/13C (236H) 214P///Total 30/64//Super/
+40/214P//-/Total 30///Special/
+41/j.214P//-/Total 30///jump Special/
+42/214K//-/Total 24///Special/
+43/j.214K///Total 24///jump Special/
+44/632146S/4/300/Total 14///Super/
+45/632146H/13/3/70/-39/4/Super/
+46/236D/20/3/20/12/4/Special/
+47/236[D]/32/3/20/17/4/Special/

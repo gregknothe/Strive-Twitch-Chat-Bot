@@ -1,0 +1,50 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/7/3/6/3/1/Normal/6P,6H,Special,Super
+1/5K/10/9/12/-7/2/Normal/6P,6H,5D,2D,Jump,ForwardDash,Special,Super
+2/c.S/7/6/12/1/4/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,ForwardDash,Special,Super
+3/f.S/11/3/23/-12/2/Normal/5H,2H,Special,Super
+4/5H/19/6/15/-2/4/Normal/Special,Super
+5/5D/20/3/26/-15/2/Normal/
+6/5[D]/28/3/26/-10/4/Normal/
+7/6P/12/6/27/-19/2/Normal/Special,Super
+8/6H/25/3/30/-14/4/Normal/Special,Super
+9/2P/5/3/6/3/1/Normal/6P,6H,Special,Super
+10/2K/8/3/11/-2/1/Normal/6P,6H,5D,2D,Special,Super
+11/2S/13/5/18/-9/2/Normal/5H,2H,Special,Super
+12/2H/20/4/30/-15/4/Normal/Special,Super
+13/2D/14/3/24/-10/3/Normal/Special,Super
+14/j.P/6/3/12//0/jump Normal/Special
+15/j.K/9/4/17//1/jump Normal/j.D,ForwardAirDash,Special
+16/j.S/11/11/13/8/2/jump Normal/j.H,j.D,ForwardAirDash,Special
+17/j.H/15/4/20//2/jump Normal/j.D,ForwardAirDash,Special
+18/j.D/14/10/14/13/3/jump Normal/ForwardAirDash,Special
+19/41236H/12/20/18/12/4/Special/
+20/j.41236H/10/15/Until landing+10/-25/4/jump Special/
+21/63214H/12/20/21/-5/4/Special/
+22/j.63214H/10/15/Until landing+10/-25/4/jump Special/
+23/23698H/12/15/18/3/4/Special/
+24/j.23698H/10/15/Until landing+10/-25/4/jump Special/
+25/21478H/12/15/18/3/4/Special/
+26/j.21478H/10/15/Until landing+10/-25/4/jump Special/
+27/69874H/12/20/21/-5/4/Special/
+28/j.69874H/10/15/Until landing+10/-25/4/jump Special/
+29/47896H/12/20/18/14/4/Special/
+30/j.47896H/10/15/Until landing+10/-25/4/jump Special/
+31/87412H/12/15/18/16/4/Special/
+32/j.87412H/10/15/Until landing+10/-25/4/jump Special/
+33/89632H/12/15/18/12/4/Special/
+34/j.89632H/10/15/Until landing+10/-25/4/jump Special/
+35/214S.1/57/24/42 Total//2/Special/
+36/214S.2/57/84/38 Total//2/Special/
+37/214S.3/57/144/34 Total//2/Special/
+38/236S.1/35//84 Total/-13/0/Special/
+39/236S.2/30//80~109 Total/-13/0/Special/
+40/236S.3/25//75~134 Total/-13/0/Special/
+41/632146P/10/5/46/-33/3/Super/
+42/720P/15/5/46/-33/3/Special/
+43/1080P/20/5/46/-33/3/Special/
+44/236236K.1/92/52/27 Total//2/Super/
+45/236236K.2/92/72/27 Total//2/Super/
+46/236236K.3/92/92/27 Total//2/Super/
+47/236D/20/3/20/12/4/Special/
+48/236[D]/32/3/20/17/4/Special/

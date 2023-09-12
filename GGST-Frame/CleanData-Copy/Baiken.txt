@@ -1,0 +1,33 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/4/2/10/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
+1/5K/7/5/10/-3/1/Normal/6P,6K,6H,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+3/f.S/9/6/15/-7/2/Normal/5H,2H,Special,Super
+4/5H/13/2/25/-8/4/Normal/Special,Super
+5/2P/6/3/9/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
+6/2K/6/5/10/-3/1/Normal/6P,6K,6H,5D,2D,Special,Super
+7/2S/11/3/19/-8/2/Normal/5H,2H,Special,Super
+8/2H/17/6/26/-13/4/Normal/Special,Super
+9/j.P/5/3/13//0/jump Normal/j.P,Special,Super
+10/j.K/7/8/12//1/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+11/j.S/8/7/19/1/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
+12/j.H/15/Until Landing/3 after Landing/7/2/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+13/j.D/12/3/26//3/jump Normal/Jump,ForwardAirDash,Special,Super
+14/6P/9/5/19/-10/2/Normal/Special,Super
+15/6K/12/9/10/-5/2/Normal/Special,Super
+16/6H/20/8/24/-13/4/Normal/Special,Super
+17/2D/10/63/21/-10/2/Normal/Special,Super
+18/5D/20/3/26/-15/2/Normal/
+19/5[D]/28/3/26/-10/4/Normal/
+20/236K/15/3 (13) 13/5/-3/3,0/Special/
+21/j.236K/20/Until Tatami Lands/Until Landing+7/15/2[0]/jump Special/
+22/41236S/31/11/16/2/4/Special/
+23/41236H/18/11/19/-3/4/Special/
+24/41236H~H/11 [23]/3/14 (23 on block)/-7/3/Special/
+25/j.236S/9/12/7 after Landing/-14/2/jump Special/
+26/236P/1/7/32///Special/
+27/236236S/9/3(20)3(36)3/48/-32/4/Super/
+28/214214P/11/28/Total 47/5/4/Super/
+29/j.214214P/14/28/Total 45//4/jump Super/
+30/236D/20/3/20/7/4/Special/All
+31/236[D]/32/3/20/12/4/Special/All

@@ -1,0 +1,40 @@
+/Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
+0/5P/5/4/8/-2/0/Normal/5P,2P,6P,6H,Special,Super
+1/5K/7/6/10/-4/1/Normal/6P,6H,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+3/f.S/11/6/17/-9/2/Normal/5H,2H,Special,Super
+4/5H/10/3(3)2/23/-6/4/Normal/Special,Super
+5/2P/5/4/9/-3/0/Normal/5P,2P,6P,6H,Special,Super
+6/2K/6/3/12/-3/1/Normal/6P,6H,5D,2D,Special,Super
+7/2S/9/7/22/-15/2/Normal/5H,2H,Special,Super
+8/2H/15/6/18/-5/4/Normal/Special,Super
+9/j.P/6/4/6/1/0/jump Normal/j.P,Special
+10/j.K/7/6/12//1/jump Normal/j.D,ForwardAirDash,Jump,Special
+11/j.S/11/5/21/3/2/jump Normal/j.H,j.D,ForwardAirDash,Jump,Special
+12/j.H/11/33/32/5/2/jump Normal/j.D,ForwardAirDash,Jump,Special
+13/j.D/21/-/Total 44//1/jump Normal/
+14/6P/10/6/20/-12/2/Normal/Special,Super
+15/6H/27/2(9)11/14/-6/3,4/Normal/Special,Super
+16/2D/10/15/18/-19/2/Normal/Special,Super
+17/5D/20/3/26/-15/2/Normal/
+18/5[D]/28/3/26/-10/2/Normal/
+19/236P/10//Total 25///Special/
+20/236[P]///Total 14///Special/
+21/2P (near Servant)///Total 14///Normal/
+22/"6P/6K/6S/6H/6D while holding Servant"/12//Total 27/5/0/Special/
+23/D while holding Servant///Total 11///Normal/
+24/214P/10//Total 19///Special/
+25/214K/12/6/Total 23/15/2/Special/
+26/K while holding Servant/12/6/Total 23/3/2/Normal/
+27/214S/4/34/Total 24/31/1/Special/
+28/S while holding Servant/4/28/Total 24/31/1/Normal/
+29/214H/208/19/Total 24//3/Special/
+30/236K/15/4/25/-12/3/Special/
+31/j.236K/15/4/19/5/3/jump Special/
+32/Bounced Servant/6////0/Normal/
+33/Launched Servant/6///-6/0/Normal/
+34/632146P/11/2/58/-41/4/Super/
+35/236236S/3/300/Total 15///Super/
+36/236236H/3/300/Total 15///Super/
+37/236D/20/3/20/7/4/Special/All
+38/236[D]/32/3/20/12/4/Special/All
