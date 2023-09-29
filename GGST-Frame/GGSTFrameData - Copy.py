@@ -268,6 +268,8 @@ def moveCleaner(moveDF, gatDF):
             moves.loc[x, "Startup"] = ""
         if "-" in str(moves.loc[x, "Startup"]):
             moves.loc[x, "Startup"] = str(moves.loc[x,"Startup"]).split("-")[0]
+        
+        
         if "," in str(moves.loc[x, "On-Block"]):
             moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].replace(",","")
         if " " in str(moves.loc[x, "On-Block"]):
@@ -278,6 +280,8 @@ def moveCleaner(moveDF, gatDF):
             moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split("+")[1]
         if moves.loc[x, "On-Block"] == "-" or moves.loc[x, "On-Block"] == "See" or moves.loc[x, "On-Block"] == "More" or moves.loc[x, "On-Block"] == "-":
             moves.loc[x, "On-Block"] = ""
+        
+        
         numCount = sum(c.isdigit() for c in moves.loc[x, "Input"])
         #Since Jack-o's tables are poorly formated.
         if moves.loc[x, "Input"] == "6H" and moves.loc[x,"Startup"] == "819":
@@ -440,6 +444,48 @@ def dataVerficationAll():
         dataVerification(x)
     return
 
+def frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start): 
+    #Wawa Check
+    if cancelType == "wawa_anything":
+        if "j." in move2:
+            if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+                gap = move2Start + 5 - levelHitstun(move1Lvl)
+            else:
+                gap = move2Start + 4 - levelHitstun(move1Lvl)
+        else:
+            gap = move2Start - levelHitstun(move1Lvl)
+    #Rekka Check
+    elif cancelType == "non_rekka_followup":
+        #return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
+        return move2 + " is a follow-up move and cannot be done after " + move1
+    #Ground Gatling 
+    elif cancelType == "ground_gatling":
+        gap = move2Start - levelHitstun(move1Lvl) 
+    #Ground Non-gatling
+    elif cancelType == "ground_non_gatling":
+        gap = move2Start - move1OB
+    #Ground to Air (Jump cancelable)
+    elif cancelType == "ground_jump_cancel":
+        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+            gap = move2Start + 5 - levelHitstun(move1Lvl)
+        else:
+            gap = move2Start + 5 - levelHitstun(move1Lvl)
+    #Ground to Air (Non-jump cancelable)
+    elif cancelType == "ground_non_jump_cancel":
+        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+            gap = move2Start + 5 - move1OB
+        else:
+            gap = move2Start + 5 - move1OB
+    #Air Gatling
+    elif cancelType == "air_gatling":
+        gap = move2Start - levelHitstun(move1Lvl)
+    #Air non-gatling and Air to Ground
+    else:
+        #return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
+        return move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup"
+    #return char.replace("_"," ") + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
+    return str(round(gap)) + "f gap"
+
 def frameTrap(char, move1, move2):
     char = nameCleaner(char)
     data = pd.read_csv("GGST-Frame/CleanData-Copy/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
@@ -450,48 +496,39 @@ def frameTrap(char, move1, move2):
     move1Cancel = data.loc[move1Index, "Cancels"].split(",")
     move2Index = data.index[data["Input"]==move2].tolist()[0]
     move2Start, move2Type = data.loc[move2Index, "Startup"], data.loc[move2Index, "Type"]
-    
-def frameTrapCalc(char, move1, move2, move1Act, move1Rec, move1OB, move1Lvl, move1Cancel, move2Start, move2Type): 
-    #Wawa Check
+
     if "All" in move1Cancel:
-        if "j." in move2:
-            if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
-                gap = move2Start + 5 - levelHitstun(move1Lvl)
-            else:
-                gap = move2Start + 4 - levelHitstun(move1Lvl)
-        else:
-            gap = move2Start - levelHitstun(move1Lvl)
-    #Rekka Check
+        #Wawa Check
+        cancelType = "wawa_anything"
     elif move2Type == "Rekka Followup" and move2 not in move1Cancel:
-        #return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
-        return move2 + " is a follow-up move and cannot be done after " + move1
-    #Ground Gatling 
+        #Rekka Check
+        cancelType = "non_rekka_followup"
     elif (move2 in move1Cancel or move2Type in move1Cancel) and "j." not in move1 and "j." not in move2:
-        gap = move2Start - levelHitstun(move1Lvl) 
-    #Ground Non-gatling
+        #Ground Gatling
+        cancelType = "ground_gatling"
     elif (move2 not in move1Cancel and move2Type not in move1Cancel) and "j." not in move1 and "j." not in move2:
-        gap = move2Start - move1OB
-    #Ground to Air (Jump cancelable)
+        #Ground non-gatling
+        cancelType = "ground_non_gatling"
     elif "j." not in move1 and "j." in move2 and "Jump" in move1Cancel:
-        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
-            gap = move2Start + 5 - levelHitstun(move1Lvl)
-        else:
-            gap = move2Start + 5 - levelHitstun(move1Lvl)
-    #Ground to Air (Non-jump cancelable)
+        #Ground to Air (Jump Cancel)
+        cancelType = "ground_jump_cancel"
     elif "j." not in move1 and "j." in move2 and "Jump" not in move1Cancel:
-        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
-            gap = move2Start + 5 - move1OB
-        else:
-            gap = move2Start + 5 - move1OB
-    #Air Gatling
+        #Ground to Air (Non-jump cancelable)
+        cancelType = "ground_non_jump_cancel"
     elif "j." in move1 and "j." in move2 and (move2 in move1Cancel or move2Type in move1Cancel):
-        gap = move2Start - levelHitstun(move1Lvl)
-    #Air non-gatling and Air to Ground
+        #Air Gatling
+        cancelType = "air_gatling"
     else:
-        #return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
-        return move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup"
-    #return char.replace("_"," ") + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
-    return str(round(gap)) + "f gap"
+        #Air to ground
+        cancelType = "air_to_ground"
+    
+    # move1: Attack level of each hit, 
+    # move2: Startup (different variations)
+
+
+    return
+
+
 
 def dropDownListGenerator(char):
     data = pd.read_csv("GGST-Frame/CleanData-Copy/"+char+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
@@ -554,7 +591,7 @@ def frameTrapAllCharacters():
 #frameTrapAllCharacters()
 #updateCleanAll()
 
-#print(frameTrap("may","236D","jH"))
+#print(frameTrap("may","cS","2K"))
 #dropDownListGeneratorAll()
 
 #print(moveLookup("Asuka","Accipiter"))
@@ -563,3 +600,19 @@ def frameTrapAllCharacters():
 #updateCleanAll()
 
 #dataScrape("Anji_Mito")
+
+
+def rawDataVerificationAll():
+    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
+    "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
+    "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    for x in charList:
+        print("---" + x + "---")
+        data = pd.read_csv("GGST-Frame/RawData-Copy/"+x+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
+        print(data["On-Block"])
+    return
+    
+rawDataVerificationAll()
+
+
+#Figure out how to fix the [] and other things on block
