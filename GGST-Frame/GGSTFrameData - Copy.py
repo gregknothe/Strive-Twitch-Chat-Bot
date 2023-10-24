@@ -444,7 +444,28 @@ def dataVerficationAll():
         dataVerification(x)
     return
 
+def multipleValueSplitting(value):
+    bracketCheck, commaCheck = 0, 0
+    if "[" in value: 
+        value = value.replace("]","").split("[")
+        bracketCheck = 1
+    if "," in value:
+        value = value.split(",")
+        commaCheck = 1
+    return value, len(value)
+    
+
+#print(multipleValueSplitting("-5[5]"))
+
 def frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start): 
+    #Splits the needed strings and notes the "type" of split
+    move1OBList = multipleValueSplitting(move1OB)
+    move1LvlList = multipleValueSplitting(move1Lvl)
+    move2StartList = multipleValueSplitting(move2Start)
+###############################
+#Make this section into a for loop, find a way to reform it at the end
+###############################
+
     #Wawa Check
     if cancelType == "wawa_anything":
         if "j." in move2:
@@ -483,7 +504,6 @@ def frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     else:
         #return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
         return move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup"
-    #return char.replace("_"," ") + " " + move1 + " > " + move2 + ": " + str(round(gap)) + "f gap."
     return str(round(gap)) + "f gap"
 
 def frameTrap(char, move1, move2):
@@ -500,33 +520,41 @@ def frameTrap(char, move1, move2):
     if "All" in move1Cancel:
         #Wawa Check
         cancelType = "wawa_anything"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif move2Type == "Rekka Followup" and move2 not in move1Cancel:
         #Rekka Check
         cancelType = "non_rekka_followup"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif (move2 in move1Cancel or move2Type in move1Cancel) and "j." not in move1 and "j." not in move2:
         #Ground Gatling
         cancelType = "ground_gatling"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif (move2 not in move1Cancel and move2Type not in move1Cancel) and "j." not in move1 and "j." not in move2:
         #Ground non-gatling
         cancelType = "ground_non_gatling"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif "j." not in move1 and "j." in move2 and "Jump" in move1Cancel:
         #Ground to Air (Jump Cancel)
         cancelType = "ground_jump_cancel"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif "j." not in move1 and "j." in move2 and "Jump" not in move1Cancel:
         #Ground to Air (Non-jump cancelable)
         cancelType = "ground_non_jump_cancel"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif "j." in move1 and "j." in move2 and (move2 in move1Cancel or move2Type in move1Cancel):
         #Air Gatling
         cancelType = "air_gatling"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     else:
         #Air to ground
         cancelType = "air_to_ground"
+        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     
     # move1: Attack level of each hit, 
     # move2: Startup (different variations)
 
 
-    return
+    return gap
 
 
 
@@ -547,7 +575,7 @@ def dropDownListGenerator(char):
 
 def dropDownListGeneratorAll():
     #Make sure to remove hidden from the first list when updating.
-    charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
+    charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", "Millia_Rage",
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
                 "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
     original_stdout = sys.stdout
@@ -612,7 +640,4 @@ def rawDataVerificationAll():
         print(data["On-Block"])
     return
     
-rawDataVerificationAll()
-
-
-#Figure out how to fix the [] and other things on block
+#print(frameTrap("Anji","6H","236h"))

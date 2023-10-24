@@ -92,4 +92,4 @@ def rangeChart(chars, ranges):
         print(y)
     return
 
-#rangeChart(allChars, [90, 270, 380, 616, 1230])
+rangeChart(allChars, [615])
