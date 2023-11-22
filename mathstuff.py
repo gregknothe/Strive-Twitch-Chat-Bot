@@ -1,4 +1,5 @@
 import random as rand
+import datetime
 
 '''
 ###Calc to see how often FT3 matters over FT2
@@ -83,4 +84,10 @@ def MontyHall(rep=100, swap=0):
 print(MontyHall(10000,1))
 print(MontyHall(10000,0))
 '''
-
+present = datetime.datetime.now()
+future = datetime.datetime(2023, 12, 14, 0, 0, 0)
+difference = future - present
+diff = str(difference)
+days = diff.split(", ")[0]
+time = diff.split(", ")[1].split(":")
+print(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")

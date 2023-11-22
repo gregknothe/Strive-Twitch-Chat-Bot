@@ -151,7 +151,7 @@ def addRekkas(char, moveDF):
     if char == "Anji_Mito":
         for x in range(len(moveDF["Input"])):
             if moveDF.loc[x]["Input"] == "236H" or moveDF.loc[x]["Input"] == "236[H]":
-                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "236H P, 236H K, 236H S, 236H H"
+                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "236H P,236H K,236H S,236H H"
             if moveDF.loc[x]["Input"] == "236H P" or moveDF.loc[x]["Input"] == "236H K" or moveDF.loc[x]["Input"] == "236H S" or moveDF.loc[x]["Input"] == "236H H":
                 moveDF.loc[x]["Type"] = "Rekka Followup"
     if char == "Bridget":
@@ -252,6 +252,10 @@ def moveCleaner(moveDF, gatDF):
     Type = []
     for x in range(len(moves.index)):
         #Second run through on the entire dataframe
+        if "~" in str(moves.loc[x, "Startup"]) and "[" in str(moves.loc[x, "Startup"]):
+            beforeTilda = moves.loc[x, "Startup"].split("~")[0]
+            afterTilda = moves.loc[x, "Startup"].split(" ")[1]
+            moves.loc[x, "Startup"] = beforeTilda + afterTilda
         if "~" in str(moves.loc[x, "Startup"]):
             moves.loc[x, "Startup"] = moves.loc[x, "Startup"].split("~")[0]
         if "(" in str(moves["Startup"][x]):
@@ -272,12 +276,14 @@ def moveCleaner(moveDF, gatDF):
         
         if "," in str(moves.loc[x, "On-Block"]):
             moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].replace(",","")
-        if " " in str(moves.loc[x, "On-Block"]):
-            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split(" ")[0]
+        #if " " in str(moves.loc[x, "On-Block"]):
+        #    moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split(" ")[0]
         if "~" in str(moves.loc[x, "On-Block"]):
             moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split("~")[0]
+        #if "+" in str(moves.loc[x, "On-Block"]):
+        #    moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split("+")[1]
         if "+" in str(moves.loc[x, "On-Block"]):
-            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].split("+")[1]
+            moves.loc[x, "On-Block"] = moves.loc[x, "On-Block"].replace("+","")
         if moves.loc[x, "On-Block"] == "-" or moves.loc[x, "On-Block"] == "See" or moves.loc[x, "On-Block"] == "More" or moves.loc[x, "On-Block"] == "-":
             moves.loc[x, "On-Block"] = ""
         
@@ -444,67 +450,84 @@ def dataVerficationAll():
         dataVerification(x)
     return
 
-def multipleValueSplitting(value):
-    bracketCheck, commaCheck = 0, 0
-    if "[" in value: 
-        value = value.replace("]","").split("[")
-        bracketCheck = 1
-    if "," in value:
-        value = value.split(",")
-        commaCheck = 1
-    return value, len(value)
-    
+def valueFormating(value):
+    value = str(value)
+    valueList = value.replace("]","").replace("{","")
+    for y in [",", "[", "{"]:
+        valueList = " ".join(valueList.split(y))
+    valueList = valueList.split()
+    valueFormat = value
+    for x in valueList:
+        valueFormat = valueFormat.replace(x,"x",1)
+    return valueList, valueFormat
 
-#print(multipleValueSplitting("-5[5]"))
+def valueFormatingCombiner(format1, format2):
+    format2 = format2.replace("x","y")
+    for x in range(format1.count("x")):
+        format1 = format1.replace("x", format2, 1)
+    return format1.replace("y","x")
 
 def frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start): 
     #Splits the needed strings and notes the "type" of split
-    move1OBList = multipleValueSplitting(move1OB)
-    move1LvlList = multipleValueSplitting(move1Lvl)
-    move2StartList = multipleValueSplitting(move2Start)
+    if cancelType == "wawa_anything" or cancelType == "ground_jump_cancel" or cancelType == "air_gatling" or cancelType == "ground_gatling" or "Rekka Followup":
+        move1List = valueFormating(move1Lvl)
+        move2List = valueFormating(move2Start)
+    else:
+        move1List = valueFormating(move1OB)
+        move2List = valueFormating(move2Start)
+    gapFormat = valueFormatingCombiner(move1List[1], move2List[1])
 ###############################
 #Make this section into a for loop, find a way to reform it at the end
 ###############################
 
-    #Wawa Check
-    if cancelType == "wawa_anything":
-        if "j." in move2:
-            if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
-                gap = move2Start + 5 - levelHitstun(move1Lvl)
+    #print(gapFormat)
+    gapList = []
+    for x in move1List[0]:
+        for y in move2List[0]:
+            x = int(float(x))
+            y = int(float(y))  
+            #Wawa Check
+            if cancelType == "wawa_anything":
+                if "j." in move2:
+                    if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+                        gap = y + 5 - levelHitstun(x)
+                    else:
+                        gap = y + 4 - levelHitstun(x)
+                else:
+                    gap = y - levelHitstun(x)
+            #Rekka Check
+            elif cancelType == "non_rekka_followup":
+                #return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
+                return move2 + " is a follow-up move and cannot be done after " + move1
+            #Ground Gatling 
+            elif cancelType == "ground_gatling":
+                gap = y - levelHitstun(x) 
+            #Ground Non-gatling
+            elif cancelType == "ground_non_gatling":
+                gap = y - x
+            #Ground to Air (Jump cancelable)
+            elif cancelType == "ground_jump_cancel":
+                if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+                    gap = y + 5 - levelHitstun(x)
+                else:
+                    gap = y + 5 - levelHitstun(x)
+            #Ground to Air (Non-jump cancelable)
+            elif cancelType == "ground_non_jump_cancel":
+                if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
+                    gap = y + 5 - x
+                else:
+                    gap = y + 5 - x
+            #Air Gatling
+            elif cancelType == "air_gatling":
+                gap = y - levelHitstun(x)
+            #Air non-gatling and Air to Ground
             else:
-                gap = move2Start + 4 - levelHitstun(move1Lvl)
-        else:
-            gap = move2Start - levelHitstun(move1Lvl)
-    #Rekka Check
-    elif cancelType == "non_rekka_followup":
-        #return char + " " + move1 + " > " + move2 + ": " + move2 + " is a follow-up move that cannot be performed after " + move1 + "."
-        return move2 + " is a follow-up move and cannot be done after " + move1
-    #Ground Gatling 
-    elif cancelType == "ground_gatling":
-        gap = move2Start - levelHitstun(move1Lvl) 
-    #Ground Non-gatling
-    elif cancelType == "ground_non_gatling":
-        gap = move2Start - move1OB
-    #Ground to Air (Jump cancelable)
-    elif cancelType == "ground_jump_cancel":
-        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
-            gap = move2Start + 5 - levelHitstun(move1Lvl)
-        else:
-            gap = move2Start + 5 - levelHitstun(move1Lvl)
-    #Ground to Air (Non-jump cancelable)
-    elif cancelType == "ground_non_jump_cancel":
-        if char in ["Nagoriyuki", "Goldlewis_Dickinson", "Potemkin", "Bedman"]:
-            gap = move2Start + 5 - move1OB
-        else:
-            gap = move2Start + 5 - move1OB
-    #Air Gatling
-    elif cancelType == "air_gatling":
-        gap = move2Start - levelHitstun(move1Lvl)
-    #Air non-gatling and Air to Ground
-    else:
-        #return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
-        return move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup"
-    return str(round(gap)) + "f gap"
+                #return char.replace("_", " ") + " " + move1 + " > " + move2 + ": " + move1 + " has " + str(levelHitstun(move1Lvl)) + "f of blockstun, while " + move2 + " has " + str(move2Start) + "f of startup. Air move's frame advantage differs based on height of hit, jump arc, recovery and other factors. "
+                gap = move1 + " has " + str(levelHitstun(x)) + "f of blockstun, while " + move2 + " has " + str(y) + "f of startup"
+            gapList.append(gap)
+    for w in gapList:
+        gapFormat = gapFormat.replace("x", str(w)+"f", 1).replace(" ", "").replace(",",", ").replace("[", " [")
+    return gapFormat
 
 def frameTrap(char, move1, move2):
     char = nameCleaner(char)
@@ -524,6 +547,8 @@ def frameTrap(char, move1, move2):
     elif move2Type == "Rekka Followup" and move2 not in move1Cancel:
         #Rekka Check
         cancelType = "non_rekka_followup"
+        print(move1Cancel)
+        print(cancelType)
         gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif (move2 in move1Cancel or move2Type in move1Cancel) and "j." not in move1 and "j." not in move2:
         #Ground Gatling
@@ -640,4 +665,11 @@ def rawDataVerificationAll():
         print(data["On-Block"])
     return
     
-#print(frameTrap("Anji","6H","236h"))
+
+
+#updateAll()
+#updateCleanAll()
+
+print(frameTrap("pot","6k","214H"))
+#frameTrapAllCharacters()
+#dropDownListGeneratorAll()

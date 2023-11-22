@@ -1,0 +1,3970 @@
+/move1/move2/gap
+0/5P/5P/-6f
+1/5P/5K/7f
+2/5P/c.S/7f
+3/5P/f.S.1/16f
+4/5P/f.S.2/14f
+5/5P/f.S.3/12f
+6/5P/f.S.BR/12f
+7/5P/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5P
+8/5P/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5P
+9/5P/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5P
+10/5P/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5P
+11/5P/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5P
+12/5P/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5P
+13/5P/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5P
+14/5P/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5P
+15/5P/5H.1/20f
+16/5P/5H.2/18f
+17/5P/5H.3/16f
+18/5P/5H.BR/16f
+19/5P/2P/-5f
+20/5P/2K/7f
+21/5P/2S.1/12f
+22/5P/2S.2/11f
+23/5P/2S.3/10f
+24/5P/2S.BR/10f
+25/5P/2H.1/19f
+26/5P/2H.2/17f
+27/5P/2H.3/15f
+28/5P/2H.BR/15f
+29/5P/j.P/12f
+30/5P/j.K/12f
+31/5P/j.S.1/18f
+32/5P/j.S.2/17f
+33/5P/j.S.3/16f
+34/5P/j.S.BR/16f
+35/5P/j.H.1/21f
+36/5P/j.H.2/20f
+37/5P/j.H.3/19f
+38/5P/j.H.BR/19f
+39/5P/j.D.1/20f
+40/5P/j.D.2/18f
+41/5P/j.D.3/16f
+42/5P/j.D.BR/16f
+43/5P/6P/1f
+44/5P/6K/4f
+45/5P/6H.1/6f
+46/5P/6H.2/5f
+47/5P/6H.3/4f
+48/5P/6H.BR/4f
+49/5P/2D/12f
+50/5P/5D/20f
+51/5P/5[D]/28f
+52/5P/236S/7f
+53/5P/236K/
+54/5P/214K/
+55/5P/214H/3f
+56/5P/623H/0f
+57/5P/623HH/623HH is a follow-up move and cannot be done after 5P
+58/5P/623P/-4f
+59/5P/632146S/-2f
+60/5P/632146H/21f
+61/5P/236D/9f
+62/5P/236[D]/21f
+63/5K/5P/7f
+64/5K/5K/9f
+65/5K/c.S/9f
+66/5K/f.S.1/18f
+67/5K/f.S.2/16f
+68/5K/f.S.3/14f
+69/5K/f.S.BR/14f
+70/5K/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5K
+71/5K/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5K
+72/5K/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5K
+73/5K/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5K
+74/5K/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5K
+75/5K/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5K
+76/5K/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5K
+77/5K/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5K
+78/5K/5H.1/22f
+79/5K/5H.2/20f
+80/5K/5H.3/18f
+81/5K/5H.BR/18f
+82/5K/2P/8f
+83/5K/2K/9f
+84/5K/2S.1/14f
+85/5K/2S.2/13f
+86/5K/2S.3/12f
+87/5K/2S.BR/12f
+88/5K/2H.1/21f
+89/5K/2H.2/19f
+90/5K/2H.3/17f
+91/5K/2H.BR/17f
+92/5K/j.P/-1f
+93/5K/j.K/-1f
+94/5K/j.S.1/5f
+95/5K/j.S.2/4f
+96/5K/j.S.3/3f
+97/5K/j.S.BR/3f
+98/5K/j.H.1/8f
+99/5K/j.H.2/7f
+100/5K/j.H.3/6f
+101/5K/j.H.BR/6f
+102/5K/j.D.1/7f
+103/5K/j.D.2/5f
+104/5K/j.D.3/3f
+105/5K/j.D.BR/3f
+106/5K/6P/-1f
+107/5K/6K/2f
+108/5K/6H.1/4f
+109/5K/6H.2/3f
+110/5K/6H.3/2f
+111/5K/6H.BR/2f
+112/5K/2D/-1f
+113/5K/5D/7f
+114/5K/5[D]/30f
+115/5K/236S/5f
+116/5K/236K/
+117/5K/214K/
+118/5K/214H/1f
+119/5K/623H/-2f
+120/5K/623HH/623HH is a follow-up move and cannot be done after 5K
+121/5K/623P/-6f
+122/5K/632146S/-4f
+123/5K/632146H/23f
+124/5K/236D/7f
+125/5K/236[D]/19f
+126/c.S/5P/2f
+127/c.S/5K/4f
+128/c.S/c.S/4f
+129/c.S/f.S.1/-2f
+130/c.S/f.S.2/-4f
+131/c.S/f.S.3/-6f
+132/c.S/f.S.BR/-6f
+133/c.S/f.SS.1/f.SS.1 is a follow-up move and cannot be done after c.S
+134/c.S/f.SS.2/f.SS.2 is a follow-up move and cannot be done after c.S
+135/c.S/f.SS.3/f.SS.3 is a follow-up move and cannot be done after c.S
+136/c.S/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after c.S
+137/c.S/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after c.S
+138/c.S/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after c.S
+139/c.S/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after c.S
+140/c.S/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after c.S
+141/c.S/5H.1/2f
+142/c.S/5H.2/0f
+143/c.S/5H.3/-2f
+144/c.S/5H.BR/-2f
+145/c.S/2P/3f
+146/c.S/2K/4f
+147/c.S/2S.1/-6f
+148/c.S/2S.2/-7f
+149/c.S/2S.3/-8f
+150/c.S/2S.BR/-8f
+151/c.S/2H.1/16f
+152/c.S/2H.2/14f
+153/c.S/2H.3/12f
+154/c.S/2H.BR/12f
+155/c.S/j.P/9f
+156/c.S/j.K/9f
+157/c.S/j.S.1/15f
+158/c.S/j.S.2/14f
+159/c.S/j.S.3/13f
+160/c.S/j.S.BR/13f
+161/c.S/j.H.1/18f
+162/c.S/j.H.2/17f
+163/c.S/j.H.3/16f
+164/c.S/j.H.BR/16f
+165/c.S/j.D.1/17f
+166/c.S/j.D.2/15f
+167/c.S/j.D.3/13f
+168/c.S/j.D.BR/13f
+169/c.S/6P/-6f
+170/c.S/6K/-3f
+171/c.S/6H.1/-1f
+172/c.S/6H.2/-2f
+173/c.S/6H.3/-3f
+174/c.S/6H.BR/-3f
+175/c.S/2D/-6f
+176/c.S/5D/2f
+177/c.S/5[D]/25f
+178/c.S/236S/0f
+179/c.S/236K/
+180/c.S/214K/
+181/c.S/214H/-4f
+182/c.S/623H/-7f
+183/c.S/623HH/623HH is a follow-up move and cannot be done after c.S
+184/c.S/623P/-11f
+185/c.S/632146S/-9f
+186/c.S/632146H/18f
+187/c.S/236D/2f
+188/c.S/236[D]/14f
+189/f.S.1/5P/22f
+190/f.S.1/5K/24f
+191/f.S.1/c.S/24f
+192/f.S.1/f.S.1/33f
+193/f.S.1/f.S.2/31f
+194/f.S.1/f.S.3/29f
+195/f.S.1/f.S.BR/29f
+196/f.S.1/f.SS.1/0f
+197/f.S.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.S.1
+198/f.S.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.S.1
+199/f.S.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.S.1
+200/f.S.1/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.S.1
+201/f.S.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.S.1
+202/f.S.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.S.1
+203/f.S.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.S.1
+204/f.S.1/5H.1/7f
+205/f.S.1/5H.2/35f
+206/f.S.1/5H.3/33f
+207/f.S.1/5H.BR/33f
+208/f.S.1/2P/23f
+209/f.S.1/2K/24f
+210/f.S.1/2S.1/29f
+211/f.S.1/2S.2/28f
+212/f.S.1/2S.3/27f
+213/f.S.1/2S.BR/27f
+214/f.S.1/2H.1/6f
+215/f.S.1/2H.2/34f
+216/f.S.1/2H.3/32f
+217/f.S.1/2H.BR/32f
+218/f.S.1/j.P/29f
+219/f.S.1/j.K/29f
+220/f.S.1/j.S.1/35f
+221/f.S.1/j.S.2/34f
+222/f.S.1/j.S.3/33f
+223/f.S.1/j.S.BR/33f
+224/f.S.1/j.H.1/38f
+225/f.S.1/j.H.2/37f
+226/f.S.1/j.H.3/36f
+227/f.S.1/j.H.BR/36f
+228/f.S.1/j.D.1/37f
+229/f.S.1/j.D.2/35f
+230/f.S.1/j.D.3/33f
+231/f.S.1/j.D.BR/33f
+232/f.S.1/6P/29f
+233/f.S.1/6K/32f
+234/f.S.1/6H.1/34f
+235/f.S.1/6H.2/33f
+236/f.S.1/6H.3/32f
+237/f.S.1/6H.BR/32f
+238/f.S.1/2D/29f
+239/f.S.1/5D/37f
+240/f.S.1/5[D]/45f
+241/f.S.1/236S/35f
+242/f.S.1/236K/
+243/f.S.1/214K/
+244/f.S.1/214H/31f
+245/f.S.1/623H/28f
+246/f.S.1/623HH/623HH is a follow-up move and cannot be done after f.S.1
+247/f.S.1/623P/24f
+248/f.S.1/632146S/26f
+249/f.S.1/632146H/38f
+250/f.S.1/236D/37f
+251/f.S.1/236[D]/49f
+252/f.S.2/5P/22f
+253/f.S.2/5K/24f
+254/f.S.2/c.S/24f
+255/f.S.2/f.S.1/33f
+256/f.S.2/f.S.2/31f
+257/f.S.2/f.S.3/29f
+258/f.S.2/f.S.BR/29f
+259/f.S.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.S.2
+260/f.S.2/f.SS.2/0f
+261/f.S.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.S.2
+262/f.S.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.S.2
+263/f.S.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.S.2
+264/f.S.2/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.S.2
+265/f.S.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.S.2
+266/f.S.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.S.2
+267/f.S.2/5H.1/37f
+268/f.S.2/5H.2/5f
+269/f.S.2/5H.3/33f
+270/f.S.2/5H.BR/33f
+271/f.S.2/2P/23f
+272/f.S.2/2K/24f
+273/f.S.2/2S.1/29f
+274/f.S.2/2S.2/28f
+275/f.S.2/2S.3/27f
+276/f.S.2/2S.BR/27f
+277/f.S.2/2H.1/36f
+278/f.S.2/2H.2/4f
+279/f.S.2/2H.3/32f
+280/f.S.2/2H.BR/32f
+281/f.S.2/j.P/29f
+282/f.S.2/j.K/29f
+283/f.S.2/j.S.1/35f
+284/f.S.2/j.S.2/34f
+285/f.S.2/j.S.3/33f
+286/f.S.2/j.S.BR/33f
+287/f.S.2/j.H.1/38f
+288/f.S.2/j.H.2/37f
+289/f.S.2/j.H.3/36f
+290/f.S.2/j.H.BR/36f
+291/f.S.2/j.D.1/37f
+292/f.S.2/j.D.2/35f
+293/f.S.2/j.D.3/33f
+294/f.S.2/j.D.BR/33f
+295/f.S.2/6P/29f
+296/f.S.2/6K/32f
+297/f.S.2/6H.1/34f
+298/f.S.2/6H.2/33f
+299/f.S.2/6H.3/32f
+300/f.S.2/6H.BR/32f
+301/f.S.2/2D/29f
+302/f.S.2/5D/37f
+303/f.S.2/5[D]/45f
+304/f.S.2/236S/35f
+305/f.S.2/236K/
+306/f.S.2/214K/
+307/f.S.2/214H/31f
+308/f.S.2/623H/28f
+309/f.S.2/623HH/623HH is a follow-up move and cannot be done after f.S.2
+310/f.S.2/623P/24f
+311/f.S.2/632146S/26f
+312/f.S.2/632146H/38f
+313/f.S.2/236D/37f
+314/f.S.2/236[D]/49f
+315/f.S.3/5P/22f
+316/f.S.3/5K/24f
+317/f.S.3/c.S/24f
+318/f.S.3/f.S.1/33f
+319/f.S.3/f.S.2/31f
+320/f.S.3/f.S.3/29f
+321/f.S.3/f.S.BR/29f
+322/f.S.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.S.3
+323/f.S.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.S.3
+324/f.S.3/f.SS.3/0f
+325/f.S.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.S.3
+326/f.S.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.S.3
+327/f.S.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.S.3
+328/f.S.3/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.S.3
+329/f.S.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.S.3
+330/f.S.3/5H.1/37f
+331/f.S.3/5H.2/35f
+332/f.S.3/5H.3/3f
+333/f.S.3/5H.BR/33f
+334/f.S.3/2P/23f
+335/f.S.3/2K/24f
+336/f.S.3/2S.1/29f
+337/f.S.3/2S.2/28f
+338/f.S.3/2S.3/27f
+339/f.S.3/2S.BR/27f
+340/f.S.3/2H.1/36f
+341/f.S.3/2H.2/34f
+342/f.S.3/2H.3/2f
+343/f.S.3/2H.BR/32f
+344/f.S.3/j.P/29f
+345/f.S.3/j.K/29f
+346/f.S.3/j.S.1/35f
+347/f.S.3/j.S.2/34f
+348/f.S.3/j.S.3/33f
+349/f.S.3/j.S.BR/33f
+350/f.S.3/j.H.1/38f
+351/f.S.3/j.H.2/37f
+352/f.S.3/j.H.3/36f
+353/f.S.3/j.H.BR/36f
+354/f.S.3/j.D.1/37f
+355/f.S.3/j.D.2/35f
+356/f.S.3/j.D.3/33f
+357/f.S.3/j.D.BR/33f
+358/f.S.3/6P/29f
+359/f.S.3/6K/32f
+360/f.S.3/6H.1/34f
+361/f.S.3/6H.2/33f
+362/f.S.3/6H.3/32f
+363/f.S.3/6H.BR/32f
+364/f.S.3/2D/29f
+365/f.S.3/5D/37f
+366/f.S.3/5[D]/45f
+367/f.S.3/236S/35f
+368/f.S.3/236K/
+369/f.S.3/214K/
+370/f.S.3/214H/31f
+371/f.S.3/623H/28f
+372/f.S.3/623HH/623HH is a follow-up move and cannot be done after f.S.3
+373/f.S.3/623P/24f
+374/f.S.3/632146S/26f
+375/f.S.3/632146H/38f
+376/f.S.3/236D/37f
+377/f.S.3/236[D]/49f
+378/f.S.BR/5P/22f
+379/f.S.BR/5K/24f
+380/f.S.BR/c.S/24f
+381/f.S.BR/f.S.1/33f
+382/f.S.BR/f.S.2/31f
+383/f.S.BR/f.S.3/29f
+384/f.S.BR/f.S.BR/29f
+385/f.S.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.S.BR
+386/f.S.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.S.BR
+387/f.S.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.S.BR
+388/f.S.BR/f.SS.BR/0f
+389/f.S.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.S.BR
+390/f.S.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.S.BR
+391/f.S.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.S.BR
+392/f.S.BR/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.S.BR
+393/f.S.BR/5H.1/37f
+394/f.S.BR/5H.2/35f
+395/f.S.BR/5H.3/33f
+396/f.S.BR/5H.BR/3f
+397/f.S.BR/2P/23f
+398/f.S.BR/2K/24f
+399/f.S.BR/2S.1/29f
+400/f.S.BR/2S.2/28f
+401/f.S.BR/2S.3/27f
+402/f.S.BR/2S.BR/27f
+403/f.S.BR/2H.1/36f
+404/f.S.BR/2H.2/34f
+405/f.S.BR/2H.3/32f
+406/f.S.BR/2H.BR/2f
+407/f.S.BR/j.P/29f
+408/f.S.BR/j.K/29f
+409/f.S.BR/j.S.1/35f
+410/f.S.BR/j.S.2/34f
+411/f.S.BR/j.S.3/33f
+412/f.S.BR/j.S.BR/33f
+413/f.S.BR/j.H.1/38f
+414/f.S.BR/j.H.2/37f
+415/f.S.BR/j.H.3/36f
+416/f.S.BR/j.H.BR/36f
+417/f.S.BR/j.D.1/37f
+418/f.S.BR/j.D.2/35f
+419/f.S.BR/j.D.3/33f
+420/f.S.BR/j.D.BR/33f
+421/f.S.BR/6P/29f
+422/f.S.BR/6K/32f
+423/f.S.BR/6H.1/34f
+424/f.S.BR/6H.2/33f
+425/f.S.BR/6H.3/32f
+426/f.S.BR/6H.BR/32f
+427/f.S.BR/2D/29f
+428/f.S.BR/5D/37f
+429/f.S.BR/5[D]/45f
+430/f.S.BR/236S/35f
+431/f.S.BR/236K/
+432/f.S.BR/214K/
+433/f.S.BR/214H/31f
+434/f.S.BR/623H/28f
+435/f.S.BR/623HH/623HH is a follow-up move and cannot be done after f.S.BR
+436/f.S.BR/623P/24f
+437/f.S.BR/632146S/26f
+438/f.S.BR/632146H/38f
+439/f.S.BR/236D/37f
+440/f.S.BR/236[D]/49f
+441/f.SS.1/5P/13f
+442/f.SS.1/5K/15f
+443/f.SS.1/c.S/15f
+444/f.SS.1/f.S.1/24f
+445/f.SS.1/f.S.2/22f
+446/f.SS.1/f.S.3/20f
+447/f.SS.1/f.S.BR/20f
+448/f.SS.1/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SS.1
+449/f.SS.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SS.1
+450/f.SS.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SS.1
+451/f.SS.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SS.1
+452/f.SS.1/f.SSS.1/1f
+453/f.SS.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.SS.1
+454/f.SS.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.SS.1
+455/f.SS.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.SS.1
+456/f.SS.1/5H.1/28f
+457/f.SS.1/5H.2/26f
+458/f.SS.1/5H.3/24f
+459/f.SS.1/5H.BR/24f
+460/f.SS.1/2P/14f
+461/f.SS.1/2K/15f
+462/f.SS.1/2S.1/20f
+463/f.SS.1/2S.2/19f
+464/f.SS.1/2S.3/18f
+465/f.SS.1/2S.BR/18f
+466/f.SS.1/2H.1/27f
+467/f.SS.1/2H.2/25f
+468/f.SS.1/2H.3/23f
+469/f.SS.1/2H.BR/23f
+470/f.SS.1/j.P/20f
+471/f.SS.1/j.K/20f
+472/f.SS.1/j.S.1/26f
+473/f.SS.1/j.S.2/25f
+474/f.SS.1/j.S.3/24f
+475/f.SS.1/j.S.BR/24f
+476/f.SS.1/j.H.1/29f
+477/f.SS.1/j.H.2/28f
+478/f.SS.1/j.H.3/27f
+479/f.SS.1/j.H.BR/27f
+480/f.SS.1/j.D.1/28f
+481/f.SS.1/j.D.2/26f
+482/f.SS.1/j.D.3/24f
+483/f.SS.1/j.D.BR/24f
+484/f.SS.1/6P/20f
+485/f.SS.1/6K/23f
+486/f.SS.1/6H.1/25f
+487/f.SS.1/6H.2/24f
+488/f.SS.1/6H.3/23f
+489/f.SS.1/6H.BR/23f
+490/f.SS.1/2D/20f
+491/f.SS.1/5D/28f
+492/f.SS.1/5[D]/36f
+493/f.SS.1/236S/26f
+494/f.SS.1/236K/
+495/f.SS.1/214K/
+496/f.SS.1/214H/22f
+497/f.SS.1/623H/19f
+498/f.SS.1/623HH/623HH is a follow-up move and cannot be done after f.SS.1
+499/f.SS.1/623P/15f
+500/f.SS.1/632146S/17f
+501/f.SS.1/632146H/29f
+502/f.SS.1/236D/28f
+503/f.SS.1/236[D]/40f
+504/f.SS.2/5P/13f
+505/f.SS.2/5K/15f
+506/f.SS.2/c.S/15f
+507/f.SS.2/f.S.1/24f
+508/f.SS.2/f.S.2/22f
+509/f.SS.2/f.S.3/20f
+510/f.SS.2/f.S.BR/20f
+511/f.SS.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SS.2
+512/f.SS.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SS.2
+513/f.SS.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SS.2
+514/f.SS.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SS.2
+515/f.SS.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.SS.2
+516/f.SS.2/f.SSS.2/1f
+517/f.SS.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.SS.2
+518/f.SS.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.SS.2
+519/f.SS.2/5H.1/28f
+520/f.SS.2/5H.2/26f
+521/f.SS.2/5H.3/24f
+522/f.SS.2/5H.BR/24f
+523/f.SS.2/2P/14f
+524/f.SS.2/2K/15f
+525/f.SS.2/2S.1/20f
+526/f.SS.2/2S.2/19f
+527/f.SS.2/2S.3/18f
+528/f.SS.2/2S.BR/18f
+529/f.SS.2/2H.1/27f
+530/f.SS.2/2H.2/25f
+531/f.SS.2/2H.3/23f
+532/f.SS.2/2H.BR/23f
+533/f.SS.2/j.P/20f
+534/f.SS.2/j.K/20f
+535/f.SS.2/j.S.1/26f
+536/f.SS.2/j.S.2/25f
+537/f.SS.2/j.S.3/24f
+538/f.SS.2/j.S.BR/24f
+539/f.SS.2/j.H.1/29f
+540/f.SS.2/j.H.2/28f
+541/f.SS.2/j.H.3/27f
+542/f.SS.2/j.H.BR/27f
+543/f.SS.2/j.D.1/28f
+544/f.SS.2/j.D.2/26f
+545/f.SS.2/j.D.3/24f
+546/f.SS.2/j.D.BR/24f
+547/f.SS.2/6P/20f
+548/f.SS.2/6K/23f
+549/f.SS.2/6H.1/25f
+550/f.SS.2/6H.2/24f
+551/f.SS.2/6H.3/23f
+552/f.SS.2/6H.BR/23f
+553/f.SS.2/2D/20f
+554/f.SS.2/5D/28f
+555/f.SS.2/5[D]/36f
+556/f.SS.2/236S/26f
+557/f.SS.2/236K/
+558/f.SS.2/214K/
+559/f.SS.2/214H/22f
+560/f.SS.2/623H/19f
+561/f.SS.2/623HH/623HH is a follow-up move and cannot be done after f.SS.2
+562/f.SS.2/623P/15f
+563/f.SS.2/632146S/17f
+564/f.SS.2/632146H/29f
+565/f.SS.2/236D/28f
+566/f.SS.2/236[D]/40f
+567/f.SS.3/5P/13f
+568/f.SS.3/5K/15f
+569/f.SS.3/c.S/15f
+570/f.SS.3/f.S.1/24f
+571/f.SS.3/f.S.2/22f
+572/f.SS.3/f.S.3/20f
+573/f.SS.3/f.S.BR/20f
+574/f.SS.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SS.3
+575/f.SS.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SS.3
+576/f.SS.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SS.3
+577/f.SS.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SS.3
+578/f.SS.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.SS.3
+579/f.SS.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.SS.3
+580/f.SS.3/f.SSS.3/1f
+581/f.SS.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.SS.3
+582/f.SS.3/5H.1/28f
+583/f.SS.3/5H.2/26f
+584/f.SS.3/5H.3/24f
+585/f.SS.3/5H.BR/24f
+586/f.SS.3/2P/14f
+587/f.SS.3/2K/15f
+588/f.SS.3/2S.1/20f
+589/f.SS.3/2S.2/19f
+590/f.SS.3/2S.3/18f
+591/f.SS.3/2S.BR/18f
+592/f.SS.3/2H.1/27f
+593/f.SS.3/2H.2/25f
+594/f.SS.3/2H.3/23f
+595/f.SS.3/2H.BR/23f
+596/f.SS.3/j.P/20f
+597/f.SS.3/j.K/20f
+598/f.SS.3/j.S.1/26f
+599/f.SS.3/j.S.2/25f
+600/f.SS.3/j.S.3/24f
+601/f.SS.3/j.S.BR/24f
+602/f.SS.3/j.H.1/29f
+603/f.SS.3/j.H.2/28f
+604/f.SS.3/j.H.3/27f
+605/f.SS.3/j.H.BR/27f
+606/f.SS.3/j.D.1/28f
+607/f.SS.3/j.D.2/26f
+608/f.SS.3/j.D.3/24f
+609/f.SS.3/j.D.BR/24f
+610/f.SS.3/6P/20f
+611/f.SS.3/6K/23f
+612/f.SS.3/6H.1/25f
+613/f.SS.3/6H.2/24f
+614/f.SS.3/6H.3/23f
+615/f.SS.3/6H.BR/23f
+616/f.SS.3/2D/20f
+617/f.SS.3/5D/28f
+618/f.SS.3/5[D]/36f
+619/f.SS.3/236S/26f
+620/f.SS.3/236K/
+621/f.SS.3/214K/
+622/f.SS.3/214H/22f
+623/f.SS.3/623H/19f
+624/f.SS.3/623HH/623HH is a follow-up move and cannot be done after f.SS.3
+625/f.SS.3/623P/15f
+626/f.SS.3/632146S/17f
+627/f.SS.3/632146H/29f
+628/f.SS.3/236D/28f
+629/f.SS.3/236[D]/40f
+630/f.SS.BR/5P/13f
+631/f.SS.BR/5K/15f
+632/f.SS.BR/c.S/15f
+633/f.SS.BR/f.S.1/24f
+634/f.SS.BR/f.S.2/22f
+635/f.SS.BR/f.S.3/20f
+636/f.SS.BR/f.S.BR/20f
+637/f.SS.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SS.BR
+638/f.SS.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SS.BR
+639/f.SS.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SS.BR
+640/f.SS.BR/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SS.BR
+641/f.SS.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.SS.BR
+642/f.SS.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.SS.BR
+643/f.SS.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.SS.BR
+644/f.SS.BR/f.SSS.BR/1f
+645/f.SS.BR/5H.1/28f
+646/f.SS.BR/5H.2/26f
+647/f.SS.BR/5H.3/24f
+648/f.SS.BR/5H.BR/24f
+649/f.SS.BR/2P/14f
+650/f.SS.BR/2K/15f
+651/f.SS.BR/2S.1/20f
+652/f.SS.BR/2S.2/19f
+653/f.SS.BR/2S.3/18f
+654/f.SS.BR/2S.BR/18f
+655/f.SS.BR/2H.1/27f
+656/f.SS.BR/2H.2/25f
+657/f.SS.BR/2H.3/23f
+658/f.SS.BR/2H.BR/23f
+659/f.SS.BR/j.P/20f
+660/f.SS.BR/j.K/20f
+661/f.SS.BR/j.S.1/26f
+662/f.SS.BR/j.S.2/25f
+663/f.SS.BR/j.S.3/24f
+664/f.SS.BR/j.S.BR/24f
+665/f.SS.BR/j.H.1/29f
+666/f.SS.BR/j.H.2/28f
+667/f.SS.BR/j.H.3/27f
+668/f.SS.BR/j.H.BR/27f
+669/f.SS.BR/j.D.1/28f
+670/f.SS.BR/j.D.2/26f
+671/f.SS.BR/j.D.3/24f
+672/f.SS.BR/j.D.BR/24f
+673/f.SS.BR/6P/20f
+674/f.SS.BR/6K/23f
+675/f.SS.BR/6H.1/25f
+676/f.SS.BR/6H.2/24f
+677/f.SS.BR/6H.3/23f
+678/f.SS.BR/6H.BR/23f
+679/f.SS.BR/2D/20f
+680/f.SS.BR/5D/28f
+681/f.SS.BR/5[D]/36f
+682/f.SS.BR/236S/26f
+683/f.SS.BR/236K/
+684/f.SS.BR/214K/
+685/f.SS.BR/214H/22f
+686/f.SS.BR/623H/19f
+687/f.SS.BR/623HH/623HH is a follow-up move and cannot be done after f.SS.BR
+688/f.SS.BR/623P/15f
+689/f.SS.BR/632146S/17f
+690/f.SS.BR/632146H/29f
+691/f.SS.BR/236D/28f
+692/f.SS.BR/236[D]/40f
+693/f.SSS.1/5P/27f
+694/f.SSS.1/5K/29f
+695/f.SSS.1/c.S/29f
+696/f.SSS.1/f.S.1/38f
+697/f.SSS.1/f.S.2/36f
+698/f.SSS.1/f.S.3/34f
+699/f.SSS.1/f.S.BR/34f
+700/f.SSS.1/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SSS.1
+701/f.SSS.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SSS.1
+702/f.SSS.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SSS.1
+703/f.SSS.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SSS.1
+704/f.SSS.1/f.SSS.1/-4f
+705/f.SSS.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.SSS.1
+706/f.SSS.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.SSS.1
+707/f.SSS.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.SSS.1
+708/f.SSS.1/5H.1/42f
+709/f.SSS.1/5H.2/40f
+710/f.SSS.1/5H.3/38f
+711/f.SSS.1/5H.BR/38f
+712/f.SSS.1/2P/28f
+713/f.SSS.1/2K/29f
+714/f.SSS.1/2S.1/34f
+715/f.SSS.1/2S.2/33f
+716/f.SSS.1/2S.3/32f
+717/f.SSS.1/2S.BR/32f
+718/f.SSS.1/2H.1/41f
+719/f.SSS.1/2H.2/39f
+720/f.SSS.1/2H.3/37f
+721/f.SSS.1/2H.BR/37f
+722/f.SSS.1/j.P/34f
+723/f.SSS.1/j.K/34f
+724/f.SSS.1/j.S.1/40f
+725/f.SSS.1/j.S.2/39f
+726/f.SSS.1/j.S.3/38f
+727/f.SSS.1/j.S.BR/38f
+728/f.SSS.1/j.H.1/43f
+729/f.SSS.1/j.H.2/42f
+730/f.SSS.1/j.H.3/41f
+731/f.SSS.1/j.H.BR/41f
+732/f.SSS.1/j.D.1/42f
+733/f.SSS.1/j.D.2/40f
+734/f.SSS.1/j.D.3/38f
+735/f.SSS.1/j.D.BR/38f
+736/f.SSS.1/6P/34f
+737/f.SSS.1/6K/37f
+738/f.SSS.1/6H.1/39f
+739/f.SSS.1/6H.2/38f
+740/f.SSS.1/6H.3/37f
+741/f.SSS.1/6H.BR/37f
+742/f.SSS.1/2D/34f
+743/f.SSS.1/5D/42f
+744/f.SSS.1/5[D]/50f
+745/f.SSS.1/236S/40f
+746/f.SSS.1/236K/
+747/f.SSS.1/214K/
+748/f.SSS.1/214H/36f
+749/f.SSS.1/623H/33f
+750/f.SSS.1/623HH/623HH is a follow-up move and cannot be done after f.SSS.1
+751/f.SSS.1/623P/29f
+752/f.SSS.1/632146S/31f
+753/f.SSS.1/632146H/43f
+754/f.SSS.1/236D/42f
+755/f.SSS.1/236[D]/54f
+756/f.SSS.2/5P/27f
+757/f.SSS.2/5K/29f
+758/f.SSS.2/c.S/29f
+759/f.SSS.2/f.S.1/38f
+760/f.SSS.2/f.S.2/36f
+761/f.SSS.2/f.S.3/34f
+762/f.SSS.2/f.S.BR/34f
+763/f.SSS.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SSS.2
+764/f.SSS.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SSS.2
+765/f.SSS.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SSS.2
+766/f.SSS.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SSS.2
+767/f.SSS.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.SSS.2
+768/f.SSS.2/f.SSS.2/-4f
+769/f.SSS.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.SSS.2
+770/f.SSS.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.SSS.2
+771/f.SSS.2/5H.1/42f
+772/f.SSS.2/5H.2/40f
+773/f.SSS.2/5H.3/38f
+774/f.SSS.2/5H.BR/38f
+775/f.SSS.2/2P/28f
+776/f.SSS.2/2K/29f
+777/f.SSS.2/2S.1/34f
+778/f.SSS.2/2S.2/33f
+779/f.SSS.2/2S.3/32f
+780/f.SSS.2/2S.BR/32f
+781/f.SSS.2/2H.1/41f
+782/f.SSS.2/2H.2/39f
+783/f.SSS.2/2H.3/37f
+784/f.SSS.2/2H.BR/37f
+785/f.SSS.2/j.P/34f
+786/f.SSS.2/j.K/34f
+787/f.SSS.2/j.S.1/40f
+788/f.SSS.2/j.S.2/39f
+789/f.SSS.2/j.S.3/38f
+790/f.SSS.2/j.S.BR/38f
+791/f.SSS.2/j.H.1/43f
+792/f.SSS.2/j.H.2/42f
+793/f.SSS.2/j.H.3/41f
+794/f.SSS.2/j.H.BR/41f
+795/f.SSS.2/j.D.1/42f
+796/f.SSS.2/j.D.2/40f
+797/f.SSS.2/j.D.3/38f
+798/f.SSS.2/j.D.BR/38f
+799/f.SSS.2/6P/34f
+800/f.SSS.2/6K/37f
+801/f.SSS.2/6H.1/39f
+802/f.SSS.2/6H.2/38f
+803/f.SSS.2/6H.3/37f
+804/f.SSS.2/6H.BR/37f
+805/f.SSS.2/2D/34f
+806/f.SSS.2/5D/42f
+807/f.SSS.2/5[D]/50f
+808/f.SSS.2/236S/40f
+809/f.SSS.2/236K/
+810/f.SSS.2/214K/
+811/f.SSS.2/214H/36f
+812/f.SSS.2/623H/33f
+813/f.SSS.2/623HH/623HH is a follow-up move and cannot be done after f.SSS.2
+814/f.SSS.2/623P/29f
+815/f.SSS.2/632146S/31f
+816/f.SSS.2/632146H/43f
+817/f.SSS.2/236D/42f
+818/f.SSS.2/236[D]/54f
+819/f.SSS.3/5P/27f
+820/f.SSS.3/5K/29f
+821/f.SSS.3/c.S/29f
+822/f.SSS.3/f.S.1/38f
+823/f.SSS.3/f.S.2/36f
+824/f.SSS.3/f.S.3/34f
+825/f.SSS.3/f.S.BR/34f
+826/f.SSS.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SSS.3
+827/f.SSS.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SSS.3
+828/f.SSS.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SSS.3
+829/f.SSS.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SSS.3
+830/f.SSS.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.SSS.3
+831/f.SSS.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.SSS.3
+832/f.SSS.3/f.SSS.3/-4f
+833/f.SSS.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after f.SSS.3
+834/f.SSS.3/5H.1/42f
+835/f.SSS.3/5H.2/40f
+836/f.SSS.3/5H.3/38f
+837/f.SSS.3/5H.BR/38f
+838/f.SSS.3/2P/28f
+839/f.SSS.3/2K/29f
+840/f.SSS.3/2S.1/34f
+841/f.SSS.3/2S.2/33f
+842/f.SSS.3/2S.3/32f
+843/f.SSS.3/2S.BR/32f
+844/f.SSS.3/2H.1/41f
+845/f.SSS.3/2H.2/39f
+846/f.SSS.3/2H.3/37f
+847/f.SSS.3/2H.BR/37f
+848/f.SSS.3/j.P/34f
+849/f.SSS.3/j.K/34f
+850/f.SSS.3/j.S.1/40f
+851/f.SSS.3/j.S.2/39f
+852/f.SSS.3/j.S.3/38f
+853/f.SSS.3/j.S.BR/38f
+854/f.SSS.3/j.H.1/43f
+855/f.SSS.3/j.H.2/42f
+856/f.SSS.3/j.H.3/41f
+857/f.SSS.3/j.H.BR/41f
+858/f.SSS.3/j.D.1/42f
+859/f.SSS.3/j.D.2/40f
+860/f.SSS.3/j.D.3/38f
+861/f.SSS.3/j.D.BR/38f
+862/f.SSS.3/6P/34f
+863/f.SSS.3/6K/37f
+864/f.SSS.3/6H.1/39f
+865/f.SSS.3/6H.2/38f
+866/f.SSS.3/6H.3/37f
+867/f.SSS.3/6H.BR/37f
+868/f.SSS.3/2D/34f
+869/f.SSS.3/5D/42f
+870/f.SSS.3/5[D]/50f
+871/f.SSS.3/236S/40f
+872/f.SSS.3/236K/
+873/f.SSS.3/214K/
+874/f.SSS.3/214H/36f
+875/f.SSS.3/623H/33f
+876/f.SSS.3/623HH/623HH is a follow-up move and cannot be done after f.SSS.3
+877/f.SSS.3/623P/29f
+878/f.SSS.3/632146S/31f
+879/f.SSS.3/632146H/43f
+880/f.SSS.3/236D/42f
+881/f.SSS.3/236[D]/54f
+882/f.SSS.BR/5P/27f
+883/f.SSS.BR/5K/29f
+884/f.SSS.BR/c.S/29f
+885/f.SSS.BR/f.S.1/38f
+886/f.SSS.BR/f.S.2/36f
+887/f.SSS.BR/f.S.3/34f
+888/f.SSS.BR/f.S.BR/34f
+889/f.SSS.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after f.SSS.BR
+890/f.SSS.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after f.SSS.BR
+891/f.SSS.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after f.SSS.BR
+892/f.SSS.BR/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after f.SSS.BR
+893/f.SSS.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after f.SSS.BR
+894/f.SSS.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after f.SSS.BR
+895/f.SSS.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after f.SSS.BR
+896/f.SSS.BR/f.SSS.BR/-4f
+897/f.SSS.BR/5H.1/42f
+898/f.SSS.BR/5H.2/40f
+899/f.SSS.BR/5H.3/38f
+900/f.SSS.BR/5H.BR/38f
+901/f.SSS.BR/2P/28f
+902/f.SSS.BR/2K/29f
+903/f.SSS.BR/2S.1/34f
+904/f.SSS.BR/2S.2/33f
+905/f.SSS.BR/2S.3/32f
+906/f.SSS.BR/2S.BR/32f
+907/f.SSS.BR/2H.1/41f
+908/f.SSS.BR/2H.2/39f
+909/f.SSS.BR/2H.3/37f
+910/f.SSS.BR/2H.BR/37f
+911/f.SSS.BR/j.P/34f
+912/f.SSS.BR/j.K/34f
+913/f.SSS.BR/j.S.1/40f
+914/f.SSS.BR/j.S.2/39f
+915/f.SSS.BR/j.S.3/38f
+916/f.SSS.BR/j.S.BR/38f
+917/f.SSS.BR/j.H.1/43f
+918/f.SSS.BR/j.H.2/42f
+919/f.SSS.BR/j.H.3/41f
+920/f.SSS.BR/j.H.BR/41f
+921/f.SSS.BR/j.D.1/42f
+922/f.SSS.BR/j.D.2/40f
+923/f.SSS.BR/j.D.3/38f
+924/f.SSS.BR/j.D.BR/38f
+925/f.SSS.BR/6P/34f
+926/f.SSS.BR/6K/37f
+927/f.SSS.BR/6H.1/39f
+928/f.SSS.BR/6H.2/38f
+929/f.SSS.BR/6H.3/37f
+930/f.SSS.BR/6H.BR/37f
+931/f.SSS.BR/2D/34f
+932/f.SSS.BR/5D/42f
+933/f.SSS.BR/5[D]/50f
+934/f.SSS.BR/236S/40f
+935/f.SSS.BR/236K/
+936/f.SSS.BR/214K/
+937/f.SSS.BR/214H/36f
+938/f.SSS.BR/623H/33f
+939/f.SSS.BR/623HH/623HH is a follow-up move and cannot be done after f.SSS.BR
+940/f.SSS.BR/623P/29f
+941/f.SSS.BR/632146S/31f
+942/f.SSS.BR/632146H/43f
+943/f.SSS.BR/236D/42f
+944/f.SSS.BR/236[D]/54f
+945/5H.1/5P/19f
+946/5H.1/5K/21f
+947/5H.1/c.S/21f
+948/5H.1/f.S.1/30f
+949/5H.1/f.S.2/28f
+950/5H.1/f.S.3/26f
+951/5H.1/f.S.BR/26f
+952/5H.1/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5H.1
+953/5H.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5H.1
+954/5H.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5H.1
+955/5H.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5H.1
+956/5H.1/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5H.1
+957/5H.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5H.1
+958/5H.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5H.1
+959/5H.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5H.1
+960/5H.1/5H.1/34f
+961/5H.1/5H.2/32f
+962/5H.1/5H.3/30f
+963/5H.1/5H.BR/30f
+964/5H.1/2P/20f
+965/5H.1/2K/21f
+966/5H.1/2S.1/26f
+967/5H.1/2S.2/25f
+968/5H.1/2S.3/24f
+969/5H.1/2S.BR/24f
+970/5H.1/2H.1/33f
+971/5H.1/2H.2/31f
+972/5H.1/2H.3/29f
+973/5H.1/2H.BR/29f
+974/5H.1/j.P/26f
+975/5H.1/j.K/26f
+976/5H.1/j.S.1/32f
+977/5H.1/j.S.2/31f
+978/5H.1/j.S.3/30f
+979/5H.1/j.S.BR/30f
+980/5H.1/j.H.1/35f
+981/5H.1/j.H.2/34f
+982/5H.1/j.H.3/33f
+983/5H.1/j.H.BR/33f
+984/5H.1/j.D.1/34f
+985/5H.1/j.D.2/32f
+986/5H.1/j.D.3/30f
+987/5H.1/j.D.BR/30f
+988/5H.1/6P/26f
+989/5H.1/6K/29f
+990/5H.1/6H.1/31f
+991/5H.1/6H.2/30f
+992/5H.1/6H.3/29f
+993/5H.1/6H.BR/29f
+994/5H.1/2D/26f
+995/5H.1/5D/34f
+996/5H.1/5[D]/42f
+997/5H.1/236S/0f
+998/5H.1/236K/
+999/5H.1/214K/
+1000/5H.1/214H/-4f
+1001/5H.1/623H/-7f
+1002/5H.1/623HH/623HH is a follow-up move and cannot be done after 5H.1
+1003/5H.1/623P/-11f
+1004/5H.1/632146S/-9f
+1005/5H.1/632146H/35f
+1006/5H.1/236D/2f
+1007/5H.1/236[D]/14f
+1008/5H.2/5P/19f
+1009/5H.2/5K/21f
+1010/5H.2/c.S/21f
+1011/5H.2/f.S.1/30f
+1012/5H.2/f.S.2/28f
+1013/5H.2/f.S.3/26f
+1014/5H.2/f.S.BR/26f
+1015/5H.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5H.2
+1016/5H.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5H.2
+1017/5H.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5H.2
+1018/5H.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5H.2
+1019/5H.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5H.2
+1020/5H.2/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5H.2
+1021/5H.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5H.2
+1022/5H.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5H.2
+1023/5H.2/5H.1/34f
+1024/5H.2/5H.2/32f
+1025/5H.2/5H.3/30f
+1026/5H.2/5H.BR/30f
+1027/5H.2/2P/20f
+1028/5H.2/2K/21f
+1029/5H.2/2S.1/26f
+1030/5H.2/2S.2/25f
+1031/5H.2/2S.3/24f
+1032/5H.2/2S.BR/24f
+1033/5H.2/2H.1/33f
+1034/5H.2/2H.2/31f
+1035/5H.2/2H.3/29f
+1036/5H.2/2H.BR/29f
+1037/5H.2/j.P/26f
+1038/5H.2/j.K/26f
+1039/5H.2/j.S.1/32f
+1040/5H.2/j.S.2/31f
+1041/5H.2/j.S.3/30f
+1042/5H.2/j.S.BR/30f
+1043/5H.2/j.H.1/35f
+1044/5H.2/j.H.2/34f
+1045/5H.2/j.H.3/33f
+1046/5H.2/j.H.BR/33f
+1047/5H.2/j.D.1/34f
+1048/5H.2/j.D.2/32f
+1049/5H.2/j.D.3/30f
+1050/5H.2/j.D.BR/30f
+1051/5H.2/6P/26f
+1052/5H.2/6K/29f
+1053/5H.2/6H.1/31f
+1054/5H.2/6H.2/30f
+1055/5H.2/6H.3/29f
+1056/5H.2/6H.BR/29f
+1057/5H.2/2D/26f
+1058/5H.2/5D/34f
+1059/5H.2/5[D]/42f
+1060/5H.2/236S/0f
+1061/5H.2/236K/
+1062/5H.2/214K/
+1063/5H.2/214H/-4f
+1064/5H.2/623H/-7f
+1065/5H.2/623HH/623HH is a follow-up move and cannot be done after 5H.2
+1066/5H.2/623P/-11f
+1067/5H.2/632146S/-9f
+1068/5H.2/632146H/35f
+1069/5H.2/236D/2f
+1070/5H.2/236[D]/14f
+1071/5H.3/5P/19f
+1072/5H.3/5K/21f
+1073/5H.3/c.S/21f
+1074/5H.3/f.S.1/30f
+1075/5H.3/f.S.2/28f
+1076/5H.3/f.S.3/26f
+1077/5H.3/f.S.BR/26f
+1078/5H.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5H.3
+1079/5H.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5H.3
+1080/5H.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5H.3
+1081/5H.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5H.3
+1082/5H.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5H.3
+1083/5H.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5H.3
+1084/5H.3/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5H.3
+1085/5H.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5H.3
+1086/5H.3/5H.1/34f
+1087/5H.3/5H.2/32f
+1088/5H.3/5H.3/30f
+1089/5H.3/5H.BR/30f
+1090/5H.3/2P/20f
+1091/5H.3/2K/21f
+1092/5H.3/2S.1/26f
+1093/5H.3/2S.2/25f
+1094/5H.3/2S.3/24f
+1095/5H.3/2S.BR/24f
+1096/5H.3/2H.1/33f
+1097/5H.3/2H.2/31f
+1098/5H.3/2H.3/29f
+1099/5H.3/2H.BR/29f
+1100/5H.3/j.P/26f
+1101/5H.3/j.K/26f
+1102/5H.3/j.S.1/32f
+1103/5H.3/j.S.2/31f
+1104/5H.3/j.S.3/30f
+1105/5H.3/j.S.BR/30f
+1106/5H.3/j.H.1/35f
+1107/5H.3/j.H.2/34f
+1108/5H.3/j.H.3/33f
+1109/5H.3/j.H.BR/33f
+1110/5H.3/j.D.1/34f
+1111/5H.3/j.D.2/32f
+1112/5H.3/j.D.3/30f
+1113/5H.3/j.D.BR/30f
+1114/5H.3/6P/26f
+1115/5H.3/6K/29f
+1116/5H.3/6H.1/31f
+1117/5H.3/6H.2/30f
+1118/5H.3/6H.3/29f
+1119/5H.3/6H.BR/29f
+1120/5H.3/2D/26f
+1121/5H.3/5D/34f
+1122/5H.3/5[D]/42f
+1123/5H.3/236S/0f
+1124/5H.3/236K/
+1125/5H.3/214K/
+1126/5H.3/214H/-4f
+1127/5H.3/623H/-7f
+1128/5H.3/623HH/623HH is a follow-up move and cannot be done after 5H.3
+1129/5H.3/623P/-11f
+1130/5H.3/632146S/-9f
+1131/5H.3/632146H/35f
+1132/5H.3/236D/2f
+1133/5H.3/236[D]/14f
+1134/5H.BR/5P/19f
+1135/5H.BR/5K/21f
+1136/5H.BR/c.S/21f
+1137/5H.BR/f.S.1/30f
+1138/5H.BR/f.S.2/28f
+1139/5H.BR/f.S.3/26f
+1140/5H.BR/f.S.BR/26f
+1141/5H.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5H.BR
+1142/5H.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5H.BR
+1143/5H.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5H.BR
+1144/5H.BR/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5H.BR
+1145/5H.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5H.BR
+1146/5H.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5H.BR
+1147/5H.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5H.BR
+1148/5H.BR/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5H.BR
+1149/5H.BR/5H.1/34f
+1150/5H.BR/5H.2/32f
+1151/5H.BR/5H.3/30f
+1152/5H.BR/5H.BR/30f
+1153/5H.BR/2P/20f
+1154/5H.BR/2K/21f
+1155/5H.BR/2S.1/26f
+1156/5H.BR/2S.2/25f
+1157/5H.BR/2S.3/24f
+1158/5H.BR/2S.BR/24f
+1159/5H.BR/2H.1/33f
+1160/5H.BR/2H.2/31f
+1161/5H.BR/2H.3/29f
+1162/5H.BR/2H.BR/29f
+1163/5H.BR/j.P/26f
+1164/5H.BR/j.K/26f
+1165/5H.BR/j.S.1/32f
+1166/5H.BR/j.S.2/31f
+1167/5H.BR/j.S.3/30f
+1168/5H.BR/j.S.BR/30f
+1169/5H.BR/j.H.1/35f
+1170/5H.BR/j.H.2/34f
+1171/5H.BR/j.H.3/33f
+1172/5H.BR/j.H.BR/33f
+1173/5H.BR/j.D.1/34f
+1174/5H.BR/j.D.2/32f
+1175/5H.BR/j.D.3/30f
+1176/5H.BR/j.D.BR/30f
+1177/5H.BR/6P/26f
+1178/5H.BR/6K/29f
+1179/5H.BR/6H.1/31f
+1180/5H.BR/6H.2/30f
+1181/5H.BR/6H.3/29f
+1182/5H.BR/6H.BR/29f
+1183/5H.BR/2D/26f
+1184/5H.BR/5D/34f
+1185/5H.BR/5[D]/42f
+1186/5H.BR/236S/0f
+1187/5H.BR/236K/
+1188/5H.BR/214K/
+1189/5H.BR/214H/-4f
+1190/5H.BR/623H/-7f
+1191/5H.BR/623HH/623HH is a follow-up move and cannot be done after 5H.BR
+1192/5H.BR/623P/-11f
+1193/5H.BR/632146S/-9f
+1194/5H.BR/632146H/35f
+1195/5H.BR/236D/2f
+1196/5H.BR/236[D]/14f
+1197/2P/5P/-6f
+1198/2P/5K/9f
+1199/2P/c.S/9f
+1200/2P/f.S.1/18f
+1201/2P/f.S.2/16f
+1202/2P/f.S.3/14f
+1203/2P/f.S.BR/14f
+1204/2P/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2P
+1205/2P/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2P
+1206/2P/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2P
+1207/2P/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2P
+1208/2P/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2P
+1209/2P/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2P
+1210/2P/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2P
+1211/2P/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2P
+1212/2P/5H.1/22f
+1213/2P/5H.2/20f
+1214/2P/5H.3/18f
+1215/2P/5H.BR/18f
+1216/2P/2P/-5f
+1217/2P/2K/9f
+1218/2P/2S.1/14f
+1219/2P/2S.2/13f
+1220/2P/2S.3/12f
+1221/2P/2S.BR/12f
+1222/2P/2H.1/21f
+1223/2P/2H.2/19f
+1224/2P/2H.3/17f
+1225/2P/2H.BR/17f
+1226/2P/j.P/14f
+1227/2P/j.K/14f
+1228/2P/j.S.1/20f
+1229/2P/j.S.2/19f
+1230/2P/j.S.3/18f
+1231/2P/j.S.BR/18f
+1232/2P/j.H.1/23f
+1233/2P/j.H.2/22f
+1234/2P/j.H.3/21f
+1235/2P/j.H.BR/21f
+1236/2P/j.D.1/22f
+1237/2P/j.D.2/20f
+1238/2P/j.D.3/18f
+1239/2P/j.D.BR/18f
+1240/2P/6P/1f
+1241/2P/6K/4f
+1242/2P/6H.1/6f
+1243/2P/6H.2/5f
+1244/2P/6H.3/4f
+1245/2P/6H.BR/4f
+1246/2P/2D/14f
+1247/2P/5D/22f
+1248/2P/5[D]/30f
+1249/2P/236S/7f
+1250/2P/236K/
+1251/2P/214K/
+1252/2P/214H/3f
+1253/2P/623H/0f
+1254/2P/623HH/623HH is a follow-up move and cannot be done after 2P
+1255/2P/623P/-4f
+1256/2P/632146S/-2f
+1257/2P/632146H/23f
+1258/2P/236D/9f
+1259/2P/236[D]/21f
+1260/2K/5P/6f
+1261/2K/5K/8f
+1262/2K/c.S/8f
+1263/2K/f.S.1/17f
+1264/2K/f.S.2/15f
+1265/2K/f.S.3/13f
+1266/2K/f.S.BR/13f
+1267/2K/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2K
+1268/2K/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2K
+1269/2K/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2K
+1270/2K/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2K
+1271/2K/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2K
+1272/2K/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2K
+1273/2K/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2K
+1274/2K/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2K
+1275/2K/5H.1/21f
+1276/2K/5H.2/19f
+1277/2K/5H.3/17f
+1278/2K/5H.BR/17f
+1279/2K/2P/7f
+1280/2K/2K/8f
+1281/2K/2S.1/13f
+1282/2K/2S.2/12f
+1283/2K/2S.3/11f
+1284/2K/2S.BR/11f
+1285/2K/2H.1/20f
+1286/2K/2H.2/18f
+1287/2K/2H.3/16f
+1288/2K/2H.BR/16f
+1289/2K/j.P/13f
+1290/2K/j.K/13f
+1291/2K/j.S.1/19f
+1292/2K/j.S.2/18f
+1293/2K/j.S.3/17f
+1294/2K/j.S.BR/17f
+1295/2K/j.H.1/22f
+1296/2K/j.H.2/21f
+1297/2K/j.H.3/20f
+1298/2K/j.H.BR/20f
+1299/2K/j.D.1/21f
+1300/2K/j.D.2/19f
+1301/2K/j.D.3/17f
+1302/2K/j.D.BR/17f
+1303/2K/6P/1f
+1304/2K/6K/4f
+1305/2K/6H.1/6f
+1306/2K/6H.2/5f
+1307/2K/6H.3/4f
+1308/2K/6H.BR/4f
+1309/2K/2D/1f
+1310/2K/5D/9f
+1311/2K/5[D]/29f
+1312/2K/236S/7f
+1313/2K/236K/
+1314/2K/214K/
+1315/2K/214H/3f
+1316/2K/623H/0f
+1317/2K/623HH/623HH is a follow-up move and cannot be done after 2K
+1318/2K/623P/-4f
+1319/2K/632146S/-2f
+1320/2K/632146H/22f
+1321/2K/236D/9f
+1322/2K/236[D]/21f
+1323/2S.1/5P/16f
+1324/2S.1/5K/18f
+1325/2S.1/c.S/18f
+1326/2S.1/f.S.1/27f
+1327/2S.1/f.S.2/25f
+1328/2S.1/f.S.3/23f
+1329/2S.1/f.S.BR/23f
+1330/2S.1/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2S.1
+1331/2S.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2S.1
+1332/2S.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2S.1
+1333/2S.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2S.1
+1334/2S.1/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2S.1
+1335/2S.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2S.1
+1336/2S.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2S.1
+1337/2S.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2S.1
+1338/2S.1/5H.1/7f
+1339/2S.1/5H.2/29f
+1340/2S.1/5H.3/27f
+1341/2S.1/5H.BR/27f
+1342/2S.1/2P/17f
+1343/2S.1/2K/18f
+1344/2S.1/2S.1/23f
+1345/2S.1/2S.2/22f
+1346/2S.1/2S.3/21f
+1347/2S.1/2S.BR/21f
+1348/2S.1/2H.1/6f
+1349/2S.1/2H.2/28f
+1350/2S.1/2H.3/26f
+1351/2S.1/2H.BR/26f
+1352/2S.1/j.P/23f
+1353/2S.1/j.K/23f
+1354/2S.1/j.S.1/29f
+1355/2S.1/j.S.2/28f
+1356/2S.1/j.S.3/27f
+1357/2S.1/j.S.BR/27f
+1358/2S.1/j.H.1/32f
+1359/2S.1/j.H.2/31f
+1360/2S.1/j.H.3/30f
+1361/2S.1/j.H.BR/30f
+1362/2S.1/j.D.1/31f
+1363/2S.1/j.D.2/29f
+1364/2S.1/j.D.3/27f
+1365/2S.1/j.D.BR/27f
+1366/2S.1/6P/23f
+1367/2S.1/6K/26f
+1368/2S.1/6H.1/28f
+1369/2S.1/6H.2/27f
+1370/2S.1/6H.3/26f
+1371/2S.1/6H.BR/26f
+1372/2S.1/2D/23f
+1373/2S.1/5D/31f
+1374/2S.1/5[D]/39f
+1375/2S.1/236S/5f
+1376/2S.1/236K/
+1377/2S.1/214K/
+1378/2S.1/214H/1f
+1379/2S.1/623H/-2f
+1380/2S.1/623HH/623HH is a follow-up move and cannot be done after 2S.1
+1381/2S.1/623P/-6f
+1382/2S.1/632146S/-4f
+1383/2S.1/632146H/32f
+1384/2S.1/236D/7f
+1385/2S.1/236[D]/19f
+1386/2S.2/5P/16f
+1387/2S.2/5K/18f
+1388/2S.2/c.S/18f
+1389/2S.2/f.S.1/27f
+1390/2S.2/f.S.2/25f
+1391/2S.2/f.S.3/23f
+1392/2S.2/f.S.BR/23f
+1393/2S.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2S.2
+1394/2S.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2S.2
+1395/2S.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2S.2
+1396/2S.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2S.2
+1397/2S.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2S.2
+1398/2S.2/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2S.2
+1399/2S.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2S.2
+1400/2S.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2S.2
+1401/2S.2/5H.1/31f
+1402/2S.2/5H.2/5f
+1403/2S.2/5H.3/27f
+1404/2S.2/5H.BR/27f
+1405/2S.2/2P/17f
+1406/2S.2/2K/18f
+1407/2S.2/2S.1/23f
+1408/2S.2/2S.2/22f
+1409/2S.2/2S.3/21f
+1410/2S.2/2S.BR/21f
+1411/2S.2/2H.1/30f
+1412/2S.2/2H.2/4f
+1413/2S.2/2H.3/26f
+1414/2S.2/2H.BR/26f
+1415/2S.2/j.P/23f
+1416/2S.2/j.K/23f
+1417/2S.2/j.S.1/29f
+1418/2S.2/j.S.2/28f
+1419/2S.2/j.S.3/27f
+1420/2S.2/j.S.BR/27f
+1421/2S.2/j.H.1/32f
+1422/2S.2/j.H.2/31f
+1423/2S.2/j.H.3/30f
+1424/2S.2/j.H.BR/30f
+1425/2S.2/j.D.1/31f
+1426/2S.2/j.D.2/29f
+1427/2S.2/j.D.3/27f
+1428/2S.2/j.D.BR/27f
+1429/2S.2/6P/23f
+1430/2S.2/6K/26f
+1431/2S.2/6H.1/28f
+1432/2S.2/6H.2/27f
+1433/2S.2/6H.3/26f
+1434/2S.2/6H.BR/26f
+1435/2S.2/2D/23f
+1436/2S.2/5D/31f
+1437/2S.2/5[D]/39f
+1438/2S.2/236S/5f
+1439/2S.2/236K/
+1440/2S.2/214K/
+1441/2S.2/214H/1f
+1442/2S.2/623H/-2f
+1443/2S.2/623HH/623HH is a follow-up move and cannot be done after 2S.2
+1444/2S.2/623P/-6f
+1445/2S.2/632146S/-4f
+1446/2S.2/632146H/32f
+1447/2S.2/236D/7f
+1448/2S.2/236[D]/19f
+1449/2S.3/5P/16f
+1450/2S.3/5K/18f
+1451/2S.3/c.S/18f
+1452/2S.3/f.S.1/27f
+1453/2S.3/f.S.2/25f
+1454/2S.3/f.S.3/23f
+1455/2S.3/f.S.BR/23f
+1456/2S.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2S.3
+1457/2S.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2S.3
+1458/2S.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2S.3
+1459/2S.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2S.3
+1460/2S.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2S.3
+1461/2S.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2S.3
+1462/2S.3/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2S.3
+1463/2S.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2S.3
+1464/2S.3/5H.1/31f
+1465/2S.3/5H.2/29f
+1466/2S.3/5H.3/3f
+1467/2S.3/5H.BR/27f
+1468/2S.3/2P/17f
+1469/2S.3/2K/18f
+1470/2S.3/2S.1/23f
+1471/2S.3/2S.2/22f
+1472/2S.3/2S.3/21f
+1473/2S.3/2S.BR/21f
+1474/2S.3/2H.1/30f
+1475/2S.3/2H.2/28f
+1476/2S.3/2H.3/2f
+1477/2S.3/2H.BR/26f
+1478/2S.3/j.P/23f
+1479/2S.3/j.K/23f
+1480/2S.3/j.S.1/29f
+1481/2S.3/j.S.2/28f
+1482/2S.3/j.S.3/27f
+1483/2S.3/j.S.BR/27f
+1484/2S.3/j.H.1/32f
+1485/2S.3/j.H.2/31f
+1486/2S.3/j.H.3/30f
+1487/2S.3/j.H.BR/30f
+1488/2S.3/j.D.1/31f
+1489/2S.3/j.D.2/29f
+1490/2S.3/j.D.3/27f
+1491/2S.3/j.D.BR/27f
+1492/2S.3/6P/23f
+1493/2S.3/6K/26f
+1494/2S.3/6H.1/28f
+1495/2S.3/6H.2/27f
+1496/2S.3/6H.3/26f
+1497/2S.3/6H.BR/26f
+1498/2S.3/2D/23f
+1499/2S.3/5D/31f
+1500/2S.3/5[D]/39f
+1501/2S.3/236S/5f
+1502/2S.3/236K/
+1503/2S.3/214K/
+1504/2S.3/214H/1f
+1505/2S.3/623H/-2f
+1506/2S.3/623HH/623HH is a follow-up move and cannot be done after 2S.3
+1507/2S.3/623P/-6f
+1508/2S.3/632146S/-4f
+1509/2S.3/632146H/32f
+1510/2S.3/236D/7f
+1511/2S.3/236[D]/19f
+1512/2S.BR/5P/16f
+1513/2S.BR/5K/18f
+1514/2S.BR/c.S/18f
+1515/2S.BR/f.S.1/27f
+1516/2S.BR/f.S.2/25f
+1517/2S.BR/f.S.3/23f
+1518/2S.BR/f.S.BR/23f
+1519/2S.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2S.BR
+1520/2S.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2S.BR
+1521/2S.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2S.BR
+1522/2S.BR/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2S.BR
+1523/2S.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2S.BR
+1524/2S.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2S.BR
+1525/2S.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2S.BR
+1526/2S.BR/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2S.BR
+1527/2S.BR/5H.1/31f
+1528/2S.BR/5H.2/29f
+1529/2S.BR/5H.3/27f
+1530/2S.BR/5H.BR/3f
+1531/2S.BR/2P/17f
+1532/2S.BR/2K/18f
+1533/2S.BR/2S.1/23f
+1534/2S.BR/2S.2/22f
+1535/2S.BR/2S.3/21f
+1536/2S.BR/2S.BR/21f
+1537/2S.BR/2H.1/30f
+1538/2S.BR/2H.2/28f
+1539/2S.BR/2H.3/26f
+1540/2S.BR/2H.BR/2f
+1541/2S.BR/j.P/23f
+1542/2S.BR/j.K/23f
+1543/2S.BR/j.S.1/29f
+1544/2S.BR/j.S.2/28f
+1545/2S.BR/j.S.3/27f
+1546/2S.BR/j.S.BR/27f
+1547/2S.BR/j.H.1/32f
+1548/2S.BR/j.H.2/31f
+1549/2S.BR/j.H.3/30f
+1550/2S.BR/j.H.BR/30f
+1551/2S.BR/j.D.1/31f
+1552/2S.BR/j.D.2/29f
+1553/2S.BR/j.D.3/27f
+1554/2S.BR/j.D.BR/27f
+1555/2S.BR/6P/23f
+1556/2S.BR/6K/26f
+1557/2S.BR/6H.1/28f
+1558/2S.BR/6H.2/27f
+1559/2S.BR/6H.3/26f
+1560/2S.BR/6H.BR/26f
+1561/2S.BR/2D/23f
+1562/2S.BR/5D/31f
+1563/2S.BR/5[D]/39f
+1564/2S.BR/236S/5f
+1565/2S.BR/236K/
+1566/2S.BR/214K/
+1567/2S.BR/214H/1f
+1568/2S.BR/623H/-2f
+1569/2S.BR/623HH/623HH is a follow-up move and cannot be done after 2S.BR
+1570/2S.BR/623P/-6f
+1571/2S.BR/632146S/-4f
+1572/2S.BR/632146H/32f
+1573/2S.BR/236D/7f
+1574/2S.BR/236[D]/19f
+1575/2H.1/5P/22f
+1576/2H.1/5K/24f
+1577/2H.1/c.S/24f
+1578/2H.1/f.S.1/33f
+1579/2H.1/f.S.2/31f
+1580/2H.1/f.S.3/29f
+1581/2H.1/f.S.BR/29f
+1582/2H.1/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2H.1
+1583/2H.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2H.1
+1584/2H.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2H.1
+1585/2H.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2H.1
+1586/2H.1/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2H.1
+1587/2H.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2H.1
+1588/2H.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2H.1
+1589/2H.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2H.1
+1590/2H.1/5H.1/37f
+1591/2H.1/5H.2/35f
+1592/2H.1/5H.3/33f
+1593/2H.1/5H.BR/33f
+1594/2H.1/2P/23f
+1595/2H.1/2K/24f
+1596/2H.1/2S.1/29f
+1597/2H.1/2S.2/28f
+1598/2H.1/2S.3/27f
+1599/2H.1/2S.BR/27f
+1600/2H.1/2H.1/36f
+1601/2H.1/2H.2/34f
+1602/2H.1/2H.3/32f
+1603/2H.1/2H.BR/32f
+1604/2H.1/j.P/29f
+1605/2H.1/j.K/29f
+1606/2H.1/j.S.1/35f
+1607/2H.1/j.S.2/34f
+1608/2H.1/j.S.3/33f
+1609/2H.1/j.S.BR/33f
+1610/2H.1/j.H.1/38f
+1611/2H.1/j.H.2/37f
+1612/2H.1/j.H.3/36f
+1613/2H.1/j.H.BR/36f
+1614/2H.1/j.D.1/37f
+1615/2H.1/j.D.2/35f
+1616/2H.1/j.D.3/33f
+1617/2H.1/j.D.BR/33f
+1618/2H.1/6P/29f
+1619/2H.1/6K/32f
+1620/2H.1/6H.1/34f
+1621/2H.1/6H.2/33f
+1622/2H.1/6H.3/32f
+1623/2H.1/6H.BR/32f
+1624/2H.1/2D/29f
+1625/2H.1/5D/37f
+1626/2H.1/5[D]/45f
+1627/2H.1/236S/0f
+1628/2H.1/236K/
+1629/2H.1/214K/
+1630/2H.1/214H/-4f
+1631/2H.1/623H/-7f
+1632/2H.1/623HH/623HH is a follow-up move and cannot be done after 2H.1
+1633/2H.1/623P/-11f
+1634/2H.1/632146S/-9f
+1635/2H.1/632146H/38f
+1636/2H.1/236D/2f
+1637/2H.1/236[D]/14f
+1638/2H.2/5P/22f
+1639/2H.2/5K/24f
+1640/2H.2/c.S/24f
+1641/2H.2/f.S.1/33f
+1642/2H.2/f.S.2/31f
+1643/2H.2/f.S.3/29f
+1644/2H.2/f.S.BR/29f
+1645/2H.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2H.2
+1646/2H.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2H.2
+1647/2H.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2H.2
+1648/2H.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2H.2
+1649/2H.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2H.2
+1650/2H.2/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2H.2
+1651/2H.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2H.2
+1652/2H.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2H.2
+1653/2H.2/5H.1/37f
+1654/2H.2/5H.2/35f
+1655/2H.2/5H.3/33f
+1656/2H.2/5H.BR/33f
+1657/2H.2/2P/23f
+1658/2H.2/2K/24f
+1659/2H.2/2S.1/29f
+1660/2H.2/2S.2/28f
+1661/2H.2/2S.3/27f
+1662/2H.2/2S.BR/27f
+1663/2H.2/2H.1/36f
+1664/2H.2/2H.2/34f
+1665/2H.2/2H.3/32f
+1666/2H.2/2H.BR/32f
+1667/2H.2/j.P/29f
+1668/2H.2/j.K/29f
+1669/2H.2/j.S.1/35f
+1670/2H.2/j.S.2/34f
+1671/2H.2/j.S.3/33f
+1672/2H.2/j.S.BR/33f
+1673/2H.2/j.H.1/38f
+1674/2H.2/j.H.2/37f
+1675/2H.2/j.H.3/36f
+1676/2H.2/j.H.BR/36f
+1677/2H.2/j.D.1/37f
+1678/2H.2/j.D.2/35f
+1679/2H.2/j.D.3/33f
+1680/2H.2/j.D.BR/33f
+1681/2H.2/6P/29f
+1682/2H.2/6K/32f
+1683/2H.2/6H.1/34f
+1684/2H.2/6H.2/33f
+1685/2H.2/6H.3/32f
+1686/2H.2/6H.BR/32f
+1687/2H.2/2D/29f
+1688/2H.2/5D/37f
+1689/2H.2/5[D]/45f
+1690/2H.2/236S/0f
+1691/2H.2/236K/
+1692/2H.2/214K/
+1693/2H.2/214H/-4f
+1694/2H.2/623H/-7f
+1695/2H.2/623HH/623HH is a follow-up move and cannot be done after 2H.2
+1696/2H.2/623P/-11f
+1697/2H.2/632146S/-9f
+1698/2H.2/632146H/38f
+1699/2H.2/236D/2f
+1700/2H.2/236[D]/14f
+1701/2H.3/5P/22f
+1702/2H.3/5K/24f
+1703/2H.3/c.S/24f
+1704/2H.3/f.S.1/33f
+1705/2H.3/f.S.2/31f
+1706/2H.3/f.S.3/29f
+1707/2H.3/f.S.BR/29f
+1708/2H.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2H.3
+1709/2H.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2H.3
+1710/2H.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2H.3
+1711/2H.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2H.3
+1712/2H.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2H.3
+1713/2H.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2H.3
+1714/2H.3/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2H.3
+1715/2H.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2H.3
+1716/2H.3/5H.1/37f
+1717/2H.3/5H.2/35f
+1718/2H.3/5H.3/33f
+1719/2H.3/5H.BR/33f
+1720/2H.3/2P/23f
+1721/2H.3/2K/24f
+1722/2H.3/2S.1/29f
+1723/2H.3/2S.2/28f
+1724/2H.3/2S.3/27f
+1725/2H.3/2S.BR/27f
+1726/2H.3/2H.1/36f
+1727/2H.3/2H.2/34f
+1728/2H.3/2H.3/32f
+1729/2H.3/2H.BR/32f
+1730/2H.3/j.P/29f
+1731/2H.3/j.K/29f
+1732/2H.3/j.S.1/35f
+1733/2H.3/j.S.2/34f
+1734/2H.3/j.S.3/33f
+1735/2H.3/j.S.BR/33f
+1736/2H.3/j.H.1/38f
+1737/2H.3/j.H.2/37f
+1738/2H.3/j.H.3/36f
+1739/2H.3/j.H.BR/36f
+1740/2H.3/j.D.1/37f
+1741/2H.3/j.D.2/35f
+1742/2H.3/j.D.3/33f
+1743/2H.3/j.D.BR/33f
+1744/2H.3/6P/29f
+1745/2H.3/6K/32f
+1746/2H.3/6H.1/34f
+1747/2H.3/6H.2/33f
+1748/2H.3/6H.3/32f
+1749/2H.3/6H.BR/32f
+1750/2H.3/2D/29f
+1751/2H.3/5D/37f
+1752/2H.3/5[D]/45f
+1753/2H.3/236S/0f
+1754/2H.3/236K/
+1755/2H.3/214K/
+1756/2H.3/214H/-4f
+1757/2H.3/623H/-7f
+1758/2H.3/623HH/623HH is a follow-up move and cannot be done after 2H.3
+1759/2H.3/623P/-11f
+1760/2H.3/632146S/-9f
+1761/2H.3/632146H/38f
+1762/2H.3/236D/2f
+1763/2H.3/236[D]/14f
+1764/2H.BR/5P/22f
+1765/2H.BR/5K/24f
+1766/2H.BR/c.S/24f
+1767/2H.BR/f.S.1/33f
+1768/2H.BR/f.S.2/31f
+1769/2H.BR/f.S.3/29f
+1770/2H.BR/f.S.BR/29f
+1771/2H.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2H.BR
+1772/2H.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2H.BR
+1773/2H.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2H.BR
+1774/2H.BR/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2H.BR
+1775/2H.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2H.BR
+1776/2H.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2H.BR
+1777/2H.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2H.BR
+1778/2H.BR/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2H.BR
+1779/2H.BR/5H.1/37f
+1780/2H.BR/5H.2/35f
+1781/2H.BR/5H.3/33f
+1782/2H.BR/5H.BR/33f
+1783/2H.BR/2P/23f
+1784/2H.BR/2K/24f
+1785/2H.BR/2S.1/29f
+1786/2H.BR/2S.2/28f
+1787/2H.BR/2S.3/27f
+1788/2H.BR/2S.BR/27f
+1789/2H.BR/2H.1/36f
+1790/2H.BR/2H.2/34f
+1791/2H.BR/2H.3/32f
+1792/2H.BR/2H.BR/32f
+1793/2H.BR/j.P/29f
+1794/2H.BR/j.K/29f
+1795/2H.BR/j.S.1/35f
+1796/2H.BR/j.S.2/34f
+1797/2H.BR/j.S.3/33f
+1798/2H.BR/j.S.BR/33f
+1799/2H.BR/j.H.1/38f
+1800/2H.BR/j.H.2/37f
+1801/2H.BR/j.H.3/36f
+1802/2H.BR/j.H.BR/36f
+1803/2H.BR/j.D.1/37f
+1804/2H.BR/j.D.2/35f
+1805/2H.BR/j.D.3/33f
+1806/2H.BR/j.D.BR/33f
+1807/2H.BR/6P/29f
+1808/2H.BR/6K/32f
+1809/2H.BR/6H.1/34f
+1810/2H.BR/6H.2/33f
+1811/2H.BR/6H.3/32f
+1812/2H.BR/6H.BR/32f
+1813/2H.BR/2D/29f
+1814/2H.BR/5D/37f
+1815/2H.BR/5[D]/45f
+1816/2H.BR/236S/0f
+1817/2H.BR/236K/
+1818/2H.BR/214K/
+1819/2H.BR/214H/-4f
+1820/2H.BR/623H/-7f
+1821/2H.BR/623HH/623HH is a follow-up move and cannot be done after 2H.BR
+1822/2H.BR/623P/-11f
+1823/2H.BR/632146S/-9f
+1824/2H.BR/632146H/38f
+1825/2H.BR/236D/2f
+1826/2H.BR/236[D]/14f
+1827/j.P/5P/
+1828/j.P/5K/
+1829/j.P/c.S/
+1830/j.P/f.S.1/
+1831/j.P/f.S.2/
+1832/j.P/f.S.3/
+1833/j.P/f.S.BR/
+1834/j.P/f.SS.1/
+1835/j.P/f.SS.2/
+1836/j.P/f.SS.3/
+1837/j.P/f.SS.BR/
+1838/j.P/f.SSS.1/
+1839/j.P/f.SSS.2/
+1840/j.P/f.SSS.3/
+1841/j.P/f.SSS.BR/
+1842/j.P/5H.1/
+1843/j.P/5H.2/
+1844/j.P/5H.3/
+1845/j.P/5H.BR/
+1846/j.P/2P/
+1847/j.P/2K/
+1848/j.P/2S.1/
+1849/j.P/2S.2/
+1850/j.P/2S.3/
+1851/j.P/2S.BR/
+1852/j.P/2H.1/
+1853/j.P/2H.2/
+1854/j.P/2H.3/
+1855/j.P/2H.BR/
+1856/j.P/j.P/-2f
+1857/j.P/j.K/
+1858/j.P/j.S.1/
+1859/j.P/j.S.2/
+1860/j.P/j.S.3/
+1861/j.P/j.S.BR/
+1862/j.P/j.H.1/
+1863/j.P/j.H.2/
+1864/j.P/j.H.3/
+1865/j.P/j.H.BR/
+1866/j.P/j.D.1/
+1867/j.P/j.D.2/
+1868/j.P/j.D.3/
+1869/j.P/j.D.BR/
+1870/j.P/6P/
+1871/j.P/6K/
+1872/j.P/6H.1/
+1873/j.P/6H.2/
+1874/j.P/6H.3/
+1875/j.P/6H.BR/
+1876/j.P/2D/
+1877/j.P/5D/
+1878/j.P/5[D]/
+1879/j.P/236S/
+1880/j.P/236K/
+1881/j.P/214K/
+1882/j.P/214H/
+1883/j.P/623H/
+1884/j.P/623HH/
+1885/j.P/623P/
+1886/j.P/632146S/
+1887/j.P/632146H/
+1888/j.P/236D/
+1889/j.P/236[D]/
+1890/j.K/5P/
+1891/j.K/5K/
+1892/j.K/c.S/
+1893/j.K/f.S.1/
+1894/j.K/f.S.2/
+1895/j.K/f.S.3/
+1896/j.K/f.S.BR/
+1897/j.K/f.SS.1/
+1898/j.K/f.SS.2/
+1899/j.K/f.SS.3/
+1900/j.K/f.SS.BR/
+1901/j.K/f.SSS.1/
+1902/j.K/f.SSS.2/
+1903/j.K/f.SSS.3/
+1904/j.K/f.SSS.BR/
+1905/j.K/5H.1/
+1906/j.K/5H.2/
+1907/j.K/5H.3/
+1908/j.K/5H.BR/
+1909/j.K/2P/
+1910/j.K/2K/
+1911/j.K/2S.1/
+1912/j.K/2S.2/
+1913/j.K/2S.3/
+1914/j.K/2S.BR/
+1915/j.K/2H.1/
+1916/j.K/2H.2/
+1917/j.K/2H.3/
+1918/j.K/2H.BR/
+1919/j.K/j.P/
+1920/j.K/j.K/
+1921/j.K/j.S.1/
+1922/j.K/j.S.2/
+1923/j.K/j.S.3/
+1924/j.K/j.S.BR/
+1925/j.K/j.H.1/
+1926/j.K/j.H.2/
+1927/j.K/j.H.3/
+1928/j.K/j.H.BR/
+1929/j.K/j.D.1/
+1930/j.K/j.D.2/
+1931/j.K/j.D.3/
+1932/j.K/j.D.BR/
+1933/j.K/6P/
+1934/j.K/6K/
+1935/j.K/6H.1/
+1936/j.K/6H.2/
+1937/j.K/6H.3/
+1938/j.K/6H.BR/
+1939/j.K/2D/
+1940/j.K/5D/
+1941/j.K/5[D]/
+1942/j.K/236S/
+1943/j.K/236K/
+1944/j.K/214K/
+1945/j.K/214H/
+1946/j.K/623H/
+1947/j.K/623HH/
+1948/j.K/623P/
+1949/j.K/632146S/
+1950/j.K/632146H/
+1951/j.K/236D/
+1952/j.K/236[D]/
+1953/j.S.1/5P/
+1954/j.S.1/5K/
+1955/j.S.1/c.S/
+1956/j.S.1/f.S.1/
+1957/j.S.1/f.S.2/
+1958/j.S.1/f.S.3/
+1959/j.S.1/f.S.BR/
+1960/j.S.1/f.SS.1/
+1961/j.S.1/f.SS.2/
+1962/j.S.1/f.SS.3/
+1963/j.S.1/f.SS.BR/
+1964/j.S.1/f.SSS.1/
+1965/j.S.1/f.SSS.2/
+1966/j.S.1/f.SSS.3/
+1967/j.S.1/f.SSS.BR/
+1968/j.S.1/5H.1/
+1969/j.S.1/5H.2/
+1970/j.S.1/5H.3/
+1971/j.S.1/5H.BR/
+1972/j.S.1/2P/
+1973/j.S.1/2K/
+1974/j.S.1/2S.1/
+1975/j.S.1/2S.2/
+1976/j.S.1/2S.3/
+1977/j.S.1/2S.BR/
+1978/j.S.1/2H.1/
+1979/j.S.1/2H.2/
+1980/j.S.1/2H.3/
+1981/j.S.1/2H.BR/
+1982/j.S.1/j.P/
+1983/j.S.1/j.K/
+1984/j.S.1/j.S.1/
+1985/j.S.1/j.S.2/
+1986/j.S.1/j.S.3/
+1987/j.S.1/j.S.BR/
+1988/j.S.1/j.H.1/3f
+1989/j.S.1/j.H.2/
+1990/j.S.1/j.H.3/
+1991/j.S.1/j.H.BR/
+1992/j.S.1/j.D.1/2f
+1993/j.S.1/j.D.2/
+1994/j.S.1/j.D.3/
+1995/j.S.1/j.D.BR/
+1996/j.S.1/6P/
+1997/j.S.1/6K/
+1998/j.S.1/6H.1/
+1999/j.S.1/6H.2/
+2000/j.S.1/6H.3/
+2001/j.S.1/6H.BR/
+2002/j.S.1/2D/
+2003/j.S.1/5D/
+2004/j.S.1/5[D]/
+2005/j.S.1/236S/
+2006/j.S.1/236K/
+2007/j.S.1/214K/
+2008/j.S.1/214H/
+2009/j.S.1/623H/
+2010/j.S.1/623HH/
+2011/j.S.1/623P/
+2012/j.S.1/632146S/
+2013/j.S.1/632146H/
+2014/j.S.1/236D/
+2015/j.S.1/236[D]/
+2016/j.S.2/5P/
+2017/j.S.2/5K/
+2018/j.S.2/c.S/
+2019/j.S.2/f.S.1/
+2020/j.S.2/f.S.2/
+2021/j.S.2/f.S.3/
+2022/j.S.2/f.S.BR/
+2023/j.S.2/f.SS.1/
+2024/j.S.2/f.SS.2/
+2025/j.S.2/f.SS.3/
+2026/j.S.2/f.SS.BR/
+2027/j.S.2/f.SSS.1/
+2028/j.S.2/f.SSS.2/
+2029/j.S.2/f.SSS.3/
+2030/j.S.2/f.SSS.BR/
+2031/j.S.2/5H.1/
+2032/j.S.2/5H.2/
+2033/j.S.2/5H.3/
+2034/j.S.2/5H.BR/
+2035/j.S.2/2P/
+2036/j.S.2/2K/
+2037/j.S.2/2S.1/
+2038/j.S.2/2S.2/
+2039/j.S.2/2S.3/
+2040/j.S.2/2S.BR/
+2041/j.S.2/2H.1/
+2042/j.S.2/2H.2/
+2043/j.S.2/2H.3/
+2044/j.S.2/2H.BR/
+2045/j.S.2/j.P/
+2046/j.S.2/j.K/
+2047/j.S.2/j.S.1/
+2048/j.S.2/j.S.2/
+2049/j.S.2/j.S.3/
+2050/j.S.2/j.S.BR/
+2051/j.S.2/j.H.1/
+2052/j.S.2/j.H.2/2f
+2053/j.S.2/j.H.3/
+2054/j.S.2/j.H.BR/
+2055/j.S.2/j.D.1/
+2056/j.S.2/j.D.2/0f
+2057/j.S.2/j.D.3/
+2058/j.S.2/j.D.BR/
+2059/j.S.2/6P/
+2060/j.S.2/6K/
+2061/j.S.2/6H.1/
+2062/j.S.2/6H.2/
+2063/j.S.2/6H.3/
+2064/j.S.2/6H.BR/
+2065/j.S.2/2D/
+2066/j.S.2/5D/
+2067/j.S.2/5[D]/
+2068/j.S.2/236S/
+2069/j.S.2/236K/
+2070/j.S.2/214K/
+2071/j.S.2/214H/
+2072/j.S.2/623H/
+2073/j.S.2/623HH/
+2074/j.S.2/623P/
+2075/j.S.2/632146S/
+2076/j.S.2/632146H/
+2077/j.S.2/236D/
+2078/j.S.2/236[D]/
+2079/j.S.3/5P/
+2080/j.S.3/5K/
+2081/j.S.3/c.S/
+2082/j.S.3/f.S.1/
+2083/j.S.3/f.S.2/
+2084/j.S.3/f.S.3/
+2085/j.S.3/f.S.BR/
+2086/j.S.3/f.SS.1/
+2087/j.S.3/f.SS.2/
+2088/j.S.3/f.SS.3/
+2089/j.S.3/f.SS.BR/
+2090/j.S.3/f.SSS.1/
+2091/j.S.3/f.SSS.2/
+2092/j.S.3/f.SSS.3/
+2093/j.S.3/f.SSS.BR/
+2094/j.S.3/5H.1/
+2095/j.S.3/5H.2/
+2096/j.S.3/5H.3/
+2097/j.S.3/5H.BR/
+2098/j.S.3/2P/
+2099/j.S.3/2K/
+2100/j.S.3/2S.1/
+2101/j.S.3/2S.2/
+2102/j.S.3/2S.3/
+2103/j.S.3/2S.BR/
+2104/j.S.3/2H.1/
+2105/j.S.3/2H.2/
+2106/j.S.3/2H.3/
+2107/j.S.3/2H.BR/
+2108/j.S.3/j.P/
+2109/j.S.3/j.K/
+2110/j.S.3/j.S.1/
+2111/j.S.3/j.S.2/
+2112/j.S.3/j.S.3/
+2113/j.S.3/j.S.BR/
+2114/j.S.3/j.H.1/
+2115/j.S.3/j.H.2/
+2116/j.S.3/j.H.3/1f
+2117/j.S.3/j.H.BR/
+2118/j.S.3/j.D.1/
+2119/j.S.3/j.D.2/
+2120/j.S.3/j.D.3/-2f
+2121/j.S.3/j.D.BR/
+2122/j.S.3/6P/
+2123/j.S.3/6K/
+2124/j.S.3/6H.1/
+2125/j.S.3/6H.2/
+2126/j.S.3/6H.3/
+2127/j.S.3/6H.BR/
+2128/j.S.3/2D/
+2129/j.S.3/5D/
+2130/j.S.3/5[D]/
+2131/j.S.3/236S/
+2132/j.S.3/236K/
+2133/j.S.3/214K/
+2134/j.S.3/214H/
+2135/j.S.3/623H/
+2136/j.S.3/623HH/
+2137/j.S.3/623P/
+2138/j.S.3/632146S/
+2139/j.S.3/632146H/
+2140/j.S.3/236D/
+2141/j.S.3/236[D]/
+2142/j.S.BR/5P/
+2143/j.S.BR/5K/
+2144/j.S.BR/c.S/
+2145/j.S.BR/f.S.1/
+2146/j.S.BR/f.S.2/
+2147/j.S.BR/f.S.3/
+2148/j.S.BR/f.S.BR/
+2149/j.S.BR/f.SS.1/
+2150/j.S.BR/f.SS.2/
+2151/j.S.BR/f.SS.3/
+2152/j.S.BR/f.SS.BR/
+2153/j.S.BR/f.SSS.1/
+2154/j.S.BR/f.SSS.2/
+2155/j.S.BR/f.SSS.3/
+2156/j.S.BR/f.SSS.BR/
+2157/j.S.BR/5H.1/
+2158/j.S.BR/5H.2/
+2159/j.S.BR/5H.3/
+2160/j.S.BR/5H.BR/
+2161/j.S.BR/2P/
+2162/j.S.BR/2K/
+2163/j.S.BR/2S.1/
+2164/j.S.BR/2S.2/
+2165/j.S.BR/2S.3/
+2166/j.S.BR/2S.BR/
+2167/j.S.BR/2H.1/
+2168/j.S.BR/2H.2/
+2169/j.S.BR/2H.3/
+2170/j.S.BR/2H.BR/
+2171/j.S.BR/j.P/
+2172/j.S.BR/j.K/
+2173/j.S.BR/j.S.1/
+2174/j.S.BR/j.S.2/
+2175/j.S.BR/j.S.3/
+2176/j.S.BR/j.S.BR/
+2177/j.S.BR/j.H.1/
+2178/j.S.BR/j.H.2/
+2179/j.S.BR/j.H.3/
+2180/j.S.BR/j.H.BR/1f
+2181/j.S.BR/j.D.1/
+2182/j.S.BR/j.D.2/
+2183/j.S.BR/j.D.3/
+2184/j.S.BR/j.D.BR/-2f
+2185/j.S.BR/6P/
+2186/j.S.BR/6K/
+2187/j.S.BR/6H.1/
+2188/j.S.BR/6H.2/
+2189/j.S.BR/6H.3/
+2190/j.S.BR/6H.BR/
+2191/j.S.BR/2D/
+2192/j.S.BR/5D/
+2193/j.S.BR/5[D]/
+2194/j.S.BR/236S/
+2195/j.S.BR/236K/
+2196/j.S.BR/214K/
+2197/j.S.BR/214H/
+2198/j.S.BR/623H/
+2199/j.S.BR/623HH/
+2200/j.S.BR/623P/
+2201/j.S.BR/632146S/
+2202/j.S.BR/632146H/
+2203/j.S.BR/236D/
+2204/j.S.BR/236[D]/
+2205/j.H.1/5P/
+2206/j.H.1/5K/
+2207/j.H.1/c.S/
+2208/j.H.1/f.S.1/
+2209/j.H.1/f.S.2/
+2210/j.H.1/f.S.3/
+2211/j.H.1/f.S.BR/
+2212/j.H.1/f.SS.1/
+2213/j.H.1/f.SS.2/
+2214/j.H.1/f.SS.3/
+2215/j.H.1/f.SS.BR/
+2216/j.H.1/f.SSS.1/
+2217/j.H.1/f.SSS.2/
+2218/j.H.1/f.SSS.3/
+2219/j.H.1/f.SSS.BR/
+2220/j.H.1/5H.1/
+2221/j.H.1/5H.2/
+2222/j.H.1/5H.3/
+2223/j.H.1/5H.BR/
+2224/j.H.1/2P/
+2225/j.H.1/2K/
+2226/j.H.1/2S.1/
+2227/j.H.1/2S.2/
+2228/j.H.1/2S.3/
+2229/j.H.1/2S.BR/
+2230/j.H.1/2H.1/
+2231/j.H.1/2H.2/
+2232/j.H.1/2H.3/
+2233/j.H.1/2H.BR/
+2234/j.H.1/j.P/
+2235/j.H.1/j.K/
+2236/j.H.1/j.S.1/
+2237/j.H.1/j.S.2/
+2238/j.H.1/j.S.3/
+2239/j.H.1/j.S.BR/
+2240/j.H.1/j.H.1/
+2241/j.H.1/j.H.2/
+2242/j.H.1/j.H.3/
+2243/j.H.1/j.H.BR/
+2244/j.H.1/j.D.1/-1f
+2245/j.H.1/j.D.2/
+2246/j.H.1/j.D.3/
+2247/j.H.1/j.D.BR/
+2248/j.H.1/6P/
+2249/j.H.1/6K/
+2250/j.H.1/6H.1/
+2251/j.H.1/6H.2/
+2252/j.H.1/6H.3/
+2253/j.H.1/6H.BR/
+2254/j.H.1/2D/
+2255/j.H.1/5D/
+2256/j.H.1/5[D]/
+2257/j.H.1/236S/
+2258/j.H.1/236K/
+2259/j.H.1/214K/
+2260/j.H.1/214H/
+2261/j.H.1/623H/
+2262/j.H.1/623HH/
+2263/j.H.1/623P/
+2264/j.H.1/632146S/
+2265/j.H.1/632146H/
+2266/j.H.1/236D/
+2267/j.H.1/236[D]/
+2268/j.H.2/5P/
+2269/j.H.2/5K/
+2270/j.H.2/c.S/
+2271/j.H.2/f.S.1/
+2272/j.H.2/f.S.2/
+2273/j.H.2/f.S.3/
+2274/j.H.2/f.S.BR/
+2275/j.H.2/f.SS.1/
+2276/j.H.2/f.SS.2/
+2277/j.H.2/f.SS.3/
+2278/j.H.2/f.SS.BR/
+2279/j.H.2/f.SSS.1/
+2280/j.H.2/f.SSS.2/
+2281/j.H.2/f.SSS.3/
+2282/j.H.2/f.SSS.BR/
+2283/j.H.2/5H.1/
+2284/j.H.2/5H.2/
+2285/j.H.2/5H.3/
+2286/j.H.2/5H.BR/
+2287/j.H.2/2P/
+2288/j.H.2/2K/
+2289/j.H.2/2S.1/
+2290/j.H.2/2S.2/
+2291/j.H.2/2S.3/
+2292/j.H.2/2S.BR/
+2293/j.H.2/2H.1/
+2294/j.H.2/2H.2/
+2295/j.H.2/2H.3/
+2296/j.H.2/2H.BR/
+2297/j.H.2/j.P/
+2298/j.H.2/j.K/
+2299/j.H.2/j.S.1/
+2300/j.H.2/j.S.2/
+2301/j.H.2/j.S.3/
+2302/j.H.2/j.S.BR/
+2303/j.H.2/j.H.1/
+2304/j.H.2/j.H.2/
+2305/j.H.2/j.H.3/
+2306/j.H.2/j.H.BR/
+2307/j.H.2/j.D.1/
+2308/j.H.2/j.D.2/-3f
+2309/j.H.2/j.D.3/
+2310/j.H.2/j.D.BR/
+2311/j.H.2/6P/
+2312/j.H.2/6K/
+2313/j.H.2/6H.1/
+2314/j.H.2/6H.2/
+2315/j.H.2/6H.3/
+2316/j.H.2/6H.BR/
+2317/j.H.2/2D/
+2318/j.H.2/5D/
+2319/j.H.2/5[D]/
+2320/j.H.2/236S/
+2321/j.H.2/236K/
+2322/j.H.2/214K/
+2323/j.H.2/214H/
+2324/j.H.2/623H/
+2325/j.H.2/623HH/
+2326/j.H.2/623P/
+2327/j.H.2/632146S/
+2328/j.H.2/632146H/
+2329/j.H.2/236D/
+2330/j.H.2/236[D]/
+2331/j.H.3/5P/
+2332/j.H.3/5K/
+2333/j.H.3/c.S/
+2334/j.H.3/f.S.1/
+2335/j.H.3/f.S.2/
+2336/j.H.3/f.S.3/
+2337/j.H.3/f.S.BR/
+2338/j.H.3/f.SS.1/
+2339/j.H.3/f.SS.2/
+2340/j.H.3/f.SS.3/
+2341/j.H.3/f.SS.BR/
+2342/j.H.3/f.SSS.1/
+2343/j.H.3/f.SSS.2/
+2344/j.H.3/f.SSS.3/
+2345/j.H.3/f.SSS.BR/
+2346/j.H.3/5H.1/
+2347/j.H.3/5H.2/
+2348/j.H.3/5H.3/
+2349/j.H.3/5H.BR/
+2350/j.H.3/2P/
+2351/j.H.3/2K/
+2352/j.H.3/2S.1/
+2353/j.H.3/2S.2/
+2354/j.H.3/2S.3/
+2355/j.H.3/2S.BR/
+2356/j.H.3/2H.1/
+2357/j.H.3/2H.2/
+2358/j.H.3/2H.3/
+2359/j.H.3/2H.BR/
+2360/j.H.3/j.P/
+2361/j.H.3/j.K/
+2362/j.H.3/j.S.1/
+2363/j.H.3/j.S.2/
+2364/j.H.3/j.S.3/
+2365/j.H.3/j.S.BR/
+2366/j.H.3/j.H.1/
+2367/j.H.3/j.H.2/
+2368/j.H.3/j.H.3/
+2369/j.H.3/j.H.BR/
+2370/j.H.3/j.D.1/
+2371/j.H.3/j.D.2/
+2372/j.H.3/j.D.3/-5f
+2373/j.H.3/j.D.BR/
+2374/j.H.3/6P/
+2375/j.H.3/6K/
+2376/j.H.3/6H.1/
+2377/j.H.3/6H.2/
+2378/j.H.3/6H.3/
+2379/j.H.3/6H.BR/
+2380/j.H.3/2D/
+2381/j.H.3/5D/
+2382/j.H.3/5[D]/
+2383/j.H.3/236S/
+2384/j.H.3/236K/
+2385/j.H.3/214K/
+2386/j.H.3/214H/
+2387/j.H.3/623H/
+2388/j.H.3/623HH/
+2389/j.H.3/623P/
+2390/j.H.3/632146S/
+2391/j.H.3/632146H/
+2392/j.H.3/236D/
+2393/j.H.3/236[D]/
+2394/j.H.BR/5P/
+2395/j.H.BR/5K/
+2396/j.H.BR/c.S/
+2397/j.H.BR/f.S.1/
+2398/j.H.BR/f.S.2/
+2399/j.H.BR/f.S.3/
+2400/j.H.BR/f.S.BR/
+2401/j.H.BR/f.SS.1/
+2402/j.H.BR/f.SS.2/
+2403/j.H.BR/f.SS.3/
+2404/j.H.BR/f.SS.BR/
+2405/j.H.BR/f.SSS.1/
+2406/j.H.BR/f.SSS.2/
+2407/j.H.BR/f.SSS.3/
+2408/j.H.BR/f.SSS.BR/
+2409/j.H.BR/5H.1/
+2410/j.H.BR/5H.2/
+2411/j.H.BR/5H.3/
+2412/j.H.BR/5H.BR/
+2413/j.H.BR/2P/
+2414/j.H.BR/2K/
+2415/j.H.BR/2S.1/
+2416/j.H.BR/2S.2/
+2417/j.H.BR/2S.3/
+2418/j.H.BR/2S.BR/
+2419/j.H.BR/2H.1/
+2420/j.H.BR/2H.2/
+2421/j.H.BR/2H.3/
+2422/j.H.BR/2H.BR/
+2423/j.H.BR/j.P/
+2424/j.H.BR/j.K/
+2425/j.H.BR/j.S.1/
+2426/j.H.BR/j.S.2/
+2427/j.H.BR/j.S.3/
+2428/j.H.BR/j.S.BR/
+2429/j.H.BR/j.H.1/
+2430/j.H.BR/j.H.2/
+2431/j.H.BR/j.H.3/
+2432/j.H.BR/j.H.BR/
+2433/j.H.BR/j.D.1/
+2434/j.H.BR/j.D.2/
+2435/j.H.BR/j.D.3/
+2436/j.H.BR/j.D.BR/-5f
+2437/j.H.BR/6P/
+2438/j.H.BR/6K/
+2439/j.H.BR/6H.1/
+2440/j.H.BR/6H.2/
+2441/j.H.BR/6H.3/
+2442/j.H.BR/6H.BR/
+2443/j.H.BR/2D/
+2444/j.H.BR/5D/
+2445/j.H.BR/5[D]/
+2446/j.H.BR/236S/
+2447/j.H.BR/236K/
+2448/j.H.BR/214K/
+2449/j.H.BR/214H/
+2450/j.H.BR/623H/
+2451/j.H.BR/623HH/
+2452/j.H.BR/623P/
+2453/j.H.BR/632146S/
+2454/j.H.BR/632146H/
+2455/j.H.BR/236D/
+2456/j.H.BR/236[D]/
+2457/j.D.1/5P/
+2458/j.D.1/5K/
+2459/j.D.1/c.S/
+2460/j.D.1/f.S.1/
+2461/j.D.1/f.S.2/
+2462/j.D.1/f.S.3/
+2463/j.D.1/f.S.BR/
+2464/j.D.1/f.SS.1/
+2465/j.D.1/f.SS.2/
+2466/j.D.1/f.SS.3/
+2467/j.D.1/f.SS.BR/
+2468/j.D.1/f.SSS.1/
+2469/j.D.1/f.SSS.2/
+2470/j.D.1/f.SSS.3/
+2471/j.D.1/f.SSS.BR/
+2472/j.D.1/5H.1/
+2473/j.D.1/5H.2/
+2474/j.D.1/5H.3/
+2475/j.D.1/5H.BR/
+2476/j.D.1/2P/
+2477/j.D.1/2K/
+2478/j.D.1/2S.1/
+2479/j.D.1/2S.2/
+2480/j.D.1/2S.3/
+2481/j.D.1/2S.BR/
+2482/j.D.1/2H.1/
+2483/j.D.1/2H.2/
+2484/j.D.1/2H.3/
+2485/j.D.1/2H.BR/
+2486/j.D.1/j.P/
+2487/j.D.1/j.K/
+2488/j.D.1/j.S.1/
+2489/j.D.1/j.S.2/
+2490/j.D.1/j.S.3/
+2491/j.D.1/j.S.BR/
+2492/j.D.1/j.H.1/
+2493/j.D.1/j.H.2/
+2494/j.D.1/j.H.3/
+2495/j.D.1/j.H.BR/
+2496/j.D.1/j.D.1/
+2497/j.D.1/j.D.2/
+2498/j.D.1/j.D.3/
+2499/j.D.1/j.D.BR/
+2500/j.D.1/6P/
+2501/j.D.1/6K/
+2502/j.D.1/6H.1/
+2503/j.D.1/6H.2/
+2504/j.D.1/6H.3/
+2505/j.D.1/6H.BR/
+2506/j.D.1/2D/
+2507/j.D.1/5D/
+2508/j.D.1/5[D]/
+2509/j.D.1/236S/
+2510/j.D.1/236K/
+2511/j.D.1/214K/
+2512/j.D.1/214H/
+2513/j.D.1/623H/
+2514/j.D.1/623HH/
+2515/j.D.1/623P/
+2516/j.D.1/632146S/
+2517/j.D.1/632146H/
+2518/j.D.1/236D/
+2519/j.D.1/236[D]/
+2520/j.D.2/5P/
+2521/j.D.2/5K/
+2522/j.D.2/c.S/
+2523/j.D.2/f.S.1/
+2524/j.D.2/f.S.2/
+2525/j.D.2/f.S.3/
+2526/j.D.2/f.S.BR/
+2527/j.D.2/f.SS.1/
+2528/j.D.2/f.SS.2/
+2529/j.D.2/f.SS.3/
+2530/j.D.2/f.SS.BR/
+2531/j.D.2/f.SSS.1/
+2532/j.D.2/f.SSS.2/
+2533/j.D.2/f.SSS.3/
+2534/j.D.2/f.SSS.BR/
+2535/j.D.2/5H.1/
+2536/j.D.2/5H.2/
+2537/j.D.2/5H.3/
+2538/j.D.2/5H.BR/
+2539/j.D.2/2P/
+2540/j.D.2/2K/
+2541/j.D.2/2S.1/
+2542/j.D.2/2S.2/
+2543/j.D.2/2S.3/
+2544/j.D.2/2S.BR/
+2545/j.D.2/2H.1/
+2546/j.D.2/2H.2/
+2547/j.D.2/2H.3/
+2548/j.D.2/2H.BR/
+2549/j.D.2/j.P/
+2550/j.D.2/j.K/
+2551/j.D.2/j.S.1/
+2552/j.D.2/j.S.2/
+2553/j.D.2/j.S.3/
+2554/j.D.2/j.S.BR/
+2555/j.D.2/j.H.1/
+2556/j.D.2/j.H.2/
+2557/j.D.2/j.H.3/
+2558/j.D.2/j.H.BR/
+2559/j.D.2/j.D.1/
+2560/j.D.2/j.D.2/
+2561/j.D.2/j.D.3/
+2562/j.D.2/j.D.BR/
+2563/j.D.2/6P/
+2564/j.D.2/6K/
+2565/j.D.2/6H.1/
+2566/j.D.2/6H.2/
+2567/j.D.2/6H.3/
+2568/j.D.2/6H.BR/
+2569/j.D.2/2D/
+2570/j.D.2/5D/
+2571/j.D.2/5[D]/
+2572/j.D.2/236S/
+2573/j.D.2/236K/
+2574/j.D.2/214K/
+2575/j.D.2/214H/
+2576/j.D.2/623H/
+2577/j.D.2/623HH/
+2578/j.D.2/623P/
+2579/j.D.2/632146S/
+2580/j.D.2/632146H/
+2581/j.D.2/236D/
+2582/j.D.2/236[D]/
+2583/j.D.3/5P/
+2584/j.D.3/5K/
+2585/j.D.3/c.S/
+2586/j.D.3/f.S.1/
+2587/j.D.3/f.S.2/
+2588/j.D.3/f.S.3/
+2589/j.D.3/f.S.BR/
+2590/j.D.3/f.SS.1/
+2591/j.D.3/f.SS.2/
+2592/j.D.3/f.SS.3/
+2593/j.D.3/f.SS.BR/
+2594/j.D.3/f.SSS.1/
+2595/j.D.3/f.SSS.2/
+2596/j.D.3/f.SSS.3/
+2597/j.D.3/f.SSS.BR/
+2598/j.D.3/5H.1/
+2599/j.D.3/5H.2/
+2600/j.D.3/5H.3/
+2601/j.D.3/5H.BR/
+2602/j.D.3/2P/
+2603/j.D.3/2K/
+2604/j.D.3/2S.1/
+2605/j.D.3/2S.2/
+2606/j.D.3/2S.3/
+2607/j.D.3/2S.BR/
+2608/j.D.3/2H.1/
+2609/j.D.3/2H.2/
+2610/j.D.3/2H.3/
+2611/j.D.3/2H.BR/
+2612/j.D.3/j.P/
+2613/j.D.3/j.K/
+2614/j.D.3/j.S.1/
+2615/j.D.3/j.S.2/
+2616/j.D.3/j.S.3/
+2617/j.D.3/j.S.BR/
+2618/j.D.3/j.H.1/
+2619/j.D.3/j.H.2/
+2620/j.D.3/j.H.3/
+2621/j.D.3/j.H.BR/
+2622/j.D.3/j.D.1/
+2623/j.D.3/j.D.2/
+2624/j.D.3/j.D.3/
+2625/j.D.3/j.D.BR/
+2626/j.D.3/6P/
+2627/j.D.3/6K/
+2628/j.D.3/6H.1/
+2629/j.D.3/6H.2/
+2630/j.D.3/6H.3/
+2631/j.D.3/6H.BR/
+2632/j.D.3/2D/
+2633/j.D.3/5D/
+2634/j.D.3/5[D]/
+2635/j.D.3/236S/
+2636/j.D.3/236K/
+2637/j.D.3/214K/
+2638/j.D.3/214H/
+2639/j.D.3/623H/
+2640/j.D.3/623HH/
+2641/j.D.3/623P/
+2642/j.D.3/632146S/
+2643/j.D.3/632146H/
+2644/j.D.3/236D/
+2645/j.D.3/236[D]/
+2646/j.D.BR/5P/
+2647/j.D.BR/5K/
+2648/j.D.BR/c.S/
+2649/j.D.BR/f.S.1/
+2650/j.D.BR/f.S.2/
+2651/j.D.BR/f.S.3/
+2652/j.D.BR/f.S.BR/
+2653/j.D.BR/f.SS.1/
+2654/j.D.BR/f.SS.2/
+2655/j.D.BR/f.SS.3/
+2656/j.D.BR/f.SS.BR/
+2657/j.D.BR/f.SSS.1/
+2658/j.D.BR/f.SSS.2/
+2659/j.D.BR/f.SSS.3/
+2660/j.D.BR/f.SSS.BR/
+2661/j.D.BR/5H.1/
+2662/j.D.BR/5H.2/
+2663/j.D.BR/5H.3/
+2664/j.D.BR/5H.BR/
+2665/j.D.BR/2P/
+2666/j.D.BR/2K/
+2667/j.D.BR/2S.1/
+2668/j.D.BR/2S.2/
+2669/j.D.BR/2S.3/
+2670/j.D.BR/2S.BR/
+2671/j.D.BR/2H.1/
+2672/j.D.BR/2H.2/
+2673/j.D.BR/2H.3/
+2674/j.D.BR/2H.BR/
+2675/j.D.BR/j.P/
+2676/j.D.BR/j.K/
+2677/j.D.BR/j.S.1/
+2678/j.D.BR/j.S.2/
+2679/j.D.BR/j.S.3/
+2680/j.D.BR/j.S.BR/
+2681/j.D.BR/j.H.1/
+2682/j.D.BR/j.H.2/
+2683/j.D.BR/j.H.3/
+2684/j.D.BR/j.H.BR/
+2685/j.D.BR/j.D.1/
+2686/j.D.BR/j.D.2/
+2687/j.D.BR/j.D.3/
+2688/j.D.BR/j.D.BR/
+2689/j.D.BR/6P/
+2690/j.D.BR/6K/
+2691/j.D.BR/6H.1/
+2692/j.D.BR/6H.2/
+2693/j.D.BR/6H.3/
+2694/j.D.BR/6H.BR/
+2695/j.D.BR/2D/
+2696/j.D.BR/5D/
+2697/j.D.BR/5[D]/
+2698/j.D.BR/236S/
+2699/j.D.BR/236K/
+2700/j.D.BR/214K/
+2701/j.D.BR/214H/
+2702/j.D.BR/623H/
+2703/j.D.BR/623HH/
+2704/j.D.BR/623P/
+2705/j.D.BR/632146S/
+2706/j.D.BR/632146H/
+2707/j.D.BR/236D/
+2708/j.D.BR/236[D]/
+2709/6P/5P/11f
+2710/6P/5K/13f
+2711/6P/c.S/13f
+2712/6P/f.S.1/22f
+2713/6P/f.S.2/20f
+2714/6P/f.S.3/18f
+2715/6P/f.S.BR/18f
+2716/6P/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6P
+2717/6P/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6P
+2718/6P/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6P
+2719/6P/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 6P
+2720/6P/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 6P
+2721/6P/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6P
+2722/6P/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6P
+2723/6P/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6P
+2724/6P/5H.1/26f
+2725/6P/5H.2/24f
+2726/6P/5H.3/22f
+2727/6P/5H.BR/22f
+2728/6P/2P/12f
+2729/6P/2K/13f
+2730/6P/2S.1/18f
+2731/6P/2S.2/17f
+2732/6P/2S.3/16f
+2733/6P/2S.BR/16f
+2734/6P/2H.1/25f
+2735/6P/2H.2/23f
+2736/6P/2H.3/21f
+2737/6P/2H.BR/21f
+2738/6P/j.P/18f
+2739/6P/j.K/18f
+2740/6P/j.S.1/24f
+2741/6P/j.S.2/23f
+2742/6P/j.S.3/22f
+2743/6P/j.S.BR/22f
+2744/6P/j.H.1/27f
+2745/6P/j.H.2/26f
+2746/6P/j.H.3/25f
+2747/6P/j.H.BR/25f
+2748/6P/j.D.1/26f
+2749/6P/j.D.2/24f
+2750/6P/j.D.3/22f
+2751/6P/j.D.BR/22f
+2752/6P/6P/18f
+2753/6P/6K/21f
+2754/6P/6H.1/23f
+2755/6P/6H.2/22f
+2756/6P/6H.3/21f
+2757/6P/6H.BR/21f
+2758/6P/2D/18f
+2759/6P/5D/26f
+2760/6P/5[D]/34f
+2761/6P/236S/5f
+2762/6P/236K/
+2763/6P/214K/
+2764/6P/214H/1f
+2765/6P/623H/-2f
+2766/6P/623HH/623HH is a follow-up move and cannot be done after 6P
+2767/6P/623P/-6f
+2768/6P/632146S/-4f
+2769/6P/632146H/27f
+2770/6P/236D/7f
+2771/6P/236[D]/19f
+2772/6K/5P/7f
+2773/6K/5K/9f
+2774/6K/c.S/9f
+2775/6K/f.S.1/18f
+2776/6K/f.S.2/16f
+2777/6K/f.S.3/14f
+2778/6K/f.S.BR/14f
+2779/6K/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6K
+2780/6K/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6K
+2781/6K/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6K
+2782/6K/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 6K
+2783/6K/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 6K
+2784/6K/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6K
+2785/6K/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6K
+2786/6K/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6K
+2787/6K/5H.1/22f
+2788/6K/5H.2/20f
+2789/6K/5H.3/18f
+2790/6K/5H.BR/18f
+2791/6K/2P/8f
+2792/6K/2K/9f
+2793/6K/2S.1/14f
+2794/6K/2S.2/13f
+2795/6K/2S.3/12f
+2796/6K/2S.BR/12f
+2797/6K/2H.1/21f
+2798/6K/2H.2/19f
+2799/6K/2H.3/17f
+2800/6K/2H.BR/17f
+2801/6K/j.P/14f
+2802/6K/j.K/14f
+2803/6K/j.S.1/20f
+2804/6K/j.S.2/19f
+2805/6K/j.S.3/18f
+2806/6K/j.S.BR/18f
+2807/6K/j.H.1/23f
+2808/6K/j.H.2/22f
+2809/6K/j.H.3/21f
+2810/6K/j.H.BR/21f
+2811/6K/j.D.1/22f
+2812/6K/j.D.2/20f
+2813/6K/j.D.3/18f
+2814/6K/j.D.BR/18f
+2815/6K/6P/14f
+2816/6K/6K/17f
+2817/6K/6H.1/19f
+2818/6K/6H.2/18f
+2819/6K/6H.3/17f
+2820/6K/6H.BR/17f
+2821/6K/2D/14f
+2822/6K/5D/22f
+2823/6K/5[D]/30f
+2824/6K/236S/5f
+2825/6K/236K/
+2826/6K/214K/
+2827/6K/214H/1f
+2828/6K/623H/-2f
+2829/6K/623HH/623HH is a follow-up move and cannot be done after 6K
+2830/6K/623P/-6f
+2831/6K/632146S/-4f
+2832/6K/632146H/23f
+2833/6K/236D/7f
+2834/6K/236[D]/19f
+2835/6H.1/5P/7f
+2836/6H.1/5K/9f
+2837/6H.1/c.S/9f
+2838/6H.1/f.S.1/18f
+2839/6H.1/f.S.2/16f
+2840/6H.1/f.S.3/14f
+2841/6H.1/f.S.BR/14f
+2842/6H.1/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.1
+2843/6H.1/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.1
+2844/6H.1/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.1
+2845/6H.1/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 6H.1
+2846/6H.1/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 6H.1
+2847/6H.1/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.1
+2848/6H.1/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.1
+2849/6H.1/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.1
+2850/6H.1/5H.1/22f
+2851/6H.1/5H.2/20f
+2852/6H.1/5H.3/18f
+2853/6H.1/5H.BR/18f
+2854/6H.1/2P/8f
+2855/6H.1/2K/9f
+2856/6H.1/2S.1/14f
+2857/6H.1/2S.2/13f
+2858/6H.1/2S.3/12f
+2859/6H.1/2S.BR/12f
+2860/6H.1/2H.1/21f
+2861/6H.1/2H.2/19f
+2862/6H.1/2H.3/17f
+2863/6H.1/2H.BR/17f
+2864/6H.1/j.P/14f
+2865/6H.1/j.K/14f
+2866/6H.1/j.S.1/20f
+2867/6H.1/j.S.2/19f
+2868/6H.1/j.S.3/18f
+2869/6H.1/j.S.BR/18f
+2870/6H.1/j.H.1/23f
+2871/6H.1/j.H.2/22f
+2872/6H.1/j.H.3/21f
+2873/6H.1/j.H.BR/21f
+2874/6H.1/j.D.1/22f
+2875/6H.1/j.D.2/20f
+2876/6H.1/j.D.3/18f
+2877/6H.1/j.D.BR/18f
+2878/6H.1/6P/14f
+2879/6H.1/6K/17f
+2880/6H.1/6H.1/19f
+2881/6H.1/6H.2/18f
+2882/6H.1/6H.3/17f
+2883/6H.1/6H.BR/17f
+2884/6H.1/2D/14f
+2885/6H.1/5D/22f
+2886/6H.1/5[D]/30f
+2887/6H.1/236S/0f
+2888/6H.1/236K/
+2889/6H.1/214K/
+2890/6H.1/214H/-4f
+2891/6H.1/623H/-7f
+2892/6H.1/623HH/623HH is a follow-up move and cannot be done after 6H.1
+2893/6H.1/623P/-11f
+2894/6H.1/632146S/-9f
+2895/6H.1/632146H/23f
+2896/6H.1/236D/2f
+2897/6H.1/236[D]/14f
+2898/6H.2/5P/7f
+2899/6H.2/5K/9f
+2900/6H.2/c.S/9f
+2901/6H.2/f.S.1/18f
+2902/6H.2/f.S.2/16f
+2903/6H.2/f.S.3/14f
+2904/6H.2/f.S.BR/14f
+2905/6H.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.2
+2906/6H.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.2
+2907/6H.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.2
+2908/6H.2/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 6H.2
+2909/6H.2/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 6H.2
+2910/6H.2/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.2
+2911/6H.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.2
+2912/6H.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.2
+2913/6H.2/5H.1/22f
+2914/6H.2/5H.2/20f
+2915/6H.2/5H.3/18f
+2916/6H.2/5H.BR/18f
+2917/6H.2/2P/8f
+2918/6H.2/2K/9f
+2919/6H.2/2S.1/14f
+2920/6H.2/2S.2/13f
+2921/6H.2/2S.3/12f
+2922/6H.2/2S.BR/12f
+2923/6H.2/2H.1/21f
+2924/6H.2/2H.2/19f
+2925/6H.2/2H.3/17f
+2926/6H.2/2H.BR/17f
+2927/6H.2/j.P/14f
+2928/6H.2/j.K/14f
+2929/6H.2/j.S.1/20f
+2930/6H.2/j.S.2/19f
+2931/6H.2/j.S.3/18f
+2932/6H.2/j.S.BR/18f
+2933/6H.2/j.H.1/23f
+2934/6H.2/j.H.2/22f
+2935/6H.2/j.H.3/21f
+2936/6H.2/j.H.BR/21f
+2937/6H.2/j.D.1/22f
+2938/6H.2/j.D.2/20f
+2939/6H.2/j.D.3/18f
+2940/6H.2/j.D.BR/18f
+2941/6H.2/6P/14f
+2942/6H.2/6K/17f
+2943/6H.2/6H.1/19f
+2944/6H.2/6H.2/18f
+2945/6H.2/6H.3/17f
+2946/6H.2/6H.BR/17f
+2947/6H.2/2D/14f
+2948/6H.2/5D/22f
+2949/6H.2/5[D]/30f
+2950/6H.2/236S/0f
+2951/6H.2/236K/
+2952/6H.2/214K/
+2953/6H.2/214H/-4f
+2954/6H.2/623H/-7f
+2955/6H.2/623HH/623HH is a follow-up move and cannot be done after 6H.2
+2956/6H.2/623P/-11f
+2957/6H.2/632146S/-9f
+2958/6H.2/632146H/23f
+2959/6H.2/236D/2f
+2960/6H.2/236[D]/14f
+2961/6H.3/5P/7f
+2962/6H.3/5K/9f
+2963/6H.3/c.S/9f
+2964/6H.3/f.S.1/18f
+2965/6H.3/f.S.2/16f
+2966/6H.3/f.S.3/14f
+2967/6H.3/f.S.BR/14f
+2968/6H.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.3
+2969/6H.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.3
+2970/6H.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.3
+2971/6H.3/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 6H.3
+2972/6H.3/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 6H.3
+2973/6H.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.3
+2974/6H.3/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.3
+2975/6H.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.3
+2976/6H.3/5H.1/22f
+2977/6H.3/5H.2/20f
+2978/6H.3/5H.3/18f
+2979/6H.3/5H.BR/18f
+2980/6H.3/2P/8f
+2981/6H.3/2K/9f
+2982/6H.3/2S.1/14f
+2983/6H.3/2S.2/13f
+2984/6H.3/2S.3/12f
+2985/6H.3/2S.BR/12f
+2986/6H.3/2H.1/21f
+2987/6H.3/2H.2/19f
+2988/6H.3/2H.3/17f
+2989/6H.3/2H.BR/17f
+2990/6H.3/j.P/14f
+2991/6H.3/j.K/14f
+2992/6H.3/j.S.1/20f
+2993/6H.3/j.S.2/19f
+2994/6H.3/j.S.3/18f
+2995/6H.3/j.S.BR/18f
+2996/6H.3/j.H.1/23f
+2997/6H.3/j.H.2/22f
+2998/6H.3/j.H.3/21f
+2999/6H.3/j.H.BR/21f
+3000/6H.3/j.D.1/22f
+3001/6H.3/j.D.2/20f
+3002/6H.3/j.D.3/18f
+3003/6H.3/j.D.BR/18f
+3004/6H.3/6P/14f
+3005/6H.3/6K/17f
+3006/6H.3/6H.1/19f
+3007/6H.3/6H.2/18f
+3008/6H.3/6H.3/17f
+3009/6H.3/6H.BR/17f
+3010/6H.3/2D/14f
+3011/6H.3/5D/22f
+3012/6H.3/5[D]/30f
+3013/6H.3/236S/0f
+3014/6H.3/236K/
+3015/6H.3/214K/
+3016/6H.3/214H/-4f
+3017/6H.3/623H/-7f
+3018/6H.3/623HH/623HH is a follow-up move and cannot be done after 6H.3
+3019/6H.3/623P/-11f
+3020/6H.3/632146S/-9f
+3021/6H.3/632146H/23f
+3022/6H.3/236D/2f
+3023/6H.3/236[D]/14f
+3024/6H.BR/5P/7f
+3025/6H.BR/5K/9f
+3026/6H.BR/c.S/9f
+3027/6H.BR/f.S.1/18f
+3028/6H.BR/f.S.2/16f
+3029/6H.BR/f.S.3/14f
+3030/6H.BR/f.S.BR/14f
+3031/6H.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.BR
+3032/6H.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.BR
+3033/6H.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.BR
+3034/6H.BR/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 6H.BR
+3035/6H.BR/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 6H.BR
+3036/6H.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.BR
+3037/6H.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.BR
+3038/6H.BR/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.BR
+3039/6H.BR/5H.1/22f
+3040/6H.BR/5H.2/20f
+3041/6H.BR/5H.3/18f
+3042/6H.BR/5H.BR/18f
+3043/6H.BR/2P/8f
+3044/6H.BR/2K/9f
+3045/6H.BR/2S.1/14f
+3046/6H.BR/2S.2/13f
+3047/6H.BR/2S.3/12f
+3048/6H.BR/2S.BR/12f
+3049/6H.BR/2H.1/21f
+3050/6H.BR/2H.2/19f
+3051/6H.BR/2H.3/17f
+3052/6H.BR/2H.BR/17f
+3053/6H.BR/j.P/14f
+3054/6H.BR/j.K/14f
+3055/6H.BR/j.S.1/20f
+3056/6H.BR/j.S.2/19f
+3057/6H.BR/j.S.3/18f
+3058/6H.BR/j.S.BR/18f
+3059/6H.BR/j.H.1/23f
+3060/6H.BR/j.H.2/22f
+3061/6H.BR/j.H.3/21f
+3062/6H.BR/j.H.BR/21f
+3063/6H.BR/j.D.1/22f
+3064/6H.BR/j.D.2/20f
+3065/6H.BR/j.D.3/18f
+3066/6H.BR/j.D.BR/18f
+3067/6H.BR/6P/14f
+3068/6H.BR/6K/17f
+3069/6H.BR/6H.1/19f
+3070/6H.BR/6H.2/18f
+3071/6H.BR/6H.3/17f
+3072/6H.BR/6H.BR/17f
+3073/6H.BR/2D/14f
+3074/6H.BR/5D/22f
+3075/6H.BR/5[D]/30f
+3076/6H.BR/236S/0f
+3077/6H.BR/236K/
+3078/6H.BR/214K/
+3079/6H.BR/214H/-4f
+3080/6H.BR/623H/-7f
+3081/6H.BR/623HH/623HH is a follow-up move and cannot be done after 6H.BR
+3082/6H.BR/623P/-11f
+3083/6H.BR/632146S/-9f
+3084/6H.BR/632146H/23f
+3085/6H.BR/236D/2f
+3086/6H.BR/236[D]/14f
+3087/2D/5P/12f
+3088/2D/5K/14f
+3089/2D/c.S/14f
+3090/2D/f.S.1/23f
+3091/2D/f.S.2/21f
+3092/2D/f.S.3/19f
+3093/2D/f.S.BR/19f
+3094/2D/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 2D
+3095/2D/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 2D
+3096/2D/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 2D
+3097/2D/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 2D
+3098/2D/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 2D
+3099/2D/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 2D
+3100/2D/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 2D
+3101/2D/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 2D
+3102/2D/5H.1/27f
+3103/2D/5H.2/25f
+3104/2D/5H.3/23f
+3105/2D/5H.BR/23f
+3106/2D/2P/13f
+3107/2D/2K/14f
+3108/2D/2S.1/19f
+3109/2D/2S.2/18f
+3110/2D/2S.3/17f
+3111/2D/2S.BR/17f
+3112/2D/2H.1/26f
+3113/2D/2H.2/24f
+3114/2D/2H.3/22f
+3115/2D/2H.BR/22f
+3116/2D/j.P/19f
+3117/2D/j.K/19f
+3118/2D/j.S.1/25f
+3119/2D/j.S.2/24f
+3120/2D/j.S.3/23f
+3121/2D/j.S.BR/23f
+3122/2D/j.H.1/28f
+3123/2D/j.H.2/27f
+3124/2D/j.H.3/26f
+3125/2D/j.H.BR/26f
+3126/2D/j.D.1/27f
+3127/2D/j.D.2/25f
+3128/2D/j.D.3/23f
+3129/2D/j.D.BR/23f
+3130/2D/6P/19f
+3131/2D/6K/22f
+3132/2D/6H.1/24f
+3133/2D/6H.2/23f
+3134/2D/6H.3/22f
+3135/2D/6H.BR/22f
+3136/2D/2D/19f
+3137/2D/5D/27f
+3138/2D/5[D]/35f
+3139/2D/236S/5f
+3140/2D/236K/
+3141/2D/214K/
+3142/2D/214H/1f
+3143/2D/623H/-2f
+3144/2D/623HH/623HH is a follow-up move and cannot be done after 2D
+3145/2D/623P/-6f
+3146/2D/632146S/-4f
+3147/2D/632146H/28f
+3148/2D/236D/7f
+3149/2D/236[D]/19f
+3150/5D/5P/20f
+3151/5D/5K/22f
+3152/5D/c.S/22f
+3153/5D/f.S.1/31f
+3154/5D/f.S.2/29f
+3155/5D/f.S.3/27f
+3156/5D/f.S.BR/27f
+3157/5D/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5D
+3158/5D/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5D
+3159/5D/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5D
+3160/5D/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5D
+3161/5D/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5D
+3162/5D/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5D
+3163/5D/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5D
+3164/5D/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5D
+3165/5D/5H.1/35f
+3166/5D/5H.2/33f
+3167/5D/5H.3/31f
+3168/5D/5H.BR/31f
+3169/5D/2P/21f
+3170/5D/2K/22f
+3171/5D/2S.1/27f
+3172/5D/2S.2/26f
+3173/5D/2S.3/25f
+3174/5D/2S.BR/25f
+3175/5D/2H.1/34f
+3176/5D/2H.2/32f
+3177/5D/2H.3/30f
+3178/5D/2H.BR/30f
+3179/5D/j.P/27f
+3180/5D/j.K/27f
+3181/5D/j.S.1/33f
+3182/5D/j.S.2/32f
+3183/5D/j.S.3/31f
+3184/5D/j.S.BR/31f
+3185/5D/j.H.1/36f
+3186/5D/j.H.2/35f
+3187/5D/j.H.3/34f
+3188/5D/j.H.BR/34f
+3189/5D/j.D.1/35f
+3190/5D/j.D.2/33f
+3191/5D/j.D.3/31f
+3192/5D/j.D.BR/31f
+3193/5D/6P/27f
+3194/5D/6K/30f
+3195/5D/6H.1/32f
+3196/5D/6H.2/31f
+3197/5D/6H.3/30f
+3198/5D/6H.BR/30f
+3199/5D/2D/27f
+3200/5D/5D/35f
+3201/5D/5[D]/43f
+3202/5D/236S/33f
+3203/5D/236K/
+3204/5D/214K/
+3205/5D/214H/29f
+3206/5D/623H/26f
+3207/5D/623HH/623HH is a follow-up move and cannot be done after 5D
+3208/5D/623P/22f
+3209/5D/632146S/24f
+3210/5D/632146H/36f
+3211/5D/236D/35f
+3212/5D/236[D]/47f
+3213/5[D]/5P/15f
+3214/5[D]/5K/17f
+3215/5[D]/c.S/17f
+3216/5[D]/f.S.1/26f
+3217/5[D]/f.S.2/24f
+3218/5[D]/f.S.3/22f
+3219/5[D]/f.S.BR/22f
+3220/5[D]/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 5[D]
+3221/5[D]/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 5[D]
+3222/5[D]/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 5[D]
+3223/5[D]/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 5[D]
+3224/5[D]/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 5[D]
+3225/5[D]/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 5[D]
+3226/5[D]/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 5[D]
+3227/5[D]/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 5[D]
+3228/5[D]/5H.1/30f
+3229/5[D]/5H.2/28f
+3230/5[D]/5H.3/26f
+3231/5[D]/5H.BR/26f
+3232/5[D]/2P/16f
+3233/5[D]/2K/17f
+3234/5[D]/2S.1/22f
+3235/5[D]/2S.2/21f
+3236/5[D]/2S.3/20f
+3237/5[D]/2S.BR/20f
+3238/5[D]/2H.1/29f
+3239/5[D]/2H.2/27f
+3240/5[D]/2H.3/25f
+3241/5[D]/2H.BR/25f
+3242/5[D]/j.P/22f
+3243/5[D]/j.K/22f
+3244/5[D]/j.S.1/28f
+3245/5[D]/j.S.2/27f
+3246/5[D]/j.S.3/26f
+3247/5[D]/j.S.BR/26f
+3248/5[D]/j.H.1/31f
+3249/5[D]/j.H.2/30f
+3250/5[D]/j.H.3/29f
+3251/5[D]/j.H.BR/29f
+3252/5[D]/j.D.1/30f
+3253/5[D]/j.D.2/28f
+3254/5[D]/j.D.3/26f
+3255/5[D]/j.D.BR/26f
+3256/5[D]/6P/22f
+3257/5[D]/6K/25f
+3258/5[D]/6H.1/27f
+3259/5[D]/6H.2/26f
+3260/5[D]/6H.3/25f
+3261/5[D]/6H.BR/25f
+3262/5[D]/2D/22f
+3263/5[D]/5D/30f
+3264/5[D]/5[D]/38f
+3265/5[D]/236S/28f
+3266/5[D]/236K/
+3267/5[D]/214K/
+3268/5[D]/214H/24f
+3269/5[D]/623H/21f
+3270/5[D]/623HH/623HH is a follow-up move and cannot be done after 5[D]
+3271/5[D]/623P/17f
+3272/5[D]/632146S/19f
+3273/5[D]/632146H/31f
+3274/5[D]/236D/30f
+3275/5[D]/236[D]/42f
+3276/236S/5P/0f
+3277/236S/5K/2f
+3278/236S/c.S/2f
+3279/236S/f.S.1/11f
+3280/236S/f.S.2/9f
+3281/236S/f.S.3/7f
+3282/236S/f.S.BR/7f
+3283/236S/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 236S
+3284/236S/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 236S
+3285/236S/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 236S
+3286/236S/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 236S
+3287/236S/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 236S
+3288/236S/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 236S
+3289/236S/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 236S
+3290/236S/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 236S
+3291/236S/5H.1/15f
+3292/236S/5H.2/13f
+3293/236S/5H.3/11f
+3294/236S/5H.BR/11f
+3295/236S/2P/1f
+3296/236S/2K/2f
+3297/236S/2S.1/7f
+3298/236S/2S.2/6f
+3299/236S/2S.3/5f
+3300/236S/2S.BR/5f
+3301/236S/2H.1/14f
+3302/236S/2H.2/12f
+3303/236S/2H.3/10f
+3304/236S/2H.BR/10f
+3305/236S/j.P/7f
+3306/236S/j.K/7f
+3307/236S/j.S.1/13f
+3308/236S/j.S.2/12f
+3309/236S/j.S.3/11f
+3310/236S/j.S.BR/11f
+3311/236S/j.H.1/16f
+3312/236S/j.H.2/15f
+3313/236S/j.H.3/14f
+3314/236S/j.H.BR/14f
+3315/236S/j.D.1/15f
+3316/236S/j.D.2/13f
+3317/236S/j.D.3/11f
+3318/236S/j.D.BR/11f
+3319/236S/6P/7f
+3320/236S/6K/10f
+3321/236S/6H.1/12f
+3322/236S/6H.2/11f
+3323/236S/6H.3/10f
+3324/236S/6H.BR/10f
+3325/236S/2D/7f
+3326/236S/5D/15f
+3327/236S/5[D]/23f
+3328/236S/236S/13f
+3329/236S/236K/
+3330/236S/214K/
+3331/236S/214H/1f
+3332/236S/623H/-2f
+3333/236S/623HH/623HH is a follow-up move and cannot be done after 236S
+3334/236S/623P/2f
+3335/236S/632146S/4f
+3336/236S/632146H/16f
+3337/236S/236D/15f
+3338/236S/236[D]/27f
+3339/236K/5P/
+3340/236K/5K/
+3341/236K/c.S/
+3342/236K/f.S.1/
+3343/236K/f.S.2/
+3344/236K/f.S.3/
+3345/236K/f.S.BR/
+3346/236K/f.SS.1/
+3347/236K/f.SS.2/
+3348/236K/f.SS.3/
+3349/236K/f.SS.BR/
+3350/236K/f.SSS.1/
+3351/236K/f.SSS.2/
+3352/236K/f.SSS.3/
+3353/236K/f.SSS.BR/
+3354/236K/5H.1/
+3355/236K/5H.2/
+3356/236K/5H.3/
+3357/236K/5H.BR/
+3358/236K/2P/
+3359/236K/2K/
+3360/236K/2S.1/
+3361/236K/2S.2/
+3362/236K/2S.3/
+3363/236K/2S.BR/
+3364/236K/2H.1/
+3365/236K/2H.2/
+3366/236K/2H.3/
+3367/236K/2H.BR/
+3368/236K/j.P/
+3369/236K/j.K/
+3370/236K/j.S.1/
+3371/236K/j.S.2/
+3372/236K/j.S.3/
+3373/236K/j.S.BR/
+3374/236K/j.H.1/
+3375/236K/j.H.2/
+3376/236K/j.H.3/
+3377/236K/j.H.BR/
+3378/236K/j.D.1/
+3379/236K/j.D.2/
+3380/236K/j.D.3/
+3381/236K/j.D.BR/
+3382/236K/6P/
+3383/236K/6K/
+3384/236K/6H.1/
+3385/236K/6H.2/
+3386/236K/6H.3/
+3387/236K/6H.BR/
+3388/236K/2D/
+3389/236K/5D/
+3390/236K/5[D]/
+3391/236K/236S/
+3392/236K/236K/
+3393/236K/214K/
+3394/236K/214H/
+3395/236K/623H/
+3396/236K/623HH/
+3397/236K/623P/
+3398/236K/632146S/
+3399/236K/632146H/
+3400/236K/236D/
+3401/236K/236[D]/
+3402/214K/5P/
+3403/214K/5K/
+3404/214K/c.S/
+3405/214K/f.S.1/
+3406/214K/f.S.2/
+3407/214K/f.S.3/
+3408/214K/f.S.BR/
+3409/214K/f.SS.1/
+3410/214K/f.SS.2/
+3411/214K/f.SS.3/
+3412/214K/f.SS.BR/
+3413/214K/f.SSS.1/
+3414/214K/f.SSS.2/
+3415/214K/f.SSS.3/
+3416/214K/f.SSS.BR/
+3417/214K/5H.1/
+3418/214K/5H.2/
+3419/214K/5H.3/
+3420/214K/5H.BR/
+3421/214K/2P/
+3422/214K/2K/
+3423/214K/2S.1/
+3424/214K/2S.2/
+3425/214K/2S.3/
+3426/214K/2S.BR/
+3427/214K/2H.1/
+3428/214K/2H.2/
+3429/214K/2H.3/
+3430/214K/2H.BR/
+3431/214K/j.P/
+3432/214K/j.K/
+3433/214K/j.S.1/
+3434/214K/j.S.2/
+3435/214K/j.S.3/
+3436/214K/j.S.BR/
+3437/214K/j.H.1/
+3438/214K/j.H.2/
+3439/214K/j.H.3/
+3440/214K/j.H.BR/
+3441/214K/j.D.1/
+3442/214K/j.D.2/
+3443/214K/j.D.3/
+3444/214K/j.D.BR/
+3445/214K/6P/
+3446/214K/6K/
+3447/214K/6H.1/
+3448/214K/6H.2/
+3449/214K/6H.3/
+3450/214K/6H.BR/
+3451/214K/2D/
+3452/214K/5D/
+3453/214K/5[D]/
+3454/214K/236S/
+3455/214K/236K/
+3456/214K/214K/
+3457/214K/214H/
+3458/214K/623H/
+3459/214K/623HH/
+3460/214K/623P/
+3461/214K/632146S/
+3462/214K/632146H/
+3463/214K/236D/
+3464/214K/236[D]/
+3465/214H/5P/8f
+3466/214H/5K/10f
+3467/214H/c.S/10f
+3468/214H/f.S.1/19f
+3469/214H/f.S.2/17f
+3470/214H/f.S.3/15f
+3471/214H/f.S.BR/15f
+3472/214H/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 214H
+3473/214H/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 214H
+3474/214H/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 214H
+3475/214H/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 214H
+3476/214H/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 214H
+3477/214H/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 214H
+3478/214H/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 214H
+3479/214H/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 214H
+3480/214H/5H.1/23f
+3481/214H/5H.2/21f
+3482/214H/5H.3/19f
+3483/214H/5H.BR/19f
+3484/214H/2P/9f
+3485/214H/2K/10f
+3486/214H/2S.1/15f
+3487/214H/2S.2/14f
+3488/214H/2S.3/13f
+3489/214H/2S.BR/13f
+3490/214H/2H.1/22f
+3491/214H/2H.2/20f
+3492/214H/2H.3/18f
+3493/214H/2H.BR/18f
+3494/214H/j.P/15f
+3495/214H/j.K/15f
+3496/214H/j.S.1/21f
+3497/214H/j.S.2/20f
+3498/214H/j.S.3/19f
+3499/214H/j.S.BR/19f
+3500/214H/j.H.1/24f
+3501/214H/j.H.2/23f
+3502/214H/j.H.3/22f
+3503/214H/j.H.BR/22f
+3504/214H/j.D.1/23f
+3505/214H/j.D.2/21f
+3506/214H/j.D.3/19f
+3507/214H/j.D.BR/19f
+3508/214H/6P/15f
+3509/214H/6K/18f
+3510/214H/6H.1/20f
+3511/214H/6H.2/19f
+3512/214H/6H.3/18f
+3513/214H/6H.BR/18f
+3514/214H/2D/15f
+3515/214H/5D/23f
+3516/214H/5[D]/31f
+3517/214H/236S/0f
+3518/214H/236K/
+3519/214H/214K/
+3520/214H/214H/17f
+3521/214H/623H/-7f
+3522/214H/623HH/623HH is a follow-up move and cannot be done after 214H
+3523/214H/623P/10f
+3524/214H/632146S/12f
+3525/214H/632146H/24f
+3526/214H/236D/23f
+3527/214H/236[D]/35f
+3528/623H/5P/12f
+3529/623H/5K/14f
+3530/623H/c.S/14f
+3531/623H/f.S.1/23f
+3532/623H/f.S.2/21f
+3533/623H/f.S.3/19f
+3534/623H/f.S.BR/19f
+3535/623H/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 623H
+3536/623H/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 623H
+3537/623H/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 623H
+3538/623H/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 623H
+3539/623H/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 623H
+3540/623H/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 623H
+3541/623H/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 623H
+3542/623H/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 623H
+3543/623H/5H.1/27f
+3544/623H/5H.2/25f
+3545/623H/5H.3/23f
+3546/623H/5H.BR/23f
+3547/623H/2P/13f
+3548/623H/2K/14f
+3549/623H/2S.1/19f
+3550/623H/2S.2/18f
+3551/623H/2S.3/17f
+3552/623H/2S.BR/17f
+3553/623H/2H.1/26f
+3554/623H/2H.2/24f
+3555/623H/2H.3/22f
+3556/623H/2H.BR/22f
+3557/623H/j.P/19f
+3558/623H/j.K/19f
+3559/623H/j.S.1/25f
+3560/623H/j.S.2/24f
+3561/623H/j.S.3/23f
+3562/623H/j.S.BR/23f
+3563/623H/j.H.1/28f
+3564/623H/j.H.2/27f
+3565/623H/j.H.3/26f
+3566/623H/j.H.BR/26f
+3567/623H/j.D.1/27f
+3568/623H/j.D.2/25f
+3569/623H/j.D.3/23f
+3570/623H/j.D.BR/23f
+3571/623H/6P/19f
+3572/623H/6K/22f
+3573/623H/6H.1/24f
+3574/623H/6H.2/23f
+3575/623H/6H.3/22f
+3576/623H/6H.BR/22f
+3577/623H/2D/19f
+3578/623H/5D/27f
+3579/623H/5[D]/35f
+3580/623H/236S/2f
+3581/623H/236K/
+3582/623H/214K/
+3583/623H/214H/-2f
+3584/623H/623H/18f
+3585/623H/623HH/-6f
+3586/623H/623P/14f
+3587/623H/632146S/16f
+3588/623H/632146H/28f
+3589/623H/236D/27f
+3590/623H/236[D]/39f
+3591/623HH/5P/21f
+3592/623HH/5K/23f
+3593/623HH/c.S/23f
+3594/623HH/f.S.1/32f
+3595/623HH/f.S.2/30f
+3596/623HH/f.S.3/28f
+3597/623HH/f.S.BR/28f
+3598/623HH/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 623HH
+3599/623HH/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 623HH
+3600/623HH/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 623HH
+3601/623HH/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 623HH
+3602/623HH/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 623HH
+3603/623HH/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 623HH
+3604/623HH/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 623HH
+3605/623HH/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 623HH
+3606/623HH/5H.1/36f
+3607/623HH/5H.2/34f
+3608/623HH/5H.3/32f
+3609/623HH/5H.BR/32f
+3610/623HH/2P/22f
+3611/623HH/2K/23f
+3612/623HH/2S.1/28f
+3613/623HH/2S.2/27f
+3614/623HH/2S.3/26f
+3615/623HH/2S.BR/26f
+3616/623HH/2H.1/35f
+3617/623HH/2H.2/33f
+3618/623HH/2H.3/31f
+3619/623HH/2H.BR/31f
+3620/623HH/j.P/28f
+3621/623HH/j.K/28f
+3622/623HH/j.S.1/34f
+3623/623HH/j.S.2/33f
+3624/623HH/j.S.3/32f
+3625/623HH/j.S.BR/32f
+3626/623HH/j.H.1/37f
+3627/623HH/j.H.2/36f
+3628/623HH/j.H.3/35f
+3629/623HH/j.H.BR/35f
+3630/623HH/j.D.1/36f
+3631/623HH/j.D.2/34f
+3632/623HH/j.D.3/32f
+3633/623HH/j.D.BR/32f
+3634/623HH/6P/28f
+3635/623HH/6K/31f
+3636/623HH/6H.1/33f
+3637/623HH/6H.2/32f
+3638/623HH/6H.3/31f
+3639/623HH/6H.BR/31f
+3640/623HH/2D/28f
+3641/623HH/5D/36f
+3642/623HH/5[D]/44f
+3643/623HH/236S/0f
+3644/623HH/236K/
+3645/623HH/214K/
+3646/623HH/214H/-4f
+3647/623HH/623H/27f
+3648/623HH/623HH/623HH is a follow-up move and cannot be done after 623HH
+3649/623HH/623P/23f
+3650/623HH/632146S/25f
+3651/623HH/632146H/37f
+3652/623HH/236D/36f
+3653/623HH/236[D]/48f
+3654/623P/5P/
+3655/623P/5K/
+3656/623P/c.S/
+3657/623P/f.S.1/
+3658/623P/f.S.2/
+3659/623P/f.S.3/
+3660/623P/f.S.BR/
+3661/623P/f.SS.1/
+3662/623P/f.SS.2/
+3663/623P/f.SS.3/
+3664/623P/f.SS.BR/
+3665/623P/f.SSS.1/
+3666/623P/f.SSS.2/
+3667/623P/f.SSS.3/
+3668/623P/f.SSS.BR/
+3669/623P/5H.1/
+3670/623P/5H.2/
+3671/623P/5H.3/
+3672/623P/5H.BR/
+3673/623P/2P/
+3674/623P/2K/
+3675/623P/2S.1/
+3676/623P/2S.2/
+3677/623P/2S.3/
+3678/623P/2S.BR/
+3679/623P/2H.1/
+3680/623P/2H.2/
+3681/623P/2H.3/
+3682/623P/2H.BR/
+3683/623P/j.P/
+3684/623P/j.K/
+3685/623P/j.S.1/
+3686/623P/j.S.2/
+3687/623P/j.S.3/
+3688/623P/j.S.BR/
+3689/623P/j.H.1/
+3690/623P/j.H.2/
+3691/623P/j.H.3/
+3692/623P/j.H.BR/
+3693/623P/j.D.1/
+3694/623P/j.D.2/
+3695/623P/j.D.3/
+3696/623P/j.D.BR/
+3697/623P/6P/
+3698/623P/6K/
+3699/623P/6H.1/
+3700/623P/6H.2/
+3701/623P/6H.3/
+3702/623P/6H.BR/
+3703/623P/2D/
+3704/623P/5D/
+3705/623P/5[D]/
+3706/623P/236S/
+3707/623P/236K/
+3708/623P/214K/
+3709/623P/214H/
+3710/623P/623H/
+3711/623P/623HH/
+3712/623P/623P/
+3713/623P/632146S/
+3714/623P/632146H/
+3715/623P/236D/
+3716/623P/236[D]/
+3717/632146S/5P/44f
+3718/632146S/5K/46f
+3719/632146S/c.S/46f
+3720/632146S/f.S.1/55f
+3721/632146S/f.S.2/53f
+3722/632146S/f.S.3/51f
+3723/632146S/f.S.BR/51f
+3724/632146S/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 632146S
+3725/632146S/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 632146S
+3726/632146S/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 632146S
+3727/632146S/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 632146S
+3728/632146S/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 632146S
+3729/632146S/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 632146S
+3730/632146S/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 632146S
+3731/632146S/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 632146S
+3732/632146S/5H.1/59f
+3733/632146S/5H.2/57f
+3734/632146S/5H.3/55f
+3735/632146S/5H.BR/55f
+3736/632146S/2P/45f
+3737/632146S/2K/46f
+3738/632146S/2S.1/51f
+3739/632146S/2S.2/50f
+3740/632146S/2S.3/49f
+3741/632146S/2S.BR/49f
+3742/632146S/2H.1/58f
+3743/632146S/2H.2/56f
+3744/632146S/2H.3/54f
+3745/632146S/2H.BR/54f
+3746/632146S/j.P/51f
+3747/632146S/j.K/51f
+3748/632146S/j.S.1/57f
+3749/632146S/j.S.2/56f
+3750/632146S/j.S.3/55f
+3751/632146S/j.S.BR/55f
+3752/632146S/j.H.1/60f
+3753/632146S/j.H.2/59f
+3754/632146S/j.H.3/58f
+3755/632146S/j.H.BR/58f
+3756/632146S/j.D.1/59f
+3757/632146S/j.D.2/57f
+3758/632146S/j.D.3/55f
+3759/632146S/j.D.BR/55f
+3760/632146S/6P/51f
+3761/632146S/6K/54f
+3762/632146S/6H.1/56f
+3763/632146S/6H.2/55f
+3764/632146S/6H.3/54f
+3765/632146S/6H.BR/54f
+3766/632146S/2D/51f
+3767/632146S/5D/59f
+3768/632146S/5[D]/67f
+3769/632146S/236S/57f
+3770/632146S/236K/
+3771/632146S/214K/
+3772/632146S/214H/53f
+3773/632146S/623H/50f
+3774/632146S/623HH/623HH is a follow-up move and cannot be done after 632146S
+3775/632146S/623P/46f
+3776/632146S/632146S/48f
+3777/632146S/632146H/60f
+3778/632146S/236D/59f
+3779/632146S/236[D]/71f
+3780/632146H/5P/71f
+3781/632146H/5K/73f
+3782/632146H/c.S/73f
+3783/632146H/f.S.1/82f
+3784/632146H/f.S.2/80f
+3785/632146H/f.S.3/78f
+3786/632146H/f.S.BR/78f
+3787/632146H/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 632146H
+3788/632146H/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 632146H
+3789/632146H/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 632146H
+3790/632146H/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 632146H
+3791/632146H/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 632146H
+3792/632146H/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 632146H
+3793/632146H/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 632146H
+3794/632146H/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 632146H
+3795/632146H/5H.1/86f
+3796/632146H/5H.2/84f
+3797/632146H/5H.3/82f
+3798/632146H/5H.BR/82f
+3799/632146H/2P/72f
+3800/632146H/2K/73f
+3801/632146H/2S.1/78f
+3802/632146H/2S.2/77f
+3803/632146H/2S.3/76f
+3804/632146H/2S.BR/76f
+3805/632146H/2H.1/85f
+3806/632146H/2H.2/83f
+3807/632146H/2H.3/81f
+3808/632146H/2H.BR/81f
+3809/632146H/j.P/78f
+3810/632146H/j.K/78f
+3811/632146H/j.S.1/84f
+3812/632146H/j.S.2/83f
+3813/632146H/j.S.3/82f
+3814/632146H/j.S.BR/82f
+3815/632146H/j.H.1/87f
+3816/632146H/j.H.2/86f
+3817/632146H/j.H.3/85f
+3818/632146H/j.H.BR/85f
+3819/632146H/j.D.1/86f
+3820/632146H/j.D.2/84f
+3821/632146H/j.D.3/82f
+3822/632146H/j.D.BR/82f
+3823/632146H/6P/78f
+3824/632146H/6K/81f
+3825/632146H/6H.1/83f
+3826/632146H/6H.2/82f
+3827/632146H/6H.3/81f
+3828/632146H/6H.BR/81f
+3829/632146H/2D/78f
+3830/632146H/5D/86f
+3831/632146H/5[D]/94f
+3832/632146H/236S/0f
+3833/632146H/236K/
+3834/632146H/214K/
+3835/632146H/214H/-4f
+3836/632146H/623H/-7f
+3837/632146H/623HH/623HH is a follow-up move and cannot be done after 632146H
+3838/632146H/623P/-11f
+3839/632146H/632146S/-9f
+3840/632146H/632146H/87f
+3841/632146H/236D/2f
+3842/632146H/236[D]/14f
+3843/236D/5P/-7f
+3844/236D/5K/-5f
+3845/236D/c.S/-5f
+3846/236D/f.S.1/4f
+3847/236D/f.S.2/2f
+3848/236D/f.S.3/0f
+3849/236D/f.S.BR/0f
+3850/236D/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 236D
+3851/236D/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 236D
+3852/236D/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 236D
+3853/236D/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 236D
+3854/236D/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 236D
+3855/236D/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 236D
+3856/236D/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 236D
+3857/236D/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 236D
+3858/236D/5H.1/8f
+3859/236D/5H.2/6f
+3860/236D/5H.3/4f
+3861/236D/5H.BR/4f
+3862/236D/2P/-6f
+3863/236D/2K/-5f
+3864/236D/2S.1/0f
+3865/236D/2S.2/-1f
+3866/236D/2S.3/-2f
+3867/236D/2S.BR/-2f
+3868/236D/2H.1/7f
+3869/236D/2H.2/5f
+3870/236D/2H.3/3f
+3871/236D/2H.BR/3f
+3872/236D/j.P/0f
+3873/236D/j.K/0f
+3874/236D/j.S.1/6f
+3875/236D/j.S.2/5f
+3876/236D/j.S.3/4f
+3877/236D/j.S.BR/4f
+3878/236D/j.H.1/9f
+3879/236D/j.H.2/8f
+3880/236D/j.H.3/7f
+3881/236D/j.H.BR/7f
+3882/236D/j.D.1/8f
+3883/236D/j.D.2/6f
+3884/236D/j.D.3/4f
+3885/236D/j.D.BR/4f
+3886/236D/6P/0f
+3887/236D/6K/3f
+3888/236D/6H.1/5f
+3889/236D/6H.2/4f
+3890/236D/6H.3/3f
+3891/236D/6H.BR/3f
+3892/236D/2D/0f
+3893/236D/5D/8f
+3894/236D/5[D]/16f
+3895/236D/236S/6f
+3896/236D/236K/
+3897/236D/214K/
+3898/236D/214H/2f
+3899/236D/623H/-1f
+3900/236D/623HH/623HH is a follow-up move and cannot be done after 236D
+3901/236D/623P/-5f
+3902/236D/632146S/-3f
+3903/236D/632146H/9f
+3904/236D/236D/8f
+3905/236D/236[D]/20f
+3906/236[D]/5P/-12f
+3907/236[D]/5K/-10f
+3908/236[D]/c.S/-10f
+3909/236[D]/f.S.1/-1f
+3910/236[D]/f.S.2/-3f
+3911/236[D]/f.S.3/-5f
+3912/236[D]/f.S.BR/-5f
+3913/236[D]/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 236[D]
+3914/236[D]/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 236[D]
+3915/236[D]/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 236[D]
+3916/236[D]/f.SS.BR/f.SS.BR is a follow-up move and cannot be done after 236[D]
+3917/236[D]/f.SSS.1/f.SSS.1 is a follow-up move and cannot be done after 236[D]
+3918/236[D]/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 236[D]
+3919/236[D]/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 236[D]
+3920/236[D]/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 236[D]
+3921/236[D]/5H.1/3f
+3922/236[D]/5H.2/1f
+3923/236[D]/5H.3/-1f
+3924/236[D]/5H.BR/-1f
+3925/236[D]/2P/-11f
+3926/236[D]/2K/-10f
+3927/236[D]/2S.1/-5f
+3928/236[D]/2S.2/-6f
+3929/236[D]/2S.3/-7f
+3930/236[D]/2S.BR/-7f
+3931/236[D]/2H.1/2f
+3932/236[D]/2H.2/0f
+3933/236[D]/2H.3/-2f
+3934/236[D]/2H.BR/-2f
+3935/236[D]/j.P/-5f
+3936/236[D]/j.K/-5f
+3937/236[D]/j.S.1/1f
+3938/236[D]/j.S.2/0f
+3939/236[D]/j.S.3/-1f
+3940/236[D]/j.S.BR/-1f
+3941/236[D]/j.H.1/4f
+3942/236[D]/j.H.2/3f
+3943/236[D]/j.H.3/2f
+3944/236[D]/j.H.BR/2f
+3945/236[D]/j.D.1/3f
+3946/236[D]/j.D.2/1f
+3947/236[D]/j.D.3/-1f
+3948/236[D]/j.D.BR/-1f
+3949/236[D]/6P/-5f
+3950/236[D]/6K/-2f
+3951/236[D]/6H.1/0f
+3952/236[D]/6H.2/-1f
+3953/236[D]/6H.3/-2f
+3954/236[D]/6H.BR/-2f
+3955/236[D]/2D/-5f
+3956/236[D]/5D/3f
+3957/236[D]/5[D]/11f
+3958/236[D]/236S/1f
+3959/236[D]/236K/
+3960/236[D]/214K/
+3961/236[D]/214H/-3f
+3962/236[D]/623H/-6f
+3963/236[D]/623HH/623HH is a follow-up move and cannot be done after 236[D]
+3964/236[D]/623P/-10f
+3965/236[D]/632146S/-8f
+3966/236[D]/632146H/4f
+3967/236[D]/236D/3f
+3968/236[D]/236[D]/15f

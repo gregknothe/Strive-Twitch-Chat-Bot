@@ -9,16 +9,16 @@
 7/2S/12/3/18/-7/2/Normal/5H,2H,Special,Super
 8/2H/14/2, 2, 2/18/-3/3/Normal/Special,Super
 9/j.P/6/3/13//0/jump Normal/j.P,
-10/j.K/7/4/15/-3/1/jump Normal/j.D,Jump,ForwardAirDash
-11/j.S/9/5/18/1/2/jump Normal/j.H,j.D,Jump,ForwardAirDash
-12/j.H/11/4/32/4/2/jump Normal/j.D,Jump,ForwardAirDash
-13/j.D/14/3/25/7/2/jump Normal/Jump,ForwardAirDash
+10/j.K/7/4/15/-3 (IAD)/1/jump Normal/j.D,Jump,ForwardAirDash
+11/j.S/9/5/18/1 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash
+12/j.H/11/4/32/4 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash
+13/j.D/14/3/25/7 (IAD)/2/jump Normal/Jump,ForwardAirDash
 14/6P/11/6/17/-9/2/Normal/Special,Super
 15/6K/14/2, 2/16/-4/2/Normal/Special,Super
 16/6H/25/7/25/-13/4/Normal/Special,Super
 17/2D/12/9/20/-9/2/Normal/Special,Super
 18/5D/20/3/26/-15/2/Normal/
-19/5[D]/28/3/26/-10/2/Normal/
+19/5[D]/28/3/26/-10/4/Normal/
 20/236X///Total 39 (empty Spell Slot)///Special/
 21/214X (Draw)/7//Total 28///Special/
 22/214X (Discard)/7//Total 25///Special/
@@ -36,12 +36,12 @@
 34/Shooting Time Stretch (Decelerate)/19/600/Total 30///Normal/
 35/Gravity Rod (Shooting)/19/600/Total 30///Normal/
 36/Repulsive Rod (Shooting)/19/600/Total 30///Normal/
-37/Howling Metron/11//Total 39/5/4/Special/
-38/Delayed Howling Metron/21//Total 54/22/4/Special/
-39/Howling Metron MS Processing/16//Total 49/10/4/Special/
+37/Howling Metron/11//Total 39/5 [16]/4/Special/
+38/Delayed Howling Metron/21//Total 54/22 [33]/4/Special/
+39/Howling Metron MS Processing/16//Total 49/10 [21]/4/Special/
 40/Metron Screamer 808/12//Total 34/16/4/Special/
-41/Metron Arpeggio/31//Total 59/113/4/Special/
-42/Delayed Tardus Metron/21//Total 39/57/4/Special/
+41/Metron Arpeggio/31//Total 59/113 [124]/4/Special/
+42/Delayed Tardus Metron/21//Total 39/57 [68]/4/Special/
 43/Terra Metron/16//Total 45/4/4/Special/
 44/Accipiter Metron/19//Total 48/4/4/Special/
 45/Aquila Metron/14//Total 59/-25/2/Special/
@@ -50,7 +50,7 @@
 48/Go to Marker/16//Total 35///Normal/
 49/Sampler 404/11/Until Spell Used/Total 29///Special/
 50/Chaotic Option/11//Total 29///Normal/
-51/"632146P/K"/7/Until Hit//36/4,4,4,4,4/Super/
+51/"632146P/K"/7/Until Hit/Total 32/36 [47]/4,4,4,4,4/Super/
 52/632146S/16//Total 17///Super/
 53/236D/20/3/20/7/4/Special/All
 54/236[D]/32/3/20/12/4/Special/All

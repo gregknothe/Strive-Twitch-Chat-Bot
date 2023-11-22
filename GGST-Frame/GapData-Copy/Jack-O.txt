@@ -1,0 +1,1522 @@
+/move1/move2/gap
+0/5P/5P/-4f
+1/5P/5K/9f
+2/5P/c.S/9f
+3/5P/f.S/13f
+4/5P/5H/12f
+5/5P/2P/-4f
+6/5P/2K/8f
+7/5P/2S/11f
+8/5P/2H/17f
+9/5P/j.P/13f
+10/5P/j.K/14f
+11/5P/j.S/18f
+12/5P/j.H/18f
+13/5P/j.D/28f
+14/5P/6P/1f
+15/5P/6H/18f
+16/5P/2D/12f
+17/5P/5D/22f
+18/5P/5[D]/30f
+19/5P/236P/1f
+20/5P/236[P]/
+21/5P/2P (near Servant)/
+22/5P/"6P/6K/6S/6H/6D while holding Servant"/3f
+23/5P/D while holding Servant/
+24/5P/214P/1f
+25/5P/214K/3f
+26/5P/K while holding Servant/14f
+27/5P/214S/-5f
+28/5P/S while holding Servant/6f
+29/5P/214H/199f
+30/5P/236K/6f
+31/5P/j.236K/22f
+32/5P/Bounced Servant/8f
+33/5P/Launched Servant/8f
+34/5P/632146P/2f
+35/5P/236236S/-6f
+36/5P/236236H/-6f
+37/5P/236D/11f
+38/5P/236[D]/23f
+39/5K/5P/9f
+40/5K/5K/11f
+41/5K/c.S/11f
+42/5K/f.S/15f
+43/5K/5H/14f
+44/5K/2P/9f
+45/5K/2K/10f
+46/5K/2S/13f
+47/5K/2H/19f
+48/5K/j.P/0f
+49/5K/j.K/1f
+50/5K/j.S/5f
+51/5K/j.H/5f
+52/5K/j.D/15f
+53/5K/6P/-1f
+54/5K/6H/16f
+55/5K/2D/-1f
+56/5K/5D/9f
+57/5K/5[D]/32f
+58/5K/236P/-1f
+59/5K/236[P]/
+60/5K/2P (near Servant)/
+61/5K/"6P/6K/6S/6H/6D while holding Servant"/1f
+62/5K/D while holding Servant/
+63/5K/214P/-1f
+64/5K/214K/1f
+65/5K/K while holding Servant/16f
+66/5K/214S/-7f
+67/5K/S while holding Servant/8f
+68/5K/214H/197f
+69/5K/236K/4f
+70/5K/j.236K/9f
+71/5K/Bounced Servant/10f
+72/5K/Launched Servant/10f
+73/5K/632146P/0f
+74/5K/236236S/-8f
+75/5K/236236H/-8f
+76/5K/236D/9f
+77/5K/236[D]/21f
+78/c.S/5P/4f
+79/c.S/5K/6f
+80/c.S/c.S/6f
+81/c.S/f.S/-5f
+82/c.S/5H/-6f
+83/c.S/2P/4f
+84/c.S/2K/5f
+85/c.S/2S/-7f
+86/c.S/2H/-1f
+87/c.S/j.P/-5f
+88/c.S/j.K/-4f
+89/c.S/j.S/0f
+90/c.S/j.H/0f
+91/c.S/j.D/10f
+92/c.S/6P/-6f
+93/c.S/6H/11f
+94/c.S/2D/-6f
+95/c.S/5D/4f
+96/c.S/5[D]/27f
+97/c.S/236P/-6f
+98/c.S/236[P]/
+99/c.S/2P (near Servant)/
+100/c.S/"6P/6K/6S/6H/6D while holding Servant"/-4f
+101/c.S/D while holding Servant/
+102/c.S/214P/-6f
+103/c.S/214K/-4f
+104/c.S/K while holding Servant/11f
+105/c.S/214S/-12f
+106/c.S/S while holding Servant/3f
+107/c.S/214H/192f
+108/c.S/236K/-1f
+109/c.S/j.236K/4f
+110/c.S/Bounced Servant/5f
+111/c.S/Launched Servant/5f
+112/c.S/632146P/-5f
+113/c.S/236236S/-13f
+114/c.S/236236H/-13f
+115/c.S/236D/4f
+116/c.S/236[D]/16f
+117/f.S/5P/14f
+118/f.S/5K/16f
+119/f.S/c.S/16f
+120/f.S/f.S/20f
+121/f.S/5H/-3f
+122/f.S/2P/14f
+123/f.S/2K/15f
+124/f.S/2S/18f
+125/f.S/2H/2f
+126/f.S/j.P/20f
+127/f.S/j.K/21f
+128/f.S/j.S/25f
+129/f.S/j.H/25f
+130/f.S/j.D/35f
+131/f.S/6P/19f
+132/f.S/6H/36f
+133/f.S/2D/19f
+134/f.S/5D/29f
+135/f.S/5[D]/37f
+136/f.S/236P/-3f
+137/f.S/236[P]/
+138/f.S/2P (near Servant)/
+139/f.S/"6P/6K/6S/6H/6D while holding Servant"/-1f
+140/f.S/D while holding Servant/
+141/f.S/214P/-3f
+142/f.S/214K/-1f
+143/f.S/K while holding Servant/21f
+144/f.S/214S/-9f
+145/f.S/S while holding Servant/13f
+146/f.S/214H/195f
+147/f.S/236K/2f
+148/f.S/j.236K/29f
+149/f.S/Bounced Servant/15f
+150/f.S/Launched Servant/15f
+151/f.S/632146P/-2f
+152/f.S/236236S/-10f
+153/f.S/236236H/-10f
+154/f.S/236D/7f
+155/f.S/236[D]/19f
+156/5H/5P/11f
+157/5H/5K/13f
+158/5H/c.S/13f
+159/5H/f.S/17f
+160/5H/5H/16f
+161/5H/2P/11f
+162/5H/2K/12f
+163/5H/2S/15f
+164/5H/2H/21f
+165/5H/j.P/17f
+166/5H/j.K/18f
+167/5H/j.S/22f
+168/5H/j.H/22f
+169/5H/j.D/32f
+170/5H/6P/16f
+171/5H/6H/33f
+172/5H/2D/16f
+173/5H/5D/26f
+174/5H/5[D]/34f
+175/5H/236P/-8f
+176/5H/236[P]/
+177/5H/2P (near Servant)/
+178/5H/"6P/6K/6S/6H/6D while holding Servant"/-6f
+179/5H/D while holding Servant/
+180/5H/214P/-8f
+181/5H/214K/-6f
+182/5H/K while holding Servant/18f
+183/5H/214S/-14f
+184/5H/S while holding Servant/10f
+185/5H/214H/190f
+186/5H/236K/-3f
+187/5H/j.236K/26f
+188/5H/Bounced Servant/12f
+189/5H/Launched Servant/12f
+190/5H/632146P/-7f
+191/5H/236236S/-15f
+192/5H/236236H/-15f
+193/5H/236D/2f
+194/5H/236[D]/14f
+195/2P/5P/-4f
+196/2P/5K/10f
+197/2P/c.S/10f
+198/2P/f.S/14f
+199/2P/5H/13f
+200/2P/2P/-4f
+201/2P/2K/9f
+202/2P/2S/12f
+203/2P/2H/18f
+204/2P/j.P/14f
+205/2P/j.K/15f
+206/2P/j.S/19f
+207/2P/j.H/19f
+208/2P/j.D/29f
+209/2P/6P/1f
+210/2P/6H/18f
+211/2P/2D/13f
+212/2P/5D/23f
+213/2P/5[D]/31f
+214/2P/236P/1f
+215/2P/236[P]/
+216/2P/2P (near Servant)/
+217/2P/"6P/6K/6S/6H/6D while holding Servant"/3f
+218/2P/D while holding Servant/
+219/2P/214P/1f
+220/2P/214K/3f
+221/2P/K while holding Servant/15f
+222/2P/214S/-5f
+223/2P/S while holding Servant/7f
+224/2P/214H/199f
+225/2P/236K/6f
+226/2P/j.236K/23f
+227/2P/Bounced Servant/9f
+228/2P/Launched Servant/9f
+229/2P/632146P/2f
+230/2P/236236S/-6f
+231/2P/236236H/-6f
+232/2P/236D/11f
+233/2P/236[D]/23f
+234/2K/5P/8f
+235/2K/5K/10f
+236/2K/c.S/10f
+237/2K/f.S/14f
+238/2K/5H/13f
+239/2K/2P/8f
+240/2K/2K/9f
+241/2K/2S/12f
+242/2K/2H/18f
+243/2K/j.P/14f
+244/2K/j.K/15f
+245/2K/j.S/19f
+246/2K/j.H/19f
+247/2K/j.D/29f
+248/2K/6P/-1f
+249/2K/6H/16f
+250/2K/2D/-1f
+251/2K/5D/9f
+252/2K/5[D]/31f
+253/2K/236P/-1f
+254/2K/236[P]/
+255/2K/2P (near Servant)/
+256/2K/"6P/6K/6S/6H/6D while holding Servant"/1f
+257/2K/D while holding Servant/
+258/2K/214P/-1f
+259/2K/214K/1f
+260/2K/K while holding Servant/15f
+261/2K/214S/-7f
+262/2K/S while holding Servant/7f
+263/2K/214H/197f
+264/2K/236K/4f
+265/2K/j.236K/23f
+266/2K/Bounced Servant/9f
+267/2K/Launched Servant/9f
+268/2K/632146P/0f
+269/2K/236236S/-8f
+270/2K/236236H/-8f
+271/2K/236D/9f
+272/2K/236[D]/21f
+273/2S/5P/20f
+274/2S/5K/22f
+275/2S/c.S/22f
+276/2S/f.S/26f
+277/2S/5H/-3f
+278/2S/2P/20f
+279/2S/2K/21f
+280/2S/2S/24f
+281/2S/2H/2f
+282/2S/j.P/26f
+283/2S/j.K/27f
+284/2S/j.S/31f
+285/2S/j.H/31f
+286/2S/j.D/41f
+287/2S/6P/25f
+288/2S/6H/42f
+289/2S/2D/25f
+290/2S/5D/35f
+291/2S/5[D]/43f
+292/2S/236P/-3f
+293/2S/236[P]/
+294/2S/2P (near Servant)/
+295/2S/"6P/6K/6S/6H/6D while holding Servant"/-1f
+296/2S/D while holding Servant/
+297/2S/214P/-3f
+298/2S/214K/-1f
+299/2S/K while holding Servant/27f
+300/2S/214S/-9f
+301/2S/S while holding Servant/19f
+302/2S/214H/195f
+303/2S/236K/2f
+304/2S/j.236K/35f
+305/2S/Bounced Servant/21f
+306/2S/Launched Servant/21f
+307/2S/632146P/-2f
+308/2S/236236S/-10f
+309/2S/236236H/-10f
+310/2S/236D/7f
+311/2S/236[D]/19f
+312/2H/5P/10f
+313/2H/5K/12f
+314/2H/c.S/12f
+315/2H/f.S/16f
+316/2H/5H/15f
+317/2H/2P/10f
+318/2H/2K/11f
+319/2H/2S/14f
+320/2H/2H/20f
+321/2H/j.P/16f
+322/2H/j.K/17f
+323/2H/j.S/21f
+324/2H/j.H/21f
+325/2H/j.D/31f
+326/2H/6P/15f
+327/2H/6H/32f
+328/2H/2D/15f
+329/2H/5D/25f
+330/2H/5[D]/33f
+331/2H/236P/-8f
+332/2H/236[P]/
+333/2H/2P (near Servant)/
+334/2H/"6P/6K/6S/6H/6D while holding Servant"/-6f
+335/2H/D while holding Servant/
+336/2H/214P/-8f
+337/2H/214K/-6f
+338/2H/K while holding Servant/17f
+339/2H/214S/-14f
+340/2H/S while holding Servant/9f
+341/2H/214H/190f
+342/2H/236K/-3f
+343/2H/j.236K/25f
+344/2H/Bounced Servant/11f
+345/2H/Launched Servant/11f
+346/2H/632146P/-7f
+347/2H/236236S/-15f
+348/2H/236236H/-15f
+349/2H/236D/2f
+350/2H/236[D]/14f
+351/j.P/5P/"N/A"
+352/j.P/5K/"N/A"
+353/j.P/c.S/"N/A"
+354/j.P/f.S/"N/A"
+355/j.P/5H/"N/A"
+356/j.P/2P/"N/A"
+357/j.P/2K/"N/A"
+358/j.P/2S/"N/A"
+359/j.P/2H/"N/A"
+360/j.P/j.P/-3f
+361/j.P/j.K/"N/A"
+362/j.P/j.S/"N/A"
+363/j.P/j.H/"N/A"
+364/j.P/j.D/"N/A"
+365/j.P/6P/"N/A"
+366/j.P/6H/"N/A"
+367/j.P/2D/"N/A"
+368/j.P/5D/"N/A"
+369/j.P/5[D]/"N/A"
+370/j.P/236P/"N/A"
+371/j.P/236[P]/ 
+372/j.P/2P (near Servant)/ 
+373/j.P/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+374/j.P/D while holding Servant/ 
+375/j.P/214P/"N/A"
+376/j.P/214K/"N/A"
+377/j.P/K while holding Servant/"N/A"
+378/j.P/214S/"N/A"
+379/j.P/S while holding Servant/"N/A"
+380/j.P/214H/"N/A"
+381/j.P/236K/"N/A"
+382/j.P/j.236K/"N/A"
+383/j.P/Bounced Servant/"N/A"
+384/j.P/Launched Servant/"N/A"
+385/j.P/632146P/"N/A"
+386/j.P/236236S/"N/A"
+387/j.P/236236H/"N/A"
+388/j.P/236D/"N/A"
+389/j.P/236[D]/"N/A"
+390/j.K/5P/
+391/j.K/5K/
+392/j.K/c.S/
+393/j.K/f.S/
+394/j.K/5H/
+395/j.K/2P/
+396/j.K/2K/
+397/j.K/2S/
+398/j.K/2H/
+399/j.K/j.P/
+400/j.K/j.K/
+401/j.K/j.S/
+402/j.K/j.H/
+403/j.K/j.D/10f
+404/j.K/6P/
+405/j.K/6H/
+406/j.K/2D/
+407/j.K/5D/
+408/j.K/5[D]/
+409/j.K/236P/
+410/j.K/236[P]/
+411/j.K/2P (near Servant)/
+412/j.K/"6P/6K/6S/6H/6D while holding Servant"/
+413/j.K/D while holding Servant/
+414/j.K/214P/
+415/j.K/214K/
+416/j.K/K while holding Servant/
+417/j.K/214S/
+418/j.K/S while holding Servant/
+419/j.K/214H/
+420/j.K/236K/
+421/j.K/j.236K/
+422/j.K/Bounced Servant/
+423/j.K/Launched Servant/
+424/j.K/632146P/
+425/j.K/236236S/
+426/j.K/236236H/
+427/j.K/236D/
+428/j.K/236[D]/
+429/j.S/5P/"N/A"
+430/j.S/5K/"N/A"
+431/j.S/c.S/"N/A"
+432/j.S/f.S/"N/A"
+433/j.S/5H/"N/A"
+434/j.S/2P/"N/A"
+435/j.S/2K/"N/A"
+436/j.S/2S/"N/A"
+437/j.S/2H/"N/A"
+438/j.S/j.P/"N/A"
+439/j.S/j.K/"N/A"
+440/j.S/j.S/"N/A"
+441/j.S/j.H/-2f
+442/j.S/j.D/8f
+443/j.S/6P/"N/A"
+444/j.S/6H/"N/A"
+445/j.S/2D/"N/A"
+446/j.S/5D/"N/A"
+447/j.S/5[D]/"N/A"
+448/j.S/236P/"N/A"
+449/j.S/236[P]/ 
+450/j.S/2P (near Servant)/ 
+451/j.S/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+452/j.S/D while holding Servant/ 
+453/j.S/214P/"N/A"
+454/j.S/214K/"N/A"
+455/j.S/K while holding Servant/"N/A"
+456/j.S/214S/"N/A"
+457/j.S/S while holding Servant/"N/A"
+458/j.S/214H/"N/A"
+459/j.S/236K/"N/A"
+460/j.S/j.236K/"N/A"
+461/j.S/Bounced Servant/"N/A"
+462/j.S/Launched Servant/"N/A"
+463/j.S/632146P/"N/A"
+464/j.S/236236S/"N/A"
+465/j.S/236236H/"N/A"
+466/j.S/236D/"N/A"
+467/j.S/236[D]/"N/A"
+468/j.H/5P/"N/A"
+469/j.H/5K/"N/A"
+470/j.H/c.S/"N/A"
+471/j.H/f.S/"N/A"
+472/j.H/5H/"N/A"
+473/j.H/2P/"N/A"
+474/j.H/2K/"N/A"
+475/j.H/2S/"N/A"
+476/j.H/2H/"N/A"
+477/j.H/j.P/"N/A"
+478/j.H/j.K/"N/A"
+479/j.H/j.S/"N/A"
+480/j.H/j.H/"N/A"
+481/j.H/j.D/8f
+482/j.H/6P/"N/A"
+483/j.H/6H/"N/A"
+484/j.H/2D/"N/A"
+485/j.H/5D/"N/A"
+486/j.H/5[D]/"N/A"
+487/j.H/236P/"N/A"
+488/j.H/236[P]/ 
+489/j.H/2P (near Servant)/ 
+490/j.H/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+491/j.H/D while holding Servant/ 
+492/j.H/214P/"N/A"
+493/j.H/214K/"N/A"
+494/j.H/K while holding Servant/"N/A"
+495/j.H/214S/"N/A"
+496/j.H/S while holding Servant/"N/A"
+497/j.H/214H/"N/A"
+498/j.H/236K/"N/A"
+499/j.H/j.236K/"N/A"
+500/j.H/Bounced Servant/"N/A"
+501/j.H/Launched Servant/"N/A"
+502/j.H/632146P/"N/A"
+503/j.H/236236S/"N/A"
+504/j.H/236236H/"N/A"
+505/j.H/236D/"N/A"
+506/j.H/236[D]/"N/A"
+507/j.D/5P/
+508/j.D/5K/
+509/j.D/c.S/
+510/j.D/f.S/
+511/j.D/5H/
+512/j.D/2P/
+513/j.D/2K/
+514/j.D/2S/
+515/j.D/2H/
+516/j.D/j.P/
+517/j.D/j.K/
+518/j.D/j.S/
+519/j.D/j.H/
+520/j.D/j.D/
+521/j.D/6P/
+522/j.D/6H/
+523/j.D/2D/
+524/j.D/5D/
+525/j.D/5[D]/
+526/j.D/236P/
+527/j.D/236[P]/
+528/j.D/2P (near Servant)/
+529/j.D/"6P/6K/6S/6H/6D while holding Servant"/
+530/j.D/D while holding Servant/
+531/j.D/214P/
+532/j.D/214K/
+533/j.D/K while holding Servant/
+534/j.D/214S/
+535/j.D/S while holding Servant/
+536/j.D/214H/
+537/j.D/236K/
+538/j.D/j.236K/
+539/j.D/Bounced Servant/
+540/j.D/Launched Servant/
+541/j.D/632146P/
+542/j.D/236236S/
+543/j.D/236236H/
+544/j.D/236D/
+545/j.D/236[D]/
+546/6P/5P/17f
+547/6P/5K/19f
+548/6P/c.S/19f
+549/6P/f.S/23f
+550/6P/5H/22f
+551/6P/2P/17f
+552/6P/2K/18f
+553/6P/2S/21f
+554/6P/2H/27f
+555/6P/j.P/23f
+556/6P/j.K/24f
+557/6P/j.S/28f
+558/6P/j.H/28f
+559/6P/j.D/38f
+560/6P/6P/22f
+561/6P/6H/39f
+562/6P/2D/22f
+563/6P/5D/32f
+564/6P/5[D]/40f
+565/6P/236P/-3f
+566/6P/236[P]/
+567/6P/2P (near Servant)/
+568/6P/"6P/6K/6S/6H/6D while holding Servant"/-1f
+569/6P/D while holding Servant/
+570/6P/214P/-3f
+571/6P/214K/-1f
+572/6P/K while holding Servant/24f
+573/6P/214S/-9f
+574/6P/S while holding Servant/16f
+575/6P/214H/195f
+576/6P/236K/2f
+577/6P/j.236K/32f
+578/6P/Bounced Servant/18f
+579/6P/Launched Servant/18f
+580/6P/632146P/-2f
+581/6P/236236S/-10f
+582/6P/236236H/-10f
+583/6P/236D/7f
+584/6P/236[D]/19f
+585/6H/5P/11f
+586/6H/5K/13f
+587/6H/c.S/13f
+588/6H/f.S/17f
+589/6H/5H/16f
+590/6H/2P/11f
+591/6H/2K/12f
+592/6H/2S/15f
+593/6H/2H/21f
+594/6H/j.P/17f
+595/6H/j.K/18f
+596/6H/j.S/22f
+597/6H/j.H/22f
+598/6H/j.D/32f
+599/6H/6P/16f
+600/6H/6H/33f
+601/6H/2D/16f
+602/6H/5D/26f
+603/6H/5[D]/34f
+604/6H/236P/-6f, -8f
+605/6H/236[P]/,
+606/6H/2P (near Servant)/
+607/6H/"6P/6K/6S/6H/6D while holding Servant"/-4f, -6f
+608/6H/D while holding Servant/
+609/6H/214P/-6f, -8f
+610/6H/214K/-4f, -6f
+611/6H/K while holding Servant/18f
+612/6H/214S/-12f, -14f
+613/6H/S while holding Servant/10f
+614/6H/214H/192f, 190f
+615/6H/236K/-1f, -3f
+616/6H/j.236K/26f
+617/6H/Bounced Servant/12f
+618/6H/Launched Servant/12f
+619/6H/632146P/-5f, -7f
+620/6H/236236S/-13f, -15f
+621/6H/236236H/-13f, -15f
+622/6H/236D/4f, 2f
+623/6H/236[D]/16f, 14f
+624/2D/5P/24f
+625/2D/5K/26f
+626/2D/c.S/26f
+627/2D/f.S/30f
+628/2D/5H/29f
+629/2D/2P/24f
+630/2D/2K/25f
+631/2D/2S/28f
+632/2D/2H/34f
+633/2D/j.P/30f
+634/2D/j.K/31f
+635/2D/j.S/35f
+636/2D/j.H/35f
+637/2D/j.D/45f
+638/2D/6P/29f
+639/2D/6H/46f
+640/2D/2D/29f
+641/2D/5D/39f
+642/2D/5[D]/47f
+643/2D/236P/-3f
+644/2D/236[P]/
+645/2D/2P (near Servant)/
+646/2D/"6P/6K/6S/6H/6D while holding Servant"/-1f
+647/2D/D while holding Servant/
+648/2D/214P/-3f
+649/2D/214K/-1f
+650/2D/K while holding Servant/31f
+651/2D/214S/-9f
+652/2D/S while holding Servant/23f
+653/2D/214H/195f
+654/2D/236K/2f
+655/2D/j.236K/39f
+656/2D/Bounced Servant/25f
+657/2D/Launched Servant/25f
+658/2D/632146P/-2f
+659/2D/236236S/-10f
+660/2D/236236H/-10f
+661/2D/236D/7f
+662/2D/236[D]/19f
+663/5D/5P/20f
+664/5D/5K/22f
+665/5D/c.S/22f
+666/5D/f.S/26f
+667/5D/5H/25f
+668/5D/2P/20f
+669/5D/2K/21f
+670/5D/2S/24f
+671/5D/2H/30f
+672/5D/j.P/26f
+673/5D/j.K/27f
+674/5D/j.S/31f
+675/5D/j.H/31f
+676/5D/j.D/41f
+677/5D/6P/25f
+678/5D/6H/42f
+679/5D/2D/25f
+680/5D/5D/35f
+681/5D/5[D]/43f
+682/5D/236P/25f
+683/5D/236[P]/
+684/5D/2P (near Servant)/
+685/5D/"6P/6K/6S/6H/6D while holding Servant"/27f
+686/5D/D while holding Servant/
+687/5D/214P/25f
+688/5D/214K/27f
+689/5D/K while holding Servant/27f
+690/5D/214S/19f
+691/5D/S while holding Servant/19f
+692/5D/214H/223f
+693/5D/236K/30f
+694/5D/j.236K/35f
+695/5D/Bounced Servant/21f
+696/5D/Launched Servant/21f
+697/5D/632146P/26f
+698/5D/236236S/18f
+699/5D/236236H/18f
+700/5D/236D/35f
+701/5D/236[D]/47f
+702/5[D]/5P/15f
+703/5[D]/5K/17f
+704/5[D]/c.S/17f
+705/5[D]/f.S/21f
+706/5[D]/5H/20f
+707/5[D]/2P/15f
+708/5[D]/2K/16f
+709/5[D]/2S/19f
+710/5[D]/2H/25f
+711/5[D]/j.P/21f
+712/5[D]/j.K/22f
+713/5[D]/j.S/26f
+714/5[D]/j.H/26f
+715/5[D]/j.D/36f
+716/5[D]/6P/20f
+717/5[D]/6H/37f
+718/5[D]/2D/20f
+719/5[D]/5D/30f
+720/5[D]/5[D]/38f
+721/5[D]/236P/20f
+722/5[D]/236[P]/
+723/5[D]/2P (near Servant)/
+724/5[D]/"6P/6K/6S/6H/6D while holding Servant"/22f
+725/5[D]/D while holding Servant/
+726/5[D]/214P/20f
+727/5[D]/214K/22f
+728/5[D]/K while holding Servant/22f
+729/5[D]/214S/14f
+730/5[D]/S while holding Servant/14f
+731/5[D]/214H/218f
+732/5[D]/236K/25f
+733/5[D]/j.236K/30f
+734/5[D]/Bounced Servant/16f
+735/5[D]/Launched Servant/16f
+736/5[D]/632146P/21f
+737/5[D]/236236S/13f
+738/5[D]/236236H/13f
+739/5[D]/236D/30f
+740/5[D]/236[D]/42f
+741/236P/5P/
+742/236P/5K/
+743/236P/c.S/
+744/236P/f.S/
+745/236P/5H/
+746/236P/2P/
+747/236P/2K/
+748/236P/2S/
+749/236P/2H/
+750/236P/j.P/
+751/236P/j.K/
+752/236P/j.S/
+753/236P/j.H/
+754/236P/j.D/
+755/236P/6P/
+756/236P/6H/
+757/236P/2D/
+758/236P/5D/
+759/236P/5[D]/
+760/236P/236P/
+761/236P/236[P]/
+762/236P/2P (near Servant)/
+763/236P/"6P/6K/6S/6H/6D while holding Servant"/
+764/236P/D while holding Servant/
+765/236P/214P/
+766/236P/214K/
+767/236P/K while holding Servant/
+768/236P/214S/
+769/236P/S while holding Servant/
+770/236P/214H/
+771/236P/236K/
+772/236P/j.236K/
+773/236P/Bounced Servant/
+774/236P/Launched Servant/
+775/236P/632146P/
+776/236P/236236S/
+777/236P/236236H/
+778/236P/236D/
+779/236P/236[D]/
+780/236[P]/5P/
+781/236[P]/5K/
+782/236[P]/c.S/
+783/236[P]/f.S/
+784/236[P]/5H/
+785/236[P]/2P/
+786/236[P]/2K/
+787/236[P]/2S/
+788/236[P]/2H/
+789/236[P]/j.P/
+790/236[P]/j.K/
+791/236[P]/j.S/
+792/236[P]/j.H/
+793/236[P]/j.D/
+794/236[P]/6P/
+795/236[P]/6H/
+796/236[P]/2D/
+797/236[P]/5D/
+798/236[P]/5[D]/
+799/236[P]/236P/
+800/236[P]/236[P]/
+801/236[P]/2P (near Servant)/
+802/236[P]/"6P/6K/6S/6H/6D while holding Servant"/
+803/236[P]/D while holding Servant/
+804/236[P]/214P/
+805/236[P]/214K/
+806/236[P]/K while holding Servant/
+807/236[P]/214S/
+808/236[P]/S while holding Servant/
+809/236[P]/214H/
+810/236[P]/236K/
+811/236[P]/j.236K/
+812/236[P]/Bounced Servant/
+813/236[P]/Launched Servant/
+814/236[P]/632146P/
+815/236[P]/236236S/
+816/236[P]/236236H/
+817/236[P]/236D/
+818/236[P]/236[D]/
+819/2P (near Servant)/5P/
+820/2P (near Servant)/5K/
+821/2P (near Servant)/c.S/
+822/2P (near Servant)/f.S/
+823/2P (near Servant)/5H/
+824/2P (near Servant)/2P/
+825/2P (near Servant)/2K/
+826/2P (near Servant)/2S/
+827/2P (near Servant)/2H/
+828/2P (near Servant)/j.P/
+829/2P (near Servant)/j.K/
+830/2P (near Servant)/j.S/
+831/2P (near Servant)/j.H/
+832/2P (near Servant)/j.D/
+833/2P (near Servant)/6P/
+834/2P (near Servant)/6H/
+835/2P (near Servant)/2D/
+836/2P (near Servant)/5D/
+837/2P (near Servant)/5[D]/
+838/2P (near Servant)/236P/
+839/2P (near Servant)/236[P]/
+840/2P (near Servant)/2P (near Servant)/
+841/2P (near Servant)/"6P/6K/6S/6H/6D while holding Servant"/
+842/2P (near Servant)/D while holding Servant/
+843/2P (near Servant)/214P/
+844/2P (near Servant)/214K/
+845/2P (near Servant)/K while holding Servant/
+846/2P (near Servant)/214S/
+847/2P (near Servant)/S while holding Servant/
+848/2P (near Servant)/214H/
+849/2P (near Servant)/236K/
+850/2P (near Servant)/j.236K/
+851/2P (near Servant)/Bounced Servant/
+852/2P (near Servant)/Launched Servant/
+853/2P (near Servant)/632146P/
+854/2P (near Servant)/236236S/
+855/2P (near Servant)/236236H/
+856/2P (near Servant)/236D/
+857/2P (near Servant)/236[D]/
+858/"6P/6K/6S/6H/6D while holding Servant"/5P/0f
+859/"6P/6K/6S/6H/6D while holding Servant"/5K/2f
+860/"6P/6K/6S/6H/6D while holding Servant"/c.S/2f
+861/"6P/6K/6S/6H/6D while holding Servant"/f.S/6f
+862/"6P/6K/6S/6H/6D while holding Servant"/5H/5f
+863/"6P/6K/6S/6H/6D while holding Servant"/2P/0f
+864/"6P/6K/6S/6H/6D while holding Servant"/2K/1f
+865/"6P/6K/6S/6H/6D while holding Servant"/2S/4f
+866/"6P/6K/6S/6H/6D while holding Servant"/2H/10f
+867/"6P/6K/6S/6H/6D while holding Servant"/j.P/6f
+868/"6P/6K/6S/6H/6D while holding Servant"/j.K/7f
+869/"6P/6K/6S/6H/6D while holding Servant"/j.S/11f
+870/"6P/6K/6S/6H/6D while holding Servant"/j.H/11f
+871/"6P/6K/6S/6H/6D while holding Servant"/j.D/21f
+872/"6P/6K/6S/6H/6D while holding Servant"/6P/5f
+873/"6P/6K/6S/6H/6D while holding Servant"/6H/22f
+874/"6P/6K/6S/6H/6D while holding Servant"/2D/5f
+875/"6P/6K/6S/6H/6D while holding Servant"/5D/15f
+876/"6P/6K/6S/6H/6D while holding Servant"/5[D]/23f
+877/"6P/6K/6S/6H/6D while holding Servant"/236P/5f
+878/"6P/6K/6S/6H/6D while holding Servant"/236[P]/
+879/"6P/6K/6S/6H/6D while holding Servant"/2P (near Servant)/
+880/"6P/6K/6S/6H/6D while holding Servant"/"6P/6K/6S/6H/6D while holding Servant"/7f
+881/"6P/6K/6S/6H/6D while holding Servant"/D while holding Servant/
+882/"6P/6K/6S/6H/6D while holding Servant"/214P/5f
+883/"6P/6K/6S/6H/6D while holding Servant"/214K/7f
+884/"6P/6K/6S/6H/6D while holding Servant"/K while holding Servant/7f
+885/"6P/6K/6S/6H/6D while holding Servant"/214S/-1f
+886/"6P/6K/6S/6H/6D while holding Servant"/S while holding Servant/-1f
+887/"6P/6K/6S/6H/6D while holding Servant"/214H/203f
+888/"6P/6K/6S/6H/6D while holding Servant"/236K/10f
+889/"6P/6K/6S/6H/6D while holding Servant"/j.236K/15f
+890/"6P/6K/6S/6H/6D while holding Servant"/Bounced Servant/1f
+891/"6P/6K/6S/6H/6D while holding Servant"/Launched Servant/1f
+892/"6P/6K/6S/6H/6D while holding Servant"/632146P/6f
+893/"6P/6K/6S/6H/6D while holding Servant"/236236S/-2f
+894/"6P/6K/6S/6H/6D while holding Servant"/236236H/-2f
+895/"6P/6K/6S/6H/6D while holding Servant"/236D/15f
+896/"6P/6K/6S/6H/6D while holding Servant"/236[D]/27f
+897/D while holding Servant/5P/
+898/D while holding Servant/5K/
+899/D while holding Servant/c.S/
+900/D while holding Servant/f.S/
+901/D while holding Servant/5H/
+902/D while holding Servant/2P/
+903/D while holding Servant/2K/
+904/D while holding Servant/2S/
+905/D while holding Servant/2H/
+906/D while holding Servant/j.P/
+907/D while holding Servant/j.K/
+908/D while holding Servant/j.S/
+909/D while holding Servant/j.H/
+910/D while holding Servant/j.D/
+911/D while holding Servant/6P/
+912/D while holding Servant/6H/
+913/D while holding Servant/2D/
+914/D while holding Servant/5D/
+915/D while holding Servant/5[D]/
+916/D while holding Servant/236P/
+917/D while holding Servant/236[P]/
+918/D while holding Servant/2P (near Servant)/
+919/D while holding Servant/"6P/6K/6S/6H/6D while holding Servant"/
+920/D while holding Servant/D while holding Servant/
+921/D while holding Servant/214P/
+922/D while holding Servant/214K/
+923/D while holding Servant/K while holding Servant/
+924/D while holding Servant/214S/
+925/D while holding Servant/S while holding Servant/
+926/D while holding Servant/214H/
+927/D while holding Servant/236K/
+928/D while holding Servant/j.236K/
+929/D while holding Servant/Bounced Servant/
+930/D while holding Servant/Launched Servant/
+931/D while holding Servant/632146P/
+932/D while holding Servant/236236S/
+933/D while holding Servant/236236H/
+934/D while holding Servant/236D/
+935/D while holding Servant/236[D]/
+936/214P/5P/
+937/214P/5K/
+938/214P/c.S/
+939/214P/f.S/
+940/214P/5H/
+941/214P/2P/
+942/214P/2K/
+943/214P/2S/
+944/214P/2H/
+945/214P/j.P/
+946/214P/j.K/
+947/214P/j.S/
+948/214P/j.H/
+949/214P/j.D/
+950/214P/6P/
+951/214P/6H/
+952/214P/2D/
+953/214P/5D/
+954/214P/5[D]/
+955/214P/236P/
+956/214P/236[P]/
+957/214P/2P (near Servant)/
+958/214P/"6P/6K/6S/6H/6D while holding Servant"/
+959/214P/D while holding Servant/
+960/214P/214P/
+961/214P/214K/
+962/214P/K while holding Servant/
+963/214P/214S/
+964/214P/S while holding Servant/
+965/214P/214H/
+966/214P/236K/
+967/214P/j.236K/
+968/214P/Bounced Servant/
+969/214P/Launched Servant/
+970/214P/632146P/
+971/214P/236236S/
+972/214P/236236H/
+973/214P/236D/
+974/214P/236[D]/
+975/214K/5P/-10f
+976/214K/5K/-8f
+977/214K/c.S/-8f
+978/214K/f.S/-4f
+979/214K/5H/-5f
+980/214K/2P/-10f
+981/214K/2K/-9f
+982/214K/2S/-6f
+983/214K/2H/0f
+984/214K/j.P/-4f
+985/214K/j.K/-3f
+986/214K/j.S/1f
+987/214K/j.H/1f
+988/214K/j.D/11f
+989/214K/6P/-5f
+990/214K/6H/12f
+991/214K/2D/-5f
+992/214K/5D/5f
+993/214K/5[D]/13f
+994/214K/236P/-5f
+995/214K/236[P]/
+996/214K/2P (near Servant)/
+997/214K/"6P/6K/6S/6H/6D while holding Servant"/-3f
+998/214K/D while holding Servant/
+999/214K/214P/-5f
+1000/214K/214K/-3f
+1001/214K/K while holding Servant/-3f
+1002/214K/214S/-11f
+1003/214K/S while holding Servant/-11f
+1004/214K/214H/193f
+1005/214K/236K/0f
+1006/214K/j.236K/5f
+1007/214K/Bounced Servant/-9f
+1008/214K/Launched Servant/-9f
+1009/214K/632146P/-4f
+1010/214K/236236S/-12f
+1011/214K/236236H/-12f
+1012/214K/236D/5f
+1013/214K/236[D]/17f
+1014/K while holding Servant/5P/2f
+1015/K while holding Servant/5K/4f
+1016/K while holding Servant/c.S/4f
+1017/K while holding Servant/f.S/8f
+1018/K while holding Servant/5H/7f
+1019/K while holding Servant/2P/2f
+1020/K while holding Servant/2K/3f
+1021/K while holding Servant/2S/6f
+1022/K while holding Servant/2H/12f
+1023/K while holding Servant/j.P/8f
+1024/K while holding Servant/j.K/9f
+1025/K while holding Servant/j.S/13f
+1026/K while holding Servant/j.H/13f
+1027/K while holding Servant/j.D/23f
+1028/K while holding Servant/6P/7f
+1029/K while holding Servant/6H/24f
+1030/K while holding Servant/2D/7f
+1031/K while holding Servant/5D/17f
+1032/K while holding Servant/5[D]/25f
+1033/K while holding Servant/236P/7f
+1034/K while holding Servant/236[P]/
+1035/K while holding Servant/2P (near Servant)/
+1036/K while holding Servant/"6P/6K/6S/6H/6D while holding Servant"/9f
+1037/K while holding Servant/D while holding Servant/
+1038/K while holding Servant/214P/7f
+1039/K while holding Servant/214K/9f
+1040/K while holding Servant/K while holding Servant/9f
+1041/K while holding Servant/214S/1f
+1042/K while holding Servant/S while holding Servant/1f
+1043/K while holding Servant/214H/205f
+1044/K while holding Servant/236K/12f
+1045/K while holding Servant/j.236K/17f
+1046/K while holding Servant/Bounced Servant/3f
+1047/K while holding Servant/Launched Servant/3f
+1048/K while holding Servant/632146P/8f
+1049/K while holding Servant/236236S/0f
+1050/K while holding Servant/236236H/0f
+1051/K while holding Servant/236D/17f
+1052/K while holding Servant/236[D]/29f
+1053/214S/5P/-26f
+1054/214S/5K/-24f
+1055/214S/c.S/-24f
+1056/214S/f.S/-20f
+1057/214S/5H/-21f
+1058/214S/2P/-26f
+1059/214S/2K/-25f
+1060/214S/2S/-22f
+1061/214S/2H/-16f
+1062/214S/j.P/-20f
+1063/214S/j.K/-19f
+1064/214S/j.S/-15f
+1065/214S/j.H/-15f
+1066/214S/j.D/-5f
+1067/214S/6P/-21f
+1068/214S/6H/-4f
+1069/214S/2D/-21f
+1070/214S/5D/-11f
+1071/214S/5[D]/-3f
+1072/214S/236P/-21f
+1073/214S/236[P]/
+1074/214S/2P (near Servant)/
+1075/214S/"6P/6K/6S/6H/6D while holding Servant"/-19f
+1076/214S/D while holding Servant/
+1077/214S/214P/-21f
+1078/214S/214K/-19f
+1079/214S/K while holding Servant/-19f
+1080/214S/214S/-27f
+1081/214S/S while holding Servant/-27f
+1082/214S/214H/177f
+1083/214S/236K/-16f
+1084/214S/j.236K/-11f
+1085/214S/Bounced Servant/-25f
+1086/214S/Launched Servant/-25f
+1087/214S/632146P/-20f
+1088/214S/236236S/-28f
+1089/214S/236236H/-28f
+1090/214S/236D/-11f
+1091/214S/236[D]/1f
+1092/S while holding Servant/5P/-26f
+1093/S while holding Servant/5K/-24f
+1094/S while holding Servant/c.S/-24f
+1095/S while holding Servant/f.S/-20f
+1096/S while holding Servant/5H/-21f
+1097/S while holding Servant/2P/-26f
+1098/S while holding Servant/2K/-25f
+1099/S while holding Servant/2S/-22f
+1100/S while holding Servant/2H/-16f
+1101/S while holding Servant/j.P/-20f
+1102/S while holding Servant/j.K/-19f
+1103/S while holding Servant/j.S/-15f
+1104/S while holding Servant/j.H/-15f
+1105/S while holding Servant/j.D/-5f
+1106/S while holding Servant/6P/-21f
+1107/S while holding Servant/6H/-4f
+1108/S while holding Servant/2D/-21f
+1109/S while holding Servant/5D/-11f
+1110/S while holding Servant/5[D]/-3f
+1111/S while holding Servant/236P/-21f
+1112/S while holding Servant/236[P]/
+1113/S while holding Servant/2P (near Servant)/
+1114/S while holding Servant/"6P/6K/6S/6H/6D while holding Servant"/-19f
+1115/S while holding Servant/D while holding Servant/
+1116/S while holding Servant/214P/-21f
+1117/S while holding Servant/214K/-19f
+1118/S while holding Servant/K while holding Servant/-19f
+1119/S while holding Servant/214S/-27f
+1120/S while holding Servant/S while holding Servant/-27f
+1121/S while holding Servant/214H/177f
+1122/S while holding Servant/236K/-16f
+1123/S while holding Servant/j.236K/-11f
+1124/S while holding Servant/Bounced Servant/-25f
+1125/S while holding Servant/Launched Servant/-25f
+1126/S while holding Servant/632146P/-20f
+1127/S while holding Servant/236236S/-28f
+1128/S while holding Servant/236236H/-28f
+1129/S while holding Servant/236D/-11f
+1130/S while holding Servant/236[D]/1f
+1131/214H/5P/
+1132/214H/5K/
+1133/214H/c.S/
+1134/214H/f.S/
+1135/214H/5H/
+1136/214H/2P/
+1137/214H/2K/
+1138/214H/2S/
+1139/214H/2H/
+1140/214H/j.P/
+1141/214H/j.K/
+1142/214H/j.S/
+1143/214H/j.H/
+1144/214H/j.D/
+1145/214H/6P/
+1146/214H/6H/
+1147/214H/2D/
+1148/214H/5D/
+1149/214H/5[D]/
+1150/214H/236P/
+1151/214H/236[P]/
+1152/214H/2P (near Servant)/
+1153/214H/"6P/6K/6S/6H/6D while holding Servant"/
+1154/214H/D while holding Servant/
+1155/214H/214P/
+1156/214H/214K/
+1157/214H/K while holding Servant/
+1158/214H/214S/
+1159/214H/S while holding Servant/
+1160/214H/214H/
+1161/214H/236K/
+1162/214H/j.236K/
+1163/214H/Bounced Servant/
+1164/214H/Launched Servant/
+1165/214H/632146P/
+1166/214H/236236S/
+1167/214H/236236H/
+1168/214H/236D/
+1169/214H/236[D]/
+1170/236K/5P/17f
+1171/236K/5K/19f
+1172/236K/c.S/19f
+1173/236K/f.S/23f
+1174/236K/5H/22f
+1175/236K/2P/17f
+1176/236K/2K/18f
+1177/236K/2S/21f
+1178/236K/2H/27f
+1179/236K/j.P/23f
+1180/236K/j.K/24f
+1181/236K/j.S/28f
+1182/236K/j.H/28f
+1183/236K/j.D/38f
+1184/236K/6P/22f
+1185/236K/6H/39f
+1186/236K/2D/22f
+1187/236K/5D/32f
+1188/236K/5[D]/40f
+1189/236K/236P/22f
+1190/236K/236[P]/
+1191/236K/2P (near Servant)/
+1192/236K/"6P/6K/6S/6H/6D while holding Servant"/24f
+1193/236K/D while holding Servant/
+1194/236K/214P/22f
+1195/236K/214K/24f
+1196/236K/K while holding Servant/24f
+1197/236K/214S/16f
+1198/236K/S while holding Servant/16f
+1199/236K/214H/220f
+1200/236K/236K/27f
+1201/236K/j.236K/32f
+1202/236K/Bounced Servant/18f
+1203/236K/Launched Servant/18f
+1204/236K/632146P/23f
+1205/236K/236236S/15f
+1206/236K/236236H/15f
+1207/236K/236D/32f
+1208/236K/236[D]/44f
+1209/j.236K/5P/"N/A"
+1210/j.236K/5K/"N/A"
+1211/j.236K/c.S/"N/A"
+1212/j.236K/f.S/"N/A"
+1213/j.236K/5H/"N/A"
+1214/j.236K/2P/"N/A"
+1215/j.236K/2K/"N/A"
+1216/j.236K/2S/"N/A"
+1217/j.236K/2H/"N/A"
+1218/j.236K/j.P/"N/A"
+1219/j.236K/j.K/"N/A"
+1220/j.236K/j.S/"N/A"
+1221/j.236K/j.H/"N/A"
+1222/j.236K/j.D/"N/A"
+1223/j.236K/6P/"N/A"
+1224/j.236K/6H/"N/A"
+1225/j.236K/2D/"N/A"
+1226/j.236K/5D/"N/A"
+1227/j.236K/5[D]/"N/A"
+1228/j.236K/236P/"N/A"
+1229/j.236K/236[P]/ 
+1230/j.236K/2P (near Servant)/ 
+1231/j.236K/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1232/j.236K/D while holding Servant/ 
+1233/j.236K/214P/"N/A"
+1234/j.236K/214K/"N/A"
+1235/j.236K/K while holding Servant/"N/A"
+1236/j.236K/214S/"N/A"
+1237/j.236K/S while holding Servant/"N/A"
+1238/j.236K/214H/"N/A"
+1239/j.236K/236K/"N/A"
+1240/j.236K/j.236K/"N/A"
+1241/j.236K/Bounced Servant/"N/A"
+1242/j.236K/Launched Servant/"N/A"
+1243/j.236K/632146P/"N/A"
+1244/j.236K/236236S/"N/A"
+1245/j.236K/236236H/"N/A"
+1246/j.236K/236D/"N/A"
+1247/j.236K/236[D]/"N/A"
+1248/Bounced Servant/5P/
+1249/Bounced Servant/5K/
+1250/Bounced Servant/c.S/
+1251/Bounced Servant/f.S/
+1252/Bounced Servant/5H/
+1253/Bounced Servant/2P/
+1254/Bounced Servant/2K/
+1255/Bounced Servant/2S/
+1256/Bounced Servant/2H/
+1257/Bounced Servant/j.P/
+1258/Bounced Servant/j.K/
+1259/Bounced Servant/j.S/
+1260/Bounced Servant/j.H/
+1261/Bounced Servant/j.D/
+1262/Bounced Servant/6P/
+1263/Bounced Servant/6H/
+1264/Bounced Servant/2D/
+1265/Bounced Servant/5D/
+1266/Bounced Servant/5[D]/
+1267/Bounced Servant/236P/
+1268/Bounced Servant/236[P]/
+1269/Bounced Servant/2P (near Servant)/
+1270/Bounced Servant/"6P/6K/6S/6H/6D while holding Servant"/
+1271/Bounced Servant/D while holding Servant/
+1272/Bounced Servant/214P/
+1273/Bounced Servant/214K/
+1274/Bounced Servant/K while holding Servant/
+1275/Bounced Servant/214S/
+1276/Bounced Servant/S while holding Servant/
+1277/Bounced Servant/214H/
+1278/Bounced Servant/236K/
+1279/Bounced Servant/j.236K/
+1280/Bounced Servant/Bounced Servant/
+1281/Bounced Servant/Launched Servant/
+1282/Bounced Servant/632146P/
+1283/Bounced Servant/236236S/
+1284/Bounced Servant/236236H/
+1285/Bounced Servant/236D/
+1286/Bounced Servant/236[D]/
+1287/Launched Servant/5P/11f
+1288/Launched Servant/5K/13f
+1289/Launched Servant/c.S/13f
+1290/Launched Servant/f.S/17f
+1291/Launched Servant/5H/16f
+1292/Launched Servant/2P/11f
+1293/Launched Servant/2K/12f
+1294/Launched Servant/2S/15f
+1295/Launched Servant/2H/21f
+1296/Launched Servant/j.P/17f
+1297/Launched Servant/j.K/18f
+1298/Launched Servant/j.S/22f
+1299/Launched Servant/j.H/22f
+1300/Launched Servant/j.D/32f
+1301/Launched Servant/6P/16f
+1302/Launched Servant/6H/33f
+1303/Launched Servant/2D/16f
+1304/Launched Servant/5D/26f
+1305/Launched Servant/5[D]/34f
+1306/Launched Servant/236P/16f
+1307/Launched Servant/236[P]/
+1308/Launched Servant/2P (near Servant)/
+1309/Launched Servant/"6P/6K/6S/6H/6D while holding Servant"/18f
+1310/Launched Servant/D while holding Servant/
+1311/Launched Servant/214P/16f
+1312/Launched Servant/214K/18f
+1313/Launched Servant/K while holding Servant/18f
+1314/Launched Servant/214S/10f
+1315/Launched Servant/S while holding Servant/10f
+1316/Launched Servant/214H/214f
+1317/Launched Servant/236K/21f
+1318/Launched Servant/j.236K/26f
+1319/Launched Servant/Bounced Servant/12f
+1320/Launched Servant/Launched Servant/12f
+1321/Launched Servant/632146P/17f
+1322/Launched Servant/236236S/9f
+1323/Launched Servant/236236H/9f
+1324/Launched Servant/236D/26f
+1325/Launched Servant/236[D]/38f
+1326/632146P/5P/46f
+1327/632146P/5K/48f
+1328/632146P/c.S/48f
+1329/632146P/f.S/52f
+1330/632146P/5H/51f
+1331/632146P/2P/46f
+1332/632146P/2K/47f
+1333/632146P/2S/50f
+1334/632146P/2H/56f
+1335/632146P/j.P/52f
+1336/632146P/j.K/53f
+1337/632146P/j.S/57f
+1338/632146P/j.H/57f
+1339/632146P/j.D/67f
+1340/632146P/6P/51f
+1341/632146P/6H/68f
+1342/632146P/2D/51f
+1343/632146P/5D/61f
+1344/632146P/5[D]/69f
+1345/632146P/236P/51f
+1346/632146P/236[P]/
+1347/632146P/2P (near Servant)/
+1348/632146P/"6P/6K/6S/6H/6D while holding Servant"/53f
+1349/632146P/D while holding Servant/
+1350/632146P/214P/51f
+1351/632146P/214K/53f
+1352/632146P/K while holding Servant/53f
+1353/632146P/214S/45f
+1354/632146P/S while holding Servant/45f
+1355/632146P/214H/249f
+1356/632146P/236K/56f
+1357/632146P/j.236K/61f
+1358/632146P/Bounced Servant/47f
+1359/632146P/Launched Servant/47f
+1360/632146P/632146P/52f
+1361/632146P/236236S/44f
+1362/632146P/236236H/44f
+1363/632146P/236D/61f
+1364/632146P/236[D]/73f
+1365/236236S/5P/"N/A"
+1366/236236S/5K/"N/A"
+1367/236236S/c.S/"N/A"
+1368/236236S/f.S/"N/A"
+1369/236236S/5H/"N/A"
+1370/236236S/2P/"N/A"
+1371/236236S/2K/"N/A"
+1372/236236S/2S/"N/A"
+1373/236236S/2H/"N/A"
+1374/236236S/j.P/"N/A"
+1375/236236S/j.K/"N/A"
+1376/236236S/j.S/"N/A"
+1377/236236S/j.H/"N/A"
+1378/236236S/j.D/"N/A"
+1379/236236S/6P/"N/A"
+1380/236236S/6H/"N/A"
+1381/236236S/2D/"N/A"
+1382/236236S/5D/"N/A"
+1383/236236S/5[D]/"N/A"
+1384/236236S/236P/"N/A"
+1385/236236S/236[P]/ 
+1386/236236S/2P (near Servant)/ 
+1387/236236S/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1388/236236S/D while holding Servant/ 
+1389/236236S/214P/"N/A"
+1390/236236S/214K/"N/A"
+1391/236236S/K while holding Servant/"N/A"
+1392/236236S/214S/"N/A"
+1393/236236S/S while holding Servant/"N/A"
+1394/236236S/214H/"N/A"
+1395/236236S/236K/"N/A"
+1396/236236S/j.236K/"N/A"
+1397/236236S/Bounced Servant/"N/A"
+1398/236236S/Launched Servant/"N/A"
+1399/236236S/632146P/"N/A"
+1400/236236S/236236S/"N/A"
+1401/236236S/236236H/"N/A"
+1402/236236S/236D/"N/A"
+1403/236236S/236[D]/"N/A"
+1404/236236H/5P/"N/A"
+1405/236236H/5K/"N/A"
+1406/236236H/c.S/"N/A"
+1407/236236H/f.S/"N/A"
+1408/236236H/5H/"N/A"
+1409/236236H/2P/"N/A"
+1410/236236H/2K/"N/A"
+1411/236236H/2S/"N/A"
+1412/236236H/2H/"N/A"
+1413/236236H/j.P/"N/A"
+1414/236236H/j.K/"N/A"
+1415/236236H/j.S/"N/A"
+1416/236236H/j.H/"N/A"
+1417/236236H/j.D/"N/A"
+1418/236236H/6P/"N/A"
+1419/236236H/6H/"N/A"
+1420/236236H/2D/"N/A"
+1421/236236H/5D/"N/A"
+1422/236236H/5[D]/"N/A"
+1423/236236H/236P/"N/A"
+1424/236236H/236[P]/ 
+1425/236236H/2P (near Servant)/ 
+1426/236236H/"6P/6K/6S/6H/6D while holding Servant"/"N/A"
+1427/236236H/D while holding Servant/ 
+1428/236236H/214P/"N/A"
+1429/236236H/214K/"N/A"
+1430/236236H/K while holding Servant/"N/A"
+1431/236236H/214S/"N/A"
+1432/236236H/S while holding Servant/"N/A"
+1433/236236H/214H/"N/A"
+1434/236236H/236K/"N/A"
+1435/236236H/j.236K/"N/A"
+1436/236236H/Bounced Servant/"N/A"
+1437/236236H/Launched Servant/"N/A"
+1438/236236H/632146P/"N/A"
+1439/236236H/236236S/"N/A"
+1440/236236H/236236H/"N/A"
+1441/236236H/236D/"N/A"
+1442/236236H/236[D]/"N/A"
+1443/236D/5P/-13f
+1444/236D/5K/-11f
+1445/236D/c.S/-11f
+1446/236D/f.S/-7f
+1447/236D/5H/-8f
+1448/236D/2P/-13f
+1449/236D/2K/-12f
+1450/236D/2S/-9f
+1451/236D/2H/-3f
+1452/236D/j.P/-8f
+1453/236D/j.K/-7f
+1454/236D/j.S/-3f
+1455/236D/j.H/-3f
+1456/236D/j.D/7f
+1457/236D/6P/-8f
+1458/236D/6H/9f
+1459/236D/2D/-8f
+1460/236D/5D/2f
+1461/236D/5[D]/10f
+1462/236D/236P/-8f
+1463/236D/236[P]/
+1464/236D/2P (near Servant)/
+1465/236D/"6P/6K/6S/6H/6D while holding Servant"/-6f
+1466/236D/D while holding Servant/
+1467/236D/214P/-8f
+1468/236D/214K/-6f
+1469/236D/K while holding Servant/-6f
+1470/236D/214S/-14f
+1471/236D/S while holding Servant/-14f
+1472/236D/214H/190f
+1473/236D/236K/-3f
+1474/236D/j.236K/1f
+1475/236D/Bounced Servant/-12f
+1476/236D/Launched Servant/-12f
+1477/236D/632146P/-7f
+1478/236D/236236S/-15f
+1479/236D/236236H/-15f
+1480/236D/236D/2f
+1481/236D/236[D]/14f
+1482/236[D]/5P/-13f
+1483/236[D]/5K/-11f
+1484/236[D]/c.S/-11f
+1485/236[D]/f.S/-7f
+1486/236[D]/5H/-8f
+1487/236[D]/2P/-13f
+1488/236[D]/2K/-12f
+1489/236[D]/2S/-9f
+1490/236[D]/2H/-3f
+1491/236[D]/j.P/-8f
+1492/236[D]/j.K/-7f
+1493/236[D]/j.S/-3f
+1494/236[D]/j.H/-3f
+1495/236[D]/j.D/7f
+1496/236[D]/6P/-8f
+1497/236[D]/6H/9f
+1498/236[D]/2D/-8f
+1499/236[D]/5D/2f
+1500/236[D]/5[D]/10f
+1501/236[D]/236P/-8f
+1502/236[D]/236[P]/
+1503/236[D]/2P (near Servant)/
+1504/236[D]/"6P/6K/6S/6H/6D while holding Servant"/-6f
+1505/236[D]/D while holding Servant/
+1506/236[D]/214P/-8f
+1507/236[D]/214K/-6f
+1508/236[D]/K while holding Servant/-6f
+1509/236[D]/214S/-14f
+1510/236[D]/S while holding Servant/-14f
+1511/236[D]/214H/190f
+1512/236[D]/236K/-3f
+1513/236[D]/j.236K/1f
+1514/236[D]/Bounced Servant/-12f
+1515/236[D]/Launched Servant/-12f
+1516/236[D]/632146P/-7f
+1517/236[D]/236236S/-15f
+1518/236[D]/236236H/-15f
+1519/236[D]/236D/2f
+1520/236[D]/236[D]/14f

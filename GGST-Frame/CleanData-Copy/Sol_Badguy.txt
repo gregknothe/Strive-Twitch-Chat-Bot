@@ -10,9 +10,9 @@
 8/2H/11/5/31/-17/4/Normal/Special,Super
 9/j.P/5/3/8//0/jump Normal/j.P,Special
 10/j.K/6/3/20//1/jump Normal/j.D,Jump,ForwardAirDash,Special
-11/j.S/10/3/23/2/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
-12/j.H/11/4, 8/0/7/2/jump Normal/j.D,Jump,ForwardAirDash,Special
-13/j.D/9/3/17/4/3/jump Normal/Jump,ForwardAirDash,Special
+11/j.S/10/3/23/2 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special
+12/j.H/11/4, 8/0/7 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash,Special
+13/j.D/9/3/17/4 (IAD)/3/jump Normal/Jump,ForwardAirDash,Special
 14/6P/9/5/20/-11/2/Normal/Special,Super
 15/6S/15/6/20/-9/3/Normal/Special,Super
 16/6H/9/3/43/-27/4/Normal/
@@ -30,9 +30,9 @@
 28/j.236K/10/6/Until Landing+6//2/jump Special/
 29/j.236KK/6/2/Until Landing+17//2/jump Special/
 30/214K/30/7/12 Landing/-2/3/Special/
-31/j.214K/22/Until Landing/Until Landing+18//3/jump Special/
+31/j.214K/22[30]/Until Landing/Until Landing+18//3/jump Special/
 32/623K/6/2/41///Special/
-33/214S/15/2 [8]/32 [26]/-17/3/Special/
+33/214S/15[32]/2 [8]/32 [26]/-17/3/Special/
 34/41236H/24/3/16/11/4/Special/
 35/632146H/9/3(20)20/41/-44/4,3/Super/
 36/214214H/20/16/49///Super/

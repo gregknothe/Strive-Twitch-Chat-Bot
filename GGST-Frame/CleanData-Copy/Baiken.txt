@@ -10,21 +10,21 @@
 8/2H/17/6/26/-13/4/Normal/Special,Super
 9/j.P/5/3/13//0/jump Normal/j.P,Special,Super
 10/j.K/7/8/12//1/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
-11/j.S/8/7/19/1/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
-12/j.H/15/Until Landing/3 after Landing/7/2/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+11/j.S/8/7/19/1 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
+12/j.H/15/Until Landing/3 after Landing/7 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
 13/j.D/12/3/26//3/jump Normal/Jump,ForwardAirDash,Special,Super
 14/6P/9/5/19/-10/2/Normal/Special,Super
 15/6K/12/9/10/-5/2/Normal/Special,Super
 16/6H/20/8/24/-13/4/Normal/Special,Super
-17/2D/10/63/21/-10/2/Normal/Special,Super
+17/2D/10/6, 3/21/-10/2/Normal/Special,Super
 18/5D/20/3/26/-15/2/Normal/
 19/5[D]/28/3/26/-10/4/Normal/
 20/236K/15/3 (13) 13/5/-3/3,0/Special/
-21/j.236K/20/Until Tatami Lands/Until Landing+7/15/2[0]/jump Special/
-22/41236S/31/11/16/2/4/Special/
+21/j.236K/20/Until Tatami Lands/Until Landing+7/15 (IAD)/2[0]/jump Special/
+22/41236S/29/10/16/2/4/Special/
 23/41236H/18/11/19/-3/4/Special/
 24/41236H~H/11 [23]/3/14 (23 on block)/-7/3/Special/
-25/j.236S/9/12/7 after Landing/-14/2/jump Special/
+25/j.236S/9/12/7 after Landing/-14 (IAS)/2/jump Special/
 26/236P/1/7/32///Special/
 27/236236S/9/3(20)3(36)3/48/-32/4/Super/
 28/214214P/11/28/Total 47/5/4/Super/

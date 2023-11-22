@@ -21,14 +21,14 @@
 19//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
 0//236S/36/Low/16/6/15/-7//2/Mid/"5~15F Low Profile'""`UNIQ--item-106--QINU`""'"/90%/1125/1000/S Stroke the Big Tree
 1//236H/42/Low/28/5/16/-2//4/Mid/"9~27F Low Profile'""`UNIQ--item-108--QINU`""'"/90%/1875/1000/H Stroke the Big Tree
-2//j.236K/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/-3~ -4 [+2~ 0]/KD +36 [KD +41]/2[4]/Very Small//90%/1500/1000/K Sultry Performance
-3//j.236S/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/0~ -2 [+2~ -1]/KD +36 [KD +40]/2[4]/Very Small//90%/1500/1000/S Sultry Performance
+2//j.236K/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/-2~-4 [+4~+1]/KD +36 [KD +41]/2[4]/Very Small//90%/1500/1000/K Sultry Performance
+3//j.236S/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/-3~ -4 [+2~ 0]/KD +36 [KD +40]/2[4]/Very Small//90%/1500/1000/S Sultry Performance
 4//j.236H/10×2,20 [10×4,20]/All/8 [32]/32/Until Landing + 6/-7 [-2]/KD +11 [KD +31]/2[4]/Very Small//90%/500×3 [500×5]/1000/H Sultry Performance
 5//214P/12+[9×4]/All/29//Total 51/-16//0/Very Small//80%/200×2 ~ 100×5/1000/Antidepressant Scale
 6//j.214P/12+[9×4]/All/28//Until Landing + 6/-16//0/Very Small//80%/200×2 ~ 100×5/1000/Air Antidepressant Scale
 7//214K/45/All/11/14/22/-9/KD +31/2/Very Small/below the waist 2~27/80%/500/1000/Chemical Love
 8//j.214K/45/All/11/14/Until Landing + 7/-10 (IHD)/KD +30 (IHD)/2/Very Small//80%/500/1000/Air Chemical Love
-9//214S/50/All/26/3/15 (17 OH)/+17//4/Mid//80%/2500/2000/Mad Love Agitato
+9//214S/50/All (Guard Crush)/26/3/15 (17 OH)/+17//4/Mid//80%/2500/2000/Mad Love Agitato
 10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//632146H/13×18 (17×11)/Ground Throw (All)/11+0(41)///"N/A (-18)"/HKD +69 (HKD +41)/"N/A (2)"///100%//1000×18 (1000×11)/Megalomania
 1//632146S/40,20×2,100/All (Guard Crush)/7+2/4 (42) 9/13/+26/HKD +59/4//1~11 Full/100%//1000×2/Ultimate Fortissimo
@@ -36,7 +36,7 @@
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +56////50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +50 (IAD)////50%//2500/Air Throw
-2/////16/3/20/-4////////Wild Assault
-3////All/28/3/20/-4////////Wild Assault
+2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/3000/Wild Assault
+3///50/All/28/3/20/-4/HKD/4/Mid//100%/2500/2000/Wild Assault (Hold)
 4///////Total 26/////////Dash Cancel
 5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -54,11 +54,6 @@ def heyLen():
 
 dropValues = []
 def ohHeyStreamer():
-    jackpot = random.randint(1,10000)
-    if jackpot == 69:
-        return "@Lastcody it is mandated by law that you play Ultimate Chicken Horse today. If you refuse, then the bot will self destruct, destroying all the games and killing Mr Sever in the process. Please do not disapoint the great Bot the Woz."
-    if jackpot == 333:
-        return "Oh hey, it's my favorite 'The Legend of Heroes: Kuro no Kiseki' (Originally planned to come out on the PS2 in 2002) streamer." 
     values = df.sample()
     title = str(values["title"].values).replace("[","").replace("]","")
     date = str(values["date"].values).replace("[","").replace("]","").replace("'","")

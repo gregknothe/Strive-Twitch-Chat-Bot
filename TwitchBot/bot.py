@@ -12,6 +12,7 @@ sys.path.insert(0, 'TournamentData')
 import StartGGDataScraper as sgg
 sys.path.insert(0, 'GGST-Frame')
 import GGSTFrameData as ggst
+import datetime
 
 
 #sys.path.append("/TournamentData/")
@@ -24,7 +25,7 @@ module.function()
 '''
 
 
-modList = ["lastclaire","greedx___","asome26","kyluneena","abusywizard","montepremia"]
+modList = ["lastclaire","greedx___","asome26","kyluneena","montepremia"]
 
 bot = commands.Bot(
     token=os.environ['TOKEN'],
@@ -158,6 +159,16 @@ async def dustloop(ctx, *, text):
 async def feedSin(ctx):
     await ctx.send(sfr.SinFoodRoll())
 '''
+
+@bot.command(name="granblue")
+async def granblue(ctx):
+    present = datetime.datetime.now()
+    future = datetime.datetime(2023, 12, 14, 0, 0, 0)
+    difference = future - present
+    diff = str(difference)
+    days = diff.split(", ")[0]
+    time = diff.split(", ")[1].split(":")
+    await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
 
 if __name__ == "__main__":
     bot.run()

@@ -6,7 +6,7 @@
 4//5H/42/All/12/4/23/-8/-5/4/Large/None/90%/2500/1000/
 5//5D/40/High/20/3/26/-15/0/2/Mid/None/80%/1125/3000 [1000]/
 6//5[D]/50/High/28/3/26/-10/KD +36/4/Mid/None/100%/1875/1500 [1000]/
-7//6P/26/All/9/9/16/-11/-8/2/Mid/1-2F Upper Body 3-11F Above Knee/90%/1500/1000/
+7//6P/26/All/9/9/16/-11/-8/2/Mid/1-2 Upper Body 3-11 Above Knee/90%/1500/1000/
 8//6K/35/High/28/2/10/+2/+6/2/Small/13-29F Below Knee/80%/1125/1000/
 9//6H/2040/All/15/5(13)4/23/-8/-5/4/Large×2/9-21F Airborne/100%/1200×2/1000/
 10//2P/18/All/4/2/10/-2/+1/0/Small/None/80%/500/1500/
@@ -37,7 +37,7 @@
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///70/Ground Throw/2/3/38/-/HKD +61/-//None/Forced 50%//2500/Ground Throw
 1///70/Air Throw/2/3/38 or Until Landing+10//HKD +52 (IAD)///None/Forced 50%//2500/Air Throw
-2////////////////Wild Assault
-3////////////////Wild Assault
+2///30/All/20~31/3/20/+12/+22/4/Mid//90%/2500/3000/Wild Assault
+3///50/All/32/3/20/+17/HKD +71/4/Mid//100%/2500/2000/Wild Assault
 4///////Total 24/////////Dash Cancel
 5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

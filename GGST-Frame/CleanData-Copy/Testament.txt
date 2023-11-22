@@ -5,7 +5,7 @@
 3/f.S/12/3/18/-7/2/Normal/5H,2H,Special,Super
 4/5H/13/2/25/-8/4/Normal/Special,Super
 5/5D/20/3/26/-15/2/Normal/
-6/5[D]/28/3/26/-10/2/Normal/
+6/5[D]/28/3/26/-10/4/Normal/
 7/6P/11/6/15/-7/2/Normal/Special,Super
 8/6H/23/6/32/-19/4/Normal/Special,Super
 9/2P/5/3/10/-3/0/Normal/5P,2P,6P,6H,Special,Super
@@ -13,10 +13,10 @@
 11/2S/10/3/18/-7/2/Normal/5H,2H,Special,Super
 12/2H/23/9/12/-2/4/Normal/Special,Super
 13/2D/14/3/22/-8/3/Normal/Special,Super
-14/j.P/6/4/10/1/0/jump Normal/j.P,Special,Super
-15/j.K/8/2/12/-3/1/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
-16/j.S/9/3/19/0/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
-17/j.H/13/5/16/5/2/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+14/j.P/6/4/10/1 (IAD j.PP)/0/jump Normal/j.P,Special,Super
+15/j.K/8/2/12/-3 (IAD)/1/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
+16/j.S/9/3/19/0 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash,Special,Super
+17/j.H/13/5/16/5 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash,Special,Super
 18/j.D/12/6/22//2/jump Normal/
 19/Stain/////3/Normal/
 20/236S/16/4, (5), 30/27/-4/3,1/Special/

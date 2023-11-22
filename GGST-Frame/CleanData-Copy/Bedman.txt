@@ -16,18 +16,18 @@
 14/j.P/6/4/9//0/jump Normal/j.P,AirDash,Special,Super
 15/j.K/8/4/21//1/jump Normal/j.D,AirDash,Special,Super
 16/j.S/10/4/22//2/jump Normal/j.H,j.D,AirDash,Special,Super
-17/j.H/15/2x6/Until Landing+3/10/2/jump Normal/j.D,AirDash,Special,Super
+17/j.H/15/2x6/Until Landing+3/10 (IAD)/2/jump Normal/j.D,AirDash,Special,Super
 18/j.D/19/Until Landing/21 after Landing/-11/2/jump Normal/AirDash,Special,Super
 19/236P/16//Total 46/-11/4/Special/
 20/j.236P/16////4/jump Special/
-21/!P/8 [14]//Total 0 [Total 30]/20/2/Normal/
-22/13C !P/8 [14]//Total 0 [Total 30]/47/4/Special/
+21/!P/8 [14]//Total 0 [Total 30]/20 [3]/2/Normal/
+22/13C !P/8 [14]//Total 0 [Total 30]/47 [30]/4/Special/
 23/(236P) 214P/14//16/3/2/Super/
 24/13C (236P) 214P///Total 30///Super/
 25/236S/14/18/24/-12/2/Special/
-26/j.236S/14/18/24/-13/2/jump Special/
-27/!S/15 [21]/3x5/Total 0 [Total 30]/36/2/Normal/
-28/13C !S/15 [21]/4x9/Total 0 [Total 30]/62/4/Special/
+26/j.236S/14/18/24/-13 (IAS)/2/jump Special/
+27/!S/15 [21]/3x5/Total 0 [Total 30]/36 [26]/2/Normal/
+28/13C !S/15 [21]/4x9/Total 0 [Total 30]/62 [52]/4/Special/
 29/(236S) 214P/21/18/Total 30/26/2/Super/
 30/13C (236S) 214P///Total 30/52//Super/
 31/236H/24/9/23/3/4/Special/
@@ -37,7 +37,7 @@
 35/!{H}/34 [40]/9/Total 0 [Total 30]/57/4/Normal/
 36/![H]/34 [40]/9/Total 0 [Total 30]/65/4/Normal/
 37/13C !H/34 [40]/9/Total 0 [Total 30]/64/4/Special/
-38/(236H) 214P/40/9/Total 30/59/4/Super/
+38/(236H) 214P/40/9/Total 30/59 {67} [75]/4/Super/
 39/13C (236H) 214P///Total 30/64//Super/
 40/214P//-/Total 30///Special/
 41/j.214P//-/Total 30///jump Special/

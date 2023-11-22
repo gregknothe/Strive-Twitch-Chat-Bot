@@ -36,7 +36,7 @@
 4//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +59///none/50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +51 (IAD)///none/50%//2500/Air Throw
-2///30/All/16/3/20/-4/-1///////Wild Assault
-3///50/All/28/3/20/-4////////Wild Assault
+2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/3000/Wild Assault
+3///50/All/28/3/20/-4/HKD/4/Mid//100%/2500/2000/Wild Assault (Hold)
 4///////Total 22/////////Dash Cancel
 5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

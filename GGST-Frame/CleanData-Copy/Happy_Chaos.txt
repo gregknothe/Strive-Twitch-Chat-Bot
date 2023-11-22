@@ -14,14 +14,14 @@
 12/6S/12/7/24/-14/3/Normal/Special,Super
 13/j.P/5/2/18//0/jump Normal/j.P,j.2K,
 14/j.K/7/3/18//1/jump Normal/j.2K,j.D,Jump,ForwardAirDash
-15/j.S/10/4/23/2/2/jump Normal/j.D,Jump,ForwardAirDash
-16/j.D/11/4/21/3/2/jump Normal/Jump,ForwardAirDash
-17/j.2K/10/5/16 [11]/2/2/jump Normal/
+15/j.S/10/4/23/2 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash
+16/j.D/11/4/21/3 (IAD)/2/jump Normal/Jump,ForwardAirDash
+17/j.2K/10/5/16 [11]/2 (IAD airborne)/2/jump Normal/
 18/H//-/Total 12///Normal/
 19/236S/9/3/13/3/4/Special/
 20/236S H/1/2//23/1/Special/
 21/214S//-/Total 18///Special/
-22/214S H/1/2/43//3/Special/
+22/214S H/1/2/43/More info/3/Special/
 23/236S 2H//-/0 [9]///Special/
 24/214S 214S//-/Total 16///Super/
 25/22P/23/-/Total 23~77///Special/
