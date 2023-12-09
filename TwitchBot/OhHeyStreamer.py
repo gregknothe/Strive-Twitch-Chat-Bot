@@ -72,13 +72,14 @@ def saveGameList():
     print("Game Removal Finsihed")
     return
 
-'''
-lyrics = pd.read_csv("MiseryLyrics.txt", sep="/")
+
+lyrics = pd.read_csv("TwitchBot/MiseryLyrics.txt", sep="/")
 lyrics = lyrics["Song"].values.tolist()
 lyricLine = 0
 def ohTheMisery(count):
     line =  lyrics[count]
     return line
-'''
 
+
+#print(ohTheMisery(1))
 #print(ohHeyStreamer())

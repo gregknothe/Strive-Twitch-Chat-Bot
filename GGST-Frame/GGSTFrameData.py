@@ -14,13 +14,14 @@ To Do List:
 
 charList =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny", "Elphelt_Valentine"]
 
 def nameCleaner(char):
     #Takes the user inputed character name and replaces it with a useable character name (hopefully).
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Nago", "Millia", "Millia_Rage", "Chipp", "Chipp_Zanuff", "Sol", "Sol_Badguy", "Ky", "Ky_Kiske", "Kyle", "May", 
                 "Zato-1", "I-No", "ino", "Happy", "Chaos", "Happy_Chaos", "Bedman", "Sin", "sin", "Sin_Kiske", "Baiken", "Anji", "Anji_Mito", "Leo", "Leo_Whitefang", "Faust", "Axl", "Axl_Low",
-                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "gio", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "gio", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny", "Elphelt_Valentine",
+                "Elphelt"]
     #charListLower, char = [x.lower() for x in charList], char.lower()
     char = str(difflib.get_close_matches(char,charList,n=1,cutoff=.3)).replace("['","").replace("']","")
     if char == "Sol":
@@ -51,6 +52,8 @@ def nameCleaner(char):
         char = "Chipp_Zanuff"
     elif char == "ino":
         char = "I-No"
+    elif char == "Elphelt":
+        char = "Elphelt_Valentine"
     return char
 
 def dataScrape(char):
@@ -529,3 +532,5 @@ def frameTrapAllCharacters():
 
 #print(moveLookup("Asuka","Accipiter"))
 #print(moveLookup("gio","5p"))
+
+#print(moveLookup("elphelt", "214P"))

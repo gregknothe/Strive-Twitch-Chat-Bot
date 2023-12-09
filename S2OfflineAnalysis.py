@@ -61,7 +61,7 @@ def charDataframe(char, tourney=""):
     return data.loc[data["char"]==char]
 
 #print(charDataTable())
-print(charDataTable("AWT"))
+#print(charDataTable("AWT"))
 #print(tournamentWinners())
 #print(charDataframe("Happy","AWT"))
 

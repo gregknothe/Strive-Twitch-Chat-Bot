@@ -32,7 +32,7 @@ bot = commands.Bot(
     client_id=os.environ['CLIENT_ID'],
     nick=os.environ['BOT_NICK'],
     prefix=os.environ['BOT_PREFIX'],
-    initial_channels=["lastclaire", "vera_caelestis", "montepremia", "bloopybloopz"]
+    initial_channels=["lastclaire", "vera_caelestis", "montepremia", "bloopybloopz", "montepremia"]
 )
         
 @bot.command(name="ft")
@@ -124,22 +124,6 @@ async def kliff(ctx):
         return
     else:
         return
-'''
-@bot.command(name="playerdata")
-async def playerdata(ctx, *, text):
-    await ctx.send(sgg.playerRecordBotCommand(text, "TournamentData/TNS/TNSSets.txt"))
-
-
-lineCount = [0]
-@bot.command(name="misery")
-async def misery(ctx):
-    line = ohs.ohTheMisery(lineCount[0])
-    lineCount.append(lineCount[0]+1)
-    lineCount.remove(lineCount[0])
-    await ctx.send(line)
-
-#Enable for new char launches 
-'''
 
 @bot.command(name="sf")
 async def dustloop(ctx, *, text):
@@ -154,10 +138,23 @@ async def dustloop(ctx, *, text):
             await ctx.send("Nope. Get owned, nerd. (Something went wrong)")
 
 '''
+Unused Commands - Good chance they need some touching up to work.
+
+lineCount = [0]
+@bot.command(name="misery")
+async def misery(ctx):
+    line = ohs.ohTheMisery(lineCount[0])
+    lineCount.append(lineCount[0]+1)
+    lineCount.remove(lineCount[0])
+    await ctx.send(line)
 
 @bot.command(name="feedsin")
 async def feedSin(ctx):
     await ctx.send(sfr.SinFoodRoll())
+
+@bot.command(name="playerdata")
+async def playerdata(ctx, *, text):
+    await ctx.send(sgg.playerRecordBotCommand(text, "TournamentData/TNS/TNSSets.txt"))
 '''
 
 @bot.command(name="granblue")
@@ -169,6 +166,33 @@ async def granblue(ctx):
     days = diff.split(", ")[0]
     time = diff.split(", ")[1].split(":")
     await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
+
+
+@bot.command(name="richpeoplegranblue")
+async def granblue(ctx):
+    present = datetime.datetime.now()
+    future = datetime.datetime(2023, 12, 11, 0, 0, 0)
+    difference = future - present
+    diff = str(difference)
+    days = diff.split(", ")[0]
+    time = diff.split(", ")[1].split(":")
+    await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
+
+
+fortniteFlag = 0
+@bot.command(name="fortnite")
+async def fortnite(ctx):
+    if fortniteFlag == 0:
+        fortniteFlag = 1
+        await ctx.send("🚨Attention🚨ALL FORTNITE GAMERS 🎮🎮🎮, John Wake is in great danger🆘, and he needs YOUR help to wipe out 💀 all the squads in THe tilted towers 🏢🏢🏢. To do this, he needs a gold SCAR 🔫 and a couple of chug-jugs🍺🍺. To help him, all he needs is your credit card number 💳 , and the three numbers on the back 3️⃣ and the expiration month and date 📅. But you gotta be quick ⚡so that John can secure the bag 💰, and achieve the epic victory R O Y AL")
+
+peterFlag = 0
+@bot.command(name="peter")
+async def fortnite(ctx):
+    if peterFlag == 0:
+        peterFlag = 1
+        await ctx.send("Holy Crap, Im in fortnite! oh my gosh, this is so friggin epic, angellic sound holy crap, donald trump? hello peter. Weclome to Fontnite.")
+
 
 if __name__ == "__main__":
     bot.run()

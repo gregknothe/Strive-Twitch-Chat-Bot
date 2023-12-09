@@ -52,6 +52,8 @@ def nameConverter(charName):
         return "Bedman"
     elif charName == "asuka" or charName == "asukar" or charName == "thatman":
         return "Asuka_R"
+    elif charName == "elphelt" or charName == "elph" or charName == "elf":
+        return "Elphelt_Valentine"
     else:
         return "This is not a valid character"
 

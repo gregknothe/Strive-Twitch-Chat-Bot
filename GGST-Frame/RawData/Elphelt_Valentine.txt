@@ -1,0 +1,43 @@
+/Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//5P/20/All/5/3/9/-2/+1/0/Small//80%/500/1500/
+1//5K/25/All/7/3/13/-4/-1/1/Small//90%/1000/1000/
+2//c.S/38/All/7/6/10/+1/+5/3/Mid//100%/2000/1000/
+3//f.S/31/All/11/3/18/-7/-4/2/Mid//90%/1500/1000/
+4//5H/41/All/14/4/26/-11/-8/4/Large//90%/2500/1000/
+5//5HH/46/All/15/1/31/-15/KD/3/Large//90%/2000/2000/
+6//5D/45/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
+7//5[D]/56/High/28/3/26/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
+8//2P/19/All/5/3/9/-2/+1/0/Small//80%/500/1500/
+9//2K/19/Low/6/3/12/-3/0/1/Small//70%/750/1000/
+10//2S/29/All/13/6/15/-7/-4/2/Mid//90%/1500/1000/
+11//2H/37/All/18/6/15/-4/KD/3/Large//90%/2000/1000/
+12//2D/31/Low/12/4/18/-8/HKD/2/Large//90%/1125/1000/
+13//6P/29/All/9/4/20/-10/KD/2/Mid/1-2 Upper Body 3-12 Above Knee/90%/1500/1000/
+14//6H/52/All/25/9/25/-15/KD/4/Large//90%/2500/1000/
+15//j.P/16/High/6/4/9///0/Small//80%/375/1000/
+16//j.K/21/High/7/4/12///1/Small//80%/750/1000/
+17//j.S/29/High/11/6/18///2/Mid//80%/1125/1000/
+18//j.H/35/High/13/4/14///2/Mid//80%/1125/1000/
+19//j.D/23, 23/High/16/33/20///2/Mid//80%/525×2/1000/
+20//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
+0//236S/27/All/16 [33]//Total 50///2/Very Small//80%//1000/Miss Charlotte
+1//236H/27/All/16 [39]//Total 50/-15/-12/2/Very Small//80%/500/1000/Miss Charlotte
+2//214K/35/All/14/12/10/-8/KD/2///80%/1500/1000/Miss Charlotte (Out of Repair)
+3//214H/45/All/29/10/Total 38/+14 (mid air)/+17 (mid air)/3/Very Small/Airborne, Below Waist 7-38/80%/300/2000/Bomb-Bomb Chocolat
+4//214S/30/All/21/3/16/-2/+1/3/Very Small/10-23 Airborne/80%/2000/1000/Here I Go!
+5//214S~P/10×3/High/14/223/24/-10/-7/3/Very Small//80%/375,375,450 (1200)/1000/Up High!
+6//214S~K/30/Low/14/3/24/-10/-7/3/Very Small//80%/1500/1000/Down Low!
+7//"214S~P/K~P"/10×3/High/14/223/32/-18/KD +15/3/Very Small//80%/375,375,450 (1200)/1000/Up High! (after Up High! or Down Low!)
+8//"214S~P/K~K"/30/Low/14/3/30/-16/KD +15/3/Very Small//80%/1500/1000/Down Low! (after Up High! or Down Low!)
+9//214S~H/50/All/13/3/21/-5/KD/4/Very Small//80%/2500/1000/Nailed It!
+10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0//632146H/126/All/9+4/3/60/-39/HKD/3/Very Small/1-15F Full/100%/500/1000/Juganto Da Parfeo
+1//236236K/50/Ground Throw/7+0/2/50 (32 OH)/-/Stagger +20/4/Very Small//50%/-/1000/Bomb-Bombnnière
+2//236236K Explosion/80/All/113/////4/Very Small//100%/500/1000/Bomb-Bombnnière Explosion
+3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
+0///80/Ground Throw/2/3/38//HKD +?///none/50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +? (IAD)///none/50%//2500/Air Throw
+2///30/All/20~31/3/20/+12/Stagger +12/4/Mid//90%/2500/3000/Wild Assault
+3///50//32/3/20/+17/HKD +71/4/Mid//100%/2500/2000/Wild Assault (Hold)
+4///////Total 22/////////Dash Cancel
+5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
