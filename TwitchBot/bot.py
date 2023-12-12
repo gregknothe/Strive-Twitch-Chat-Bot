@@ -12,6 +12,8 @@ sys.path.insert(0, 'TournamentData')
 import StartGGDataScraper as sgg
 sys.path.insert(0, 'GGST-Frame')
 import GGSTFrameData as ggst
+sys.path.insert(0, 'Granblue-Frame')
+import GBFrameData as gb
 import datetime
 
 
@@ -32,7 +34,7 @@ bot = commands.Bot(
     client_id=os.environ['CLIENT_ID'],
     nick=os.environ['BOT_NICK'],
     prefix=os.environ['BOT_PREFIX'],
-    initial_channels=["lastclaire", "vera_caelestis", "montepremia", "bloopybloopz", "montepremia"]
+    initial_channels=["lastclaire", "montepremia", "bloopybloopz"]
 )
         
 @bot.command(name="ft")
@@ -63,6 +65,10 @@ async def movelist(ctx, *, text):
 async def gg(ctx, *, text):
     await ctx.send(ggst.moveLookup(text.split(" ",1)[0], text.split(" ",1)[1]))
 
+@bot.command(name="gb")
+async def granblue(ctx, *, text):
+    await ctx.send(gb.moveLookup(text.split(" ",1)[0], text.split(" ",1)[1]))
+
 heyUserList = []
 
 @bot.command(name="hey")
@@ -72,7 +78,7 @@ async def hey(ctx):
         return
     else:
         if ctx.author.name == "life_jam":
-           await ctx.send(ohs.ohHeyStreamer().replace("Oh hey,","Hey alright,"))
+           await ctx.send(ohs.ohRanceStreamer())
         heyUserList.append(ctx.author.name)
         print(heyUserList)
         await ctx.send(ohs.ohHeyStreamer())
@@ -160,7 +166,7 @@ async def playerdata(ctx, *, text):
 @bot.command(name="granblue")
 async def granblue(ctx):
     present = datetime.datetime.now()
-    future = datetime.datetime(2023, 12, 14, 0, 0, 0)
+    future = datetime.datetime(2023, 12, 13, 21, 0, 0)
     difference = future - present
     diff = str(difference)
     days = diff.split(", ")[0]
@@ -171,7 +177,7 @@ async def granblue(ctx):
 @bot.command(name="richpeoplegranblue")
 async def granblue(ctx):
     present = datetime.datetime.now()
-    future = datetime.datetime(2023, 12, 11, 0, 0, 0)
+    future = datetime.datetime(2023, 12, 10, 21, 0, 0)
     difference = future - present
     diff = str(difference)
     days = diff.split(", ")[0]

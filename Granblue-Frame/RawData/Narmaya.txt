@@ -1,0 +1,72 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//5L[g]/300/Mid/6/3/9/-1/+3/0//
+1//c.M[g]/650/Mid/6/3/14/-2/+2/2//
+2//c.H[g]/450, 350/Mid/8/2, 3/23/-7/-3/4//
+3//c.XX/350/Mid/9/3/15/-3/+1/2//
+4//c.XXX/350/Mid/12/3/18/-4/0/3//
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.M[g]/600/Mid/9/4/17/-6/-2/2//
+8//f.H[g]/900/Mid/10/6/22/-11/-7/3//
+9//2L[g]/350/Low/6/3/6/+2/+6/0//
+10//2M[g]/600/Mid/8/4/14/-3/+1/2//
+11//2H[g]/900/Mid/11/5/23/-11/-7/3//
+12//2U[g]/700/Low/9/6/20/-11/HKD/2//
+13//66L/-/Mid/-/-/-/-/-/2//
+14//66M/-/Low/-/-/-/-/-/2//
+15//66H[g]/-/Mid/-/-/-/-/-/2//
+16//66H[k]/-/Mid/-/-/-/-/-/2//
+17//j.L[g]/400/"High/Air"/5/Until L/0///1//
+18//j.M[g]/550/"High/Air"/6/6/Until L///1//
+19//j.H[g]/700/"High/Air"/9/6/Until L///2//
+20//j.U[g]/800/"High/Air"/10/6/Until L///2//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5L[k]/300/Mid/5/3/8/0/+4/0//
+1//c.M[k]/650/Mid/6/3/12/0/+4/2//
+2//c.H[k]/1100/Mid/9/6/15/-2/+2/4//
+3//f.M[k]/600/Mid/7/5/15/-5/-1/2//
+4//f.H[k]/1000/Mid/9/6/20/-9/-5/3//
+5//2L[k]/350/Low/6/3/6/+2/+6/0//
+6//2M[k]/600/Mid/7/3/11/+1/+5/2//
+7//2H[k]/900/Mid/10/8/22/-13/-9/3//
+8//2U[k]/700/Low/7/6/21/-12/HKD/2//
+9//j.L[k]/400/"High/Air"/5/Until L/0///1//
+10//j.M[k]/550/"High/Air"/7/8/Until L///1//
+11//j.H[k]/800/"High/Air"/12/9/Until L///2//
+12//j.U[k]/800/"High/Air"/9/6/Until L///2//
+13//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/////Total 30/////Butterfly Effect
+1//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L[g]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//L Setsuna
+1//236M[g]/1000→700/Mid→All/32~70/7/21/+10/+14/2//M Setsuna
+2//236H[g]/1000→700/Mid→All/15/7/25/+2/HKD/2//H Setsuna
+3//623L[g]/600, 400/Mid, All/9/2, 8/25+9 Landing/-23/KD/3//L Absolute Horizon
+4//623M[g]/800, 500/Mid, All/9/2, 8/31+9 Landing/-27/KD/4/1-15 All/M Absolute Horizon
+5//623H[g]/650, 250×3/Mid/9/2, 4, 2, 2/35+9 Landing/-31/HKD/4/1-18 All/H Absolute Horizon
+6//214L[g]/////Total 39/////L Transient
+7//214M[g]/////Total 45/////M Transient
+8//214H[g]/////Total 36/////H Transient
+9//236U[g]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Setsuna
+10//623U[g]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Absolute Horizon
+11//214U[g]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Transient
+12//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L[k]/900/Mid/13 [6]/2/19/-5/KD/2//L Kyokasuigetsu
+1//236M[k]/600×2/Mid/16 [8]/2, 2/21/-8/KD/2//M Kyokasuigetsu
+2//236H[k]/400×3/Mid/15 [7]/2, 2, 6/20/-7/HKD/4//H Kyokasuigetsu
+3//623L[k]/700, 400/Mid, All/20/4, 6/22+9 Landing/-18/KD/4/1~14 Catch High/L Mugenkagura
+4//623M[k]/750, 600/Mid, All/42/4, 6/26+9 Landing/-22/KD/4/1~36 Catch High/M Mugenkagura
+5//623H[k]/700, 250×3/Mid/20/4, 3, 2, 1/31+9 Landing/-22/HKD/4/1~14 Catch High/H Mugenkagura
+6//214L[k]/1100/All/32/8/1+8 Landing/-2/KD/2/9-41 Low Invul/L Crescent Moon
+7//214M[k]/1200/All/38/7/2+8 Landing/-2/KD/2/9-47 Low Invul/M Crescent Moon
+8//214H[k]/1200/All/32/8/2+6 Landing/+1/HKD/3/9-41 Low Invul/H Crescent Moon
+9//j.214L[k]/1000/All/5/7/Until L+7/+6~[-4]/KD/3//L Crescent Moon (Midair)
+10//j.214M[k]/1000/All/5/7/Until L+7//KD/3//M Crescent Moon (Midair)
+11//j.214H[k]/1100/All/5/3/Until L+7/+9~[+2]/HKD/4//H Crescent Moon (Midair)
+12//236U[k]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Kyokasuigetsu
+13//623U[k]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Mugenkagura
+14//214U[k]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Crescent Moon
+15//j.214U[k]/1000→700/Mid→All/14/7/35/-12/-4 (KD when close)/2//Ultimate Aerial Crescent Moon
+16//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/1000,2500→1000,2000/Mid/7+4 [4+4]/6/56/-43/HKD/4/1-9 All/One Hundred Cloudscapes
+1//236236U/4500→3500/Mid×1, All/7+7/3×15/48/-32/HKD/4/1-21 All/Butterfly Effect: Ame-no-Uzume
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

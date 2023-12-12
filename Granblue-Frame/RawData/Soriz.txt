@@ -1,0 +1,49 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/400/Mid/5/3/6/+2/+6/0//
+1//c.M/700/Mid/6/5/10/0/+4/2//
+2//c.H/1200/Mid/10/6/12/+1/+5/4//
+3//c.XX/400/Mid/9/3/15/-3/+1/2//
+4//c.XXX/400/Mid/12/3/18/-4/+0/3//
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.L/400/Low/7/3/12/-2/+2/1//
+8//f.M/700/Mid/8/5/14/-4/0/2//
+9//f.H/1000/Mid/11/6/19/-8/-4/3//
+10//2L/400/Low/6/3/6/+2/+6/0//
+11//2M/700/Mid/7/6/11/-2/+2/2//
+12//2H/1000/Mid/11/5/22/-10/-6/3//
+13//2U/700/Low/10/6/21/-12/HKD/2//
+14//66L/-/Mid/-/-/-/-/-/2//
+15//66M/-/Low/-/-/-/-/-/2//
+16//66H/-/Mid/-/-/-/-/-/2//
+17//j.L/400/"High/Air"/5/Until L/0///1//
+18//j.M/600/"High/Air"/7/9/Until L///2//
+19//j.H/800/"High/Air"/8/6/Until L///2//
+20//j.U/800/"High/Air"/7/6/Until L///2//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U///3///////Muscle Fury
+1//5U > 6X/300/Mid/11/3/33/-3/+3/4/1~13 Armor/Reactive Muscles
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/1100/Mid/15 [13]/4/19/-3/+1/2//L Impact Knuckles
+1//236M/1400/Mid/26 [25]/6/23/+1/KD/3//M Impact Knuckles
+2//236H/1200/Mid/15 [14]/6/18/-2/HKD/2//H Impact Knuckles
+3//214L/250×4 [140×8]/Mid/13/17/14/-1/+3/2//L Punch the Stars
+4//214M/300×4 [170×8]/Mid/21/17/14/-1/+3/2//M Punch the Stars
+5//214H/300×4 [170×8]/Mid/13/17/12/+1/+5/2//H Punch the Stars
+6//623L/1000/Mid/7/6/18/-7/KD/3//L Roundhouse Fang
+7//623M/1000/Mid/7/6/20/-9/KD/3//M Roundhouse Fang
+8//623H/1000/Mid/6/7/19/-7/HKD/4//H Roundhouse Fang
+9//22L/900/Mid/18/6/17/-3/KD/3//L Rock Smash
+10//22M/1200/Mid/28/6/13/+8/KD/3//M Rock Smash
+11//22H/1100/Mid/15/6/11/+4/HKD/3//H Rock Smash
+12//236U/1100/Mid/-/4/19/-3/+1/2//Ultimate Impact Knuckles
+13//623U/1100/Mid/-/4/19/-3/+1/2//Ultimate Roundhouse Fang
+14//214U/1100/Mid/-/4/19/-3/+1/2//Ultimate Punch the Stars
+15//22U/1100/Mid/-/4/19/-3/+1/2//Ultimate Rock Smash
+16//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/3500[4500]/Mid/7+6/2(27)3/45/-29/KD/4/1~14 All/Leaping Tiger, Charging Dragon
+1//236236U///10+4/-/////10~14 All/Macho Ultimatum
+2//214X > 214X/1000/Mid/20/3/23/+5/+5/4//Tenacious Will
+3//214X > 236X/1000/Mid/14/6/21/-8/KD/4//Bravado Bullet
+4//Macho 236236U/0, 4500/Throw, Mid/8+0/2(10)3/42/-26//0, 4//Way of the Fundoshi Fist
+5//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

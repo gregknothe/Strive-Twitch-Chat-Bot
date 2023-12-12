@@ -34,10 +34,12 @@ def dataTable():
         #Finalizing Appends
         top8CountList.append(top8Count)
         top8UniqueCountList.append(top8UniqueCount)
-        top8UniquePlayerList.append(str(top8UniquePlayer).replace("[","").replace("]","").replace("'",""))
+        #top8UniquePlayerList.append(str(top8UniquePlayer).replace("[","").replace("]","").replace("'",""))
+        top8UniquePlayerList.append(str(sorted(top8UniquePlayer, key = lambda x: int(x.split("(")[1].replace(")","")), reverse=True)).replace("[","").replace("]","").replace("'",""))
         top16CountList.append(top16Count)
         top16UniqueCountList.append(top16UniqueCount)
-        top16UniquePlayerList.append(str(top16UniquePlayer).replace("[","").replace("]","").replace("'",""))
+        #top16UniquePlayerList.append(str(top16UniquePlayer).replace("[","").replace("]","").replace("'",""))
+        top16UniquePlayerList.append(str(sorted(top16UniquePlayer, key = lambda x: int(x.split("(")[1].replace(")","")), reverse=True)).replace("[","").replace("]","").replace("'",""))
     '''
     for x in range(len(charList)):
         print(charList[x])
@@ -67,5 +69,4 @@ def validateData():
 #validateData()
 #print(dataTable())
 
-saveDataTable()
-    
+#saveDataTable()

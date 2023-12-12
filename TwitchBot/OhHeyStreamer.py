@@ -48,6 +48,7 @@ df.to_csv("GamesListRaw/gameList.csv")
 #---------------------------------------------------------------------------------------------------------
 
 df = pd.read_csv("MiscData/gameList.csv")
+dfRance = pd.read_csv("MiscData/ranceGameList.csv")
 
 def heyLen():
     return "There are " + str(len(df["title"])) + " remaining games."
@@ -60,6 +61,12 @@ def ohHeyStreamer():
     console = str(values["console"].values).replace("[","").replace("]","").replace("'","")
     dropValues.append(values.index.values)
     return "Oh hey, it's my favorite " + title[1:-1] + " (" + console + " " + date + ") streamer."
+
+def ohRanceStreamer():
+    values = dfRance.sample()
+    title = str(values["game"].values).replace("[","").replace("]","")
+    date = str(values["date"].values).replace("[","").replace("]","").replace("'","")
+    return "Hey alright, it's my favorite " + title[1:-1] + " (" + date + ") streamer."
 
 def saveGameList():
     for x in dropValues:
@@ -83,3 +90,5 @@ def ohTheMisery(count):
 
 #print(ohTheMisery(1))
 #print(ohHeyStreamer())
+
+#print(ohRanceStreamer())

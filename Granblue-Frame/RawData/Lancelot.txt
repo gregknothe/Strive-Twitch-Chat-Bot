@@ -1,0 +1,55 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//5L/350/Mid/5/2/7/+4/+8/1//
+1//c.M/650/Mid/6/1/14/0/+4/2//
+2//c.H/1000, 400/Mid/7/3(3)3/18/-2/+2/4//
+3//c.XX/350/Mid/9/2/16/-3/+1/2//
+4//c.XXX/350/Mid/12/3/18/-4/0/3//
+5//c.XX6M/1000/Low/12/-/-/-4/-/3//
+6//c.XX6H/1000/High/18/-/-/-4/-/3//
+7//f.M/600/Mid/7/3/17/-5/-1/2//
+8//f.H/900/Mid/10/3/22/-8/-4/3//
+9//2L/350/Low/6/1/8/+2/+6/0//
+10//2M/700/Mid/6/2/15/-2/+2/2//
+11//2H/800/Mid/11/5/24/-12/-8/3//
+12//2U/700/Low/8/16/14/-15/HKD/2//
+13//66L/600/Mid/8/-/-/+2/-/2//
+14//66M/1100/Low/12/-/-/-8/KD/2//
+15//66H/1200/Mid/15/-/-/-6/-/2//
+16//j.L/400/"High/Air"/5/Until L/0///1//
+17//j.M/550/"High/Air"/7/3/Until L///1//
+18//j.H/500×2/"High/Air, All"/10/3(3)6/Until L///1//
+19//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/////Total 36/////Wirbelwind
+1//5U > 5U/////Total 14/////Quick Stop
+2//5U > 6U/////Total 18/////Cross Over
+3//5U > 4U/////Total 16/////Feint
+4//5U > 2U/////Total 25/////Jump
+5//j.U/////Until L+7/////Wirbelwind
+6//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/700/All/33/Until Hit/Total 45/+4/+8/2//L Wogenstrom
+1//236M/700/All/38/Until Hit/Total 50/+4/+8/2//M Wogenstrom
+2//236H/350×2, 400/All/33/Until Hit/Total 41/+44/+48/2//H Wogenstrom
+3//214L/300/Mid/14/5/13/-3/+1/2//L Southern Cross
+4//214M/400/Mid/19/6/13/-4/0/2//M Southern Cross
+5//214H/300/Mid/11/3/15/-3/+1/2//H Southern Cross
+6//214X > 4X/"400 (L) / 500 (M)"/Mid/9/3/16/-4/0/2//Southern Cross (2)
+7//214H > 4H/"450 (1st) / 500 (2nd) / 550 (3rd)"/Mid/7/3/16/-4/0/2//H Southern Cross (2,3,4)
+8//214X > 4X Ender/"500 (L) / 600 (M) / 500 (H)"/Mid/14/7/24/-16/KD/2//Southern Cross Ender
+9//623L/800/Mid/16/6/14/-5/KD/2//L Blade Impulse
+10//623M/1000/Mid/25/9/16/-6/KD/4//M Blade Impulse
+11//623H/1200/Mid/16/9/18/-8/KD/4//H Blade Impulse
+12//22L/////Total 30////7~21 All, 4~30 Airborne/L Turbulenz
+13//22M/////Total 30////7~21 All, 4~30 Airborne/M Turbulenz
+14//22H/////Total 30////1~21 All/H Turbulenz
+15//22[L]/1000/"High/Air"/37/8/30/-18/KD/4/4～23 All/L Turbulenz (Charged)
+16//22[M]/1000/"High/Air"/37/8/30/-17/KD/4/4~23 All/M Turbulenz (Charged)
+17//22[H]/1000/"High/Air"/37/8/30/-17/HKD/4/4~23 All/H Turbulenz (Charged)
+18//236U/700/All/33/-/Total 45/+4/+8/2//Ultimate Wogenstrom
+19//623U/1000, 200×3/All/14~21/-/Total 45/+4/+79/2//Ultimate Blade Impulse
+20//214U/2100/All/11/-/Total 45/+2/HKD/2//Ultimate Southern Cross
+21//22U/2000/All/8/-//-18/+8/2/1~?? All/Ultimate Turbulenz
+22//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/500, 100×12, 1200/Mid/9+4~13/3/28/-12/HKD/4/1~15 All/Weiss Flugel
+1//236236U/1000×2, 2200/Mid/10+6/4~15/25/-8~-9/HKD/4/1~15 All/Schöner Winterhügel
+2//j.236236U/1000×2, 2200/All/14/Until L+1/34/-16/HKD/4/1~13 All/Schöner Winterhügel
+3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

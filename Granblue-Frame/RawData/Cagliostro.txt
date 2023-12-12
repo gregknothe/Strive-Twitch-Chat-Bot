@@ -1,0 +1,63 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/400/Mid/5/3/6/+2/+6/0//
+1//c.M/700/Mid/6/3/15/-3/1///
+2//c.H/700 + 3×100/Mid/9/8/20/-3/1///
+3//c.XX/350/Mid/9/3/15/-3/+1///
+4//c.XXX/280/Mid/12/3/18/-4/0///
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.L/400/Mid/6/3/15/-5/-1///
+8//f.M/700/Mid/10/6/15/-6/-2///
+9//f.H/1000/Mid/9/114/18/-5/-1///
+10//2L/400/Low/6/3/6/+2/+6///
+11//2M/700/Mid/8/3/16/-4/0///
+12//2H/1000/Mid/11/6/24/-12/-8///
+13//2U/700/Low/7/6/21/-12/HKD/2//
+14//66L/-/Mid/-/-/-/-/-/2//
+15//66M/-/Low/-/-/-/-/-/2//
+16//66H/-/Mid/-/-/-/-/-/2//
+17//j.L/400/"High/Air"/5/Until L/0/////
+18//j.M/600/"High/Air"/6/6/Until L/////
+19//j.H/800/"High/Air"/8/6/Until L/////
+20//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/500/Mid/12/4/17/-6/-2///Collapse (Conjure)
+1//j.U/500/All/11/4/Until L+6/////Collapse (Conjure)
+2//6U Level 1/400/Mid/18//Total 45/-8/-4///Collapse (Fire)
+3//6U Level 2/600/Mid/18//Total 45/0/+4///Collapse (Fire)
+4//6U Level 3/700/Mid/18//Total 45/+2/+6///Collapse (Fire)
+5//6U Level 4/800/Mid/18//Total 45/+4/+8///Collapse (Fire)
+6//6U Level 5/1000/Mid/18//Total 45/+7/KD///Collapse (Fire)
+7//"j.2/6U Level 1"/200/Mid/22//Until L+9/////Collapse (Fire)
+8//"j.2/6U Level 2"/400/Mid/22//Until L+9/////Collapse (Fire)
+9//"j.2/6U Level 3"/600/Mid/22//Until L+9/////Collapse (Fire)
+10//"j.2/6U Level 4"/800/Mid/22//Until L+9/////Collapse (Fire)
+11//"j.2/6U Level 5"/1000/Mid/22//Until L+9//KD///Collapse (Fire)
+12//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/400/Mid/50//Total 33/////L Mehen
+1//236M/400/Mid/50//Total 33/////M Mehen
+2//236H/400×2/Mid/38//Total 33/////H Mehen
+3//j.236L/400/Mid/39//Until L+4/////Air L Mehen
+4//j.236M/400/Mid/39//Until L+4/////Air M Mehen
+5//j.236H/400×2/Mid/39//Until L+4/////Air H Mehen
+6//214L/1000/Mid/15/10/16/-9/KD///L Alexandria
+7//214M/1200/Mid/21/13/16/-12/KD///M Alexandria
+8//214H/1200/Mid/12/13/16/-12/HKD///H Alexandria
+9//623L/1000/Mid/20/5/27/-5////L Calculated
+10//623M/1000/Mid/24/5/26/-4////M Calculated
+11//623H/1200/Mid/20/5/27/-5////H Calculated
+12//22L///23//Total 30/////L Spare Body
+13//22M///24//Total 39/////M Spare Body
+14//22H/1000/Mid/13/5/19/+1/HKD///H Spare Body
+15//j.22L///23//Total 34/////Air L Spare Body
+16//j.22M///24//Total 39/////Air M Spare Body
+17//j.22H/1000/Mid/13/5/17/+3/HKD///Air H Spare Body
+18//236U/400/Mid/50//Total 33/////Ultimate Mehen
+19//j.236U/400/Mid/50//Total 33/////Ultimate Mehen (Air)
+20//214U/1000/Mid/15/10/16/-9/KD///Ultimate Alexandria
+21//623U/1000/Mid/15/10/16/-9/KD///Ultimate Calculated
+22//22U/1000/Mid/15/10/16/-9/KD///Ultimate Spare Body
+23//22U/1000/Mid/15/10/16/-9/KD///Ultimate Spare Body (Air)
+24//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/2000 + 5×300/All/13/3×18/49/-27/HKD//1~15 All/Ars Magna
+1//236236U/4500/All/13/3×6/48/-32/HKD//1~15 All/Everything's Coming Up Cagliostro
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

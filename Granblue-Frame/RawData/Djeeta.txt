@@ -1,0 +1,48 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/400/Mid/5/3/6/+2/+6/0//
+1//c.M/700/Mid/6/3/12/0/+4/2//
+2//c.H/1200/Mid/8/4/18/-3/+1/4//
+3//c.XX/350/Mid/9/3/15/-3/+1/2//
+4//c.XXX/350/Mid/12/3/18/-4/0/3//
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.L/400/Mid/6/5/11/-3/+1/1//
+8//f.M/700/Mid/8/3/18/-6/-2/2//
+9//f.H/1000/Mid/10/5/21/-9/-5/3//
+10//2L/400/Low/6/3/6/+2/+6/0//
+11//2M/700/Mid/7/6/12/-3/+1/2//
+12//2H/1000/Mid/10/6/24/-13/-9/3//
+13//2U/700/Low/7/6/21/-12/HKD/2//
+14//66L/-/Mid/-/-/-/-/-/2//
+15//66M/-/Low/-/-/-/-/-/2//
+16//66H/-/Mid/-/-/-/-/-/2//
+17//j.L/400/"High/Air"/5/Until L/0///1//
+18//j.M/550/"High/Air"/6/6/Until L///1//
+19//j.H/800/"High/Air"/7/6/Until L///2//
+20//j.U/700/"High/Air"/12/8/Until L///2//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/"800/1000/1200/1400/1800"/All/"28/16*"/5/14/-2/+3 [Forced Crouch]/3/4~20 (lvl 4)/Overdrive Surge
+1//5[U] ~ X/////Total 15/////Cancel
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/700 (easy) 800 (technical)/All/16//Total 47/-7/-3/2//L Reginleiv
+1//236M/700 (easy) 800 (technical)/All/16//Total 47/-7/-3/2//M Reginleiv
+2//236H/300×3 (easy) 300×2, 400 (technical)/All/16//Total 47/+2/+6/2//H Reginleiv
+3//236[L]/800 (easy) 900 (technical)/All/41//Total 69/-4/0/2//L Reginleiv: Recidive
+4//236[M]/800 (easy) 900 (technical)/All/41//Total 69/-4/0/2//M Reginleiv: Recidive
+5//236[H]/300×2, 400 (easy) 300×2, 500 (technical)/All/30//Total 60/+8/+12/3, 2×3//H Reginleiv: Recidive
+6//214L/350×2/Mid/14/3(11)3/20/-6/-2/3//L Vorpal Blade
+7//214M/400×2/Mid/20/3(13)3/18/-4/0/3//M Vorpal Blade
+8//214X > 214X/500/Mid/20/3/22/-8/KD/3//Vorpal Blade (2)
+9//214H/300×2/Mid/15/2(8)5/18/-6/-2/3//H Vorpal Blade
+10//214H > 214H/350×2/Mid/11/2(10)3/20/-6/HKD/3//H Vorpal Blade (2)
+11//214H > 214H > 214H/400/Mid/17/3/22/-8/HKD/3//H Vorpal Blade (3)
+12//623L/600, 200 (easy) 700, 300 (technical)/Mid, All/9/29/30/-14 to -22/+24 KD/4, 3//L Rising Sword
+13//623M/600, 250×2 (easy) 700, 300×2 (technical)/Mid, All*2/12/2317/29/-22 to -27/+21 KD/4/1~15 All/M Rising Sword
+14//623H/1200 (easy) 1400 (technical)/Mid*3, All/9///-62/+52 HKD/4/1~19 All/H Rising Sword
+15//236U/-/All/16//Total 47/-7/-3/2//Ultimate Reginleiv
+16//623U/-/All/16//Total 47/-7/-3/2//Ultimate Rising Sword
+17//214U/-/All/16//Total 47/-7/-3/2//Ultimate Vorpal Blade
+18//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/3700→2500/Mid*1, All/7+6///-20, -10, -10, -10, -10, -10, -10, -10, -11, -11, -48/HKD/4/1-17 All/Eternal Ascendancy
+1//236236U/4500→3500/Mid/7+5///-46 to -52/HKD/4/1-21 All/Skyfall
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
