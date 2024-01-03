@@ -12,7 +12,7 @@
 10/j.K/10/7/25/0/1/jump Normal/j.D,Jump,ForwardAirDash
 11/j.S/7/3(3)3/17/5/2/jump Normal/j.H,j.D,Jump,ForwardAirDash
 12/j.H/11/3/19/3/2/jump Normal/j.D,Jump,ForwardAirDash
-13/j.D/22/Until L/15//2/jump Normal/Jump,ForwardAirDash,Special,Super
+13/j.D/22/Until L/15/-6/2/jump Normal/Jump,ForwardAirDash,Special,Super
 14/6P/10/5/17/-5/3/Normal/Special,Super
 15/6K/14/3/18/-4/3/Normal/Special,Super
 16/6H/28/2/30/-15/3/Normal/f.S,2S,Special,Super
@@ -20,12 +20,12 @@
 18/5D/20/3/26/-15/2/Normal/
 19/5[D]/28/3/26/-10/4/Normal/
 20/"[s/h] h/s"/10/3/14/0/3/Normal/
-21/[4]6S/10/31 or Until Hit*2/Total 54F/-16/2/Special/
-22/[4]6H/23/Until Hit*4/Total 73F/11/2/Special/
+21/[4]6S/10/31 or Until Hit*2/Total 50F/-12/2/Special/
+22/[4]6H/35/Until Hit*4/Total 66F/17/2/Special/
 23/[2]8S/9/312/33/-28/3/Special/
 24/[2]8H/10/3,12(10)5/42/-52/4/Special/
 25/236S/12/3/20/-6/3/Special/
-26/236H/25/3/22 [16]/-6/4/Special/
+26/236H/25/3 [4]/22 [15]/-6/4/Special/
 27/214S/21/6/21/-8/4/Special/
 28/bt.214K/30/3/42///Special/
 29/bt.214H/29/3/33/21/4/Special/
@@ -35,10 +35,10 @@
 33/bt.K/5/3/6/3/1/Normal/bt.P,bt.S,bt.H,bt.D,Jump,ForwardDash,Special,Super
 34/bt.S/6/6/14/-3/3/Normal/bt.H,bt.D,Special,Super
 35/bt.H/18/4/22/-7/4/Normal/bt.D,Special,Super
-36/236[H]/27/3/22 [16]/2/4/Special/
+36/236[H]/25/3 [4]/22 [15]/2/4/Special/
 37/bt.[P]/7/4/12/2/2/Normal/
 38/bt.[K]/5/3/6/0/1/Normal/
 39/bt.[S]/6/6/14/5/3/Normal/
 40/bt.[H]/18/4/22/5/4/Normal/
 41/236D/16/3/20/-4/4/Special/All
-42/236[D]/28/3/20/-4/4/Special/All
+42/236[D]/29/3/20/-4/4/Special/All

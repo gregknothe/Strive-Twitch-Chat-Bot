@@ -1,0 +1,58 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/400/Mid/5/3/6/+4/+8/0//
+1//c.M/700/Mid/6/3/12/0/+4/2//
+2//c.H/700, 300/Mid/8/24/18/-3/+1/4//
+3//c.XX/350/Mid/9/3/15/-3/+1/2//
+4//c.XXX/350/Mid/12/3/18/-4/0/3//
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.L/400/Mid/6/4/12/-3/+1/1//
+8//f.M/700/Mid/8/3/15/-3/+1/2//
+9//f.H/1000/Mid/8/3/21/-7/-3/3//
+10//2L/400/Low/6/3/6/-2/+2/0//
+11//2M/700/Mid/7/3/14/-2/+2/2//
+12//2H/1000/Mid/10/5/24/-12/-8/3//
+13//2U/700/Low/8/3/23/-11/HKD/2//
+14//66L/600/Mid/8/-/-/+2/-/2//
+15//66M/1100/Low/12/-/-/-8/-/2//
+16//66H/1500/Mid/15/-/-/-8/-/2//
+17//j.L/400/High/5/Until L/0/////
+18//j.M/550/High/6/5/Until L/////
+19//j.H/800/High/8/6/Until L/////
+20//j.U/800/Mid/24/Until L/11/////
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/800/Mid/27/25/10/+1/+5///Demon Step
+1//5[U]/800/Mid////+2/+6///New Perspective
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/400/Mid/13･19/2(4)2/25/-14/-10///L Six-Claw Execution
+1//236M/600/Mid/21/2/23/-10/-6///M Six-Claw Execution
+2//236H/800/Mid/16･19･22･25/2(1)2(1)2(1)2/17/-4/0///H Six-Claw Execution
+3//"236X > 6L/H"/300/Mid/9/52/17/-4/0///"L/H Archdemon Kick"
+4//236X > 6M/300/Mid/14/52/20/-7/KD///M Archdemon Kick
+5//236X > 4L/600/Mid/9/5/22/-8/KD///L Wolf's Howl
+6//"236X > 4M/H"/1100/Mid/21/5/22/-8/KD///"M/H Wolf's Howl"
+7//"236X > 8L/H"/800/Mid/"23/22"/3/13/+1/+5///"L/H Snake Bite"
+8//236X > 8M/900/Mid/30/3/12/+3/+6///M Snake Bite
+9//"236X > 6U/4U"/////"Total 21/23 [Total 25/30]"/////Shadow Trace
+10//623L/1000////Total 36/-8/KD//4~23 Catch/L Thunderflash
+11//623M/1000////Total 36/-8/KD//4~23 Catch/M Thunderflash
+12//623H/1000////Total 32/-8/HKD//1~18 Catch/H Thunderflash
+13//214L/600/All/34//Total 58/-4/0///L Gate of Demons
+14//214M/800/Mid/29/5/14/-1/KD/3//M Gate of Demons
+15//214H/1200/All/21///+3/+7///H Gate of Demons
+16//j.214L/800/All/9//Until L/////Air L Gate of Demons
+17//j.214M/800/All/15/12/Until L+13/-1/KD///Air M Gate of Demons
+18//j.214H/1200/All/9//Until L+4/////Air H Gate of Demons
+19//[2]8L/1000/All/36/8/14/-4 ~ +3/KD///L Empty Hand
+20//[2]8M/1000/All/36/10/14/-4 ~ +3/KD///M Empty Hand
+21//[2]8H/1000/All/32/7-13/14/-4 ~ +2/HKD///H Empty Hand
+22//236U/400/Mid/11/-/25/-4/-///Ultimate Six-Claw Execution
+23//623U/400/Mid/-/-/25/-/-///Ultimate Thunderflash
+24//214U/400/Mid/22/-/25/+2/-///Ultimate Gate of Demons
+25//j.214U/400/Mid/-/-/25/-1~+4/-///Ultimate Aerial Gate of Demons
+26//[2]8U/400/Mid/-/-/25/-4/-///Ultimate Empty Hand
+27//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/3500/Mid/9+4･9+10/36/41/-27/HKD/4//Void Claws: Terminus
+1//214214H//Mid///Total 22//HKD/4//Six-Ruin's Enlightenment
+2//236236U/4500/Mid/8+6/36/40/-30/HKD/4//Three Thousands and One Talons
+3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

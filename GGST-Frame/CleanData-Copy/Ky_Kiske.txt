@@ -2,7 +2,7 @@
 0/5P/5/4/7/-1/0/Normal/5P,2P,6P,6K,6H,Special,Super
 1/5K/7/8/6/-2/1/Normal/6P,6K,6H,5D,2D,Jump,ForwardDash,Special,Super
 2/c.S/7/6/10/1/3/Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,ForwardDash,Special,Super
-3/f.S/10/6/13/-5/2/Normal/5H,2H,Special,Super
+3/f.S/10/3/16/-5/2/Normal/5H,2H,Special,Super
 4/5H/12/6/21/-8/4/Normal/Special,Super
 5/2P/5/4/8/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
 6/2K/6/4/10/-2/1/Normal/6P,6K,6H,5D,2D,Special,Super
@@ -49,4 +49,4 @@
 47/DI 236236P/7/Until Hit/Total 38/32/4×8/Super/
 48/214214H/12/5/25/4//Super/
 49/236D/16/3/20/-4/4/Special/All
-50/236[D]/28/3/20/-4/4/Special/All
+50/236[D]/29/3/20/-4/4/Special/All

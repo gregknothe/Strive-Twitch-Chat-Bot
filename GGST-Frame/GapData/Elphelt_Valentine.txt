@@ -1,0 +1,1682 @@
+/move1/move2/gap
+0/5P/5P/-4f gap
+1/5P/5K/9f gap
+2/5P/c.S/9f gap
+3/5P/f.S/13f gap
+4/5P/5H/16f gap
+5/5P/5HH/17f gap
+6/5P/5D/22f gap
+7/5P/5[D]/30f gap
+8/5P/2P/-4f gap
+9/5P/2K/8f gap
+10/5P/2S/15f gap
+11/5P/2H/20f gap
+12/5P/2D/14f gap
+13/5P/6P/0f gap
+14/5P/6H/16f gap
+15/5P/j.P/13f gap
+16/5P/j.K/14f gap
+17/5P/j.S/18f gap
+18/5P/j.H/20f gap
+19/5P/j.D/23f gap
+20/5P/236S/7f gap
+21/5P/j.236S/21f gap
+22/5P/236H/7f gap
+23/5P/j.236H/21f gap
+24/5P/214K/5f gap
+25/5P/214H/20f gap
+26/5P/214S/11f gap
+27/5P/214S~P/214S~P is a follow-up move and cannot be done after 5P
+28/5P/214S~K/214S~K is a follow-up move and cannot be done after 5P
+29/5P/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5P"
+30/5P/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5P"
+31/5P/214S~H/214S~H is a follow-up move and cannot be done after 5P
+32/5P/632146H/4f gap
+33/5P/236236K/-2f gap
+34/5P/236236K Explosion/104f gap
+35/5P/236[S]/24f gap
+36/5P/j.236[S]/38f gap
+37/5P/236[H]/30f gap
+38/5P/j.236[H]/40f gap
+39/5P/236D/7f gap
+40/5P/236[D]/20f gap
+41/5K/5P/9f gap
+42/5K/5K/11f gap
+43/5K/c.S/11f gap
+44/5K/f.S/15f gap
+45/5K/5H/18f gap
+46/5K/5HH/19f gap
+47/5K/5D/9f gap
+48/5K/5[D]/32f gap
+49/5K/2P/9f gap
+50/5K/2K/10f gap
+51/5K/2S/17f gap
+52/5K/2H/22f gap
+53/5K/2D/1f gap
+54/5K/6P/-2f gap
+55/5K/6H/14f gap
+56/5K/j.P/0f gap
+57/5K/j.K/1f gap
+58/5K/j.S/5f gap
+59/5K/j.H/7f gap
+60/5K/j.D/10f gap
+61/5K/236S/5f gap
+62/5K/j.236S/8f gap
+63/5K/236H/5f gap
+64/5K/j.236H/8f gap
+65/5K/214K/3f gap
+66/5K/214H/18f gap
+67/5K/214S/9f gap
+68/5K/214S~P/214S~P is a follow-up move and cannot be done after 5K
+69/5K/214S~K/214S~K is a follow-up move and cannot be done after 5K
+70/5K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5K"
+71/5K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5K"
+72/5K/214S~H/214S~H is a follow-up move and cannot be done after 5K
+73/5K/632146H/2f gap
+74/5K/236236K/-4f gap
+75/5K/236236K Explosion/102f gap
+76/5K/236[S]/22f gap
+77/5K/j.236[S]/25f gap
+78/5K/236[H]/28f gap
+79/5K/j.236[H]/27f gap
+80/5K/236D/5f gap
+81/5K/236[D]/18f gap
+82/c.S/5P/4f gap
+83/c.S/5K/6f gap
+84/c.S/c.S/6f gap
+85/c.S/f.S/-5f gap
+86/c.S/5H/-2f gap
+87/c.S/5HH/14f gap
+88/c.S/5D/4f gap
+89/c.S/5[D]/27f gap
+90/c.S/2P/4f gap
+91/c.S/2K/5f gap
+92/c.S/2S/-3f gap
+93/c.S/2H/2f gap
+94/c.S/2D/-4f gap
+95/c.S/6P/-7f gap
+96/c.S/6H/9f gap
+97/c.S/j.P/-5f gap
+98/c.S/j.K/-4f gap
+99/c.S/j.S/0f gap
+100/c.S/j.H/2f gap
+101/c.S/j.D/5f gap
+102/c.S/236S/0f gap
+103/c.S/j.236S/3f gap
+104/c.S/236H/0f gap
+105/c.S/j.236H/3f gap
+106/c.S/214K/-2f gap
+107/c.S/214H/13f gap
+108/c.S/214S/4f gap
+109/c.S/214S~P/214S~P is a follow-up move and cannot be done after c.S
+110/c.S/214S~K/214S~K is a follow-up move and cannot be done after c.S
+111/c.S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after c.S"
+112/c.S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after c.S"
+113/c.S/214S~H/214S~H is a follow-up move and cannot be done after c.S
+114/c.S/632146H/-3f gap
+115/c.S/236236K/-9f gap
+116/c.S/236236K Explosion/97f gap
+117/c.S/236[S]/17f gap
+118/c.S/j.236[S]/20f gap
+119/c.S/236[H]/23f gap
+120/c.S/j.236[H]/22f gap
+121/c.S/236D/0f gap
+122/c.S/236[D]/13f gap
+123/f.S/5P/12f gap
+124/f.S/5K/14f gap
+125/f.S/c.S/14f gap
+126/f.S/f.S/18f gap
+127/f.S/5H/1f gap
+128/f.S/5HH/22f gap
+129/f.S/5D/27f gap
+130/f.S/5[D]/35f gap
+131/f.S/2P/12f gap
+132/f.S/2K/13f gap
+133/f.S/2S/20f gap
+134/f.S/2H/5f gap
+135/f.S/2D/19f gap
+136/f.S/6P/16f gap
+137/f.S/6H/32f gap
+138/f.S/j.P/18f gap
+139/f.S/j.K/19f gap
+140/f.S/j.S/23f gap
+141/f.S/j.H/25f gap
+142/f.S/j.D/28f gap
+143/f.S/236S/3f gap
+144/f.S/j.236S/26f gap
+145/f.S/236H/3f gap
+146/f.S/j.236H/26f gap
+147/f.S/214K/1f gap
+148/f.S/214H/16f gap
+149/f.S/214S/7f gap
+150/f.S/214S~P/214S~P is a follow-up move and cannot be done after f.S
+151/f.S/214S~K/214S~K is a follow-up move and cannot be done after f.S
+152/f.S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after f.S"
+153/f.S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after f.S"
+154/f.S/214S~H/214S~H is a follow-up move and cannot be done after f.S
+155/f.S/632146H/0f gap
+156/f.S/236236K/-6f gap
+157/f.S/236236K Explosion/100f gap
+158/f.S/236[S]/20f gap
+159/f.S/j.236[S]/43f gap
+160/f.S/236[H]/26f gap
+161/f.S/j.236[H]/45f gap
+162/f.S/236D/3f gap
+163/f.S/236[D]/16f gap
+164/5H/5P/16f gap
+165/5H/5K/18f gap
+166/5H/c.S/18f gap
+167/5H/f.S/22f gap
+168/5H/5H/25f gap
+169/5H/5HH/-3f gap
+170/5H/5D/31f gap
+171/5H/5[D]/39f gap
+172/5H/2P/16f gap
+173/5H/2K/17f gap
+174/5H/2S/24f gap
+175/5H/2H/29f gap
+176/5H/2D/23f gap
+177/5H/6P/20f gap
+178/5H/6H/36f gap
+179/5H/j.P/22f gap
+180/5H/j.K/23f gap
+181/5H/j.S/27f gap
+182/5H/j.H/29f gap
+183/5H/j.D/32f gap
+184/5H/236S/-2f gap
+185/5H/j.236S/30f gap
+186/5H/236H/-2f gap
+187/5H/j.236H/30f gap
+188/5H/214K/-4f gap
+189/5H/214H/11f gap
+190/5H/214S/2f gap
+191/5H/214S~P/214S~P is a follow-up move and cannot be done after 5H
+192/5H/214S~K/214S~K is a follow-up move and cannot be done after 5H
+193/5H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5H"
+194/5H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5H"
+195/5H/214S~H/214S~H is a follow-up move and cannot be done after 5H
+196/5H/632146H/-5f gap
+197/5H/236236K/-11f gap
+198/5H/236236K Explosion/95f gap
+199/5H/236[S]/15f gap
+200/5H/j.236[S]/47f gap
+201/5H/236[H]/21f gap
+202/5H/j.236[H]/49f gap
+203/5H/236D/-2f gap
+204/5H/236[D]/11f gap
+205/5HH/5P/20f gap
+206/5HH/5K/22f gap
+207/5HH/c.S/22f gap
+208/5HH/f.S/26f gap
+209/5HH/5H/29f gap
+210/5HH/5HH/30f gap
+211/5HH/5D/35f gap
+212/5HH/5[D]/43f gap
+213/5HH/2P/20f gap
+214/5HH/2K/21f gap
+215/5HH/2S/28f gap
+216/5HH/2H/33f gap
+217/5HH/2D/27f gap
+218/5HH/6P/24f gap
+219/5HH/6H/40f gap
+220/5HH/j.P/26f gap
+221/5HH/j.K/27f gap
+222/5HH/j.S/31f gap
+223/5HH/j.H/33f gap
+224/5HH/j.D/36f gap
+225/5HH/236S/31f gap
+226/5HH/j.236S/34f gap
+227/5HH/236H/31f gap
+228/5HH/j.236H/34f gap
+229/5HH/214K/29f gap
+230/5HH/214H/44f gap
+231/5HH/214S/35f gap
+232/5HH/214S~P/214S~P is a follow-up move and cannot be done after 5HH
+233/5HH/214S~K/214S~K is a follow-up move and cannot be done after 5HH
+234/5HH/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5HH"
+235/5HH/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5HH"
+236/5HH/214S~H/214S~H is a follow-up move and cannot be done after 5HH
+237/5HH/632146H/28f gap
+238/5HH/236236K/22f gap
+239/5HH/236236K Explosion/128f gap
+240/5HH/236[S]/48f gap
+241/5HH/j.236[S]/51f gap
+242/5HH/236[H]/54f gap
+243/5HH/j.236[H]/53f gap
+244/5HH/236D/31f gap
+245/5HH/236[D]/44f gap
+246/5D/5P/20f gap
+247/5D/5K/22f gap
+248/5D/c.S/22f gap
+249/5D/f.S/26f gap
+250/5D/5H/29f gap
+251/5D/5HH/30f gap
+252/5D/5D/35f gap
+253/5D/5[D]/43f gap
+254/5D/2P/20f gap
+255/5D/2K/21f gap
+256/5D/2S/28f gap
+257/5D/2H/33f gap
+258/5D/2D/27f gap
+259/5D/6P/24f gap
+260/5D/6H/40f gap
+261/5D/j.P/26f gap
+262/5D/j.K/27f gap
+263/5D/j.S/31f gap
+264/5D/j.H/33f gap
+265/5D/j.D/36f gap
+266/5D/236S/31f gap
+267/5D/j.236S/34f gap
+268/5D/236H/31f gap
+269/5D/j.236H/34f gap
+270/5D/214K/29f gap
+271/5D/214H/44f gap
+272/5D/214S/35f gap
+273/5D/214S~P/214S~P is a follow-up move and cannot be done after 5D
+274/5D/214S~K/214S~K is a follow-up move and cannot be done after 5D
+275/5D/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5D"
+276/5D/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5D"
+277/5D/214S~H/214S~H is a follow-up move and cannot be done after 5D
+278/5D/632146H/28f gap
+279/5D/236236K/22f gap
+280/5D/236236K Explosion/128f gap
+281/5D/236[S]/48f gap
+282/5D/j.236[S]/51f gap
+283/5D/236[H]/54f gap
+284/5D/j.236[H]/53f gap
+285/5D/236D/31f gap
+286/5D/236[D]/44f gap
+287/5[D]/5P/15f gap
+288/5[D]/5K/17f gap
+289/5[D]/c.S/17f gap
+290/5[D]/f.S/21f gap
+291/5[D]/5H/24f gap
+292/5[D]/5HH/25f gap
+293/5[D]/5D/30f gap
+294/5[D]/5[D]/38f gap
+295/5[D]/2P/15f gap
+296/5[D]/2K/16f gap
+297/5[D]/2S/23f gap
+298/5[D]/2H/28f gap
+299/5[D]/2D/22f gap
+300/5[D]/6P/19f gap
+301/5[D]/6H/35f gap
+302/5[D]/j.P/21f gap
+303/5[D]/j.K/22f gap
+304/5[D]/j.S/26f gap
+305/5[D]/j.H/28f gap
+306/5[D]/j.D/31f gap
+307/5[D]/236S/26f gap
+308/5[D]/j.236S/29f gap
+309/5[D]/236H/26f gap
+310/5[D]/j.236H/29f gap
+311/5[D]/214K/24f gap
+312/5[D]/214H/39f gap
+313/5[D]/214S/30f gap
+314/5[D]/214S~P/214S~P is a follow-up move and cannot be done after 5[D]
+315/5[D]/214S~K/214S~K is a follow-up move and cannot be done after 5[D]
+316/5[D]/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 5[D]"
+317/5[D]/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 5[D]"
+318/5[D]/214S~H/214S~H is a follow-up move and cannot be done after 5[D]
+319/5[D]/632146H/23f gap
+320/5[D]/236236K/17f gap
+321/5[D]/236236K Explosion/123f gap
+322/5[D]/236[S]/43f gap
+323/5[D]/j.236[S]/46f gap
+324/5[D]/236[H]/49f gap
+325/5[D]/j.236[H]/48f gap
+326/5[D]/236D/26f gap
+327/5[D]/236[D]/39f gap
+328/2P/5P/-4f gap
+329/2P/5K/9f gap
+330/2P/c.S/9f gap
+331/2P/f.S/13f gap
+332/2P/5H/16f gap
+333/2P/5HH/17f gap
+334/2P/5D/22f gap
+335/2P/5[D]/30f gap
+336/2P/2P/-4f gap
+337/2P/2K/8f gap
+338/2P/2S/15f gap
+339/2P/2H/20f gap
+340/2P/2D/14f gap
+341/2P/6P/0f gap
+342/2P/6H/16f gap
+343/2P/j.P/13f gap
+344/2P/j.K/14f gap
+345/2P/j.S/18f gap
+346/2P/j.H/20f gap
+347/2P/j.D/23f gap
+348/2P/236S/7f gap
+349/2P/j.236S/21f gap
+350/2P/236H/7f gap
+351/2P/j.236H/21f gap
+352/2P/214K/5f gap
+353/2P/214H/20f gap
+354/2P/214S/11f gap
+355/2P/214S~P/214S~P is a follow-up move and cannot be done after 2P
+356/2P/214S~K/214S~K is a follow-up move and cannot be done after 2P
+357/2P/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 2P"
+358/2P/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 2P"
+359/2P/214S~H/214S~H is a follow-up move and cannot be done after 2P
+360/2P/632146H/4f gap
+361/2P/236236K/-2f gap
+362/2P/236236K Explosion/104f gap
+363/2P/236[S]/24f gap
+364/2P/j.236[S]/38f gap
+365/2P/236[H]/30f gap
+366/2P/j.236[H]/40f gap
+367/2P/236D/7f gap
+368/2P/236[D]/20f gap
+369/2K/5P/8f gap
+370/2K/5K/10f gap
+371/2K/c.S/10f gap
+372/2K/f.S/14f gap
+373/2K/5H/17f gap
+374/2K/5HH/18f gap
+375/2K/5D/9f gap
+376/2K/5[D]/31f gap
+377/2K/2P/8f gap
+378/2K/2K/9f gap
+379/2K/2S/16f gap
+380/2K/2H/21f gap
+381/2K/2D/1f gap
+382/2K/6P/-2f gap
+383/2K/6H/14f gap
+384/2K/j.P/14f gap
+385/2K/j.K/15f gap
+386/2K/j.S/19f gap
+387/2K/j.H/21f gap
+388/2K/j.D/24f gap
+389/2K/236S/5f gap
+390/2K/j.236S/22f gap
+391/2K/236H/5f gap
+392/2K/j.236H/22f gap
+393/2K/214K/3f gap
+394/2K/214H/18f gap
+395/2K/214S/9f gap
+396/2K/214S~P/214S~P is a follow-up move and cannot be done after 2K
+397/2K/214S~K/214S~K is a follow-up move and cannot be done after 2K
+398/2K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 2K"
+399/2K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 2K"
+400/2K/214S~H/214S~H is a follow-up move and cannot be done after 2K
+401/2K/632146H/2f gap
+402/2K/236236K/-4f gap
+403/2K/236236K Explosion/102f gap
+404/2K/236[S]/22f gap
+405/2K/j.236[S]/39f gap
+406/2K/236[H]/28f gap
+407/2K/j.236[H]/41f gap
+408/2K/236D/5f gap
+409/2K/236[D]/18f gap
+410/2S/5P/12f gap
+411/2S/5K/14f gap
+412/2S/c.S/14f gap
+413/2S/f.S/18f gap
+414/2S/5H/1f gap
+415/2S/5HH/22f gap
+416/2S/5D/27f gap
+417/2S/5[D]/35f gap
+418/2S/2P/12f gap
+419/2S/2K/13f gap
+420/2S/2S/20f gap
+421/2S/2H/5f gap
+422/2S/2D/19f gap
+423/2S/6P/16f gap
+424/2S/6H/32f gap
+425/2S/j.P/18f gap
+426/2S/j.K/19f gap
+427/2S/j.S/23f gap
+428/2S/j.H/25f gap
+429/2S/j.D/28f gap
+430/2S/236S/3f gap
+431/2S/j.236S/26f gap
+432/2S/236H/3f gap
+433/2S/j.236H/26f gap
+434/2S/214K/1f gap
+435/2S/214H/16f gap
+436/2S/214S/7f gap
+437/2S/214S~P/214S~P is a follow-up move and cannot be done after 2S
+438/2S/214S~K/214S~K is a follow-up move and cannot be done after 2S
+439/2S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 2S"
+440/2S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 2S"
+441/2S/214S~H/214S~H is a follow-up move and cannot be done after 2S
+442/2S/632146H/0f gap
+443/2S/236236K/-6f gap
+444/2S/236236K Explosion/100f gap
+445/2S/236[S]/20f gap
+446/2S/j.236[S]/43f gap
+447/2S/236[H]/26f gap
+448/2S/j.236[H]/45f gap
+449/2S/236D/3f gap
+450/2S/236[D]/16f gap
+451/2H/5P/9f gap
+452/2H/5K/11f gap
+453/2H/c.S/11f gap
+454/2H/f.S/15f gap
+455/2H/5H/18f gap
+456/2H/5HH/19f gap
+457/2H/5D/24f gap
+458/2H/5[D]/32f gap
+459/2H/2P/9f gap
+460/2H/2K/10f gap
+461/2H/2S/17f gap
+462/2H/2H/22f gap
+463/2H/2D/16f gap
+464/2H/6P/13f gap
+465/2H/6H/29f gap
+466/2H/j.P/15f gap
+467/2H/j.K/16f gap
+468/2H/j.S/20f gap
+469/2H/j.H/22f gap
+470/2H/j.D/25f gap
+471/2H/236S/0f gap
+472/2H/j.236S/23f gap
+473/2H/236H/0f gap
+474/2H/j.236H/23f gap
+475/2H/214K/-2f gap
+476/2H/214H/13f gap
+477/2H/214S/4f gap
+478/2H/214S~P/214S~P is a follow-up move and cannot be done after 2H
+479/2H/214S~K/214S~K is a follow-up move and cannot be done after 2H
+480/2H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 2H"
+481/2H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 2H"
+482/2H/214S~H/214S~H is a follow-up move and cannot be done after 2H
+483/2H/632146H/-3f gap
+484/2H/236236K/-9f gap
+485/2H/236236K Explosion/97f gap
+486/2H/236[S]/17f gap
+487/2H/j.236[S]/40f gap
+488/2H/236[H]/23f gap
+489/2H/j.236[H]/42f gap
+490/2H/236D/0f gap
+491/2H/236[D]/13f gap
+492/2D/5P/13f gap
+493/2D/5K/15f gap
+494/2D/c.S/15f gap
+495/2D/f.S/19f gap
+496/2D/5H/22f gap
+497/2D/5HH/23f gap
+498/2D/5D/28f gap
+499/2D/5[D]/36f gap
+500/2D/2P/13f gap
+501/2D/2K/14f gap
+502/2D/2S/21f gap
+503/2D/2H/26f gap
+504/2D/2D/20f gap
+505/2D/6P/17f gap
+506/2D/6H/33f gap
+507/2D/j.P/19f gap
+508/2D/j.K/20f gap
+509/2D/j.S/24f gap
+510/2D/j.H/26f gap
+511/2D/j.D/29f gap
+512/2D/236S/3f gap
+513/2D/j.236S/27f gap
+514/2D/236H/3f gap
+515/2D/j.236H/27f gap
+516/2D/214K/1f gap
+517/2D/214H/16f gap
+518/2D/214S/7f gap
+519/2D/214S~P/214S~P is a follow-up move and cannot be done after 2D
+520/2D/214S~K/214S~K is a follow-up move and cannot be done after 2D
+521/2D/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 2D"
+522/2D/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 2D"
+523/2D/214S~H/214S~H is a follow-up move and cannot be done after 2D
+524/2D/632146H/0f gap
+525/2D/236236K/-6f gap
+526/2D/236236K Explosion/100f gap
+527/2D/236[S]/20f gap
+528/2D/j.236[S]/44f gap
+529/2D/236[H]/26f gap
+530/2D/j.236[H]/46f gap
+531/2D/236D/3f gap
+532/2D/236[D]/16f gap
+533/6P/5P/15f gap
+534/6P/5K/17f gap
+535/6P/c.S/17f gap
+536/6P/f.S/21f gap
+537/6P/5H/24f gap
+538/6P/5HH/25f gap
+539/6P/5D/30f gap
+540/6P/5[D]/38f gap
+541/6P/2P/15f gap
+542/6P/2K/16f gap
+543/6P/2S/23f gap
+544/6P/2H/28f gap
+545/6P/2D/22f gap
+546/6P/6P/19f gap
+547/6P/6H/35f gap
+548/6P/j.P/21f gap
+549/6P/j.K/22f gap
+550/6P/j.S/26f gap
+551/6P/j.H/28f gap
+552/6P/j.D/31f gap
+553/6P/236S/3f gap
+554/6P/j.236S/29f gap
+555/6P/236H/3f gap
+556/6P/j.236H/29f gap
+557/6P/214K/1f gap
+558/6P/214H/16f gap
+559/6P/214S/7f gap
+560/6P/214S~P/214S~P is a follow-up move and cannot be done after 6P
+561/6P/214S~K/214S~K is a follow-up move and cannot be done after 6P
+562/6P/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 6P"
+563/6P/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 6P"
+564/6P/214S~H/214S~H is a follow-up move and cannot be done after 6P
+565/6P/632146H/0f gap
+566/6P/236236K/-6f gap
+567/6P/236236K Explosion/100f gap
+568/6P/236[S]/20f gap
+569/6P/j.236[S]/46f gap
+570/6P/236[H]/26f gap
+571/6P/j.236[H]/48f gap
+572/6P/236D/3f gap
+573/6P/236[D]/16f gap
+574/6H/5P/20f gap
+575/6H/5K/22f gap
+576/6H/c.S/22f gap
+577/6H/f.S/26f gap
+578/6H/5H/29f gap
+579/6H/5HH/30f gap
+580/6H/5D/35f gap
+581/6H/5[D]/43f gap
+582/6H/2P/20f gap
+583/6H/2K/21f gap
+584/6H/2S/28f gap
+585/6H/2H/33f gap
+586/6H/2D/27f gap
+587/6H/6P/24f gap
+588/6H/6H/40f gap
+589/6H/j.P/26f gap
+590/6H/j.K/27f gap
+591/6H/j.S/31f gap
+592/6H/j.H/33f gap
+593/6H/j.D/36f gap
+594/6H/236S/-2f gap
+595/6H/j.236S/34f gap
+596/6H/236H/-2f gap
+597/6H/j.236H/34f gap
+598/6H/214K/-4f gap
+599/6H/214H/11f gap
+600/6H/214S/2f gap
+601/6H/214S~P/214S~P is a follow-up move and cannot be done after 6H
+602/6H/214S~K/214S~K is a follow-up move and cannot be done after 6H
+603/6H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 6H"
+604/6H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 6H"
+605/6H/214S~H/214S~H is a follow-up move and cannot be done after 6H
+606/6H/632146H/-5f gap
+607/6H/236236K/-11f gap
+608/6H/236236K Explosion/95f gap
+609/6H/236[S]/15f gap
+610/6H/j.236[S]/51f gap
+611/6H/236[H]/21f gap
+612/6H/j.236[H]/53f gap
+613/6H/236D/-2f gap
+614/6H/236[D]/11f gap
+615/j.P/5P/j.P has 9f of blockstun, while 5P has 5f of startup
+616/j.P/5K/j.P has 9f of blockstun, while 5K has 7f of startup
+617/j.P/c.S/j.P has 9f of blockstun, while c.S has 7f of startup
+618/j.P/f.S/j.P has 9f of blockstun, while f.S has 11f of startup
+619/j.P/5H/j.P has 9f of blockstun, while 5H has 14f of startup
+620/j.P/5HH/j.P has 9f of blockstun, while 5HH has 15f of startup
+621/j.P/5D/j.P has 9f of blockstun, while 5D has 20f of startup
+622/j.P/5[D]/j.P has 9f of blockstun, while 5[D] has 28f of startup
+623/j.P/2P/j.P has 9f of blockstun, while 2P has 5f of startup
+624/j.P/2K/j.P has 9f of blockstun, while 2K has 6f of startup
+625/j.P/2S/j.P has 9f of blockstun, while 2S has 13f of startup
+626/j.P/2H/j.P has 9f of blockstun, while 2H has 18f of startup
+627/j.P/2D/j.P has 9f of blockstun, while 2D has 12f of startup
+628/j.P/6P/j.P has 9f of blockstun, while 6P has 9f of startup
+629/j.P/6H/j.P has 9f of blockstun, while 6H has 25f of startup
+630/j.P/j.P/-3f gap
+631/j.P/j.K/j.P has 9f of blockstun, while j.K has 7f of startup
+632/j.P/j.S/j.P has 9f of blockstun, while j.S has 11f of startup
+633/j.P/j.H/j.P has 9f of blockstun, while j.H has 13f of startup
+634/j.P/j.D/j.P has 9f of blockstun, while j.D has 16f of startup
+635/j.P/236S/j.P has 9f of blockstun, while 236S has 16f of startup
+636/j.P/j.236S/j.P has 9f of blockstun, while j.236S has 14f of startup
+637/j.P/236H/j.P has 9f of blockstun, while 236H has 16f of startup
+638/j.P/j.236H/j.P has 9f of blockstun, while j.236H has 14f of startup
+639/j.P/214K/j.P has 9f of blockstun, while 214K has 14f of startup
+640/j.P/214H/j.P has 9f of blockstun, while 214H has 29f of startup
+641/j.P/214S/j.P has 9f of blockstun, while 214S has 20f of startup
+642/j.P/214S~P/214S~P is a follow-up move and cannot be done after j.P
+643/j.P/214S~K/214S~K is a follow-up move and cannot be done after j.P
+644/j.P/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.P"
+645/j.P/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.P"
+646/j.P/214S~H/214S~H is a follow-up move and cannot be done after j.P
+647/j.P/632146H/j.P has 9f of blockstun, while 632146H has 13f of startup
+648/j.P/236236K/j.P has 9f of blockstun, while 236236K has 7f of startup
+649/j.P/236236K Explosion/j.P has 9f of blockstun, while 236236K Explosion has 113f of startup
+650/j.P/236[S]/j.P has 9f of blockstun, while 236[S] has 33f of startup
+651/j.P/j.236[S]/j.P has 9f of blockstun, while j.236[S] has 31f of startup
+652/j.P/236[H]/j.P has 9f of blockstun, while 236[H] has 39f of startup
+653/j.P/j.236[H]/j.P has 9f of blockstun, while j.236[H] has 33f of startup
+654/j.P/236D/j.P has 9f of blockstun, while 236D has 16f of startup
+655/j.P/236[D]/j.P has 9f of blockstun, while 236[D] has 29f of startup
+656/j.K/5P/j.K has 11f of blockstun, while 5P has 5f of startup
+657/j.K/5K/j.K has 11f of blockstun, while 5K has 7f of startup
+658/j.K/c.S/j.K has 11f of blockstun, while c.S has 7f of startup
+659/j.K/f.S/j.K has 11f of blockstun, while f.S has 11f of startup
+660/j.K/5H/j.K has 11f of blockstun, while 5H has 14f of startup
+661/j.K/5HH/j.K has 11f of blockstun, while 5HH has 15f of startup
+662/j.K/5D/j.K has 11f of blockstun, while 5D has 20f of startup
+663/j.K/5[D]/j.K has 11f of blockstun, while 5[D] has 28f of startup
+664/j.K/2P/j.K has 11f of blockstun, while 2P has 5f of startup
+665/j.K/2K/j.K has 11f of blockstun, while 2K has 6f of startup
+666/j.K/2S/j.K has 11f of blockstun, while 2S has 13f of startup
+667/j.K/2H/j.K has 11f of blockstun, while 2H has 18f of startup
+668/j.K/2D/j.K has 11f of blockstun, while 2D has 12f of startup
+669/j.K/6P/j.K has 11f of blockstun, while 6P has 9f of startup
+670/j.K/6H/j.K has 11f of blockstun, while 6H has 25f of startup
+671/j.K/j.P/j.K has 11f of blockstun, while j.P has 6f of startup
+672/j.K/j.K/j.K has 11f of blockstun, while j.K has 7f of startup
+673/j.K/j.S/j.K has 11f of blockstun, while j.S has 11f of startup
+674/j.K/j.H/j.K has 11f of blockstun, while j.H has 13f of startup
+675/j.K/j.D/5f gap
+676/j.K/236S/j.K has 11f of blockstun, while 236S has 16f of startup
+677/j.K/j.236S/j.K has 11f of blockstun, while j.236S has 14f of startup
+678/j.K/236H/j.K has 11f of blockstun, while 236H has 16f of startup
+679/j.K/j.236H/j.K has 11f of blockstun, while j.236H has 14f of startup
+680/j.K/214K/j.K has 11f of blockstun, while 214K has 14f of startup
+681/j.K/214H/j.K has 11f of blockstun, while 214H has 29f of startup
+682/j.K/214S/j.K has 11f of blockstun, while 214S has 20f of startup
+683/j.K/214S~P/214S~P is a follow-up move and cannot be done after j.K
+684/j.K/214S~K/214S~K is a follow-up move and cannot be done after j.K
+685/j.K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.K"
+686/j.K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.K"
+687/j.K/214S~H/214S~H is a follow-up move and cannot be done after j.K
+688/j.K/632146H/j.K has 11f of blockstun, while 632146H has 13f of startup
+689/j.K/236236K/j.K has 11f of blockstun, while 236236K has 7f of startup
+690/j.K/236236K Explosion/j.K has 11f of blockstun, while 236236K Explosion has 113f of startup
+691/j.K/236[S]/j.K has 11f of blockstun, while 236[S] has 33f of startup
+692/j.K/j.236[S]/j.K has 11f of blockstun, while j.236[S] has 31f of startup
+693/j.K/236[H]/j.K has 11f of blockstun, while 236[H] has 39f of startup
+694/j.K/j.236[H]/j.K has 11f of blockstun, while j.236[H] has 33f of startup
+695/j.K/236D/j.K has 11f of blockstun, while 236D has 16f of startup
+696/j.K/236[D]/j.K has 11f of blockstun, while 236[D] has 29f of startup
+697/j.S/5P/j.S has 13f of blockstun, while 5P has 5f of startup
+698/j.S/5K/j.S has 13f of blockstun, while 5K has 7f of startup
+699/j.S/c.S/j.S has 13f of blockstun, while c.S has 7f of startup
+700/j.S/f.S/j.S has 13f of blockstun, while f.S has 11f of startup
+701/j.S/5H/j.S has 13f of blockstun, while 5H has 14f of startup
+702/j.S/5HH/j.S has 13f of blockstun, while 5HH has 15f of startup
+703/j.S/5D/j.S has 13f of blockstun, while 5D has 20f of startup
+704/j.S/5[D]/j.S has 13f of blockstun, while 5[D] has 28f of startup
+705/j.S/2P/j.S has 13f of blockstun, while 2P has 5f of startup
+706/j.S/2K/j.S has 13f of blockstun, while 2K has 6f of startup
+707/j.S/2S/j.S has 13f of blockstun, while 2S has 13f of startup
+708/j.S/2H/j.S has 13f of blockstun, while 2H has 18f of startup
+709/j.S/2D/j.S has 13f of blockstun, while 2D has 12f of startup
+710/j.S/6P/j.S has 13f of blockstun, while 6P has 9f of startup
+711/j.S/6H/j.S has 13f of blockstun, while 6H has 25f of startup
+712/j.S/j.P/j.S has 13f of blockstun, while j.P has 6f of startup
+713/j.S/j.K/j.S has 13f of blockstun, while j.K has 7f of startup
+714/j.S/j.S/j.S has 13f of blockstun, while j.S has 11f of startup
+715/j.S/j.H/0f gap
+716/j.S/j.D/3f gap
+717/j.S/236S/j.S has 13f of blockstun, while 236S has 16f of startup
+718/j.S/j.236S/j.S has 13f of blockstun, while j.236S has 14f of startup
+719/j.S/236H/j.S has 13f of blockstun, while 236H has 16f of startup
+720/j.S/j.236H/j.S has 13f of blockstun, while j.236H has 14f of startup
+721/j.S/214K/j.S has 13f of blockstun, while 214K has 14f of startup
+722/j.S/214H/j.S has 13f of blockstun, while 214H has 29f of startup
+723/j.S/214S/j.S has 13f of blockstun, while 214S has 20f of startup
+724/j.S/214S~P/214S~P is a follow-up move and cannot be done after j.S
+725/j.S/214S~K/214S~K is a follow-up move and cannot be done after j.S
+726/j.S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.S"
+727/j.S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.S"
+728/j.S/214S~H/214S~H is a follow-up move and cannot be done after j.S
+729/j.S/632146H/j.S has 13f of blockstun, while 632146H has 13f of startup
+730/j.S/236236K/j.S has 13f of blockstun, while 236236K has 7f of startup
+731/j.S/236236K Explosion/j.S has 13f of blockstun, while 236236K Explosion has 113f of startup
+732/j.S/236[S]/j.S has 13f of blockstun, while 236[S] has 33f of startup
+733/j.S/j.236[S]/j.S has 13f of blockstun, while j.236[S] has 31f of startup
+734/j.S/236[H]/j.S has 13f of blockstun, while 236[H] has 39f of startup
+735/j.S/j.236[H]/j.S has 13f of blockstun, while j.236[H] has 33f of startup
+736/j.S/236D/j.S has 13f of blockstun, while 236D has 16f of startup
+737/j.S/236[D]/j.S has 13f of blockstun, while 236[D] has 29f of startup
+738/j.H/5P/j.H has 13f of blockstun, while 5P has 5f of startup
+739/j.H/5K/j.H has 13f of blockstun, while 5K has 7f of startup
+740/j.H/c.S/j.H has 13f of blockstun, while c.S has 7f of startup
+741/j.H/f.S/j.H has 13f of blockstun, while f.S has 11f of startup
+742/j.H/5H/j.H has 13f of blockstun, while 5H has 14f of startup
+743/j.H/5HH/j.H has 13f of blockstun, while 5HH has 15f of startup
+744/j.H/5D/j.H has 13f of blockstun, while 5D has 20f of startup
+745/j.H/5[D]/j.H has 13f of blockstun, while 5[D] has 28f of startup
+746/j.H/2P/j.H has 13f of blockstun, while 2P has 5f of startup
+747/j.H/2K/j.H has 13f of blockstun, while 2K has 6f of startup
+748/j.H/2S/j.H has 13f of blockstun, while 2S has 13f of startup
+749/j.H/2H/j.H has 13f of blockstun, while 2H has 18f of startup
+750/j.H/2D/j.H has 13f of blockstun, while 2D has 12f of startup
+751/j.H/6P/j.H has 13f of blockstun, while 6P has 9f of startup
+752/j.H/6H/j.H has 13f of blockstun, while 6H has 25f of startup
+753/j.H/j.P/j.H has 13f of blockstun, while j.P has 6f of startup
+754/j.H/j.K/j.H has 13f of blockstun, while j.K has 7f of startup
+755/j.H/j.S/j.H has 13f of blockstun, while j.S has 11f of startup
+756/j.H/j.H/j.H has 13f of blockstun, while j.H has 13f of startup
+757/j.H/j.D/3f gap
+758/j.H/236S/j.H has 13f of blockstun, while 236S has 16f of startup
+759/j.H/j.236S/j.H has 13f of blockstun, while j.236S has 14f of startup
+760/j.H/236H/j.H has 13f of blockstun, while 236H has 16f of startup
+761/j.H/j.236H/j.H has 13f of blockstun, while j.236H has 14f of startup
+762/j.H/214K/j.H has 13f of blockstun, while 214K has 14f of startup
+763/j.H/214H/j.H has 13f of blockstun, while 214H has 29f of startup
+764/j.H/214S/j.H has 13f of blockstun, while 214S has 20f of startup
+765/j.H/214S~P/214S~P is a follow-up move and cannot be done after j.H
+766/j.H/214S~K/214S~K is a follow-up move and cannot be done after j.H
+767/j.H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.H"
+768/j.H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.H"
+769/j.H/214S~H/214S~H is a follow-up move and cannot be done after j.H
+770/j.H/632146H/j.H has 13f of blockstun, while 632146H has 13f of startup
+771/j.H/236236K/j.H has 13f of blockstun, while 236236K has 7f of startup
+772/j.H/236236K Explosion/j.H has 13f of blockstun, while 236236K Explosion has 113f of startup
+773/j.H/236[S]/j.H has 13f of blockstun, while 236[S] has 33f of startup
+774/j.H/j.236[S]/j.H has 13f of blockstun, while j.236[S] has 31f of startup
+775/j.H/236[H]/j.H has 13f of blockstun, while 236[H] has 39f of startup
+776/j.H/j.236[H]/j.H has 13f of blockstun, while j.236[H] has 33f of startup
+777/j.H/236D/j.H has 13f of blockstun, while 236D has 16f of startup
+778/j.H/236[D]/j.H has 13f of blockstun, while 236[D] has 29f of startup
+779/j.D/5P/j.D has 13f of blockstun, while 5P has 5f of startup
+780/j.D/5K/j.D has 13f of blockstun, while 5K has 7f of startup
+781/j.D/c.S/j.D has 13f of blockstun, while c.S has 7f of startup
+782/j.D/f.S/j.D has 13f of blockstun, while f.S has 11f of startup
+783/j.D/5H/j.D has 13f of blockstun, while 5H has 14f of startup
+784/j.D/5HH/j.D has 13f of blockstun, while 5HH has 15f of startup
+785/j.D/5D/j.D has 13f of blockstun, while 5D has 20f of startup
+786/j.D/5[D]/j.D has 13f of blockstun, while 5[D] has 28f of startup
+787/j.D/2P/j.D has 13f of blockstun, while 2P has 5f of startup
+788/j.D/2K/j.D has 13f of blockstun, while 2K has 6f of startup
+789/j.D/2S/j.D has 13f of blockstun, while 2S has 13f of startup
+790/j.D/2H/j.D has 13f of blockstun, while 2H has 18f of startup
+791/j.D/2D/j.D has 13f of blockstun, while 2D has 12f of startup
+792/j.D/6P/j.D has 13f of blockstun, while 6P has 9f of startup
+793/j.D/6H/j.D has 13f of blockstun, while 6H has 25f of startup
+794/j.D/j.P/j.D has 13f of blockstun, while j.P has 6f of startup
+795/j.D/j.K/j.D has 13f of blockstun, while j.K has 7f of startup
+796/j.D/j.S/j.D has 13f of blockstun, while j.S has 11f of startup
+797/j.D/j.H/j.D has 13f of blockstun, while j.H has 13f of startup
+798/j.D/j.D/j.D has 13f of blockstun, while j.D has 16f of startup
+799/j.D/236S/j.D has 13f of blockstun, while 236S has 16f of startup
+800/j.D/j.236S/j.D has 13f of blockstun, while j.236S has 14f of startup
+801/j.D/236H/j.D has 13f of blockstun, while 236H has 16f of startup
+802/j.D/j.236H/j.D has 13f of blockstun, while j.236H has 14f of startup
+803/j.D/214K/j.D has 13f of blockstun, while 214K has 14f of startup
+804/j.D/214H/j.D has 13f of blockstun, while 214H has 29f of startup
+805/j.D/214S/j.D has 13f of blockstun, while 214S has 20f of startup
+806/j.D/214S~P/214S~P is a follow-up move and cannot be done after j.D
+807/j.D/214S~K/214S~K is a follow-up move and cannot be done after j.D
+808/j.D/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.D"
+809/j.D/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.D"
+810/j.D/214S~H/214S~H is a follow-up move and cannot be done after j.D
+811/j.D/632146H/j.D has 13f of blockstun, while 632146H has 13f of startup
+812/j.D/236236K/j.D has 13f of blockstun, while 236236K has 7f of startup
+813/j.D/236236K Explosion/j.D has 13f of blockstun, while 236236K Explosion has 113f of startup
+814/j.D/236[S]/j.D has 13f of blockstun, while 236[S] has 33f of startup
+815/j.D/j.236[S]/j.D has 13f of blockstun, while j.236[S] has 31f of startup
+816/j.D/236[H]/j.D has 13f of blockstun, while 236[H] has 39f of startup
+817/j.D/j.236[H]/j.D has 13f of blockstun, while j.236[H] has 33f of startup
+818/j.D/236D/j.D has 13f of blockstun, while 236D has 16f of startup
+819/j.D/236[D]/j.D has 13f of blockstun, while 236[D] has 29f of startup
+820/236S/5P/20f gap
+821/236S/5K/22f gap
+822/236S/c.S/22f gap
+823/236S/f.S/26f gap
+824/236S/5H/29f gap
+825/236S/5HH/30f gap
+826/236S/5D/35f gap
+827/236S/5[D]/43f gap
+828/236S/2P/20f gap
+829/236S/2K/21f gap
+830/236S/2S/28f gap
+831/236S/2H/33f gap
+832/236S/2D/27f gap
+833/236S/6P/24f gap
+834/236S/6H/40f gap
+835/236S/j.P/26f gap
+836/236S/j.K/27f gap
+837/236S/j.S/31f gap
+838/236S/j.H/33f gap
+839/236S/j.D/36f gap
+840/236S/236S/31f gap
+841/236S/j.236S/34f gap
+842/236S/236H/31f gap
+843/236S/j.236H/34f gap
+844/236S/214K/29f gap
+845/236S/214H/44f gap
+846/236S/214S/35f gap
+847/236S/214S~P/214S~P is a follow-up move and cannot be done after 236S
+848/236S/214S~K/214S~K is a follow-up move and cannot be done after 236S
+849/236S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236S"
+850/236S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236S"
+851/236S/214S~H/214S~H is a follow-up move and cannot be done after 236S
+852/236S/632146H/28f gap
+853/236S/236236K/22f gap
+854/236S/236236K Explosion/128f gap
+855/236S/236[S]/48f gap
+856/236S/j.236[S]/51f gap
+857/236S/236[H]/54f gap
+858/236S/j.236[H]/53f gap
+859/236S/236D/31f gap
+860/236S/236[D]/44f gap
+861/j.236S/5P/j.236S has 13f of blockstun, while 5P has 5f of startup
+862/j.236S/5K/j.236S has 13f of blockstun, while 5K has 7f of startup
+863/j.236S/c.S/j.236S has 13f of blockstun, while c.S has 7f of startup
+864/j.236S/f.S/j.236S has 13f of blockstun, while f.S has 11f of startup
+865/j.236S/5H/j.236S has 13f of blockstun, while 5H has 14f of startup
+866/j.236S/5HH/j.236S has 13f of blockstun, while 5HH has 15f of startup
+867/j.236S/5D/j.236S has 13f of blockstun, while 5D has 20f of startup
+868/j.236S/5[D]/j.236S has 13f of blockstun, while 5[D] has 28f of startup
+869/j.236S/2P/j.236S has 13f of blockstun, while 2P has 5f of startup
+870/j.236S/2K/j.236S has 13f of blockstun, while 2K has 6f of startup
+871/j.236S/2S/j.236S has 13f of blockstun, while 2S has 13f of startup
+872/j.236S/2H/j.236S has 13f of blockstun, while 2H has 18f of startup
+873/j.236S/2D/j.236S has 13f of blockstun, while 2D has 12f of startup
+874/j.236S/6P/j.236S has 13f of blockstun, while 6P has 9f of startup
+875/j.236S/6H/j.236S has 13f of blockstun, while 6H has 25f of startup
+876/j.236S/j.P/j.236S has 13f of blockstun, while j.P has 6f of startup
+877/j.236S/j.K/j.236S has 13f of blockstun, while j.K has 7f of startup
+878/j.236S/j.S/j.236S has 13f of blockstun, while j.S has 11f of startup
+879/j.236S/j.H/j.236S has 13f of blockstun, while j.H has 13f of startup
+880/j.236S/j.D/j.236S has 13f of blockstun, while j.D has 16f of startup
+881/j.236S/236S/j.236S has 13f of blockstun, while 236S has 16f of startup
+882/j.236S/j.236S/j.236S has 13f of blockstun, while j.236S has 14f of startup
+883/j.236S/236H/j.236S has 13f of blockstun, while 236H has 16f of startup
+884/j.236S/j.236H/j.236S has 13f of blockstun, while j.236H has 14f of startup
+885/j.236S/214K/j.236S has 13f of blockstun, while 214K has 14f of startup
+886/j.236S/214H/j.236S has 13f of blockstun, while 214H has 29f of startup
+887/j.236S/214S/j.236S has 13f of blockstun, while 214S has 20f of startup
+888/j.236S/214S~P/214S~P is a follow-up move and cannot be done after j.236S
+889/j.236S/214S~K/214S~K is a follow-up move and cannot be done after j.236S
+890/j.236S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.236S"
+891/j.236S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.236S"
+892/j.236S/214S~H/214S~H is a follow-up move and cannot be done after j.236S
+893/j.236S/632146H/j.236S has 13f of blockstun, while 632146H has 13f of startup
+894/j.236S/236236K/j.236S has 13f of blockstun, while 236236K has 7f of startup
+895/j.236S/236236K Explosion/j.236S has 13f of blockstun, while 236236K Explosion has 113f of startup
+896/j.236S/236[S]/j.236S has 13f of blockstun, while 236[S] has 33f of startup
+897/j.236S/j.236[S]/j.236S has 13f of blockstun, while j.236[S] has 31f of startup
+898/j.236S/236[H]/j.236S has 13f of blockstun, while 236[H] has 39f of startup
+899/j.236S/j.236[H]/j.236S has 13f of blockstun, while j.236[H] has 33f of startup
+900/j.236S/236D/j.236S has 13f of blockstun, while 236D has 16f of startup
+901/j.236S/236[D]/j.236S has 13f of blockstun, while 236[D] has 29f of startup
+902/236H/5P/20f gap
+903/236H/5K/22f gap
+904/236H/c.S/22f gap
+905/236H/f.S/26f gap
+906/236H/5H/29f gap
+907/236H/5HH/30f gap
+908/236H/5D/35f gap
+909/236H/5[D]/43f gap
+910/236H/2P/20f gap
+911/236H/2K/21f gap
+912/236H/2S/28f gap
+913/236H/2H/33f gap
+914/236H/2D/27f gap
+915/236H/6P/24f gap
+916/236H/6H/40f gap
+917/236H/j.P/26f gap
+918/236H/j.K/27f gap
+919/236H/j.S/31f gap
+920/236H/j.H/33f gap
+921/236H/j.D/36f gap
+922/236H/236S/31f gap
+923/236H/j.236S/34f gap
+924/236H/236H/31f gap
+925/236H/j.236H/34f gap
+926/236H/214K/29f gap
+927/236H/214H/44f gap
+928/236H/214S/35f gap
+929/236H/214S~P/214S~P is a follow-up move and cannot be done after 236H
+930/236H/214S~K/214S~K is a follow-up move and cannot be done after 236H
+931/236H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236H"
+932/236H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236H"
+933/236H/214S~H/214S~H is a follow-up move and cannot be done after 236H
+934/236H/632146H/28f gap
+935/236H/236236K/22f gap
+936/236H/236236K Explosion/128f gap
+937/236H/236[S]/48f gap
+938/236H/j.236[S]/51f gap
+939/236H/236[H]/54f gap
+940/236H/j.236[H]/53f gap
+941/236H/236D/31f gap
+942/236H/236[D]/44f gap
+943/j.236H/5P/j.236H has 13f of blockstun, while 5P has 5f of startup
+944/j.236H/5K/j.236H has 13f of blockstun, while 5K has 7f of startup
+945/j.236H/c.S/j.236H has 13f of blockstun, while c.S has 7f of startup
+946/j.236H/f.S/j.236H has 13f of blockstun, while f.S has 11f of startup
+947/j.236H/5H/j.236H has 13f of blockstun, while 5H has 14f of startup
+948/j.236H/5HH/j.236H has 13f of blockstun, while 5HH has 15f of startup
+949/j.236H/5D/j.236H has 13f of blockstun, while 5D has 20f of startup
+950/j.236H/5[D]/j.236H has 13f of blockstun, while 5[D] has 28f of startup
+951/j.236H/2P/j.236H has 13f of blockstun, while 2P has 5f of startup
+952/j.236H/2K/j.236H has 13f of blockstun, while 2K has 6f of startup
+953/j.236H/2S/j.236H has 13f of blockstun, while 2S has 13f of startup
+954/j.236H/2H/j.236H has 13f of blockstun, while 2H has 18f of startup
+955/j.236H/2D/j.236H has 13f of blockstun, while 2D has 12f of startup
+956/j.236H/6P/j.236H has 13f of blockstun, while 6P has 9f of startup
+957/j.236H/6H/j.236H has 13f of blockstun, while 6H has 25f of startup
+958/j.236H/j.P/j.236H has 13f of blockstun, while j.P has 6f of startup
+959/j.236H/j.K/j.236H has 13f of blockstun, while j.K has 7f of startup
+960/j.236H/j.S/j.236H has 13f of blockstun, while j.S has 11f of startup
+961/j.236H/j.H/j.236H has 13f of blockstun, while j.H has 13f of startup
+962/j.236H/j.D/j.236H has 13f of blockstun, while j.D has 16f of startup
+963/j.236H/236S/j.236H has 13f of blockstun, while 236S has 16f of startup
+964/j.236H/j.236S/j.236H has 13f of blockstun, while j.236S has 14f of startup
+965/j.236H/236H/j.236H has 13f of blockstun, while 236H has 16f of startup
+966/j.236H/j.236H/j.236H has 13f of blockstun, while j.236H has 14f of startup
+967/j.236H/214K/j.236H has 13f of blockstun, while 214K has 14f of startup
+968/j.236H/214H/j.236H has 13f of blockstun, while 214H has 29f of startup
+969/j.236H/214S/j.236H has 13f of blockstun, while 214S has 20f of startup
+970/j.236H/214S~P/214S~P is a follow-up move and cannot be done after j.236H
+971/j.236H/214S~K/214S~K is a follow-up move and cannot be done after j.236H
+972/j.236H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.236H"
+973/j.236H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.236H"
+974/j.236H/214S~H/214S~H is a follow-up move and cannot be done after j.236H
+975/j.236H/632146H/j.236H has 13f of blockstun, while 632146H has 13f of startup
+976/j.236H/236236K/j.236H has 13f of blockstun, while 236236K has 7f of startup
+977/j.236H/236236K Explosion/j.236H has 13f of blockstun, while 236236K Explosion has 113f of startup
+978/j.236H/236[S]/j.236H has 13f of blockstun, while 236[S] has 33f of startup
+979/j.236H/j.236[S]/j.236H has 13f of blockstun, while j.236[S] has 31f of startup
+980/j.236H/236[H]/j.236H has 13f of blockstun, while 236[H] has 39f of startup
+981/j.236H/j.236[H]/j.236H has 13f of blockstun, while j.236[H] has 33f of startup
+982/j.236H/236D/j.236H has 13f of blockstun, while 236D has 16f of startup
+983/j.236H/236[D]/j.236H has 13f of blockstun, while 236[D] has 29f of startup
+984/214K/5P/13f gap
+985/214K/5K/15f gap
+986/214K/c.S/15f gap
+987/214K/f.S/19f gap
+988/214K/5H/22f gap
+989/214K/5HH/23f gap
+990/214K/5D/28f gap
+991/214K/5[D]/36f gap
+992/214K/2P/13f gap
+993/214K/2K/14f gap
+994/214K/2S/21f gap
+995/214K/2H/26f gap
+996/214K/2D/20f gap
+997/214K/6P/17f gap
+998/214K/6H/33f gap
+999/214K/j.P/19f gap
+1000/214K/j.K/20f gap
+1001/214K/j.S/24f gap
+1002/214K/j.H/26f gap
+1003/214K/j.D/29f gap
+1004/214K/236S/24f gap
+1005/214K/j.236S/27f gap
+1006/214K/236H/24f gap
+1007/214K/j.236H/27f gap
+1008/214K/214K/22f gap
+1009/214K/214H/37f gap
+1010/214K/214S/28f gap
+1011/214K/214S~P/214S~P is a follow-up move and cannot be done after 214K
+1012/214K/214S~K/214S~K is a follow-up move and cannot be done after 214K
+1013/214K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214K"
+1014/214K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214K"
+1015/214K/214S~H/214S~H is a follow-up move and cannot be done after 214K
+1016/214K/632146H/21f gap
+1017/214K/236236K/15f gap
+1018/214K/236236K Explosion/121f gap
+1019/214K/236[S]/41f gap
+1020/214K/j.236[S]/44f gap
+1021/214K/236[H]/47f gap
+1022/214K/j.236[H]/46f gap
+1023/214K/236D/24f gap
+1024/214K/236[D]/37f gap
+1025/214H/5P/-9f gap
+1026/214H/5K/-7f gap
+1027/214H/c.S/-7f gap
+1028/214H/f.S/-3f gap
+1029/214H/5H/0f gap
+1030/214H/5HH/1f gap
+1031/214H/5D/6f gap
+1032/214H/5[D]/14f gap
+1033/214H/2P/-9f gap
+1034/214H/2K/-8f gap
+1035/214H/2S/-1f gap
+1036/214H/2H/4f gap
+1037/214H/2D/-2f gap
+1038/214H/6P/-5f gap
+1039/214H/6H/11f gap
+1040/214H/j.P/-3f gap
+1041/214H/j.K/-2f gap
+1042/214H/j.S/2f gap
+1043/214H/j.H/4f gap
+1044/214H/j.D/7f gap
+1045/214H/236S/2f gap
+1046/214H/j.236S/5f gap
+1047/214H/236H/2f gap
+1048/214H/j.236H/5f gap
+1049/214H/214K/0f gap
+1050/214H/214H/15f gap
+1051/214H/214S/6f gap
+1052/214H/214S~P/214S~P is a follow-up move and cannot be done after 214H
+1053/214H/214S~K/214S~K is a follow-up move and cannot be done after 214H
+1054/214H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214H"
+1055/214H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214H"
+1056/214H/214S~H/214S~H is a follow-up move and cannot be done after 214H
+1057/214H/632146H/-1f gap
+1058/214H/236236K/-7f gap
+1059/214H/236236K Explosion/99f gap
+1060/214H/236[S]/19f gap
+1061/214H/j.236[S]/22f gap
+1062/214H/236[H]/25f gap
+1063/214H/j.236[H]/24f gap
+1064/214H/236D/2f gap
+1065/214H/236[D]/15f gap
+1066/214S/5P/7f gap
+1067/214S/5K/9f gap
+1068/214S/c.S/9f gap
+1069/214S/f.S/13f gap
+1070/214S/5H/16f gap
+1071/214S/5HH/17f gap
+1072/214S/5D/22f gap
+1073/214S/5[D]/30f gap
+1074/214S/2P/7f gap
+1075/214S/2K/8f gap
+1076/214S/2S/15f gap
+1077/214S/2H/20f gap
+1078/214S/2D/14f gap
+1079/214S/6P/11f gap
+1080/214S/6H/27f gap
+1081/214S/j.P/13f gap
+1082/214S/j.K/14f gap
+1083/214S/j.S/18f gap
+1084/214S/j.H/20f gap
+1085/214S/j.D/23f gap
+1086/214S/236S/18f gap
+1087/214S/j.236S/21f gap
+1088/214S/236H/18f gap
+1089/214S/j.236H/21f gap
+1090/214S/214K/16f gap
+1091/214S/214H/31f gap
+1092/214S/214S/6f gap
+1093/214S/214S~P/0f gap
+1094/214S/214S~K/0f gap
+1095/214S/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S"
+1096/214S/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S"
+1097/214S/214S~H/-1f gap
+1098/214S/632146H/15f gap
+1099/214S/236236K/9f gap
+1100/214S/236236K Explosion/115f gap
+1101/214S/236[S]/35f gap
+1102/214S/j.236[S]/38f gap
+1103/214S/236[H]/41f gap
+1104/214S/j.236[H]/40f gap
+1105/214S/236D/18f gap
+1106/214S/236[D]/31f gap
+1107/214S~P/5P/15f gap
+1108/214S~P/5K/17f gap
+1109/214S~P/c.S/17f gap
+1110/214S~P/f.S/21f gap
+1111/214S~P/5H/24f gap
+1112/214S~P/5HH/25f gap
+1113/214S~P/5D/30f gap
+1114/214S~P/5[D]/38f gap
+1115/214S~P/2P/15f gap
+1116/214S~P/2K/16f gap
+1117/214S~P/2S/23f gap
+1118/214S~P/2H/28f gap
+1119/214S~P/2D/22f gap
+1120/214S~P/6P/19f gap
+1121/214S~P/6H/35f gap
+1122/214S~P/j.P/21f gap
+1123/214S~P/j.K/22f gap
+1124/214S~P/j.S/26f gap
+1125/214S~P/j.H/28f gap
+1126/214S~P/j.D/31f gap
+1127/214S~P/236S/26f gap
+1128/214S~P/j.236S/29f gap
+1129/214S~P/236H/26f gap
+1130/214S~P/j.236H/29f gap
+1131/214S~P/214K/24f gap
+1132/214S~P/214H/39f gap
+1133/214S~P/214S/6f gap
+1134/214S~P/214S~P/214S~P is a follow-up move and cannot be done after 214S~P
+1135/214S~P/214S~K/214S~K is a follow-up move and cannot be done after 214S~P
+1136/214S~P/"214S~P/K~P"/0f gap
+1137/214S~P/"214S~P/K~K"/0f gap
+1138/214S~P/214S~H/-1f gap
+1139/214S~P/632146H/23f gap
+1140/214S~P/236236K/17f gap
+1141/214S~P/236236K Explosion/123f gap
+1142/214S~P/236[S]/43f gap
+1143/214S~P/j.236[S]/46f gap
+1144/214S~P/236[H]/49f gap
+1145/214S~P/j.236[H]/48f gap
+1146/214S~P/236D/26f gap
+1147/214S~P/236[D]/39f gap
+1148/214S~K/5P/15f gap
+1149/214S~K/5K/17f gap
+1150/214S~K/c.S/17f gap
+1151/214S~K/f.S/21f gap
+1152/214S~K/5H/24f gap
+1153/214S~K/5HH/25f gap
+1154/214S~K/5D/30f gap
+1155/214S~K/5[D]/38f gap
+1156/214S~K/2P/15f gap
+1157/214S~K/2K/16f gap
+1158/214S~K/2S/23f gap
+1159/214S~K/2H/28f gap
+1160/214S~K/2D/22f gap
+1161/214S~K/6P/19f gap
+1162/214S~K/6H/35f gap
+1163/214S~K/j.P/21f gap
+1164/214S~K/j.K/22f gap
+1165/214S~K/j.S/26f gap
+1166/214S~K/j.H/28f gap
+1167/214S~K/j.D/31f gap
+1168/214S~K/236S/26f gap
+1169/214S~K/j.236S/29f gap
+1170/214S~K/236H/26f gap
+1171/214S~K/j.236H/29f gap
+1172/214S~K/214K/24f gap
+1173/214S~K/214H/39f gap
+1174/214S~K/214S/6f gap
+1175/214S~K/214S~P/214S~P is a follow-up move and cannot be done after 214S~K
+1176/214S~K/214S~K/214S~K is a follow-up move and cannot be done after 214S~K
+1177/214S~K/"214S~P/K~P"/0f gap
+1178/214S~K/"214S~P/K~K"/0f gap
+1179/214S~K/214S~H/-1f gap
+1180/214S~K/632146H/23f gap
+1181/214S~K/236236K/17f gap
+1182/214S~K/236236K Explosion/123f gap
+1183/214S~K/236[S]/43f gap
+1184/214S~K/j.236[S]/46f gap
+1185/214S~K/236[H]/49f gap
+1186/214S~K/j.236[H]/48f gap
+1187/214S~K/236D/26f gap
+1188/214S~K/236[D]/39f gap
+1189/"214S~P/K~P"/5P/23f gap
+1190/"214S~P/K~P"/5K/25f gap
+1191/"214S~P/K~P"/c.S/25f gap
+1192/"214S~P/K~P"/f.S/29f gap
+1193/"214S~P/K~P"/5H/32f gap
+1194/"214S~P/K~P"/5HH/33f gap
+1195/"214S~P/K~P"/5D/38f gap
+1196/"214S~P/K~P"/5[D]/46f gap
+1197/"214S~P/K~P"/2P/23f gap
+1198/"214S~P/K~P"/2K/24f gap
+1199/"214S~P/K~P"/2S/31f gap
+1200/"214S~P/K~P"/2H/36f gap
+1201/"214S~P/K~P"/2D/30f gap
+1202/"214S~P/K~P"/6P/27f gap
+1203/"214S~P/K~P"/6H/43f gap
+1204/"214S~P/K~P"/j.P/29f gap
+1205/"214S~P/K~P"/j.K/30f gap
+1206/"214S~P/K~P"/j.S/34f gap
+1207/"214S~P/K~P"/j.H/36f gap
+1208/"214S~P/K~P"/j.D/39f gap
+1209/"214S~P/K~P"/236S/34f gap
+1210/"214S~P/K~P"/j.236S/37f gap
+1211/"214S~P/K~P"/236H/34f gap
+1212/"214S~P/K~P"/j.236H/37f gap
+1213/"214S~P/K~P"/214K/32f gap
+1214/"214S~P/K~P"/214H/47f gap
+1215/"214S~P/K~P"/214S/38f gap
+1216/"214S~P/K~P"/214S~P/"214S~P is a follow-up move and cannot be done after 214S~P/K~P"
+1217/"214S~P/K~P"/214S~K/"214S~K is a follow-up move and cannot be done after 214S~P/K~P"
+1218/"214S~P/K~P"/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S~P/K~P"
+1219/"214S~P/K~P"/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S~P/K~P"
+1220/"214S~P/K~P"/214S~H/"214S~H is a follow-up move and cannot be done after 214S~P/K~P"
+1221/"214S~P/K~P"/632146H/31f gap
+1222/"214S~P/K~P"/236236K/25f gap
+1223/"214S~P/K~P"/236236K Explosion/131f gap
+1224/"214S~P/K~P"/236[S]/51f gap
+1225/"214S~P/K~P"/j.236[S]/54f gap
+1226/"214S~P/K~P"/236[H]/57f gap
+1227/"214S~P/K~P"/j.236[H]/56f gap
+1228/"214S~P/K~P"/236D/34f gap
+1229/"214S~P/K~P"/236[D]/47f gap
+1230/"214S~P/K~K"/5P/21f gap
+1231/"214S~P/K~K"/5K/23f gap
+1232/"214S~P/K~K"/c.S/23f gap
+1233/"214S~P/K~K"/f.S/27f gap
+1234/"214S~P/K~K"/5H/30f gap
+1235/"214S~P/K~K"/5HH/31f gap
+1236/"214S~P/K~K"/5D/36f gap
+1237/"214S~P/K~K"/5[D]/44f gap
+1238/"214S~P/K~K"/2P/21f gap
+1239/"214S~P/K~K"/2K/22f gap
+1240/"214S~P/K~K"/2S/29f gap
+1241/"214S~P/K~K"/2H/34f gap
+1242/"214S~P/K~K"/2D/28f gap
+1243/"214S~P/K~K"/6P/25f gap
+1244/"214S~P/K~K"/6H/41f gap
+1245/"214S~P/K~K"/j.P/27f gap
+1246/"214S~P/K~K"/j.K/28f gap
+1247/"214S~P/K~K"/j.S/32f gap
+1248/"214S~P/K~K"/j.H/34f gap
+1249/"214S~P/K~K"/j.D/37f gap
+1250/"214S~P/K~K"/236S/32f gap
+1251/"214S~P/K~K"/j.236S/35f gap
+1252/"214S~P/K~K"/236H/32f gap
+1253/"214S~P/K~K"/j.236H/35f gap
+1254/"214S~P/K~K"/214K/30f gap
+1255/"214S~P/K~K"/214H/45f gap
+1256/"214S~P/K~K"/214S/36f gap
+1257/"214S~P/K~K"/214S~P/"214S~P is a follow-up move and cannot be done after 214S~P/K~K"
+1258/"214S~P/K~K"/214S~K/"214S~K is a follow-up move and cannot be done after 214S~P/K~K"
+1259/"214S~P/K~K"/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S~P/K~K"
+1260/"214S~P/K~K"/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S~P/K~K"
+1261/"214S~P/K~K"/214S~H/"214S~H is a follow-up move and cannot be done after 214S~P/K~K"
+1262/"214S~P/K~K"/632146H/29f gap
+1263/"214S~P/K~K"/236236K/23f gap
+1264/"214S~P/K~K"/236236K Explosion/129f gap
+1265/"214S~P/K~K"/236[S]/49f gap
+1266/"214S~P/K~K"/j.236[S]/52f gap
+1267/"214S~P/K~K"/236[H]/55f gap
+1268/"214S~P/K~K"/j.236[H]/54f gap
+1269/"214S~P/K~K"/236D/32f gap
+1270/"214S~P/K~K"/236[D]/45f gap
+1271/214S~H/5P/10f gap
+1272/214S~H/5K/12f gap
+1273/214S~H/c.S/12f gap
+1274/214S~H/f.S/16f gap
+1275/214S~H/5H/19f gap
+1276/214S~H/5HH/20f gap
+1277/214S~H/5D/25f gap
+1278/214S~H/5[D]/33f gap
+1279/214S~H/2P/10f gap
+1280/214S~H/2K/11f gap
+1281/214S~H/2S/18f gap
+1282/214S~H/2H/23f gap
+1283/214S~H/2D/17f gap
+1284/214S~H/6P/14f gap
+1285/214S~H/6H/30f gap
+1286/214S~H/j.P/16f gap
+1287/214S~H/j.K/17f gap
+1288/214S~H/j.S/21f gap
+1289/214S~H/j.H/23f gap
+1290/214S~H/j.D/26f gap
+1291/214S~H/236S/21f gap
+1292/214S~H/j.236S/24f gap
+1293/214S~H/236H/21f gap
+1294/214S~H/j.236H/24f gap
+1295/214S~H/214K/19f gap
+1296/214S~H/214H/34f gap
+1297/214S~H/214S/25f gap
+1298/214S~H/214S~P/214S~P is a follow-up move and cannot be done after 214S~H
+1299/214S~H/214S~K/214S~K is a follow-up move and cannot be done after 214S~H
+1300/214S~H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 214S~H"
+1301/214S~H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 214S~H"
+1302/214S~H/214S~H/214S~H is a follow-up move and cannot be done after 214S~H
+1303/214S~H/632146H/18f gap
+1304/214S~H/236236K/12f gap
+1305/214S~H/236236K Explosion/118f gap
+1306/214S~H/236[S]/38f gap
+1307/214S~H/j.236[S]/41f gap
+1308/214S~H/236[H]/44f gap
+1309/214S~H/j.236[H]/43f gap
+1310/214S~H/236D/21f gap
+1311/214S~H/236[D]/34f gap
+1312/632146H/5P/44f gap
+1313/632146H/5K/46f gap
+1314/632146H/c.S/46f gap
+1315/632146H/f.S/50f gap
+1316/632146H/5H/53f gap
+1317/632146H/5HH/54f gap
+1318/632146H/5D/59f gap
+1319/632146H/5[D]/67f gap
+1320/632146H/2P/44f gap
+1321/632146H/2K/45f gap
+1322/632146H/2S/52f gap
+1323/632146H/2H/57f gap
+1324/632146H/2D/51f gap
+1325/632146H/6P/48f gap
+1326/632146H/6H/64f gap
+1327/632146H/j.P/50f gap
+1328/632146H/j.K/51f gap
+1329/632146H/j.S/55f gap
+1330/632146H/j.H/57f gap
+1331/632146H/j.D/60f gap
+1332/632146H/236S/55f gap
+1333/632146H/j.236S/58f gap
+1334/632146H/236H/55f gap
+1335/632146H/j.236H/58f gap
+1336/632146H/214K/53f gap
+1337/632146H/214H/68f gap
+1338/632146H/214S/59f gap
+1339/632146H/214S~P/214S~P is a follow-up move and cannot be done after 632146H
+1340/632146H/214S~K/214S~K is a follow-up move and cannot be done after 632146H
+1341/632146H/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 632146H"
+1342/632146H/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 632146H"
+1343/632146H/214S~H/214S~H is a follow-up move and cannot be done after 632146H
+1344/632146H/632146H/52f gap
+1345/632146H/236236K/46f gap
+1346/632146H/236236K Explosion/152f gap
+1347/632146H/236[S]/72f gap
+1348/632146H/j.236[S]/75f gap
+1349/632146H/236[H]/78f gap
+1350/632146H/j.236[H]/77f gap
+1351/632146H/236D/55f gap
+1352/632146H/236[D]/68f gap
+1353/236236K/5P/"N/A"
+1354/236236K/5K/"N/A"
+1355/236236K/c.S/"N/A"
+1356/236236K/f.S/"N/A"
+1357/236236K/5H/"N/A"
+1358/236236K/5HH/"N/A"
+1359/236236K/5D/"N/A"
+1360/236236K/5[D]/"N/A"
+1361/236236K/2P/"N/A"
+1362/236236K/2K/"N/A"
+1363/236236K/2S/"N/A"
+1364/236236K/2H/"N/A"
+1365/236236K/2D/"N/A"
+1366/236236K/6P/"N/A"
+1367/236236K/6H/"N/A"
+1368/236236K/j.P/"N/A"
+1369/236236K/j.K/"N/A"
+1370/236236K/j.S/"N/A"
+1371/236236K/j.H/"N/A"
+1372/236236K/j.D/"N/A"
+1373/236236K/236S/"N/A"
+1374/236236K/j.236S/"N/A"
+1375/236236K/236H/"N/A"
+1376/236236K/j.236H/"N/A"
+1377/236236K/214K/"N/A"
+1378/236236K/214H/"N/A"
+1379/236236K/214S/"N/A"
+1380/236236K/214S~P/214S~P is a follow-up move and cannot be done after 236236K
+1381/236236K/214S~K/214S~K is a follow-up move and cannot be done after 236236K
+1382/236236K/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236236K"
+1383/236236K/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236236K"
+1384/236236K/214S~H/214S~H is a follow-up move and cannot be done after 236236K
+1385/236236K/632146H/"N/A"
+1386/236236K/236236K/"N/A"
+1387/236236K/236236K Explosion/"N/A"
+1388/236236K/236[S]/"N/A"
+1389/236236K/j.236[S]/"N/A"
+1390/236236K/236[H]/"N/A"
+1391/236236K/j.236[H]/"N/A"
+1392/236236K/236D/"N/A"
+1393/236236K/236[D]/"N/A"
+1394/236236K Explosion/5P/"N/A"
+1395/236236K Explosion/5K/"N/A"
+1396/236236K Explosion/c.S/"N/A"
+1397/236236K Explosion/f.S/"N/A"
+1398/236236K Explosion/5H/"N/A"
+1399/236236K Explosion/5HH/"N/A"
+1400/236236K Explosion/5D/"N/A"
+1401/236236K Explosion/5[D]/"N/A"
+1402/236236K Explosion/2P/"N/A"
+1403/236236K Explosion/2K/"N/A"
+1404/236236K Explosion/2S/"N/A"
+1405/236236K Explosion/2H/"N/A"
+1406/236236K Explosion/2D/"N/A"
+1407/236236K Explosion/6P/"N/A"
+1408/236236K Explosion/6H/"N/A"
+1409/236236K Explosion/j.P/"N/A"
+1410/236236K Explosion/j.K/"N/A"
+1411/236236K Explosion/j.S/"N/A"
+1412/236236K Explosion/j.H/"N/A"
+1413/236236K Explosion/j.D/"N/A"
+1414/236236K Explosion/236S/"N/A"
+1415/236236K Explosion/j.236S/"N/A"
+1416/236236K Explosion/236H/"N/A"
+1417/236236K Explosion/j.236H/"N/A"
+1418/236236K Explosion/214K/"N/A"
+1419/236236K Explosion/214H/"N/A"
+1420/236236K Explosion/214S/"N/A"
+1421/236236K Explosion/214S~P/214S~P is a follow-up move and cannot be done after 236236K Explosion
+1422/236236K Explosion/214S~K/214S~K is a follow-up move and cannot be done after 236236K Explosion
+1423/236236K Explosion/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236236K Explosion"
+1424/236236K Explosion/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236236K Explosion"
+1425/236236K Explosion/214S~H/214S~H is a follow-up move and cannot be done after 236236K Explosion
+1426/236236K Explosion/632146H/"N/A"
+1427/236236K Explosion/236236K/"N/A"
+1428/236236K Explosion/236236K Explosion/"N/A"
+1429/236236K Explosion/236[S]/"N/A"
+1430/236236K Explosion/j.236[S]/"N/A"
+1431/236236K Explosion/236[H]/"N/A"
+1432/236236K Explosion/j.236[H]/"N/A"
+1433/236236K Explosion/236D/"N/A"
+1434/236236K Explosion/236[D]/"N/A"
+1435/236[S]/5P/20f gap
+1436/236[S]/5K/22f gap
+1437/236[S]/c.S/22f gap
+1438/236[S]/f.S/26f gap
+1439/236[S]/5H/29f gap
+1440/236[S]/5HH/30f gap
+1441/236[S]/5D/35f gap
+1442/236[S]/5[D]/43f gap
+1443/236[S]/2P/20f gap
+1444/236[S]/2K/21f gap
+1445/236[S]/2S/28f gap
+1446/236[S]/2H/33f gap
+1447/236[S]/2D/27f gap
+1448/236[S]/6P/24f gap
+1449/236[S]/6H/40f gap
+1450/236[S]/j.P/26f gap
+1451/236[S]/j.K/27f gap
+1452/236[S]/j.S/31f gap
+1453/236[S]/j.H/33f gap
+1454/236[S]/j.D/36f gap
+1455/236[S]/236S/31f gap
+1456/236[S]/j.236S/34f gap
+1457/236[S]/236H/31f gap
+1458/236[S]/j.236H/34f gap
+1459/236[S]/214K/29f gap
+1460/236[S]/214H/44f gap
+1461/236[S]/214S/35f gap
+1462/236[S]/214S~P/214S~P is a follow-up move and cannot be done after 236[S]
+1463/236[S]/214S~K/214S~K is a follow-up move and cannot be done after 236[S]
+1464/236[S]/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236[S]"
+1465/236[S]/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236[S]"
+1466/236[S]/214S~H/214S~H is a follow-up move and cannot be done after 236[S]
+1467/236[S]/632146H/28f gap
+1468/236[S]/236236K/22f gap
+1469/236[S]/236236K Explosion/128f gap
+1470/236[S]/236[S]/48f gap
+1471/236[S]/j.236[S]/51f gap
+1472/236[S]/236[H]/54f gap
+1473/236[S]/j.236[H]/53f gap
+1474/236[S]/236D/31f gap
+1475/236[S]/236[D]/44f gap
+1476/j.236[S]/5P/j.236[S] has 13f of blockstun, while 5P has 5f of startup
+1477/j.236[S]/5K/j.236[S] has 13f of blockstun, while 5K has 7f of startup
+1478/j.236[S]/c.S/j.236[S] has 13f of blockstun, while c.S has 7f of startup
+1479/j.236[S]/f.S/j.236[S] has 13f of blockstun, while f.S has 11f of startup
+1480/j.236[S]/5H/j.236[S] has 13f of blockstun, while 5H has 14f of startup
+1481/j.236[S]/5HH/j.236[S] has 13f of blockstun, while 5HH has 15f of startup
+1482/j.236[S]/5D/j.236[S] has 13f of blockstun, while 5D has 20f of startup
+1483/j.236[S]/5[D]/j.236[S] has 13f of blockstun, while 5[D] has 28f of startup
+1484/j.236[S]/2P/j.236[S] has 13f of blockstun, while 2P has 5f of startup
+1485/j.236[S]/2K/j.236[S] has 13f of blockstun, while 2K has 6f of startup
+1486/j.236[S]/2S/j.236[S] has 13f of blockstun, while 2S has 13f of startup
+1487/j.236[S]/2H/j.236[S] has 13f of blockstun, while 2H has 18f of startup
+1488/j.236[S]/2D/j.236[S] has 13f of blockstun, while 2D has 12f of startup
+1489/j.236[S]/6P/j.236[S] has 13f of blockstun, while 6P has 9f of startup
+1490/j.236[S]/6H/j.236[S] has 13f of blockstun, while 6H has 25f of startup
+1491/j.236[S]/j.P/j.236[S] has 13f of blockstun, while j.P has 6f of startup
+1492/j.236[S]/j.K/j.236[S] has 13f of blockstun, while j.K has 7f of startup
+1493/j.236[S]/j.S/j.236[S] has 13f of blockstun, while j.S has 11f of startup
+1494/j.236[S]/j.H/j.236[S] has 13f of blockstun, while j.H has 13f of startup
+1495/j.236[S]/j.D/j.236[S] has 13f of blockstun, while j.D has 16f of startup
+1496/j.236[S]/236S/j.236[S] has 13f of blockstun, while 236S has 16f of startup
+1497/j.236[S]/j.236S/j.236[S] has 13f of blockstun, while j.236S has 14f of startup
+1498/j.236[S]/236H/j.236[S] has 13f of blockstun, while 236H has 16f of startup
+1499/j.236[S]/j.236H/j.236[S] has 13f of blockstun, while j.236H has 14f of startup
+1500/j.236[S]/214K/j.236[S] has 13f of blockstun, while 214K has 14f of startup
+1501/j.236[S]/214H/j.236[S] has 13f of blockstun, while 214H has 29f of startup
+1502/j.236[S]/214S/j.236[S] has 13f of blockstun, while 214S has 20f of startup
+1503/j.236[S]/214S~P/214S~P is a follow-up move and cannot be done after j.236[S]
+1504/j.236[S]/214S~K/214S~K is a follow-up move and cannot be done after j.236[S]
+1505/j.236[S]/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.236[S]"
+1506/j.236[S]/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.236[S]"
+1507/j.236[S]/214S~H/214S~H is a follow-up move and cannot be done after j.236[S]
+1508/j.236[S]/632146H/j.236[S] has 13f of blockstun, while 632146H has 13f of startup
+1509/j.236[S]/236236K/j.236[S] has 13f of blockstun, while 236236K has 7f of startup
+1510/j.236[S]/236236K Explosion/j.236[S] has 13f of blockstun, while 236236K Explosion has 113f of startup
+1511/j.236[S]/236[S]/j.236[S] has 13f of blockstun, while 236[S] has 33f of startup
+1512/j.236[S]/j.236[S]/j.236[S] has 13f of blockstun, while j.236[S] has 31f of startup
+1513/j.236[S]/236[H]/j.236[S] has 13f of blockstun, while 236[H] has 39f of startup
+1514/j.236[S]/j.236[H]/j.236[S] has 13f of blockstun, while j.236[H] has 33f of startup
+1515/j.236[S]/236D/j.236[S] has 13f of blockstun, while 236D has 16f of startup
+1516/j.236[S]/236[D]/j.236[S] has 13f of blockstun, while 236[D] has 29f of startup
+1517/236[H]/5P/20f gap
+1518/236[H]/5K/22f gap
+1519/236[H]/c.S/22f gap
+1520/236[H]/f.S/26f gap
+1521/236[H]/5H/29f gap
+1522/236[H]/5HH/30f gap
+1523/236[H]/5D/35f gap
+1524/236[H]/5[D]/43f gap
+1525/236[H]/2P/20f gap
+1526/236[H]/2K/21f gap
+1527/236[H]/2S/28f gap
+1528/236[H]/2H/33f gap
+1529/236[H]/2D/27f gap
+1530/236[H]/6P/24f gap
+1531/236[H]/6H/40f gap
+1532/236[H]/j.P/26f gap
+1533/236[H]/j.K/27f gap
+1534/236[H]/j.S/31f gap
+1535/236[H]/j.H/33f gap
+1536/236[H]/j.D/36f gap
+1537/236[H]/236S/31f gap
+1538/236[H]/j.236S/34f gap
+1539/236[H]/236H/31f gap
+1540/236[H]/j.236H/34f gap
+1541/236[H]/214K/29f gap
+1542/236[H]/214H/44f gap
+1543/236[H]/214S/35f gap
+1544/236[H]/214S~P/214S~P is a follow-up move and cannot be done after 236[H]
+1545/236[H]/214S~K/214S~K is a follow-up move and cannot be done after 236[H]
+1546/236[H]/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after 236[H]"
+1547/236[H]/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after 236[H]"
+1548/236[H]/214S~H/214S~H is a follow-up move and cannot be done after 236[H]
+1549/236[H]/632146H/28f gap
+1550/236[H]/236236K/22f gap
+1551/236[H]/236236K Explosion/128f gap
+1552/236[H]/236[S]/48f gap
+1553/236[H]/j.236[S]/51f gap
+1554/236[H]/236[H]/54f gap
+1555/236[H]/j.236[H]/53f gap
+1556/236[H]/236D/31f gap
+1557/236[H]/236[D]/44f gap
+1558/j.236[H]/5P/j.236[H] has 13f of blockstun, while 5P has 5f of startup
+1559/j.236[H]/5K/j.236[H] has 13f of blockstun, while 5K has 7f of startup
+1560/j.236[H]/c.S/j.236[H] has 13f of blockstun, while c.S has 7f of startup
+1561/j.236[H]/f.S/j.236[H] has 13f of blockstun, while f.S has 11f of startup
+1562/j.236[H]/5H/j.236[H] has 13f of blockstun, while 5H has 14f of startup
+1563/j.236[H]/5HH/j.236[H] has 13f of blockstun, while 5HH has 15f of startup
+1564/j.236[H]/5D/j.236[H] has 13f of blockstun, while 5D has 20f of startup
+1565/j.236[H]/5[D]/j.236[H] has 13f of blockstun, while 5[D] has 28f of startup
+1566/j.236[H]/2P/j.236[H] has 13f of blockstun, while 2P has 5f of startup
+1567/j.236[H]/2K/j.236[H] has 13f of blockstun, while 2K has 6f of startup
+1568/j.236[H]/2S/j.236[H] has 13f of blockstun, while 2S has 13f of startup
+1569/j.236[H]/2H/j.236[H] has 13f of blockstun, while 2H has 18f of startup
+1570/j.236[H]/2D/j.236[H] has 13f of blockstun, while 2D has 12f of startup
+1571/j.236[H]/6P/j.236[H] has 13f of blockstun, while 6P has 9f of startup
+1572/j.236[H]/6H/j.236[H] has 13f of blockstun, while 6H has 25f of startup
+1573/j.236[H]/j.P/j.236[H] has 13f of blockstun, while j.P has 6f of startup
+1574/j.236[H]/j.K/j.236[H] has 13f of blockstun, while j.K has 7f of startup
+1575/j.236[H]/j.S/j.236[H] has 13f of blockstun, while j.S has 11f of startup
+1576/j.236[H]/j.H/j.236[H] has 13f of blockstun, while j.H has 13f of startup
+1577/j.236[H]/j.D/j.236[H] has 13f of blockstun, while j.D has 16f of startup
+1578/j.236[H]/236S/j.236[H] has 13f of blockstun, while 236S has 16f of startup
+1579/j.236[H]/j.236S/j.236[H] has 13f of blockstun, while j.236S has 14f of startup
+1580/j.236[H]/236H/j.236[H] has 13f of blockstun, while 236H has 16f of startup
+1581/j.236[H]/j.236H/j.236[H] has 13f of blockstun, while j.236H has 14f of startup
+1582/j.236[H]/214K/j.236[H] has 13f of blockstun, while 214K has 14f of startup
+1583/j.236[H]/214H/j.236[H] has 13f of blockstun, while 214H has 29f of startup
+1584/j.236[H]/214S/j.236[H] has 13f of blockstun, while 214S has 20f of startup
+1585/j.236[H]/214S~P/214S~P is a follow-up move and cannot be done after j.236[H]
+1586/j.236[H]/214S~K/214S~K is a follow-up move and cannot be done after j.236[H]
+1587/j.236[H]/"214S~P/K~P"/"214S~P/K~P is a follow-up move and cannot be done after j.236[H]"
+1588/j.236[H]/"214S~P/K~K"/"214S~P/K~K is a follow-up move and cannot be done after j.236[H]"
+1589/j.236[H]/214S~H/214S~H is a follow-up move and cannot be done after j.236[H]
+1590/j.236[H]/632146H/j.236[H] has 13f of blockstun, while 632146H has 13f of startup
+1591/j.236[H]/236236K/j.236[H] has 13f of blockstun, while 236236K has 7f of startup
+1592/j.236[H]/236236K Explosion/j.236[H] has 13f of blockstun, while 236236K Explosion has 113f of startup
+1593/j.236[H]/236[S]/j.236[H] has 13f of blockstun, while 236[S] has 33f of startup
+1594/j.236[H]/j.236[S]/j.236[H] has 13f of blockstun, while j.236[S] has 31f of startup
+1595/j.236[H]/236[H]/j.236[H] has 13f of blockstun, while 236[H] has 39f of startup
+1596/j.236[H]/j.236[H]/j.236[H] has 13f of blockstun, while j.236[H] has 33f of startup
+1597/j.236[H]/236D/j.236[H] has 13f of blockstun, while 236D has 16f of startup
+1598/j.236[H]/236[D]/j.236[H] has 13f of blockstun, while 236[D] has 29f of startup
+1599/236D/5P/-13f gap
+1600/236D/5K/-11f gap
+1601/236D/c.S/-11f gap
+1602/236D/f.S/-7f gap
+1603/236D/5H/-4f gap
+1604/236D/5HH/-3f gap
+1605/236D/5D/2f gap
+1606/236D/5[D]/10f gap
+1607/236D/2P/-13f gap
+1608/236D/2K/-12f gap
+1609/236D/2S/-5f gap
+1610/236D/2H/0f gap
+1611/236D/2D/-6f gap
+1612/236D/6P/-9f gap
+1613/236D/6H/7f gap
+1614/236D/j.P/-8f gap
+1615/236D/j.K/-7f gap
+1616/236D/j.S/-3f gap
+1617/236D/j.H/-1f gap
+1618/236D/j.D/2f gap
+1619/236D/236S/-2f gap
+1620/236D/j.236S/0f gap
+1621/236D/236H/-2f gap
+1622/236D/j.236H/0f gap
+1623/236D/214K/-4f gap
+1624/236D/214H/11f gap
+1625/236D/214S/2f gap
+1626/236D/214S~P/-4f gap
+1627/236D/214S~K/-4f gap
+1628/236D/"214S~P/K~P"/-4f gap
+1629/236D/"214S~P/K~K"/-4f gap
+1630/236D/214S~H/-5f gap
+1631/236D/632146H/-5f gap
+1632/236D/236236K/-11f gap
+1633/236D/236236K Explosion/95f gap
+1634/236D/236[S]/15f gap
+1635/236D/j.236[S]/17f gap
+1636/236D/236[H]/21f gap
+1637/236D/j.236[H]/19f gap
+1638/236D/236D/-2f gap
+1639/236D/236[D]/11f gap
+1640/236[D]/5P/-13f gap
+1641/236[D]/5K/-11f gap
+1642/236[D]/c.S/-11f gap
+1643/236[D]/f.S/-7f gap
+1644/236[D]/5H/-4f gap
+1645/236[D]/5HH/-3f gap
+1646/236[D]/5D/2f gap
+1647/236[D]/5[D]/10f gap
+1648/236[D]/2P/-13f gap
+1649/236[D]/2K/-12f gap
+1650/236[D]/2S/-5f gap
+1651/236[D]/2H/0f gap
+1652/236[D]/2D/-6f gap
+1653/236[D]/6P/-9f gap
+1654/236[D]/6H/7f gap
+1655/236[D]/j.P/-8f gap
+1656/236[D]/j.K/-7f gap
+1657/236[D]/j.S/-3f gap
+1658/236[D]/j.H/-1f gap
+1659/236[D]/j.D/2f gap
+1660/236[D]/236S/-2f gap
+1661/236[D]/j.236S/0f gap
+1662/236[D]/236H/-2f gap
+1663/236[D]/j.236H/0f gap
+1664/236[D]/214K/-4f gap
+1665/236[D]/214H/11f gap
+1666/236[D]/214S/2f gap
+1667/236[D]/214S~P/-4f gap
+1668/236[D]/214S~K/-4f gap
+1669/236[D]/"214S~P/K~P"/-4f gap
+1670/236[D]/"214S~P/K~K"/-4f gap
+1671/236[D]/214S~H/-5f gap
+1672/236[D]/632146H/-5f gap
+1673/236[D]/236236K/-11f gap
+1674/236[D]/236236K Explosion/95f gap
+1675/236[D]/236[S]/15f gap
+1676/236[D]/j.236[S]/17f gap
+1677/236[D]/236[H]/21f gap
+1678/236[D]/j.236[H]/19f gap
+1679/236[D]/236D/-2f gap
+1680/236[D]/236[D]/11f gap

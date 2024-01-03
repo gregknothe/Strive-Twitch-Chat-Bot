@@ -8,6 +8,7 @@ import SinFoodRoll as sfr
 import random
 import os
 import sys
+import time
 sys.path.insert(0, 'TournamentData')
 import StartGGDataScraper as sgg
 sys.path.insert(0, 'GGST-Frame')
@@ -16,17 +17,6 @@ sys.path.insert(0, 'Granblue-Frame')
 import GBFrameData as gb
 import datetime
 
-
-#sys.path.append("/TournamentData/")
-#from StartGGDataScraper import *
-
-'''
-import imp
-module = imp.load_module('TournamentData.StartGGDataScraper.py')
-module.function()
-'''
-
-
 modList = ["lastclaire","greedx___","asome26","kyluneena","montepremia"]
 
 bot = commands.Bot(
@@ -34,7 +24,7 @@ bot = commands.Bot(
     client_id=os.environ['CLIENT_ID'],
     nick=os.environ['BOT_NICK'],
     prefix=os.environ['BOT_PREFIX'],
-    initial_channels=["lastclaire", "montepremia", "bloopybloopz"]
+    initial_channels=["lastclaire", "montepremia", "bloopybloopz", "frendweeb"]
 )
         
 @bot.command(name="ft")
@@ -70,9 +60,14 @@ async def granblue(ctx, *, text):
     await ctx.send(gb.moveLookup(text.split(" ",1)[0], text.split(" ",1)[1]))
 
 heyUserList = []
+dailydoubleflag = 0 
+
+
+@commands.cooldown(rate=1, per=1, bucket=commands.Bucket.channel)
+#@commands.command()
 
 @bot.command(name="hey")
-async def hey(ctx):
+async def hey(ctx: commands.Context):
     if ctx.author.name in heyUserList:
         print(str(ctx.author.name) + " attempted an extra !hey.")
         return
@@ -81,7 +76,14 @@ async def hey(ctx):
            await ctx.send(ohs.ohRanceStreamer())
         heyUserList.append(ctx.author.name)
         print(heyUserList)
-        await ctx.send(ohs.ohHeyStreamer())
+        dailydoublevalue = random.randint(1,10)
+        global dailydoubleflag
+        if dailydoublevalue == 6 and dailydoubleflag == 0:
+            heyUserList.remove(ctx.author.name)
+            await ctx.send(ohs.ohHeyStreamer()+ " You got the Daily Double! PogBones")
+            dailydoubleflag = 1
+        else:
+            await ctx.send(ohs.ohHeyStreamer())
         return
 
 @bot.command(name="hr")
@@ -143,6 +145,52 @@ async def dustloop(ctx, *, text):
         except:
             await ctx.send("Nope. Get owned, nerd. (Something went wrong)")
 
+@bot.command(name="granblue")
+async def granblue(ctx):
+    present = datetime.datetime.now()
+    future = datetime.datetime(2023, 12, 13, 21, 0, 0)
+    difference = future - present
+    diff = str(difference)
+    days = diff.split(", ")[0]
+    time = diff.split(", ")[1].split(":")
+    await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
+
+@bot.command(name="richpeoplegranblue")
+async def granblue(ctx):
+    present = datetime.datetime.now()
+    future = datetime.datetime(2023, 12, 10, 21, 0, 0)
+    difference = future - present
+    diff = str(difference)
+    days = diff.split(", ")[0]
+    time = diff.split(", ")[1].split(":")
+    await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
+
+fortniteFlag = 0
+@bot.command(name="fortnite")
+async def fortnite(ctx):
+    global fortniteFlag
+    if fortniteFlag == 0:
+        fortniteFlag = 1
+        await ctx.send("🚨Attention🚨ALL FORTNITE GAMERS 🎮🎮🎮, John Wake is in great danger🆘, and he needs YOUR help to wipe out 💀 all the squads in THe tilted towers 🏢🏢🏢. To do this, he needs a gold SCAR 🔫 and a couple of chug-jugs🍺🍺. To help him, all he needs is your credit card number 💳 , and the three numbers on the back 3️⃣ and the expiration month and date 📅. But you gotta be quick ⚡so that John can secure the bag 💰, and achieve the epic victory R O Y AL")
+
+peterFlag = 0
+@bot.command(name="peter")
+async def fortnite(ctx):
+    global peterFlag
+    if peterFlag == 0:
+        peterFlag = 1
+        await ctx.send("Holy Crap, Im in fortnite! oh my gosh, this is so friggin epic, angellic sound holy crap, donald trump? hello peter. Weclome to Fontnite.")
+
+
+#print(ohs.ohRanceStreamer())
+#print(ohs.ohRanceStreamer())
+#print(ohs.ohRanceStreamer())
+#print(ohs.ohRanceStreamer())
+#print(ohs.ohHeyStreamer())
+
+if __name__ == "__main__":
+    bot.run()
+
 '''
 Unused Commands - Good chance they need some touching up to work.
 
@@ -162,44 +210,3 @@ async def feedSin(ctx):
 async def playerdata(ctx, *, text):
     await ctx.send(sgg.playerRecordBotCommand(text, "TournamentData/TNS/TNSSets.txt"))
 '''
-
-@bot.command(name="granblue")
-async def granblue(ctx):
-    present = datetime.datetime.now()
-    future = datetime.datetime(2023, 12, 13, 21, 0, 0)
-    difference = future - present
-    diff = str(difference)
-    days = diff.split(", ")[0]
-    time = diff.split(", ")[1].split(":")
-    await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
-
-
-@bot.command(name="richpeoplegranblue")
-async def granblue(ctx):
-    present = datetime.datetime.now()
-    future = datetime.datetime(2023, 12, 10, 21, 0, 0)
-    difference = future - present
-    diff = str(difference)
-    days = diff.split(", ")[0]
-    time = diff.split(", ")[1].split(":")
-    await ctx.send(days + ", " + time[0] + " hours, " + time[1] + " min, " + str(round(float(time[2]))) + " sec")
-
-
-fortniteFlag = 0
-@bot.command(name="fortnite")
-async def fortnite(ctx):
-    if fortniteFlag == 0:
-        fortniteFlag = 1
-        await ctx.send("🚨Attention🚨ALL FORTNITE GAMERS 🎮🎮🎮, John Wake is in great danger🆘, and he needs YOUR help to wipe out 💀 all the squads in THe tilted towers 🏢🏢🏢. To do this, he needs a gold SCAR 🔫 and a couple of chug-jugs🍺🍺. To help him, all he needs is your credit card number 💳 , and the three numbers on the back 3️⃣ and the expiration month and date 📅. But you gotta be quick ⚡so that John can secure the bag 💰, and achieve the epic victory R O Y AL")
-
-peterFlag = 0
-@bot.command(name="peter")
-async def fortnite(ctx):
-    if peterFlag == 0:
-        peterFlag = 1
-        await ctx.send("Holy Crap, Im in fortnite! oh my gosh, this is so friggin epic, angellic sound holy crap, donald trump? hello peter. Weclome to Fontnite.")
-
-
-if __name__ == "__main__":
-    bot.run()
-

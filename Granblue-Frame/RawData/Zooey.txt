@@ -1,21 +1,21 @@
 /Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
-0//c.L/400/Mid/5/3/7/+2/+6/0//
+0//c.L/400/Mid/5/3/7/+4/+8/0//
 1//c.M/700/Mid/7/3/12/0/+4/2//
 2//c.H/1200/Mid/9/6/18/-5/-1/4//
 3//c.XX/350/Mid/9/3/15/-3/+1/2//
 4//c.XXX/350/Mid/12/3/18/-4/0/3//
-5//c.XX6M/-/Low/-/-/-/-4/-/3//
-6//c.XX6H/-/High/-/-/-/-4/-/3//
-7//f.L/400/Mid/6/3/15/-5/-1/1//
+5//c.XX6M/-/Low/-/-/-/-4/KD/3//
+6//c.XX6H/-/High/-/-/-/-4/+1/3//
+7//f.L/400/Mid/6/3/15/+1/+5/1//
 8//f.M/700/Mid/9/5/16/-6/-2/2//
 9//f.H/1000/Mid/9/5/19/-7/-3/3//
-10//2L/400/Low/6/3/6/+2/+6/0//
+10//2L/400/Low/6/3/6/-2/+2/0//
 11//2M/700/Mid/8/4/14/-3/+1/2//
 12//2H/1000/Mid/10/5/24/-12/-8/3//
 13//2U/700/Low/7/6/21/-12/HKD/2//
-14//66L/-/Mid/-/-/-/-/-/2//
-15//66M/-/Low/-/-/-/-/-/2//
-16//66H/-/Mid/-/-/-/-/-/2//
+14//66L/-/Mid/8/-/-/+2/+6/2//
+15//66M/-/High/26/-/-/-6/KD/2//
+16//66H/-/Mid/15/-/-/-8/KD/2//
 17//j.L/400/"High/Air"/5/Until L/0///1//
 18//j.M/550/"High/Air"/8/6/Until L///1//
 19//j.H/800/"High/Air"/9/6/Until L///2//
@@ -34,18 +34,18 @@
 7//214X > 6X/600/Mid/19/6/24/-11/KD/4//Bisection
 8//623L/250×4/All/27/4×3/13/-2/+2/2//L Aerial Spinning Slash
 9//623M/300, 200×5/All/14/6(16)2×6/13/0/+4/2/14~19 All/M Aerial Spinning Slash
-10//623H/300, 200×5/Mid, All×5/9/11(13)2×6/11/+2/HKD [+6]/2/9~19 All/H Aerial Spinning Slash
+10//623H/300, 200×5/Mid, All×5/9/11(13)2×6/11/+2/HKD [ +6]/2/9~19 All/H Aerial Spinning Slash
 11//22L/400, 700/Mid, All/15 [19]/9 [6]/25/-14 (-2) [+3]/-10 (+2) [+7]/0, 2//L Thunder
 12//22M/400, 700/Mid, All/15 [19]/9 [6]/25/-14 [+3]/-10 [+7]/0, 2//M Thunder
 13//22H/400, 350×3/Mid, All×3/15 [19]/9 [10,10,6]/32/+5 [+12]/+9 [+16]/0, 2×3//H Thunder
 14//j.22L/700/All/22/9/Until L+10///2//L Thunder (Midair)
 15//j.22M/700/All/22/9/Until L+10///2//M Thunder (Midair)
 16//j.22H/700/All/22/13/Until L+10//HKD/2//H Thunder (Midair)
-17//236U/700/All/16//Total 45/-2/+2/3//Ultimate Summon Dragon
-18//214U/700/All/16//Total 45/-2/+2/3//Ultimate Spinning Slash
-19//623U/700/All/16//Total 45/-2/+2/3//Ultimate Aerial Spinning Slash
-20//22U/700/All/16//Total 45/-2/+2/3//Ultimate Thunder
-21//j.22U/700/All/16//Total 45/-2/+2/3//Ultimate Aerial Thunder
+17//236U/700/All/16//Total 45/-13 ~ -1/HKD/3//Ultimate Summon Dragon
+18//214U/700/All/13//Total 45/-4/HKD/3//Ultimate Spinning Slash
+19//623U/700/All/8//Total 45/-10/HKD/3//Ultimate Aerial Spinning Slash
+20//22U/700/All/25//Total 45/+18/HKD/3//Ultimate Thunder
+21//j.22U/700/All/17//Total 45/-/-/3//Ultimate Aerial Thunder
 22//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
 0//236236H/3500/Mid/8+4/6/40/-27/HKD/4/1~17 All/Gamma Ray
 1//236236U/4500→3500/Mid→All/8+7/15/61/-28/HKD/4/1~63 All/Armageddon

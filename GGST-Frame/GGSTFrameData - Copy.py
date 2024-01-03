@@ -12,15 +12,15 @@ To Do List:
 3. Create a UI (website/phoneapp/ect) to house said program
 '''
 
-charList =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
+charListFinal =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
                 "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny", "Elphelt_Valentine"]
 
 def nameCleaner(char):
     #Takes the user inputed character name and replaces it with a useable character name (hopefully).
     charList = ["Testament", "Jack-O", "Nagoriyuki", "Nago", "Millia", "Millia_Rage", "Chipp", "Chipp_Zanuff", "Sol", "Sol_Badguy", "Ky", "Ky_Kiske", "Kyle", "May", 
                 "Zato-1", "I-No", "ino", "Happy", "Chaos", "Happy_Chaos", "Bedman", "Sin", "sin", "Sin_Kiske", "Baiken", "Anji", "Anji_Mito", "Leo", "Leo_Whitefang", "Faust", "Axl", "Axl_Low",
-                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "gio", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+                "Potemkin", "Ramlethal", "Ram", "Ramlethal_Valentine", "Giovanna", "gio", "Gio", "Goldlewis", "Gold", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny", "Elphelt", "Elphelt_Valentine"]
     #charListLower, char = [x.lower() for x in charList], char.lower()
     char = str(difflib.get_close_matches(char,charList,n=1,cutoff=.3)).replace("['","").replace("']","")
     if char == "Sol":
@@ -51,6 +51,8 @@ def nameCleaner(char):
         char = "Chipp_Zanuff"
     elif char == "ino":
         char = "I-No"
+    elif char == "Elphelt":
+        char = "Elphelt_Valentine"
     return char
 
 def dataScrape(char):
@@ -75,9 +77,7 @@ def update(char):
     return char +" updated."
 
 def updateAll():
-    charList =  ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May", 
-                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList = charListFinal
     for x in charList:
         print(update(x))
     return
@@ -206,6 +206,25 @@ def addRekkas(char, moveDF):
             if moveDF.loc[x]["Input"] == "623HH" or moveDF.loc[x]["Input"] == "f.SS.1" or moveDF.loc[x]["Input"] == "f.SSS.1" or moveDF.loc[x]["Input"] == "f.SS.2" or moveDF.loc[x]["Input"] == "f.SSS.2"\
                 or moveDF.loc[x]["Input"] == "f.SS.3" or moveDF.loc[x]["Input"] == "f.SSS.3" or moveDF.loc[x]["Input"] == "f.SS.BR" or moveDF.loc[x]["Input"] == "f.SSS.BR": 
                 moveDF.loc[x]["Type"] = "Rekka Followup"
+    if char == "Elphelt_Valentine":
+        for x in range(len(moveDF["Input"])):
+            #Rekka Starter and Mid Rekka extender
+            if moveDF.loc[x]["Input"] == "214S":
+                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214S,214S~P,214S~K,214S~H"
+                #moveDF.loc[x]["Type"] = "Rekka Followup"
+            #First low or high in the chain
+            if moveDF.loc[x]["Input"] == "214S~P" or moveDF.loc[x]["Input"] == "214S~K":
+                moveDF.loc[x]["Cancels"] = moveDF.loc[x]["Cancels"] + "214S,214S~P/K~P,214S~P/K~K,214S~H"
+                moveDF.loc[x]["Type"] = "Rekka Followup"
+            #The Rekka enders (2nd high/low or H)
+            if moveDF.loc[x]["Input"] == "214S~P/K~P" or moveDF.loc[x]["Input"] == "214S~P/K~K" or moveDF.loc[x]["Input"] == "214S~H":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
+            if moveDF.loc[x]["Input"] == "5HH":
+                moveDF.loc[x]["Type"] = "Rekka Followup"
+    if char == "Potemkin":
+        for x in range(len(moveDF["Input"])):
+            if moveDF.loc[x]["Input"] == "6K":
+                moveDF.loc[x]["Cancels"] == "Special, Super"
     return moveDF
 
 def addGatling(gatDF):
@@ -366,9 +385,9 @@ def moveCleaner(moveDF, gatDF):
 
 def addWawa(char, df):
     x = len(df["Input"])
-    if char in ["Sol_Badguy", "Ky_Kiske", "May", "Chipp_Zanuff", "Ramlethal_Valentine", "Leo_Whitefang", "Giovanna", "Anji_Mito", "I-No", "Testament", "Sin_Kiske", "Johnny"]:
+    if char in ["Sol_Badguy", "Ky_Kiske", "May", "Chipp_Zanuff", "Ramlethal_Valentine", "Leo_Whitefang", "Giovanna", "Anji_Mito", "I-No", "Testament", "Sin_Kiske", "Johnny", "Elphelt_Valentine"]:
         df.loc[x,:] = ["236D", 16, 3, 20, -4, 4, "Special", "All"]
-        df.loc[x+1,:] = ["236[D]", 28, 3, 20, -4, 4, "Special", "All"]
+        df.loc[x+1,:] = ["236[D]", 29, 3, 20, -4, 4, "Special", "All"]
     elif char in ["Potemkin", "Nagoriyuki", "Goldlewis_Dickinson", "Bedman"]:
         df.loc[x,:] = ["236D", 20, 3, 20, 12, 4, "Special", ""] 
         df.loc[x+1,:] = ["236[D]", 32, 3, 20, 17, 4, "Special", ""] 
@@ -387,9 +406,7 @@ def updateClean(char):
     return df
 
 def updateCleanAll():
-    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
-                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList = charListFinal
     for x in charList:
         updateClean(x)
         print(x+" Clean Data Updated.")
@@ -408,9 +425,7 @@ def viewData(char):
     return
 
 def viewDataAll():
-    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
-                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList = charListFinal
     for x in charList:
         print("---"+x+"--------------------------------------------------------------------------------------------------------------------")
         viewData(x)
@@ -442,9 +457,7 @@ def dataVerification(char):
     return
 
 def dataVerficationAll():
-    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
-                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-                "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList = charListFinal
     for x in charList:
         print("---"+x+"--------------------------------------------------------------------------------------------------------------------")
         dataVerification(x)
@@ -468,13 +481,16 @@ def valueFormatingCombiner(format1, format2):
     return format1.replace("y","x")
 
 def frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start): 
+    #print(cancelType)
     #Splits the needed strings and notes the "type" of split
-    if cancelType == "wawa_anything" or cancelType == "ground_jump_cancel" or cancelType == "air_gatling" or cancelType == "ground_gatling" or "Rekka Followup":
+    if cancelType == "wawa_anything" or cancelType == "ground_jump_cancel" or cancelType == "air_gatling" or cancelType == "ground_gatling" or cancelType == "Rekka Followup":
         move1List = valueFormating(move1Lvl)
         move2List = valueFormating(move2Start)
+        #print("case 1")
     else:
         move1List = valueFormating(move1OB)
         move2List = valueFormating(move2Start)
+        #print("case 2")
     gapFormat = valueFormatingCombiner(move1List[1], move2List[1])
 ###############################
 #Make this section into a for loop, find a way to reform it at the end
@@ -547,13 +563,17 @@ def frameTrap(char, move1, move2):
     elif move2Type == "Rekka Followup" and move2 not in move1Cancel:
         #Rekka Check
         cancelType = "non_rekka_followup"
-        print(move1Cancel)
-        print(cancelType)
+        #print(move1Cancel)
+        #print(cancelType)
         gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif (move2 in move1Cancel or move2Type in move1Cancel) and "j." not in move1 and "j." not in move2:
         #Ground Gatling
         cancelType = "ground_gatling"
-        gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
+        if char == "Elphelt_Valentine" and  move1 in ["214S", "214S~P", "214S~K"]:
+            gap = int(move2Start) - int(levelHitstun(move1Lvl)) + 2
+            gap = str(gap)+"f"
+        else:
+            gap = frameTrapCalc(char, move1, move2, cancelType, move1OB, move1Lvl, move2Start)
     elif (move2 not in move1Cancel and move2Type not in move1Cancel) and "j." not in move1 and "j." not in move2:
         #Ground non-gatling
         cancelType = "ground_non_gatling"
@@ -600,9 +620,7 @@ def dropDownListGenerator(char):
 
 def dropDownListGeneratorAll():
     #Make sure to remove hidden from the first list when updating.
-    charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", "Millia_Rage",
-                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList =  charListFinal
     original_stdout = sys.stdout
     with open("testDropDown.text", "w") as f:
         sys.stdout = f
@@ -634,9 +652,7 @@ def frameTrapAll(char):
     return 
 
 def frameTrapAllCharacters():
-    charList =  ["Sol_Badguy", "Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Ky_Kiske", "May", 
-                "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", "Faust", "Axl_Low", 
-                "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList =  charListFinal
     for character in charList:
         frameTrapAll(character)
     return
@@ -656,9 +672,7 @@ def frameTrapAllCharacters():
 
 
 def rawDataVerificationAll():
-    charList = ["Testament", "Jack-O", "Nagoriyuki", "Millia_Rage", "Chipp_Zanuff", "Sol_Badguy", "Ky_Kiske", "May",
-    "Zato-1", "I-No", "Happy_Chaos", "Bedman", "Sin_Kiske", "Baiken", "Anji_Mito", "Leo_Whitefang", 
-    "Faust", "Axl_Low", "Potemkin", "Ramlethal_Valentine", "Giovanna", "Goldlewis_Dickinson", "Bridget", "Asuka_R", "Johnny"]
+    charList = charListFinal
     for x in charList:
         print("---" + x + "---")
         data = pd.read_csv("GGST-Frame/RawData-Copy/"+x+".txt", sep="/").fillna("").reset_index(drop=True).drop(["Unnamed: 0"], axis=1)
@@ -670,6 +684,21 @@ def rawDataVerificationAll():
 #updateAll()
 #updateCleanAll()
 
-print(frameTrap("pot","6k","214H"))
+#print(frameTrap("pot","6k","214H"))
 #frameTrapAllCharacters()
 #dropDownListGeneratorAll()
+'''
+print("2D > 214S: " + frameTrap("Elphelt","2D","214S"))
+print("5H > 214S: " + frameTrap("Elphelt","5H","214S"))
+print("214S > 214S~P: " + frameTrap("Elphelt","214S","214S~P"))
+print("214S > 214S~K: " + frameTrap("Elphelt","214S","214S~K"))
+print("214S > 214S: " + frameTrap("Elphelt","214S", "214S"))
+print("214S > 214S~H: " + frameTrap("Elphelt","214S", "214S~H"))
+print("214S~P > 214S~P/K~P: " + frameTrap("Elphelt","214S~P", "214S~P/K~P"))
+print("214S~K > 214S~P/K~P: " + frameTrap("Elphelt","214S~K", "214S~P/K~P"))
+print("214S~P > 214S~H: " + frameTrap("Elphelt","214S~P", "214S~H"))
+print("214S~K > 214S~H: " + frameTrap("Elphelt","214S~K", "214S~H"))
+'''
+
+#print(frameTrap("elphelt","cs","5p"))
+

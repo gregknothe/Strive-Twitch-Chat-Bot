@@ -26,7 +26,7 @@
 24/214P/10//Total 19///Special/
 25/214K/12/6/Total 23/15/2/Special/
 26/K while holding Servant/12/6/Total 23/3/2/Normal/
-27/214S/4/34/Total 24/31/1/Special/
+27/214S/4/28/Total 30/25/1/Special/
 28/S while holding Servant/4/28/Total 24/31/1/Normal/
 29/214H/208/19/Total 24//3/Special/
 30/236K/15/4/25/-12/3/Special/

@@ -1,0 +1,62 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/Mid/5/3/6/+4/+8/1//
+1//c.M/1100/Mid/6/3/12/0/+4/2//
+2//c.H/1600/Mid/9/3/16/-3/+1/4//
+3//c.XX/700/Mid/9/3/15/-3/+1/2//
+4//c.XXX/1000/Mid/12/3/18/-4/0/3//
+5//c.XX6M/1000/Low/12/-/-/-4/KD +30/3//
+6//c.XX6H/1000/High/18/-/-/-4/+1/3//
+7//f.L/600/Mid/6/6/10/+1/+5/1//
+8//f.M/900/Mid/8/4/17/-6/-2/2//
+9//f.H/1300/Mid/8/4/22/-9/-5/3//
+10//2L/400/Low/6/3/10/-2/+2/0//
+11//2M/900/Mid/7/5/13/-3/+1/2//
+12//2H/1300/Mid/11/6/23/-12/-8/3//
+13//2U/1000/Low/7/5/21/-11/HKD +44/2//
+14//66L/600/Mid/8/-/-/+2/+6/2//
+15//66M/1100/Low/12/-/-/-8/KD +24/2//
+16//66H/1200/Mid/15/-/-/-8/+10/2//
+17//j.L/600/"High/Air"/5/Until L/0///1//
+18//j.M/800/"High/Air"/7/7/Until L///1//
+19//j.H/1000/"High/Air"/9/5/Until L///2//
+20//j.U/900//8/8/Until L/////
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/0, 500, 200×5/Throw/30~39/3/30//HKD +52///Blade of Light
+1//Grand 5U/1200/Mid/10/7//////Graveview
+2//5U~X/1200/All/16/9/8/+2////Falling Strike
+3//5U~6/////Total 11/////Advance
+4//5U~8/////Total 44/////Jump
+5//5U~4/////Total 39/////Retreat
+6//5U~2/////Total 25/////Land
+7//j.66/////Until L+3/////Air Dash
+8//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/200×3, 400/Mid/18/1334/17/-4/+22///L Darkane
+1//236M/200×4, 600 [200×4, 700]/Mid/15/1,3,3,3(14)5/19/-9/KD +33///M Darkane
+2//236H/200×4, 700 [200×4, 990]/Mid/16/1,2,3,3(9)5/22/-9/KD +34///H Darkane
+3//236[M]/200×4/Mid/15/1333/21/-7/KD +37///M Darkane (Charged)
+4//236[H]/200×4/Mid/16/1233/16/-2/KD +35///H Darkane (Charged)
+5//623L/1000/Mid/6/2 (2) 6/30/-20/KD +26///L Red Beryl Sword
+6//623M/770, 440/Mid/9/2 (2) 12/34/-27/KD +15//1~14 All/M Red Beryl Sword
+7//623H/770, 440x2/Mid/11/14/35/-28/KD +26//1~23 All/H Red Beryl Sword
+8//Grand 623M/770, 1100/Mid/9/2(20)3/31/-6/KD +27//1~14 All/M Red Beryl Sword (Luminiera Form)
+9//Grand 623H/770, 440x2, 110/Mid/11/14/35/-28/KD +33//1~23 All/H Red Beryl Sword (Luminiera Form)
+10//214L/1100/Mid/16/3/21/-5/KD +29///L Scarlet Oath
+11//214M/1210 [1320]/Mid/27/5/12/+2/KD +33///M Scarlet Oath
+12//214H/770, 880 [770, 1100]/Mid, Mid/14/3(13)5/15/-1/KD +35///H Scarlet Oath
+13//22L/300×3/All/83//35 Total/////L Summon Luminiera
+14//22M/300×3/All/83//35 Total/////M Summon Luminiera
+15//22H/400×3/All/86//40 Total/////H Summon Luminiera
+16//Grand 22H/100x2, 400x3/All/78//40 Total/////H Summon Luminiera (Luminiera Form)
+17//236U/200×4, 300×3, 900/Mid/11/-//+2/HKD +45///Ultimate Darkane
+18//Grand 236U/200×4, 300×3, 1100/Mid/11/-//+2/HKD +62///Ultimate Grand Darkane
+19//623U/700, 200×3, 700/Mid/8/-//-22/HKD +40//1-?? Full/Ultimate Red Beryl Sword
+20//Grand 623U/700, 200×3, 700, 200/Mid/8/-//-22/HKD +40//1-?? Full/Ultimate Grand Red Beryl Sword
+21//214U/1300×2 [1400×2]/Low, High/15/-/17/-4/HKD +33///Ultimate Scarlet Oath
+22//22U/500×2, 600/Mid/18/-//+7/HKD +65///Ultimate Summon Luminiera
+23//Grand 22U/500×2, 600, 200/Mid/18/-/17/+10/HKD +73///Ultimate Grand Summon Luminiera
+24//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/1760/Mid/7+6/3/20/-9/HKD +60//1~15 All/Luminiera Merge
+1//Grand 236236H/1980, 330×14/Mid/8+6//Total 131/-18 ~ -30/HKD +28//1~16 All/Punishment Ray
+2//236236U/1000, 1650x2 [1320, 1980, 3300]/All/8+5/3(9)3(9)6/42/-22/HKD +30 [HKD +44]//1~15 All/Affection Abyss
+3//Grand 236236U/Total 4400 [Total 6864]/Mid/8+5/3(6)6(9)3(12)3(34)9/36/-26/HKD +28 [HKD +44]//1~15 All/Iliad Vision
+4//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

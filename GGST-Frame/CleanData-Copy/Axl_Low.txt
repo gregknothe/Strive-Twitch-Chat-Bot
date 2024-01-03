@@ -22,15 +22,17 @@
 20/[4]6S/24/15/29/-19/3/Special/
 21/[4]6S 8/8/16/34/-11/3/Special/
 22/[4]6S 2/7/36 [79]/19/-6/2/Special/
-23/[4]6S S/18 [22]/10/24/-3 [10]/3[4]/Special/
+23/[4]6S S/18 [22]/15 [25]/24/-3 [10]/3[4]/Special/
 24/41236H/28/20/34///Special/
 25/214S/24/3/21/3/3/Special/
 26/214H/14/12/29/-24/3/Special/
 27/j.214H/14/9/Until L+10/-19/3/jump Special/
-28/j.236H/9/10/Until L+7/-22/4/jump Special/
-29/236236H/12/4, 4(24)13/26/-2/4/Super/
-30/632146P/5/295/30///Super/
-31/632146P Attack/9/1/11/0/1/Super/
-32/j.632146P Attack/9/1/11/0/1/jump Super/
-33/236D/20/3/20/7/4/Special/All
-34/236[D]/32/3/20/12/4/Special/All
+28/j.236H/9/4/Until L+7/-22/4/jump Special/
+29/214K/17/4,4,4 [22 Total on whiff]/Total 52/-4/2×3/Special/
+30/214[K]/41/5×6 [119 Total on whiff]/Total 76/14/2×6/Special/
+31/236236H/12/4, 4(24)13/26/-2/4/Super/
+32/632146P/5/295/30///Super/
+33/632146P Attack/9/1/11/0/1/Super/
+34/j.632146P Attack/9/1/11/0/1/jump Super/
+35/236D/20/3/20/7/4/Special/All
+36/236[D]/32/3/20/12/4/Special/All

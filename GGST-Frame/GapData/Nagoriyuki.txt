@@ -2897,13 +2897,13 @@
 2895/6H.1/632146H/23f gap
 2896/6H.1/236D/2f gap
 2897/6H.1/236[D]/14f gap
-2898/6H.2/5P/22f gap
-2899/6H.2/5K/24f gap
-2900/6H.2/c.S/24f gap
-2901/6H.2/f.S.1/33f gap
-2902/6H.2/f.S.2/31f gap
-2903/6H.2/f.S.3/29f gap
-2904/6H.2/f.S.BR/29f gap
+2898/6H.2/5P/7f gap
+2899/6H.2/5K/9f gap
+2900/6H.2/c.S/9f gap
+2901/6H.2/f.S.1/18f gap
+2902/6H.2/f.S.2/16f gap
+2903/6H.2/f.S.3/14f gap
+2904/6H.2/f.S.BR/14f gap
 2905/6H.2/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.2
 2906/6H.2/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.2
 2907/6H.2/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.2
@@ -2912,43 +2912,43 @@
 2910/6H.2/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.2
 2911/6H.2/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.2
 2912/6H.2/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.2
-2913/6H.2/5H.1/37f gap
-2914/6H.2/5H.2/35f gap
-2915/6H.2/5H.3/33f gap
-2916/6H.2/5H.BR/33f gap
-2917/6H.2/2P/23f gap
-2918/6H.2/2K/24f gap
-2919/6H.2/2S.1/29f gap
-2920/6H.2/2S.2/28f gap
-2921/6H.2/2S.3/27f gap
-2922/6H.2/2S.BR/27f gap
-2923/6H.2/2H.1/36f gap
-2924/6H.2/2H.2/34f gap
-2925/6H.2/2H.3/32f gap
-2926/6H.2/2H.BR/32f gap
-2927/6H.2/j.P/29f gap
-2928/6H.2/j.K/29f gap
-2929/6H.2/j.S.1/35f gap
-2930/6H.2/j.S.2/34f gap
-2931/6H.2/j.S.3/33f gap
-2932/6H.2/j.S.BR/33f gap
-2933/6H.2/j.H.1/38f gap
-2934/6H.2/j.H.2/37f gap
-2935/6H.2/j.H.3/36f gap
-2936/6H.2/j.H.BR/36f gap
-2937/6H.2/j.D.1/37f gap
-2938/6H.2/j.D.2/35f gap
-2939/6H.2/j.D.3/33f gap
-2940/6H.2/j.D.BR/33f gap
-2941/6H.2/6P/29f gap
-2942/6H.2/6K/32f gap
-2943/6H.2/6H.1/34f gap
-2944/6H.2/6H.2/33f gap
-2945/6H.2/6H.3/32f gap
-2946/6H.2/6H.BR/32f gap
-2947/6H.2/2D/29f gap
-2948/6H.2/5D/37f gap
-2949/6H.2/5[D]/45f gap
+2913/6H.2/5H.1/22f gap
+2914/6H.2/5H.2/20f gap
+2915/6H.2/5H.3/18f gap
+2916/6H.2/5H.BR/18f gap
+2917/6H.2/2P/8f gap
+2918/6H.2/2K/9f gap
+2919/6H.2/2S.1/14f gap
+2920/6H.2/2S.2/13f gap
+2921/6H.2/2S.3/12f gap
+2922/6H.2/2S.BR/12f gap
+2923/6H.2/2H.1/21f gap
+2924/6H.2/2H.2/19f gap
+2925/6H.2/2H.3/17f gap
+2926/6H.2/2H.BR/17f gap
+2927/6H.2/j.P/14f gap
+2928/6H.2/j.K/14f gap
+2929/6H.2/j.S.1/20f gap
+2930/6H.2/j.S.2/19f gap
+2931/6H.2/j.S.3/18f gap
+2932/6H.2/j.S.BR/18f gap
+2933/6H.2/j.H.1/23f gap
+2934/6H.2/j.H.2/22f gap
+2935/6H.2/j.H.3/21f gap
+2936/6H.2/j.H.BR/21f gap
+2937/6H.2/j.D.1/22f gap
+2938/6H.2/j.D.2/20f gap
+2939/6H.2/j.D.3/18f gap
+2940/6H.2/j.D.BR/18f gap
+2941/6H.2/6P/14f gap
+2942/6H.2/6K/17f gap
+2943/6H.2/6H.1/19f gap
+2944/6H.2/6H.2/18f gap
+2945/6H.2/6H.3/17f gap
+2946/6H.2/6H.BR/17f gap
+2947/6H.2/2D/14f gap
+2948/6H.2/5D/22f gap
+2949/6H.2/5[D]/30f gap
 2950/6H.2/236S/0f gap
 2951/6H.2/236K/"N/A"
 2952/6H.2/214K/"N/A"
@@ -2957,16 +2957,16 @@
 2955/6H.2/623HH/623HH is a follow-up move and cannot be done after 6H.2
 2956/6H.2/623P/-11f gap
 2957/6H.2/632146S/-9f gap
-2958/6H.2/632146H/38f gap
+2958/6H.2/632146H/23f gap
 2959/6H.2/236D/2f gap
 2960/6H.2/236[D]/14f gap
-2961/6H.3/5P/22f gap
-2962/6H.3/5K/24f gap
-2963/6H.3/c.S/24f gap
-2964/6H.3/f.S.1/33f gap
-2965/6H.3/f.S.2/31f gap
-2966/6H.3/f.S.3/29f gap
-2967/6H.3/f.S.BR/29f gap
+2961/6H.3/5P/7f gap
+2962/6H.3/5K/9f gap
+2963/6H.3/c.S/9f gap
+2964/6H.3/f.S.1/18f gap
+2965/6H.3/f.S.2/16f gap
+2966/6H.3/f.S.3/14f gap
+2967/6H.3/f.S.BR/14f gap
 2968/6H.3/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.3
 2969/6H.3/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.3
 2970/6H.3/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.3
@@ -2975,43 +2975,43 @@
 2973/6H.3/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.3
 2974/6H.3/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.3
 2975/6H.3/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.3
-2976/6H.3/5H.1/37f gap
-2977/6H.3/5H.2/35f gap
-2978/6H.3/5H.3/33f gap
-2979/6H.3/5H.BR/33f gap
-2980/6H.3/2P/23f gap
-2981/6H.3/2K/24f gap
-2982/6H.3/2S.1/29f gap
-2983/6H.3/2S.2/28f gap
-2984/6H.3/2S.3/27f gap
-2985/6H.3/2S.BR/27f gap
-2986/6H.3/2H.1/36f gap
-2987/6H.3/2H.2/34f gap
-2988/6H.3/2H.3/32f gap
-2989/6H.3/2H.BR/32f gap
-2990/6H.3/j.P/29f gap
-2991/6H.3/j.K/29f gap
-2992/6H.3/j.S.1/35f gap
-2993/6H.3/j.S.2/34f gap
-2994/6H.3/j.S.3/33f gap
-2995/6H.3/j.S.BR/33f gap
-2996/6H.3/j.H.1/38f gap
-2997/6H.3/j.H.2/37f gap
-2998/6H.3/j.H.3/36f gap
-2999/6H.3/j.H.BR/36f gap
-3000/6H.3/j.D.1/37f gap
-3001/6H.3/j.D.2/35f gap
-3002/6H.3/j.D.3/33f gap
-3003/6H.3/j.D.BR/33f gap
-3004/6H.3/6P/29f gap
-3005/6H.3/6K/32f gap
-3006/6H.3/6H.1/34f gap
-3007/6H.3/6H.2/33f gap
-3008/6H.3/6H.3/32f gap
-3009/6H.3/6H.BR/32f gap
-3010/6H.3/2D/29f gap
-3011/6H.3/5D/37f gap
-3012/6H.3/5[D]/45f gap
+2976/6H.3/5H.1/22f gap
+2977/6H.3/5H.2/20f gap
+2978/6H.3/5H.3/18f gap
+2979/6H.3/5H.BR/18f gap
+2980/6H.3/2P/8f gap
+2981/6H.3/2K/9f gap
+2982/6H.3/2S.1/14f gap
+2983/6H.3/2S.2/13f gap
+2984/6H.3/2S.3/12f gap
+2985/6H.3/2S.BR/12f gap
+2986/6H.3/2H.1/21f gap
+2987/6H.3/2H.2/19f gap
+2988/6H.3/2H.3/17f gap
+2989/6H.3/2H.BR/17f gap
+2990/6H.3/j.P/14f gap
+2991/6H.3/j.K/14f gap
+2992/6H.3/j.S.1/20f gap
+2993/6H.3/j.S.2/19f gap
+2994/6H.3/j.S.3/18f gap
+2995/6H.3/j.S.BR/18f gap
+2996/6H.3/j.H.1/23f gap
+2997/6H.3/j.H.2/22f gap
+2998/6H.3/j.H.3/21f gap
+2999/6H.3/j.H.BR/21f gap
+3000/6H.3/j.D.1/22f gap
+3001/6H.3/j.D.2/20f gap
+3002/6H.3/j.D.3/18f gap
+3003/6H.3/j.D.BR/18f gap
+3004/6H.3/6P/14f gap
+3005/6H.3/6K/17f gap
+3006/6H.3/6H.1/19f gap
+3007/6H.3/6H.2/18f gap
+3008/6H.3/6H.3/17f gap
+3009/6H.3/6H.BR/17f gap
+3010/6H.3/2D/14f gap
+3011/6H.3/5D/22f gap
+3012/6H.3/5[D]/30f gap
 3013/6H.3/236S/0f gap
 3014/6H.3/236K/"N/A"
 3015/6H.3/214K/"N/A"
@@ -3020,16 +3020,16 @@
 3018/6H.3/623HH/623HH is a follow-up move and cannot be done after 6H.3
 3019/6H.3/623P/-11f gap
 3020/6H.3/632146S/-9f gap
-3021/6H.3/632146H/38f gap
+3021/6H.3/632146H/23f gap
 3022/6H.3/236D/2f gap
 3023/6H.3/236[D]/14f gap
-3024/6H.BR/5P/22f gap
-3025/6H.BR/5K/24f gap
-3026/6H.BR/c.S/24f gap
-3027/6H.BR/f.S.1/33f gap
-3028/6H.BR/f.S.2/31f gap
-3029/6H.BR/f.S.3/29f gap
-3030/6H.BR/f.S.BR/29f gap
+3024/6H.BR/5P/7f gap
+3025/6H.BR/5K/9f gap
+3026/6H.BR/c.S/9f gap
+3027/6H.BR/f.S.1/18f gap
+3028/6H.BR/f.S.2/16f gap
+3029/6H.BR/f.S.3/14f gap
+3030/6H.BR/f.S.BR/14f gap
 3031/6H.BR/f.SS.1/f.SS.1 is a follow-up move and cannot be done after 6H.BR
 3032/6H.BR/f.SS.2/f.SS.2 is a follow-up move and cannot be done after 6H.BR
 3033/6H.BR/f.SS.3/f.SS.3 is a follow-up move and cannot be done after 6H.BR
@@ -3038,43 +3038,43 @@
 3036/6H.BR/f.SSS.2/f.SSS.2 is a follow-up move and cannot be done after 6H.BR
 3037/6H.BR/f.SSS.3/f.SSS.3 is a follow-up move and cannot be done after 6H.BR
 3038/6H.BR/f.SSS.BR/f.SSS.BR is a follow-up move and cannot be done after 6H.BR
-3039/6H.BR/5H.1/37f gap
-3040/6H.BR/5H.2/35f gap
-3041/6H.BR/5H.3/33f gap
-3042/6H.BR/5H.BR/33f gap
-3043/6H.BR/2P/23f gap
-3044/6H.BR/2K/24f gap
-3045/6H.BR/2S.1/29f gap
-3046/6H.BR/2S.2/28f gap
-3047/6H.BR/2S.3/27f gap
-3048/6H.BR/2S.BR/27f gap
-3049/6H.BR/2H.1/36f gap
-3050/6H.BR/2H.2/34f gap
-3051/6H.BR/2H.3/32f gap
-3052/6H.BR/2H.BR/32f gap
-3053/6H.BR/j.P/29f gap
-3054/6H.BR/j.K/29f gap
-3055/6H.BR/j.S.1/35f gap
-3056/6H.BR/j.S.2/34f gap
-3057/6H.BR/j.S.3/33f gap
-3058/6H.BR/j.S.BR/33f gap
-3059/6H.BR/j.H.1/38f gap
-3060/6H.BR/j.H.2/37f gap
-3061/6H.BR/j.H.3/36f gap
-3062/6H.BR/j.H.BR/36f gap
-3063/6H.BR/j.D.1/37f gap
-3064/6H.BR/j.D.2/35f gap
-3065/6H.BR/j.D.3/33f gap
-3066/6H.BR/j.D.BR/33f gap
-3067/6H.BR/6P/29f gap
-3068/6H.BR/6K/32f gap
-3069/6H.BR/6H.1/34f gap
-3070/6H.BR/6H.2/33f gap
-3071/6H.BR/6H.3/32f gap
-3072/6H.BR/6H.BR/32f gap
-3073/6H.BR/2D/29f gap
-3074/6H.BR/5D/37f gap
-3075/6H.BR/5[D]/45f gap
+3039/6H.BR/5H.1/22f gap
+3040/6H.BR/5H.2/20f gap
+3041/6H.BR/5H.3/18f gap
+3042/6H.BR/5H.BR/18f gap
+3043/6H.BR/2P/8f gap
+3044/6H.BR/2K/9f gap
+3045/6H.BR/2S.1/14f gap
+3046/6H.BR/2S.2/13f gap
+3047/6H.BR/2S.3/12f gap
+3048/6H.BR/2S.BR/12f gap
+3049/6H.BR/2H.1/21f gap
+3050/6H.BR/2H.2/19f gap
+3051/6H.BR/2H.3/17f gap
+3052/6H.BR/2H.BR/17f gap
+3053/6H.BR/j.P/14f gap
+3054/6H.BR/j.K/14f gap
+3055/6H.BR/j.S.1/20f gap
+3056/6H.BR/j.S.2/19f gap
+3057/6H.BR/j.S.3/18f gap
+3058/6H.BR/j.S.BR/18f gap
+3059/6H.BR/j.H.1/23f gap
+3060/6H.BR/j.H.2/22f gap
+3061/6H.BR/j.H.3/21f gap
+3062/6H.BR/j.H.BR/21f gap
+3063/6H.BR/j.D.1/22f gap
+3064/6H.BR/j.D.2/20f gap
+3065/6H.BR/j.D.3/18f gap
+3066/6H.BR/j.D.BR/18f gap
+3067/6H.BR/6P/14f gap
+3068/6H.BR/6K/17f gap
+3069/6H.BR/6H.1/19f gap
+3070/6H.BR/6H.2/18f gap
+3071/6H.BR/6H.3/17f gap
+3072/6H.BR/6H.BR/17f gap
+3073/6H.BR/2D/14f gap
+3074/6H.BR/5D/22f gap
+3075/6H.BR/5[D]/30f gap
 3076/6H.BR/236S/0f gap
 3077/6H.BR/236K/"N/A"
 3078/6H.BR/214K/"N/A"
@@ -3083,7 +3083,7 @@
 3081/6H.BR/623HH/623HH is a follow-up move and cannot be done after 6H.BR
 3082/6H.BR/623P/-11f gap
 3083/6H.BR/632146S/-9f gap
-3084/6H.BR/632146H/38f gap
+3084/6H.BR/632146H/23f gap
 3085/6H.BR/236D/2f gap
 3086/6H.BR/236[D]/14f gap
 3087/2D/5P/12f gap

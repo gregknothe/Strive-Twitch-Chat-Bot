@@ -5,7 +5,7 @@
 3/f.S/12/3/18/-7/2/Normal/5H,2H,Special,Super
 4/5H/13/2/25/-8/4/Normal/Special,Super
 5/5D/20/3/26/-15/2/Normal/
-6/5[D]/28/3/26/-10/2/Normal/
+6/5[D]/28/3/26/-10/4/Normal/
 7/6P/11/6/15/-7/2/Normal/Special,Super
 8/6H/23/6/32/-19/4/Normal/Special,Super
 9/2P/5/3/10/-3/0/Normal/5P,2P,6P,6H,Special,Super
@@ -32,4 +32,4 @@
 30/236236P/30/6, (20), 6, (24), 4/Total 53/63/3/Super/
 31/236236K/15/5/67/-38/4/Super/
 32/236D/16/3/20/-4/4/Special/All
-33/236[D]/28/3/20/-4/4/Special/All
+33/236[D]/29/3/20/-4/4/Special/All

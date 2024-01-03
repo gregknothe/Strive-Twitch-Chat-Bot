@@ -5,38 +5,38 @@
 3//f.S/31/All/13/8/18/-13/-10/2/Mid//90%/1500/1000/
 4//5H/41/All/15/4/23/-8/KD +34/4/Large//90%/2500/1000/
 5//2P/20/All/5/2/10/-2/+1/0/Small//80%/500/1500/
-6//2K/23/Low/6/2/12/-2/+1/1/Small/F5~16 Low-profile/70%/750/1000/
+6//2K/23/Low/6/2/12/-2/+1/1/Small/5-16 Low-profile/70%/750/1000/
 7//2S/28/All/10/2/23/-11/-8/2/Mid//90%/1500/1000/
 8//2H/42/All/11/8/14/-5/-2/3/Large//90%/2000/1000/
 9//j.P/18/High/5/4/12/0 (IHD)/+3 (IHD)/0/Small//80%/375/1000/
 10//j.K/24/High/7/12/14/+3 (IHD)/+6 (IHD)/1/Small//80%/750/1000/
 11//j.S/29/High/8/4/20/+6 (IHD)/+9 (IHD)/2/Mid//80%/1125/1000/
 12//j.H/41/High/12/5/22///2/Mid//80%/1125/1000/
-13//j.D/35/High/16/5/20/-11 (IHD)/-8 (IHD)/2/Mid//90%/1125/1000/
+13//j.D/35/High/16/5/20/-4 (IHD)/+11 (IHD)/2/Mid//90%/1125/1000/
 14//6P/34/All/9/5/18/-9/-6/2/Mid/1-2 Upper Body 3-13 Above Knees/90%/1500/1000/
 15//6H/2045/All/7/2(12)8/19/-8/KD +38/34/Large//90%/1000, 1200/1000/
 16//2D/33/Low/12/3/18/-7/HKD +50/2/Large//90%/1125/1000/
 17//5D/45/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
 18//5[D]/56/High/28/3/26/-11/KD +36/4/Mid//100%/1875/1500 [1000]/
 19//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
-0//236S/36/Low/16/6/15/-7//2/Mid/"5~15F Low Profile'""`UNIQ--item-106--QINU`""'"/90%/1125/1000/S Stroke the Big Tree
-1//236H/42/Low/28/5/16/-2//4/Mid/"9~27F Low Profile'""`UNIQ--item-108--QINU`""'"/90%/1875/1000/H Stroke the Big Tree
-2//j.236K/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/-3~ -4 [+2~ 0]/KD +36 [KD +41]/2[4]/Very Small//90%/1500/1000/K Sultry Performance
-3//j.236S/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/0~ -2 [+2~ -1]/KD +36 [KD +40]/2[4]/Very Small//90%/1500/1000/S Sultry Performance
+0//236S/36/Low/16/6/15/-7/Stagger +9/2/Mid/5-15F Low Profile/90%/1125/1000/S Stroke the Big Tree
+1//236H/42/Low/28/5/16/-2/Stagger +20/4/Mid/9-27F Low Profile/90%/1875/1000/H Stroke the Big Tree
+2//j.236K/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/-2 ~ -4 [+4 ~ +1]/KD +36 [KD +41]/2[4]/Very Small//90%/1500/1000/K Sultry Performance
+3//j.236S/35 [50]/All/10 [37]/Until Landing/Until Landing + 15/-3 ~ -4 [+2 ~ 0]/KD +36 [KD +40]/2[4]/Very Small//90%/1500/1000/S Sultry Performance
 4//j.236H/10×2,20 [10×4,20]/All/8 [32]/32/Until Landing + 6/-7 [-2]/KD +11 [KD +31]/2[4]/Very Small//90%/500×3 [500×5]/1000/H Sultry Performance
 5//214P/12+[9×4]/All/29//Total 51/-16//0/Very Small//80%/200×2 ~ 100×5/1000/Antidepressant Scale
 6//j.214P/12+[9×4]/All/28//Until Landing + 6/-16//0/Very Small//80%/200×2 ~ 100×5/1000/Air Antidepressant Scale
-7//214K/45/All/11/14/22/-9/KD +31/2/Very Small/below the waist 2~27/80%/500/1000/Chemical Love
+7//214K/45/All/11/14/22/-9/KD +31/2/Very Small/2-27 Below Waist/80%/500/1000/Chemical Love
 8//j.214K/45/All/11/14/Until Landing + 7/-10 (IHD)/KD +30 (IHD)/2/Very Small//80%/500/1000/Air Chemical Love
-9//214S/50/All/26/3/15 (17 OH)/+17//4/Mid//80%/2500/2000/Mad Love Agitato
+9//214S/50/All (Guard Crush)/26/3/15 (17 OH)/+17//4/Mid//80%/2500/2000/Mad Love Agitato
 10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146H/13×18 (17×11)/Ground Throw (All)/11+0(41)///"N/A (-18)"/HKD +69 (HKD +41)/"N/A (2)"///100%//1000×18 (1000×11)/Megalomania
-1//632146S/40,20×2,100/All (Guard Crush)/7+2/4 (42) 9/13/+26/HKD +59/4//1~11 Full/100%//1000×2/Ultimate Fortissimo
+0//632146H/13×18 (17×11)/Ground Throw (All)/11+0(41)///"N/A (-18)"/HKD +69 (HKD +41)/"N/A (2)"///100%//1000/Megalomania
+1//632146S/40,20×2,100/All (Guard Crush)/7+2/4 (42) 9/13/+26/HKD +59/4//1-11F Full/100%//1000/Ultimate Fortissimo
 2//j.632146S/20×2,100/All (Guard Crush)/5+3///+37/////100%//1000×2/Air Ultimate Fortissimo
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +56////50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +50 (IAD)////50%//2500/Air Throw
-2/////16/3/20/-4////////Wild Assault
-3////All/28/3/20/-4////////Wild Assault
+2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/4000/Wild Assault
+3///50/All/29/3/20/-4/HKD/4/Mid//100%/2500/3000/Wild Assault (Hold)
 4///////Total 26/////////Dash Cancel
 5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

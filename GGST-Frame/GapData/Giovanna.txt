@@ -338,7 +338,7 @@
 336/j.P/214{S}/j.P has 1000000f of blockstun, while 214{S} has 4f of startup
 337/j.P/j.214{S}/j.P has 1000000f of blockstun, while j.214{S} has 4f of startup
 338/j.P/236D/j.P has 1000000f of blockstun, while 236D has 16f of startup
-339/j.P/236[D]/j.P has 1000000f of blockstun, while 236[D] has 28f of startup
+339/j.P/236[D]/j.P has 1000000f of blockstun, while 236[D] has 29f of startup
 340/j.K/5P/j.K has 1000000f of blockstun, while 5P has 4f of startup
 341/j.K/5K/j.K has 1000000f of blockstun, while 5K has 6f of startup
 342/j.K/c.S/j.K has 1000000f of blockstun, while c.S has 7f of startup
@@ -372,7 +372,7 @@
 370/j.K/214{S}/j.K has 1000000f of blockstun, while 214{S} has 4f of startup
 371/j.K/j.214{S}/j.K has 1000000f of blockstun, while j.214{S} has 4f of startup
 372/j.K/236D/j.K has 1000000f of blockstun, while 236D has 16f of startup
-373/j.K/236[D]/j.K has 1000000f of blockstun, while 236[D] has 28f of startup
+373/j.K/236[D]/j.K has 1000000f of blockstun, while 236[D] has 29f of startup
 374/j.S/5P/j.S has 1000000f of blockstun, while 5P has 4f of startup
 375/j.S/5K/j.S has 1000000f of blockstun, while 5K has 6f of startup
 376/j.S/c.S/j.S has 1000000f of blockstun, while c.S has 7f of startup
@@ -406,7 +406,7 @@
 404/j.S/214{S}/j.S has 1000000f of blockstun, while 214{S} has 4f of startup
 405/j.S/j.214{S}/j.S has 1000000f of blockstun, while j.214{S} has 4f of startup
 406/j.S/236D/j.S has 1000000f of blockstun, while 236D has 16f of startup
-407/j.S/236[D]/j.S has 1000000f of blockstun, while 236[D] has 28f of startup
+407/j.S/236[D]/j.S has 1000000f of blockstun, while 236[D] has 29f of startup
 408/j.H/5P/j.H has 1000000f of blockstun, while 5P has 4f of startup
 409/j.H/5K/j.H has 1000000f of blockstun, while 5K has 6f of startup
 410/j.H/c.S/j.H has 1000000f of blockstun, while c.S has 7f of startup
@@ -440,7 +440,7 @@
 438/j.H/214{S}/j.H has 1000000f of blockstun, while 214{S} has 4f of startup
 439/j.H/j.214{S}/j.H has 1000000f of blockstun, while j.214{S} has 4f of startup
 440/j.H/236D/j.H has 1000000f of blockstun, while 236D has 16f of startup
-441/j.H/236[D]/j.H has 1000000f of blockstun, while 236[D] has 28f of startup
+441/j.H/236[D]/j.H has 1000000f of blockstun, while 236[D] has 29f of startup
 442/j.D/5P/j.D has 1000000f of blockstun, while 5P has 4f of startup
 443/j.D/5K/j.D has 1000000f of blockstun, while 5K has 6f of startup
 444/j.D/c.S/j.D has 1000000f of blockstun, while c.S has 7f of startup
@@ -474,7 +474,7 @@
 472/j.D/214{S}/j.D has 1000000f of blockstun, while 214{S} has 4f of startup
 473/j.D/j.214{S}/j.D has 1000000f of blockstun, while j.214{S} has 4f of startup
 474/j.D/236D/j.D has 1000000f of blockstun, while 236D has 16f of startup
-475/j.D/236[D]/j.D has 1000000f of blockstun, while 236[D] has 28f of startup
+475/j.D/236[D]/j.D has 1000000f of blockstun, while 236[D] has 29f of startup
 476/6P/5P/"N/A"
 477/6P/5K/"N/A"
 478/6P/c.S/"N/A"
@@ -882,7 +882,7 @@
 880/j.214S/214{S}/j.214S has 1000000f of blockstun, while 214{S} has 4f of startup
 881/j.214S/j.214{S}/j.214S has 1000000f of blockstun, while j.214{S} has 4f of startup
 882/j.214S/236D/j.214S has 1000000f of blockstun, while 236D has 16f of startup
-883/j.214S/236[D]/j.214S has 1000000f of blockstun, while 236[D] has 28f of startup
+883/j.214S/236[D]/j.214S has 1000000f of blockstun, while 236[D] has 29f of startup
 884/214H/5P/"N/A"
 885/214H/5K/"N/A"
 886/214H/c.S/"N/A"
@@ -984,7 +984,7 @@
 982/j.236236H/214{S}/j.236236H has 1000000f of blockstun, while 214{S} has 4f of startup
 983/j.236236H/j.214{S}/j.236236H has 1000000f of blockstun, while j.214{S} has 4f of startup
 984/j.236236H/236D/j.236236H has 1000000f of blockstun, while 236D has 16f of startup
-985/j.236236H/236[D]/j.236236H has 1000000f of blockstun, while 236[D] has 28f of startup
+985/j.236236H/236[D]/j.236236H has 1000000f of blockstun, while 236[D] has 29f of startup
 986/236[K]/5P/"N/A"
 987/236[K]/5K/"N/A"
 988/236[K]/c.S/"N/A"
@@ -1086,7 +1086,7 @@
 1084/j.214{S}/214{S}/j.214{S} has 1000000f of blockstun, while 214{S} has 4f of startup
 1085/j.214{S}/j.214{S}/j.214{S} has 1000000f of blockstun, while j.214{S} has 4f of startup
 1086/j.214{S}/236D/j.214{S} has 1000000f of blockstun, while 236D has 16f of startup
-1087/j.214{S}/236[D]/j.214{S} has 1000000f of blockstun, while 236[D] has 28f of startup
+1087/j.214{S}/236[D]/j.214{S} has 1000000f of blockstun, while 236[D] has 29f of startup
 1088/236D/5P/"N/A"
 1089/236D/5K/"N/A"
 1090/236D/c.S/"N/A"

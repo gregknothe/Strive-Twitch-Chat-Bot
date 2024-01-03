@@ -29,7 +29,7 @@
 27/236KK/6/2/6+17 Landing/-11/2/Rekka Followup/
 28/j.236K/10/6/Until Landing+6//2/jump Special/
 29/j.236KK/6/2/Until Landing+17//2/jump Special/
-30/214K/30/7/12 Landing/-2/3/Special/
+30/214K/30/7/13/-3/3/Special/
 31/j.214K/22/Until Landing/Until Landing+18//3/jump Special/
 32/623K/6/2/41///Special/
 33/214S/15/2 [8]/32 [26]/-17/3/Special/
@@ -39,4 +39,4 @@
 37/j.214[K]/30/Until Landing/Until Landing+18//3/jump Special/
 38/214[S]/32/2 [8]/32 [26]/-17/3/Special/
 39/236D/16/3/20/-4/4/Special/All
-40/236[D]/28/3/20/-4/4/Special/All
+40/236[D]/29/3/20/-4/4/Special/All

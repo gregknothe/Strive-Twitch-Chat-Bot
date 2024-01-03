@@ -4,12 +4,12 @@
 2//c.S/39/All/8/6/10/+1/+4/3/Mid//100%/2000/1000/
 3//f.S/33/All/12/3/18/-7/-4/2/Mid//90%/1500/1000/
 4//5H/46/All/13/2/25/-8/KD +32/4/Large//90%/2500/1000/
-5//5D/45/High/20/3/26/-15/±0/2/Mid//80%/1125/3000 [1000]/
-6//5[D]/56/High/28/3/26/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
+5//5D/45/High/20/3/26/-15/±0/2/Mid/none/80%/1125/3000 [1000]/
+6//5[D]/56/High/28/3/26/-10/KD +36/4/Mid/none/100%/1875/1500 [1000]/
 7//6P/31/All/11/6/15/-7/KD +28/2/Mid/1-3 Upper Body 4-17 Above knees/90%/1500/1000/
-8//6H/61/All/23/6/32/-19/KD +31/4/Large//90%/2500/1000/
+8//6H/61/All/23/6/32/-19/HKD +56/4/Large//90%/2500/1000/
 9//2P/22/All/5/3/10/-3/0/0/Small//80%/500/1500/
-10//2K/25/Low/6/2/13/-3/0/1/Small/F4~20 Low-profile/70%/750/1000/
+10//2K/25/Low/6/2/13/-3/0/1/Small/4-20F Low Profile/70%/750/1000/
 11//2S/30/Low/10/3/18/-7/-4/2/Mid//90%/1125/1000/
 12//2H/49/All/23/9/12/-2/KD +36/4/Large//90%/2500/1000/
 13//2D/32/Low/14/3/22/-8/HKD +50/3/Large//90%/1500/1000/
@@ -27,17 +27,17 @@
 5//236[S]/53, 41/All/30~36/4, (5), 110/19/+10/KD +65/3, 3/Mid, Very Small//90%, 80%/1000, 200/2000, 1000/S Grave Reaper
 6//236[H]/53, 41/All/27~33/4, (5), 110/13/+16/KD +85/3, 3/Mid, Very Small//90%, 80%/1000, 200/2000, 1000/H Grave Reaper
 7//214P/23/All/21//Total 39/+1/+4/2/Very Small//80%/500/100/Unholy Diver
-8//214K///16//Total 35/////All 16~25F////Possession
+8//214K///16//Total 35/////16-25F Full////Possession
 9//214S/63/Low/24/3/26/-12/KD +36/3/Very Small//90%/1500/1000/S Arbiter Sign
 10//214H/63/High/28/3/26/-12/KD +38/3/Very Small//80%/1500/1000/H Arbiter Sign
 11//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//236236P/20×2, 57/All/11+19/6, (20), 6, (24), 4/Total 53/+63/HKD +134/3/Very Small//100%/100×3/1000/Nostrovia
-1//236236K/123/All/11+4/5/67/-38/HKD +48/4/Very Small/1~19F Full/100%/500/1000/Calamity One
+1//236236K/123/All/11+4/5/67/-38/HKD +48/4/Very Small/1-19F Full/100%/500/1000/Calamity One
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +51////Forced 50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +53 (IAD)////Forced 50%//2500/Air Throw
-2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/3000/Wild Assault
-3///50/All/28/3/20/-4/HKD/4/Mid//100%/2500/2000/Wild Assault
+2///30/All/16~28/3/20/-4/-1/4/Mid//90%/2500/4000/Wild Assault
+3///50/All/29/3/20/-4/HKD/4/Mid//100%/2500/3000/Wild Assault
 4///80//////HKD +23/4/////1000/Finish Blow
 5///////Total 26/////////Dash Cancel
 6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

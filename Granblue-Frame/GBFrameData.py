@@ -50,8 +50,7 @@ def nameCleaner(char):
         char = "Millia_Rage"
     elif char == "Chipp":
         char = "Chipp_Zanuff"
-    elif char == "ino":
-        char = "I-No"
+    elif char == "ino":        char = "I-No"
     elif char == "Elphelt":
         char = "Elphelt_Valentine"
     '''
@@ -88,7 +87,6 @@ def updateAll():
         print(update(x))
     return
 
-#updateAll()
 
 def moveLookup(char, move):
     char = nameCleaner(char)
@@ -102,4 +100,6 @@ def moveLookup(char, move):
     return char + " " + str(moveData.loc[moveIndex, "input"]) + " | s: " + str(moveData.loc[moveIndex, "startup"]) + ", a: " + str(moveData.loc[moveIndex, "active"]) + ", r: " + str(moveData.loc[moveIndex, "recovery"]) + ", ob: " + str(moveData.loc[moveIndex, "onBlock"]) + ", oh: " + str(moveData.loc[moveIndex, "onHit"])
 
 
+
+#updateAll()
 #print(moveLookup("charlotta","c.xxx"))

@@ -7,7 +7,7 @@
 5/2P/5/2/10/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
 6/2K/6/3/12/-3/1/Normal/6P,6K,6H,5D,2D,Special,Super
 7/2S/12/3/18/-7/2/Normal/5H,2H,Special,Super
-8/2H/14/2, 2, 2/18/-3/3/Normal/Special,Super
+8/2H/14/2,2, 2/18/-3/3/Normal/Special,Super
 9/j.P/6/3/13//0/jump Normal/j.P,
 10/j.K/7/4/15/-3 (IAD)/1/jump Normal/j.D,Jump,ForwardAirDash
 11/j.S/9/5/18/1 (IAD)/2/jump Normal/j.H,j.D,Jump,ForwardAirDash
@@ -42,11 +42,11 @@
 40/Metron Screamer 808/12//Total 34/16/4/Special/
 41/Metron Arpeggio/31//Total 59/113 [124]/4/Special/
 42/Delayed Tardus Metron/21//Total 39/57 [68]/4/Special/
-43/Terra Metron/16//Total 45/4/4/Special/
-44/Accipiter Metron/19//Total 48/4/4/Special/
+43/Terra Metron/16/3/Total 45/4/4/Special/
+44/Accipiter Metron/19/3/Total 48/4/4/Special/
 45/Aquila Metron/14//Total 59/-25/2/Special/
 46/Bit Shift Metron/14/4/Total 39/8//Special/
-47/RMS Boost Metron/14//Total 44/25/4/Special/
+47/RMS Boost Metron/14/5/Total 44/25/4/Special/
 48/Go to Marker/16//Total 35///Normal/
 49/Sampler 404/11/Until Spell Used/Total 29///Special/
 50/Chaotic Option/11//Total 29///Normal/

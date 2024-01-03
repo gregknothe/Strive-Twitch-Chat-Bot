@@ -14,7 +14,7 @@
 12/j.H/13/3/27/5/2/jump Normal/j.D,Jump,ForwardAirDash
 13/j.D/8/6/18//3/jump Normal/Jump,ForwardAirDash
 14/6P/10/6/25/-17/2/Normal/Special,Super
-15/6H/16/3(3)3(4)4/21/-8/3/Normal/Special,Super
+15/6H/12/3(3)3(4)4/21/-8/3/Normal/Special,Super
 16/2D/10/3/22/-11/2/Normal/Special,Super
 17/5D/20/3/26/-15/2/Normal/
 18/5[D]/28/3/26/-10/4/Normal/
@@ -34,4 +34,4 @@
 32/236[S]/28/9(6)5/14//3/Special/
 33/236[H]/32/4/21/-6/4/Special/236H P, 236H K, 236H S, 236H H
 34/236D/16/3/20/-4/4/Special/All
-35/236[D]/28/3/20/-4/4/Special/All
+35/236[D]/29/3/20/-4/4/Special/All

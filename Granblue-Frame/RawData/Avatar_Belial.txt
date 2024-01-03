@@ -1,0 +1,55 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/Mid/5/-/-/+4/+8/1//
+1//c.M/1100/Mid/6/3/12/0/+4/2//
+2//c.H/1000600/Mid/8/24/18/-3/+1/4//
+3//c.XX/700/Mid/9/3/15/-3/+1/2//
+4//c.XXX/1000/Mid/12/3/18/-4/0/3//
+5//f.L/600/Mid/6/5/12/+1/+5/1//
+6//f.M/300, 600/Mid/7/13/18/-6/-2/2//
+7//f.H/1300/Mid/9/4/22/-9/-5/3//
+8//2L/400/Mid/5/3/12/-4/0/0//
+9//2M/800/Low/6/5/13/-3/KD/2//
+10//2H/1300/Mid/11/6/23/-12/-8/3//
+11//2U/1000/Low/10/6/20/-11/HKD/2//
+12//66L/600/Mid/8/-/-/+2/-/-//
+13//66M/1100/Low/18/-/-/+1/+5/-//
+14//66H/1200/Mid/15/-/-/-8/+10/-//
+15//j.L/600/"High/Air"/5/Until L/0///1//
+16//j.M/700/"High/Air"/7/6/Until L///1//
+17//j.H/1000/"High/Air"/9/6/Until L///2//
+18//j.U/1000//20/Until L+1/21/-4 at best////
+19//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/1300//28/2/26/+4/+8///Habakkuk
+1//5[U]/1300//49/2/15/+10/KD///Habakkuk (Charged)
+2//5U Follow-Up/1500/////-11////Pact (5U)
+3//8U Follow-Up/700/////+2/+2///Pact (8U)
+4//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/500, 100×3/All/18//Total 53/-6/-2///Rejected Truth
+1//236M/500, 200, 100×3/All/20//Total 53/-6/-2///Destructive Delusions
+2//236H/800, 100×4/All/16//Total 55/+2/+6///H Rejected Truth
+3//623L/1000/All/6///-20/KD///L Blind Devotion
+4//623M/600, 100×5/Mid, All×5/9/233334/34/-24 [-30]/KD//1~13 All/M Blind Devotion
+5//623H/700, 100, 50×4, 700/Mid/11/233333/35/-24 [-30]/HKD//1~25 All/H Blind Devotion
+6//214M/600/Mid/22/6/15/-4/0///M Carnal Passion
+7//214H/600/Mid/16/4/15/-6/0///H Carnal Passion
+8//214X > 4X/400/Mid////-8/KD///Followup 1
+9//214X > 4X > 4X/700/Mid////-16/KD///Followup 2
+10//22L/////Total 62/////L Wings Bestowed
+11//22M/////Total 75/////M Wings Bestowed
+12//22H/////Total 105/////H Wings Bestowed
+13//22X~L/700//15/Until L+1/11/"+2/+4(crouch)"/+3///Stolas
+14//22X~M/600, 100×5//21///+2/KD///Beleth
+15//22L~H/2000/Throw/31////HKD///L Barbatos
+16//22M~H/2500/Throw/29~33/2/34//HKD///M Barbatos
+17//22H~H/2000/Throw/30~35/2/34//HKD///H Barbatos
+18//22X~U/1000//27/5/Until L+10/-1~-7/KD///Habakkuk (Midair)
+19//22X~[U]/1100//27/3333/Until L+13/-5~-11/KD///Habakkuk (Midair, Charged)
+20//236U/2300 total/Mid/9/-/-/+6/-///Ultimate Destructive Delusions
+21//623U/2000 total/Mid/8/-/-/-27/-///Ultimate Blind Devotion
+22//214U/2600 total/Mid/13 [20]/-/-/+2/-///Ultimate Carnal Passion
+23//22U/3500/Mid/9 [32]/-/-/+4/-///Ultimate Wings Bestowed
+24//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/4000/Mid/9+4/7/32//HKD//1~15 All/Diafthora
+1//j.236236H/4000/Mid/7+8/Until L+2/31//HKD//1~7 All/Diafthora
+2//236236U/6000[4000]/Grab[All]/13+0/2/100/-32/HKD/4/1~18 All/Wild Sin
+3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

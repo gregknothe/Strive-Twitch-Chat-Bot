@@ -44,6 +44,8 @@
     <img src="https://raw.githubusercontent.com/gregknothe/GGSTAssets/main/Icons/Zato-1_Icon.png" id="Zato-1_Icon" class="iconHidden">
     <img src="https://raw.githubusercontent.com/gregknothe/GGSTAssets/main/Icons/Asuka_R_Icon.png" id="Asuka_R_Icon" class="iconHidden">
     <img src="https://raw.githubusercontent.com/gregknothe/GGSTAssets/main/Icons/Johnny_Icon.png" id="Johnny_Icon" class="iconHidden">
+    <img src="https://raw.githubusercontent.com/gregknothe/GGSTAssets/main/Icons/Bedman_Icon.png" id="Bedman_Icon" class="iconHidden">
+    <img src="https://raw.githubusercontent.com/gregknothe/GGSTAssets/main/Icons/Elphelt_Valentine_Icon.png" id="Elphelt_Valentine_Icon" class="iconHidden">
 
     <!-- Character Select Dropdown -->
     <select name="character" id="character" class="character">
@@ -72,98 +74,13 @@
         <option value="Bedman">Bedman</option>
         <option value="Asuka_R">Asuka</option>
         <option value="Johnny">Johnny</option>
+        <option value="Elphelt_Valentine">Elphelt Valentine</option>
     </select>
 
     <button py-click="selectCharacter()" id="selectCharacterButton" class="py-button" style="background-color: #520000; border-color: #ffffff;">
         Select Character
     </button>
 
-
-<!-- Sol_Badguy Move List -->
-<!-- Sol_Badguy Move List -->
-<select id='Sol_Badguy_List' class='character'>
-    <option value='5P'>5P</option>
-    <option value='5K'>5K</option>
-    <option value='c.S'>c.S</option>
-    <option value='f.S'>f.S</option>
-    <option value='5H'>5H</option>
-    <option value='2P'>2P</option>
-    <option value='2K'>2K</option>
-    <option value='2S'>2S</option>
-    <option value='2H'>2H</option>
-    <option value='j.P'>j.P</option>
-    <option value='j.K'>j.K</option>
-    <option value='j.S'>j.S</option>
-    <option value='j.H'>j.H</option>
-    <option value='j.D'>j.D</option>
-    <option value='6P'>6P</option>
-    <option value='6S'>6S</option>
-    <option value='6H'>6H</option>
-    <option value='2D'>2D</option>
-    <option value='5D'>5D</option>
-    <option value='5[D]'>5[D]</option>
-    <option value='236P'>236P</option>
-    <option value='214P'>214P</option>
-    <option value='623S'>623S</option>
-    <option value='623H'>623H</option>
-    <option value='j.623S'>j.623S</option>
-    <option value='j.623H'>j.623H</option>
-    <option value='236K'>236K</option>
-    <option value='236KK'>236KK</option>
-    <option value='j.236K'>j.236K</option>
-    <option value='j.236KK'>j.236KK</option>
-    <option value='214K'>214K</option>
-    <option value='j.214K'>j.214K</option>
-    <option value='623K'>623K</option>
-    <option value='214S'>214S</option>
-    <option value='41236H'>41236H</option>
-    <option value='632146H'>632146H</option>
-    <option value='214214H'>214214H</option>
-    <option value='236D'>236D</option>
-    <option value='236[D]'>236[D]</option>
-</select>
-
-<select id='Sol_Badguy_List2' class='character'>
-    <option value='5P'>5P</option>
-    <option value='5K'>5K</option>
-    <option value='c.S'>c.S</option>
-    <option value='f.S'>f.S</option>
-    <option value='5H'>5H</option>
-    <option value='2P'>2P</option>
-    <option value='2K'>2K</option>
-    <option value='2S'>2S</option>
-    <option value='2H'>2H</option>
-    <option value='j.P'>j.P</option>
-    <option value='j.K'>j.K</option>
-    <option value='j.S'>j.S</option>
-    <option value='j.H'>j.H</option>
-    <option value='j.D'>j.D</option>
-    <option value='6P'>6P</option>
-    <option value='6S'>6S</option>
-    <option value='6H'>6H</option>
-    <option value='2D'>2D</option>
-    <option value='5D'>5D</option>
-    <option value='5[D]'>5[D]</option>
-    <option value='236P'>236P</option>
-    <option value='214P'>214P</option>
-    <option value='623S'>623S</option>
-    <option value='623H'>623H</option>
-    <option value='j.623S'>j.623S</option>
-    <option value='j.623H'>j.623H</option>
-    <option value='236K'>236K</option>
-    <option value='236KK'>236KK</option>
-    <option value='j.236K'>j.236K</option>
-    <option value='j.236KK'>j.236KK</option>
-    <option value='214K'>214K</option>
-    <option value='j.214K'>j.214K</option>
-    <option value='623K'>623K</option>
-    <option value='214S'>214S</option>
-    <option value='41236H'>41236H</option>
-    <option value='632146H'>632146H</option>
-    <option value='214214H'>214214H</option>
-    <option value='236D'>236D</option>
-    <option value='236[D]'>236[D]</option>
-</select>
 
 <!-- Testament Move List -->
 <select id='Testament_List' class='characterHidden'>
@@ -618,6 +535,91 @@
     <option value='236[D]'>236[D]</option>
 </select>
 
+<!-- Sol_Badguy Move List -->
+<select id='Sol_Badguy_List' class='character'>
+    <option value='5P'>5P</option>
+    <option value='5K'>5K</option>
+    <option value='c.S'>c.S</option>
+    <option value='f.S'>f.S</option>
+    <option value='5H'>5H</option>
+    <option value='2P'>2P</option>
+    <option value='2K'>2K</option>
+    <option value='2S'>2S</option>
+    <option value='2H'>2H</option>
+    <option value='j.P'>j.P</option>
+    <option value='j.K'>j.K</option>
+    <option value='j.S'>j.S</option>
+    <option value='j.H'>j.H</option>
+    <option value='j.D'>j.D</option>
+    <option value='6P'>6P</option>
+    <option value='6S'>6S</option>
+    <option value='6H'>6H</option>
+    <option value='2D'>2D</option>
+    <option value='5D'>5D</option>
+    <option value='5[D]'>5[D]</option>
+    <option value='236P'>236P</option>
+    <option value='214P'>214P</option>
+    <option value='623S'>623S</option>
+    <option value='623H'>623H</option>
+    <option value='j.623S'>j.623S</option>
+    <option value='j.623H'>j.623H</option>
+    <option value='236K'>236K</option>
+    <option value='236KK'>236KK</option>
+    <option value='j.236K'>j.236K</option>
+    <option value='j.236KK'>j.236KK</option>
+    <option value='214K'>214K</option>
+    <option value='j.214K'>j.214K</option>
+    <option value='623K'>623K</option>
+    <option value='214S'>214S</option>
+    <option value='41236H'>41236H</option>
+    <option value='632146H'>632146H</option>
+    <option value='214214H'>214214H</option>
+    <option value='236D'>236D</option>
+    <option value='236[D]'>236[D]</option>
+</select>
+
+<select id='Sol_Badguy_List2' class='character'>
+    <option value='5P'>5P</option>
+    <option value='5K'>5K</option>
+    <option value='c.S'>c.S</option>
+    <option value='f.S'>f.S</option>
+    <option value='5H'>5H</option>
+    <option value='2P'>2P</option>
+    <option value='2K'>2K</option>
+    <option value='2S'>2S</option>
+    <option value='2H'>2H</option>
+    <option value='j.P'>j.P</option>
+    <option value='j.K'>j.K</option>
+    <option value='j.S'>j.S</option>
+    <option value='j.H'>j.H</option>
+    <option value='j.D'>j.D</option>
+    <option value='6P'>6P</option>
+    <option value='6S'>6S</option>
+    <option value='6H'>6H</option>
+    <option value='2D'>2D</option>
+    <option value='5D'>5D</option>
+    <option value='5[D]'>5[D]</option>
+    <option value='236P'>236P</option>
+    <option value='214P'>214P</option>
+    <option value='623S'>623S</option>
+    <option value='623H'>623H</option>
+    <option value='j.623S'>j.623S</option>
+    <option value='j.623H'>j.623H</option>
+    <option value='236K'>236K</option>
+    <option value='236KK'>236KK</option>
+    <option value='j.236K'>j.236K</option>
+    <option value='j.236KK'>j.236KK</option>
+    <option value='214K'>214K</option>
+    <option value='j.214K'>j.214K</option>
+    <option value='623K'>623K</option>
+    <option value='214S'>214S</option>
+    <option value='41236H'>41236H</option>
+    <option value='632146H'>632146H</option>
+    <option value='214214H'>214214H</option>
+    <option value='236D'>236D</option>
+    <option value='236[D]'>236[D]</option>
+</select>
+
 <!-- Ky_Kiske Move List -->
 <select id='Ky_Kiske_List' class='characterHidden'>
     <option value='5P'>5P</option>
@@ -802,83 +804,6 @@
     <option value='236236S'>236236S</option>
     <option value='632146H'>632146H</option>
     <option value='j.632146H'>j.632146H</option>
-    <option value='236D'>236D</option>
-    <option value='236[D]'>236[D]</option>
-</select>
-
-<!-- Millia_Rage Move List -->
-<select id='Millia_Rage_List' class='characterHidden'>
-    <option value='5P'>5P</option>
-    <option value='5K'>5K</option>
-    <option value='c.S'>c.S</option>
-    <option value='f.S'>f.S</option>
-    <option value='5H'>5H</option>
-    <option value='5D'>5D</option>
-    <option value='5[D]'>5[D]</option>
-    <option value='6P'>6P</option>
-    <option value='6K'>6K</option>
-    <option value='6H'>6H</option>
-    <option value='2P'>2P</option>
-    <option value='2K'>2K</option>
-    <option value='2S'>2S</option>
-    <option value='2H'>2H</option>
-    <option value='2D'>2D</option>
-    <option value='j.P'>j.P</option>
-    <option value='j.K'>j.K</option>
-    <option value='j.S'>j.S</option>
-    <option value='j.H'>j.H</option>
-    <option value='j.D'>j.D</option>
-    <option value='236S'>236S</option>
-    <option value='236H'>236H</option>
-    <option value='214S'>214S</option>
-    <option value='214S (3-Hit)'>214S (3-Hit)</option>
-    <option value='214S (6-Hit)'>214S (6-Hit)</option>
-    <option value='214S (9-Hit)'>214S (9-Hit)</option>
-    <option value='214P'>214P</option>
-    <option value='j.236P'>j.236P</option>
-    <option value='j.236K'>j.236K</option>
-    <option value='214K'>214K</option>
-    <option value='j.236H'>j.236H</option>
-    <option value='236236S'>236236S</option>
-    <option value='632146H'>632146H</option>
-    <option value='236D'>236D</option>
-    <option value='236[D]'>236[D]</option>
-</select>
-
-<select id='Millia_Rage_List2' class='characterHidden'>
-    <option value='5P'>5P</option>
-    <option value='5K'>5K</option>
-    <option value='c.S'>c.S</option>
-    <option value='f.S'>f.S</option>
-    <option value='5H'>5H</option>
-    <option value='5D'>5D</option>
-    <option value='5[D]'>5[D]</option>
-    <option value='6P'>6P</option>
-    <option value='6K'>6K</option>
-    <option value='6H'>6H</option>
-    <option value='2P'>2P</option>
-    <option value='2K'>2K</option>
-    <option value='2S'>2S</option>
-    <option value='2H'>2H</option>
-    <option value='2D'>2D</option>
-    <option value='j.P'>j.P</option>
-    <option value='j.K'>j.K</option>
-    <option value='j.S'>j.S</option>
-    <option value='j.H'>j.H</option>
-    <option value='j.D'>j.D</option>
-    <option value='236S'>236S</option>
-    <option value='236H'>236H</option>
-    <option value='214S'>214S</option>
-    <option value='214S (3-Hit)'>214S (3-Hit)</option>
-    <option value='214S (6-Hit)'>214S (6-Hit)</option>
-    <option value='214S (9-Hit)'>214S (9-Hit)</option>
-    <option value='214P'>214P</option>
-    <option value='j.236P'>j.236P</option>
-    <option value='j.236K'>j.236K</option>
-    <option value='214K'>214K</option>
-    <option value='j.236H'>j.236H</option>
-    <option value='236236S'>236236S</option>
-    <option value='632146H'>632146H</option>
     <option value='236D'>236D</option>
     <option value='236[D]'>236[D]</option>
 </select>
@@ -1653,6 +1578,8 @@
     <option value='214H'>214H</option>
     <option value='j.214H'>j.214H</option>
     <option value='j.236H'>j.236H</option>
+    <option value='214K'>214K</option>
+    <option value='214[K]'>214[K]</option>
     <option value='236236H'>236236H</option>
     <option value='632146P'>632146P</option>
     <option value='632146P Attack'>632146P Attack</option>
@@ -1691,6 +1618,8 @@
     <option value='214H'>214H</option>
     <option value='j.214H'>j.214H</option>
     <option value='j.236H'>j.236H</option>
+    <option value='214K'>214K</option>
+    <option value='214[K]'>214[K]</option>
     <option value='236236H'>236236H</option>
     <option value='632146P'>632146P</option>
     <option value='632146P Attack'>632146P Attack</option>
@@ -1733,6 +1662,7 @@
     <option value='63214[S]'>63214[S]</option>
     <option value='Reflect Projectile'>Reflect Projectile</option>
     <option value='214H'>214H</option>
+    <option value='41236H'>41236H</option>
     <option value='236236S'>236236S</option>
     <option value='632146H'>632146H</option>
     <option value='Mirror'>Mirror</option>
@@ -1773,6 +1703,7 @@
     <option value='63214[S]'>63214[S]</option>
     <option value='Reflect Projectile'>Reflect Projectile</option>
     <option value='214H'>214H</option>
+    <option value='41236H'>41236H</option>
     <option value='236236S'>236236S</option>
     <option value='632146H'>632146H</option>
     <option value='Mirror'>Mirror</option>
@@ -2313,6 +2244,89 @@
     <option value='236D'>236D</option>
     <option value='236[D]'>236[D]</option>
 </select>
+
+<!-- Elphelt_Valentine Move List -->
+<select id='Elphelt_Valentine_List' class='characterHidden'>
+    <option value='5P'>5P</option>
+    <option value='5K'>5K</option>
+    <option value='c.S'>c.S</option>
+    <option value='f.S'>f.S</option>
+    <option value='5H'>5H</option>
+    <option value='5HH'>5HH</option>
+    <option value='5D'>5D</option>
+    <option value='5[D]'>5[D]</option>
+    <option value='2P'>2P</option>
+    <option value='2K'>2K</option>
+    <option value='2S'>2S</option>
+    <option value='2H'>2H</option>
+    <option value='2D'>2D</option>
+    <option value='6P'>6P</option>
+    <option value='6H'>6H</option>
+    <option value='j.P'>j.P</option>
+    <option value='j.K'>j.K</option>
+    <option value='j.S'>j.S</option>
+    <option value='j.H'>j.H</option>
+    <option value='j.D'>j.D</option>
+    <option value='236S'>236S</option>
+    <option value='j.236S'>j.236S</option>
+    <option value='236H'>236H</option>
+    <option value='j.236H'>j.236H</option>
+    <option value='214K'>214K</option>
+    <option value='214H'>214H</option>
+    <option value='214S'>214S</option>
+    <option value='214S~P'>214S~P</option>
+    <option value='214S~K'>214S~K</option>
+    <option value='214S~P/K~P'>214S~P/K~P</option>
+    <option value='214S~P/K~K'>214S~P/K~K</option>
+    <option value='214S~H'>214S~H</option>
+    <option value='632146H'>632146H</option>
+    <option value='236236K'>236236K</option>
+    <option value='236236K Explosion'>236236K Explosion</option>
+    <option value='236D'>236D</option>
+    <option value='236[D]'>236[D]</option>
+</select>
+
+<select id='Elphelt_Valentine_List2' class='characterHidden'>
+    <option value='5P'>5P</option>
+    <option value='5K'>5K</option>
+    <option value='c.S'>c.S</option>
+    <option value='f.S'>f.S</option>
+    <option value='5H'>5H</option>
+    <option value='5HH'>5HH</option>
+    <option value='5D'>5D</option>
+    <option value='5[D]'>5[D]</option>
+    <option value='2P'>2P</option>
+    <option value='2K'>2K</option>
+    <option value='2S'>2S</option>
+    <option value='2H'>2H</option>
+    <option value='2D'>2D</option>
+    <option value='6P'>6P</option>
+    <option value='6H'>6H</option>
+    <option value='j.P'>j.P</option>
+    <option value='j.K'>j.K</option>
+    <option value='j.S'>j.S</option>
+    <option value='j.H'>j.H</option>
+    <option value='j.D'>j.D</option>
+    <option value='236S'>236S</option>
+    <option value='j.236S'>j.236S</option>
+    <option value='236H'>236H</option>
+    <option value='j.236H'>j.236H</option>
+    <option value='214K'>214K</option>
+    <option value='214H'>214H</option>
+    <option value='214S'>214S</option>
+    <option value='214S~P'>214S~P</option>
+    <option value='214S~K'>214S~K</option>
+    <option value='214S~P/K~P'>214S~P/K~P</option>
+    <option value='214S~P/K~K'>214S~P/K~K</option>
+    <option value='214S~H'>214S~H</option>
+    <option value='632146H'>632146H</option>
+    <option value='236236K'>236236K</option>
+    <option value='236236K Explosion'>236236K Explosion</option>
+    <option value='236D'>236D</option>
+    <option value='236[D]'>236[D]</option>
+</select>
+
+
 
 
 

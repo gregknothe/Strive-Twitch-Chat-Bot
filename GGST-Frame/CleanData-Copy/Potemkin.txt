@@ -12,14 +12,14 @@
 10/2H/13/5/35/-21/4/Normal/Special,Super
 11/2D/13/7/18/-8/3/Normal/Special,Super
 12/6P/11/7/25/-15/3/Normal/Special,Super
-13/6K/22/5/18/-6/3/Normal/Special,Super
+13/6K/22/5/18/-6/3/Normal/Special1,Super
 14/6H/23/5/29/-15/4/Normal/Special,Super
 15/j.P/7/6/6/6 (Min. height)/0/jump Normal/j.P,
 16/j.K/10/6/15/8 (Min. height)/1/jump Normal/j.D,Jump
 17/j.S/13/5/23/13 (Min. height)/3/jump Normal/j.H,j.D,Jump
 18/j.H/12/4/16/15 (Min. height)/4/jump Normal/j.D,Jump
 19/j.D/13/Until Landing/9 After landing/1 (IAS)/3/jump Normal/Jump
-20/[4]6H/18/2f/26/-9//Special/
+20/[4]6H/18/2f/26/-9/4/Special/
 21/[4]6H P///27///Special/
 22/632146P/5/4/37///Super/
 23/623H/12/4/18/10//Special/
@@ -31,8 +31,9 @@
 29/63214[S]/36/4/19/-6/3/Special/
 30/Reflect Projectile/1///11/3/Normal/
 31/214H/28/11/24/19//Special/
-32/236236S/12/15/16///Super/
-33/632146H/11/5/17/100//Super/
-34/Mirror/33/464////Normal/
-35/236D/20/3/20/12/4/Special/
-36/236[D]/32/3/20/17/4/Special/
+32/41236H/12/20/36/-37/4/Special/
+33/236236S/12/15/16///Super/
+34/632146H/11/5/17/100//Super/
+35/Mirror/33/464////Normal/
+36/236D/20/3/20/12/4/Special/
+37/236[D]/32/3/20/17/4/Special/

@@ -1,0 +1,55 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/Mid/6/3/6/+4/+8/1//
+1//c.M/1100/Mid/7/1/14/0/+4/2//
+2//c.H/1800/Mid/12/6/15/-2/+2/4//
+3//c.XX/700/Mid/9/3/15/-3/+1/2//
+4//c.XXX/700/Mid/12/3/18/-4/0/3//
+5//c.XX6M/700/Low/12/-/18/-4/KD+30/2//
+6//c.XX6H/700/High/18/-/24/-4/+1/-//
+7//f.L/600/Mid/6/3/8/+2/+6/1//
+8//f.M/900/Mid/8/3/18/-6/-2/2//
+9//f.H/1400/Mid/13/6/17/-6/-2/3//
+10//2L/400/Mid/6/3/7/0/+4/0//
+11//2M/900/Low/8/5/12/-2/+2/2//
+12//2H/650+650/Mid/11/22/23/-8/-4/3//
+13//2U/1200/Low/7/6/28/-19/HKD+36/2//
+14//66L/600/Mid/8/3/10/+2/+6/2//
+15//66M/1100/High/22/9/22/-14/KD+12/3//
+16//66H/1500/Mid/20/6/16/-3/+1/4//
+17//j.L/600/"High/Air"/5/6/Until L///1//
+18//j.M/800/"High/Air"/7/10/Until L///2//
+19//j.H/1100/"High/Air"/11/8/Until L///3//
+20//j.U/1000/"High/Air"/12/16/Until L///3//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/-/Throw/34-40/3/32///0, 4//Love Grapple
+1//5U > L/1300///////0, 4//Hurl
+2//5U > M/1300///////0, 4//Hurl
+3//5U > H/1300///////0, 4//Hurl
+4//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/1000/Mid/17/3/14/-2/+3/2//L Headbutt of Love
+1//236M/1200/Mid/28/6/11/+2/+7/4//M Headbutt of Love
+2//236H/1000/Mid/17/6/11/+3/+12/4//H Headbutt of Love (1)
+3//236H > 6H/1000/Mid/15/6/13/0/+12/4//H Headbutt of Love (2)
+4//236H > 6HH/1000/Mid/15/6/15/-2/KD+13/4//H Headbutt of Love (3)
+5//214L/1200 [1300]/Mid/18 [13]/6/21/+5/KD+12/4//L Elegant Lariat
+6//214M/1500 [1600]/Mid/35 [28]/6/18/+6/KD+39/4//M Elegant Lariat
+7//214H/1800 [2000]/Mid/18 [16]/6/21/+5/KD+41/4//H Elegant Lariat
+8//623L/1000/Airthrow/7/5/22//KD+27/0, 4//L Devoted Body Slam
+9//623M/2000/Airthrow/12/5/22//KD+5/0, 4//M Devoted Body Slam
+10//623H/2500/Airthrow/10/5/22//KD+27/0, 4//H Devoted Body Slam
+11//360L/2300/Throw/6/3/38//HKD+28/0, 4//L Jewel Resort Screwdriver
+12//360M/2700/Throw/9/3/38//HKD+28/0, 4//M Jewel Resort Screwdriver
+13//360H/3500/Throw/6/3/38//HKD+28/0, 4//H Jewel Resort Screwdriver
+14//j.360L/2300/Airthrow/7/3/Until L+16//HKD+46/0, 4//L Leg Drop of Adoration
+15//j.360M/2700/Airthrow/9/3/Until L+16//HKD+55/0, 4//M Leg Drop of Adoration
+16//j.360H/3500/Airthrow/4/3/Until L+16//HKD+57/0, 4//H Leg Drop of Adoration
+17//360U/4000/Throw/6/3/38//HKD+44/0, 4//Ultimate Jewel Resort Screwdriver
+18//j.360U/4000/Throw/5/3/38//HKD+57/0, 4/Strike invul 1~18/Ultimate Leg Drop of Adoration
+19//236U/2000/Unblockable/22/3/34/HKD+38/HKD+38/0, 4/Superarmor 1~18/Ultimate Headbutt of Love
+20//623U/3000/Throw/6/10/20//HKD+24/0, 4//Ultimate Devoted Body Slam
+21//214U/1500, 1000/Mid/17/51/26/+5*/HKD+62/0, 4//Ultimate Elegant Lariat
+22//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/3600→3300/Mid/7+8/6/24/-11/HKD+18/4/1~7 All, 8~12 Projectile/Maximum Love Bomb
+1//214214H/4000/Throw/9+0/2/39//HKD+18/0, 4/1~10 All/Maximum Love Bomb
+2//720U/5000/Throw/9+0/2/39//HKD+17/0/1~10 All/The Shape of Love
+3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

@@ -1,0 +1,54 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/400/Mid/5/3/6/+4/+8/1//
+1//c.M/600, 300, 200/Mid/6/224/15/-4/0/2//
+2//c.H/1000, 500/Mid/10/4(3)2/21/-4/0/4//
+3//c.XX/700/Mid/9/3/15/-3/+1/2//
+4//c.XX6M/1000/Low/-/-/-/-4/-/3//
+5//c.XX6H/1000/High/-/-/-/-4/-/3//
+6//f.L/600/Mid/6/3/15/+1/+5/1//
+7//f.M/900/Mid/9/3/18/-6/-2/2//
+8//f.H/1300/Mid/11/6/18/-7/-3/3//
+9//2L/400/Low/6/3/2/-2/+2/0//
+10//2M/900/Mid/8/5/15/-5/-1/2//
+11//2H/1300/Mid/11/4/24/-11/-7/3//
+12//2U/1000/Low/9/9/17/-11/HKD/2//
+13//66L/600/Mid/8/-/20/+2/+6/2//
+14//66M/1100/Low/13/-/-/-8/+24/2//
+15//66H/1200/Mid/29/-/-/-2/+30/2//
+16//j.L/600/"High/Air"/6/Until L/0///1//
+17//j.M/700/"High/Air"/8/3/Until L///1//
+18//j.H/1000/"High/Air"/9/6/Until L///2//
+19//j.U/350×N (up to 1750)/"High/Air"/12/2(3)2(3)…////2//
+20//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/////Total 44/////Don't Mind If I Do
+1//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/700/"Low/Air"/21//Total 34//KD/2//L Sammy &amp; Tommy
+1//236M/700/All/39//Total 34///2//M Sammy &amp; Tommy
+2//236H/700×2/"Low/Air, All"/21//Total 29///2//H Sammy &amp; Tommy
+3//214L/800/Mid/19/10/9/-4/KD/2//L Awesome Sauce
+4//214M/500×2/Mid/17/4(6)2/21/-8/KD/2//M Awesome Sauce
+5//214H/400×2, 300/Mid/15/4(6)2(8)2/21/-4/HKD/4//H Awesome Sauce
+6//623L/1200/Unblockable///Total 30/KD/KD/4/4~22 Catch High/L Come at Me, Bro!
+7//623M/1200/Unblockable///Total 30/KD/KD/4/1~19 Catch Low/M Come at Me, Bro!
+8//623H/1200/Unblockable///Total 26/HKD/HKD/4/1~26 Catch All/H Come at Me, Bro!
+9//22L/400×2/All/38//Total 34/+48/+53/2//L Magnificent Tool of Destruction
+10//22M/800/All/47//Total 34/+35/+52/2//M Magnificent Tool of Destruction
+11//22H/170×6/All/38//Total 34/+41/KD/2//H Magnificent Tool of Destruction
+12//236U/700/"Low/Air"/21//Total 34//KD/2//Ultimate Sammy &amp; Tommy
+13//623U/700/"Low/Air"/21//Total 34//KD/2//Ultimate Come at Me, Bro!
+14//214U/700/"Low/Air"/21//Total 34//KD/2//Ultimate Awesome Sauce
+15//22U/700/"Low/Air"/21//Total 34//KD/2//Ultimate Magnificent Tool of Destruction
+16//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H///5+14//////1~ ALL/Human! Pyramid! Attack!
+1//236236H L/200×3/Mid/8/333/16/-6/-2/1//It's Lit, Bros
+2//236236H M/700/Mid/9/6/15/-2/+2/4//Definitely Don't Try This at Home
+3//236236H H/800/High/19/3/12/+1/+9/4//Flex On 'Em
+4//236236H U/900/Low/23/5/21/-7/KD/4//Catch 'Em Slippin'
+5//236236H G/////Total 29/////Totally Rad Juke
+6//236236H 236U/1500/Mid/14/10/33/-6/HKD/4//Moment of Truth
+7//236236U/////Total 31////1~2 ALL/Try This on for Size!
+8//236236U L/600×3/All/18/999/20///4//Earth Pillar
+9//236236U M/1000/All/22-69//Total 55~102///4//Axis Mundi
+10//236236U H/2000/Unblockable/30/3/15///4//Nether Veil
+11//236236U U/1400, 200×5/All/45/20/20///4//Luminox Genesi
+12//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

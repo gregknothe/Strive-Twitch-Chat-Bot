@@ -1,0 +1,54 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/Mid/5/3/6/+4/+8/1//
+1//c.M/1100/Mid/7/3/12/0/4/2//
+2//c.H/1600/Mid/10/6/15/-2/+2/4//
+3//c.XX/700/Mid/9/3/15/-3/+1/2//
+4//c.XXX/1000/Mid/12/3/18/-4/0/3//
+5//c.XX6M/1000/Low/12/-/-/-4/KD/3//
+6//c.XX6H/1000/High/18/-/-/-4/+1/3//
+7//f.L/600/Mid/6/3/15/+1/+5/1//
+8//f.M/900/Mid/9/5/16/-6/-2/2//
+9//f.H/1300/Mid/12/6/26/-15/-11/3//
+10//2L/400/Low/6/3/10/-2/+2/0//
+11//2M/900/Mid/7/5/13/-3/+1/2//
+12//2H/1300/Mid/11/5/24/-12/-8/3//
+13//2U/700/Low/7/6/21/-12/HKD/2//
+14//66L/600/Mid/8/3/10/+2/+6/1//
+15//66M/1100/Low/12/4/21/-8/KD/2//
+16//66H/1200/Mid/20/3/22/-6/+12/4//
+17//j.L/600/"High/Air"/5/Until L/0///1//
+18//j.M/700/"High/Air"/7/6/Until L///1//
+19//j.H/1000/"High/Air"/10/6/Until L///2//
+20//j.U/1000/All/20/Until L+1/12//KD/2//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/0/Throw/14/3/41//+7/0, 4//X-Seele
+1//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/1000→800/All/22//Total 53/-7/-3/2//L Anzünden
+1//236M/1000→800 [1300→1100]/All/22//Total 53/-7/-3[KD]/2//M Anzünden
+2//236H/500x3→400x3 [600×3→500×3]/All/19//Total 53/0/-4[HKD]/2//H Anzünden
+3//623L/600, 400/Mid, All/6/2(2)6/27/-16/KD/4, 3//L Platzen
+4//623M/300,500,300 [300,500,100×5]/Mid×2, All/9/17[21]/37[49]/-24[-40]/KD/4/1~???/M Platzen
+5//623H/300,600,200×3 [300,700,100×7]/Mid/11/26[28]/40[43]/-24 [-32]/KD/4/1~??? All/H Platzen
+6//214L///11//Total 32/////L Lord's Strike
+7//214M///11//Total 32/////M Lord's Strike
+8//214H///11//Total 27/////H Lord's Strike
+9//214L > L/800/Low/7/3/18/-4/0/2//L Schneiden
+10//214M > L/800 [850]/Low/7/3/18/-4/0[KD]/2//M Schneiden
+11//214H > L/1200 [1300]/Low/7/3/18/-4/0[KD]/2//H Schneiden
+12//214L > M/1400/Mid/20/6/20/+3/KD/4//L Macht
+13//214M > M/1400 [1600]/Mid/20/6/20/+3/KD[KD]/4//M Macht
+14//214H > M/2100 [2300]/Mid/17/6/20/+3/KD/3//H Macht
+15//214L > H/1400/Mid/10/3/52/-16/KD/4//L Zerreissen
+16//214M > H/1400 [2000→1700]/Mid/10 [4]/3[9]/52/-16[-4]/KD/4//M Zerreissen
+17//214H > H/2100 [2700→2400]/Mid/9 [4]/3/52/-16[-4]/KD/4//H Zerreissen
+18//22L/800/Mid/11/9/12/-8/KD/1//L Träumerei
+19//22M/800/Mid/11/19/12/-18/KD/1//M Träumerei
+20//22H/1200/Mid/11/34/12/-34/KD/1//H Träumerei
+21//22U/1600/Mid/9/-/-/-60/HKD/4//Ultimate Träumerei
+22//236U/1200/All/11///+2/+6/4//Ultimate Anzünden
+23//623U/800+100+50x6+200+600(2000)/All/8//Total 53/-34/HKD/4/1~??? All/Ultimate Platzen
+24//214U/2800 [3400-6000]/All/12///+4/HKD/4//Ultimate Zerreissen
+25//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/4500→3500/Mid [Unblockable]/6+7~146/6/30/-18/HKD/4/1-??? All/Lohenwolf
+1//236236U/5520→6240 [3000]/Mid, All/9+7/37~91/Total 143~197/-18/HKD/4//Feuerrote Krone
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

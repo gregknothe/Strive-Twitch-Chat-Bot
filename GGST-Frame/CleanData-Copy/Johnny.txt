@@ -39,4 +39,4 @@
 37/632146H/11/3/60/-44/4/Super/
 38/236236S/7/Until Hit/Total 48/-16/4/Super/
 39/236D/16/3/20/-4/4/Special/All
-40/236[D]/28/3/20/-4/4/Special/All
+40/236[D]/29/3/20/-4/4/Special/All

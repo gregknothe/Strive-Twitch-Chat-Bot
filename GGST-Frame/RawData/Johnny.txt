@@ -1,50 +1,50 @@
 /Unnamed: 0/Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//5P/23/All/6/4/8/-2/+1///////
-1//5K/29/All/7/5/9/-2/+1///////
-2//c.S/41/All/7/6/10/+1/+4///////
-3//f.S/32/All/9/3/22/-11/-8///////
-4//5H/43/All/13/4/30/-15/0///////
-5//5D/45/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
-6//5[D]/56/High/28/3/26/-10/KD +36/2/Mid//100%/1875/1500 [1000]/
-7//2P/20/All/5/3/9/-2/+1///////
-8//2K/24/Low/6/3/11/-2/+1///////
-9//2S/30/Low/11/3/21/-10/-7///////
-10//2H/20, 25/All/18/3(10)3/30/-14/-11///////
-11//2D/22, 17/Low/10/3(3)3/26/-15/HKD///////
-12//j.P/21/High/7/4/10/////////
-13//j.K/23/High/8/4/10/////////
-14//j.S/29/High/10/2/22/////////
-15//j.H/43/High/15/4/25/////////
-16//j.D/46/High/8/7/25/////////
-17//6P/33/All/11/6/17/-9/KD///1~3F Upper Body 4~15F Above Knee////
-18//6K/31/All/15/4/18/-5////////
-19//6H/53/All/18/2/36/-19/-16//Large/////
+0//5P/23/All/6/4/8/-2/+1/0/Small//80%/500/1500/
+1//5K/29/All/7/5/9/-2/+1/1/Small//90%/1000/1000/
+2//c.S/41/All/7/6/10/+1/+4/3/Mid//100%/2000/1000/
+3//f.S/32/All/9/3/22/-11/-8/2/Mid//90%/1500/1000/
+4//5H/43/All/13/4/30/-15/0/4/Large//90%/2500/1000/
+5//5D/45/High/20/3/26/-15/0/2/Mid/none/80%/1125/3000 [1000]/
+6//5[D]/56/High/28/3/26/-10/KD +36/4/Mid/none/100%/1875/1500 [1000]/
+7//2P/20/All/5/3/9/-2/+1/0/Small//80%/500/1500/
+8//2K/24/Low/6/3/11/-2/+1/1/Small//70%/750/1000/
+9//2S/30/Low/11/3/21/-10/-7/2/Mid//90%/1125/1000/
+10//2H/20, 25/All/18/3(10)3/30/-14/KD/4/Large//90%/1200×2/1000/
+11//2D/22, 17/Low/10/3(3)3/26/-15/HKD +42/2/Large//90%/525×2/1000/
+12//j.P/21/High/7/4/10///0/Small//80%/375/1000/
+13//j.K/23/High/8/4/10///1/Small//80%/750/1000/
+14//j.S/29/High/10/2/22///2/Mid//80%/1125/1000/
+15//j.H/43/High/15/4/25///2/Mid//80%/1125/1000/
+16//j.D/46/High/8/7/25//KD/2/Mid//80%/1125/1000/
+17//6P/33/All/11/6/17/-9/KD/2/Mid/1-3 Upper Body 4-16 Above Knee/90%/1500/1000/
+18//6K/31/All/15/4/18/-5/KD/3/Mid//90%/2000/1000/
+19//6H/53/All/18/2/36/-19/-16/4/Large//90%/2500/1000/
 20//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
-0//"214[P/K/S]"///7/-/-/////////Mist Finer Stance
-1//"j.214[P/K/S]"///7/-/-/////////Mist Finer Stance
-2//214]P[/36/All/7+5/2/30/-15/KD///////Mist Finer (Upward)
-3//214]K[/36/All/7+5/2/30/-15/KD///////Mist Finer (Horizontal)
-4//214]S[/36/Low/7+5/2/30/-15/KD///////Mist Finer (Downward)
-5//j.214]P[/36/High/7+5/2/Until Landing + 13//KD///////Air Mist Finer (Upward)
-6//j.214]K[/36/High/7+5/2/Until Landing + 13/////////Air Mist Finer (Horizontal)
-7//j.214]S[/36/High/7+5/2/Until Landing + 13/////////Air Mist Finer (Downward)
-8//H or D///-/-/15/////////Mist Finer Cancel
-9//Mist Finer 66///-/-/25/////////Mist Finer Dash (Forward)
-10//Mist Finer 44///-/-/25/////////Mist Finer Dash (Backward)
-11//Card hit by Mist Finer/33/All/17/6//+24~+27/KD///////Turn Up
-12//"236P/K/S"///-//32 Total/////////Deal
-13//j.236H/32, 23/All/15/2, Until Land/17//KD///////Air Deal
-14//236H///-//38 Total/////////Vault
-15//236HH/32, 23/All////////////Vault Deal
-16//214H/45/All/18/3/20/-4////////Ensenga
+0//"214[P/K/S]"///7///////////Mist Finer Stance
+1//"j.214[P/K/S]"///7///////////Mist Finer Stance
+2//214]P[/36/All/7+5/2/30/-15/KD/3/Very Small//90%/2000/2000/Mist Finer (Upward)
+3//214]K[/36/All/7+5/2/30/-15/KD/3/Very Small//90%/2000/2000/Mist Finer (Horizontal)
+4//214]S[/36/Low/7+5/2/30/-15/HKD +48/3/Very Small//90%/1500/1000/Mist Finer (Downward)
+5//j.214]P[/36/High/7+5/2/Until Landing+12//KD/3/Very Small//80%/1500/1000/Air Mist Finer (Upward)
+6//j.214]K[/36/High/7+5/2/Until Landing+12//KD/3/Very Small//80%/1500/1000/Air Mist Finer (Horizontal)
+7//j.214]S[/36/High/7+5/2/Until Landing+12//KD/3/Very Small//80%/1500/1000/Air Mist Finer (Downward)
+8//H or D/////15/////////Mist Finer Cancel
+9//Mist Finer 66/////25/////////Mist Finer Dash (Forward)
+10//Mist Finer 44/////25/////////Mist Finer Dash (Backward)
+11//Card hit by Mist Finer/33/All (Guard Crush)/16/6//+24~+27/KD//Very Small//80%/500/2000/Turn Up
+12//"236P/K/S"/////Total 32/////////Deal
+13//j.236H/32, 23/All/15/2, Until Card Lands+2/Until Landing+22//KD/2/Very Small//90%, 80%/1500, 500/2000, 1000/Air Deal
+14//236H/////Total 31+7 Landing/////////Vault
+15//236HH/32, 23/All/3/2, Until Card Lands+2/Until Landing+22//KD/2/Very Small//90%, 80%/1500, 500/2000, 1000/Vault Deal
+16//214H/45/All/18/3/20/-4/KD/4/Mid//90%/2500/2000/Ensenga
 17//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146H//All/9+2/3/60/-44/KD///1~15F Full////That's My Name
-1//236236S//All/6+1/15/27/-16/KD///////Joker Trick
+0//632146H/42, 100/All/9+2/3/60/-44/HKD/4/Very Small/1-15F Full/100%///That's My Name
+1//236236S/42, 90/All/6+1/Until Hit/Total 48/-16/HKD/4/Very Small//100%///Joker Trick
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0///80/Ground Throw/2/3///HKD +??////Forced 50%//2500/Ground Throw
-1///80/Air Throw/2/3/?? or Until Landing+10//HKD +?? (IAD)////Forced 50%//2500/Air Throw
-2///30/All/16/3/20/-4/-1///////Wild Assault
-3///50/All/28/3/20/-4////////Wild Assault
-4/////////HKD +23//////1000/Finish Blow
+0///80/Ground Throw/2/3/38//HKD +58////Forced 50%//2500/Ground Throw
+1///80/Air Throw/2/3/38 or Until Landing+10//HKD +?? (IAD)////Forced 50%//2500/Air Throw
+2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/4000/Wild Assault
+3///50/All/29/3/20/-4/HKD/4/Mid//100%/2500/3000/Wild Assault (Hold)
+4///80//12////HKD +23//////1000/Finish Blow
 5///////Total 22/////////Dash Cancel
 6///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

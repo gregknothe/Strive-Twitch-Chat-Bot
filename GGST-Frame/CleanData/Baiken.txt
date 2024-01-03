@@ -16,12 +16,12 @@
 14/6P/9/5/19/-10/2/Normal/Special,Super
 15/6K/12/9/10/-5/2/Normal/Special,Super
 16/6H/20/8/24/-13/4/Normal/Special,Super
-17/2D/10/63/21/-10/2/Normal/Special,Super
+17/2D/10/6, 3/21/-10/2/Normal/Special,Super
 18/5D/20/3/26/-15/2/Normal/
 19/5[D]/28/3/26/-10/4/Normal/
 20/236K/15/3 (13) 13/5/-3/0/Special/
 21/j.236K/20/Until Tatami Lands/Until Landing+7/15/2/jump Special/
-22/41236S/31/11/16/2/4/Special/
+22/41236S/29/10/15/3/4/Special/
 23/41236H/18/11/19/-3/4/Special/
 24/41236H~H/11/3/14 (23 on block)/-7/3/Special/
 25/j.236S/9/12/7 after Landing/-14/2/jump Special/

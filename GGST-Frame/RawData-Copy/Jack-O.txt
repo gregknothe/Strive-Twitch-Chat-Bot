@@ -5,7 +5,7 @@
 3//f.S/32/All/11/6/17/-9/-6/2/Mid/none/90%/1500/1000/
 4//5H/24×2/All/10/3(3)2/23/-6/KD +28/4/Large×2/none/90%/1200×2/1000/
 5//2P/21/All/5/4/9/-3/0/0/Small/none/80%/500/1500/
-6//2K/24/Low/6/3/12/-3/+0/1/Small/F6~20 Low-profile/70%/750/1000/
+6//2K/24/Low/6/3/12/-3/+0/1/Small/F6-20 Low-profile/70%/750/1000/
 7//2S/31/All/9/7/22/-15/-12/2/Mid/none/90%/1500/1000/
 8//2H/41/All/15/6/18/-5/KD +37/4/Large/none/90%/2500/1000/
 9//j.P/19/High/6/4/6/+1 (IAD)/+4 (IAD)/0/Small/none/80%/375/1000/
@@ -27,7 +27,7 @@
 5//214P//-/10//Total 19/////none////Recover Servant
 6//214K/50/All/12/6/Total 23/+15/KD +62/2/Very Small/none/80%/500/2000/Attack Command
 7//K while holding Servant/50/All/12/6/Total 23/+3/KD +50/2/Very Small/none/80%/500/2000/Held Attack Command
-8//214S/33//4/34/Total 24/+31/KD +54/1//none/60%/All/1000/Defend Command
+8//214S/33//4/28/Total 30/+25/KD +48/1//none/60%/All/1000/Defend Command
 9//S while holding Servant/33//4/28/Total 24/+31/KD +54/1//none/60%/500/1000/Held Defend Command
 10//214H/80/All/3+180+25/19/Total 24//KD/3/Very Small/none/80%/500/1000/Countdown
 11//236K/31/All/15/4/25/-12/KD +22/3/Mid/none/90%/2000/1000/Servant Shoot
@@ -35,13 +35,13 @@
 13//Bounced Servant/30/All/6/////0/Very Small/none/80%/500/1000/Servant
 14//Launched Servant/45 [50]/All/6///-6/-3/0/Very Small/none/80%/500/1000/Servant
 15//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146P/149/All/10+1/2/58/-41/HKD +59/4/None/1~12F All, 1~55F Throw/100%/2500/1000/Forever Elysion Driver
-1//236236S//-/3/300/Total 15/See Notes/-///Jack-O: None Servants: 4~14F Full////Cheer Servant On (S)
-2//236236H//-/3/300/Total 15/See Notes/-///Jack-O: None Servants: 4~14F Full////Cheer Servant On (H)
+0//632146P/149/All/10+1/2/58/-41/HKD +59/4/None/1-12F Full, 1-55F Throw/100%/2500/1000/Forever Elysion Driver
+1//236236S//-/3/300/Total 15/See Notes/-///Jack-O: None Servants: 4-14F Full////Cheer Servant On (S)
+2//236236H//-/3/300/Total 15/See Notes/-///Jack-O: None Servants: 4-14F Full////Cheer Servant On (H)
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +60///none/50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +48 (IAD)///none/50%//2500/Air Throw
-2///30/All/20/3/20/+12/+22/4/Mid//90%/2500/3000/Wild Assault
+2///30/All/20~31/3/20/+12/Stagger +12/4/Mid//90%/2500/3000/Wild Assault
 3///50//32/3/20/+17/HKD +71/4/Mid//100%/2500/2000/Wild Assault
 4///80//12/2///HKD +23/4/////1000/Finish Blow
 5///////Total 22/////////Dash Cancel

@@ -2,7 +2,7 @@
 0//5P/18/All/5/4/8/-2/+1/0/Small//80%/500/1500/
 1//5K/24/Low/8/4/10/-2/+1/1/Small//70%/750/1000/
 2//c.S/30/All/8/6/10/+1/+4/3/Mid//100%/2000/1000/
-3//f.S/20×2/All/10/2×3/23/-12/-9/2/Mid//90%/700×2/1000/
+3//f.S/20×2/All/10/33/23/-12/-9/2/Mid//90%/700×2/1000/
 4//5H/48/All/13/9/19/-9/-6/4/Large//90%/2500/1000/
 5//2P/18/All/6/4/9/-3/0/0/Small//80%/500/1500/
 6//2K/26/Low/6/2/13/-3/0/1/Small//70%/750/1000/
@@ -27,12 +27,12 @@
 4//236K/20×4/All/27 [31]///+55/KD +89/2/Very Small//80%/100×4/1000/That's a lot
 5//]S[/20, 50/All/13/11(6)9/34//KD/3/Very Small//80%/200×2/1000/Leap
 6//236S/20, 50/All/21 [25]/11(6)9/34/+46/HKD +107/3/Very Small//80%/200×2/1000/Leap
-7//]H[/30×3/All/66/3×6/(Summon Vanishes)//KD/4/Very Small/8~59 Guardpoint/80%/100×3/1000/Oppose
-8//236H/30×3/All/74 {78}/3×6/(Summon Vanishes) [36 Zato]//KD/4/Very Small/16~67 {20~71} Guardpoint/80%/100×3/1000/Oppose
-9//623S/1x13, 69 [82]/Ground Throw/6/2/38//HKD +7///1~7 Throw/50%//2500/Damned Fang
-10//214K///13/8~59/Total 28~95/////13~[13~71] Full 14~[21~77] Strike////Break The Law
+7//]H[/30×3/All/66/3×6/(Summon Vanishes)//KD/4/Very Small/8-59F Guardpoint/80%/100×3/1000/Oppose
+8//236H/30×3/All/74 {78}/3×6/(Summon Vanishes) [36 Zato]//KD/4/Very Small/16-67 {20-71} Guardpoint/80%/100×3/1000/Oppose
+9//623S/1x13, 69 [82]/Ground Throw/6/2/38//HKD +7///1-7F Throw/50%//2500/Damned Fang
+10//214K///13/8~59/Total 28~95/////13-[13~71] Full 14-[21~77] Strike////Break The Law
 11//22 During 214K(HOLD)//////////////Eddie Swap
-12//214S/31/All/9/10/12/-8/-5/2/Mid/3~18 Reflect/90%/1500/1000/Drunkard Shade
+12//214S/31/All/9/10/12/-8/-5/2/Mid/3-18F Projectile Reflect/90%/1500/1000/Drunkard Shade
 13//214S (Dash)///30 Total///////////Eddie Dash
 14//214H///20///////////Summon Eddie
 15//214H///0///////////Unsummon Eddie
@@ -41,9 +41,9 @@
 1//632146S/20×3/All/11+14///+3/KD +61/4///100%/100×3/1000/Sun Void
 2//j.632146S/20×3/All/11+14////KD/4///100%/100×3/1000/Sun Void
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0///80/90000/2/3/38//HKD +43////50%//2500/Ground Throw
+0///80/Ground Throw/2/3/38//HKD +43////50%//2500/Ground Throw
 1///80/200000 (Air)/2/3/38 or Until Landing + 10//HKD +45 (IAD)////50%//2500/Air Throw
-2///30/All/20/3/20/+12/+22/4/Mid//90%/2500/3000/Wild Assault
+2///30/All/20~31/3/20/+12/Stagger +12/4/Mid//90%/2500/3000/Wild Assault
 3///50//32/3/20/+17/HKD +71/4/Mid//100%/2500/2000/Wild Assault
 4///////Total 26/////////Dash Cancel
 5////////////////Flight

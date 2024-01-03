@@ -11,7 +11,7 @@
 9/j.P/5/4/8/2 (IAD j.PPP)/0/jump Normal/j.P,j.2K,Special,Super
 10/j.K/6/2(3)2/8/1 (IAD)/1/jump Normal/j.2K,j.D,ForwardAirDash,Special,Super
 11/j.S/9/4/18/1 (IAD)/2/jump Normal/j.H,j.D,ForwardAirDash,Special,Super
-12/j.H/8/3×4/17/4/2/jump Normal/j.D,ForwardAirDash,Special,Super
+12/j.H/8/66/17/4/2/jump Normal/j.D,ForwardAirDash,Special,Super
 13/j.D/8/4/22/0 (IAD)/2/jump Normal/ForwardAirDash,Special,Super
 14/6P/9/5/25/-16/2/Normal/Special,Super
 15/6K/28/5/7/2/2/Normal/Special
@@ -24,8 +24,8 @@
 22/j.236P/29/3/33//1/jump Special/
 23/236K/27/3/17/-2/1/Special/
 24/j.236K/28/3/21/-6/1/jump Special/
-25/623S/9/20/23/-27/2/Special/
-26/j.623S/9/20/Until Landing+8//2/jump Special/
+25/623S/9/2, 18/23/-27/2/Special/
+26/j.623S/9/2, 18/Until Landing+8//2/jump Special/
 27/236H/25/7/Total 42/9/2/Special/
 28/236S/13/5/16/-4/3/Special/236S 236S,236S 236K
 29/236S 236S/8/2/21/-6/3/Rekka Followup/
@@ -36,4 +36,4 @@
 34/632146H/21/58~64/49~53///Super/
 35/j.632146H/14/54~64/Until Landing+20///jump Super/
 36/236D/16/3/20/-4/4/Special/All
-37/236[D]/28/3/20/-4/4/Special/All
+37/236[D]/29/3/20/-4/4/Special/All

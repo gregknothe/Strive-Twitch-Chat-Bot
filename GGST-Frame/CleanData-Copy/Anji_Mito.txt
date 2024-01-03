@@ -14,7 +14,7 @@
 12/j.H/13/3/27/5 (IAD)/2/jump Normal/j.D,Jump,ForwardAirDash
 13/j.D/8/6/18//3/jump Normal/Jump,ForwardAirDash
 14/6P/10/6/25/-17/2/Normal/Special,Super
-15/6H/16/3(3)3(4)4/21/-8/2,2,3/Normal/Special,Super
+15/6H/12/3(3)3(4)4/21/-8/2,2,3/Normal/Special,Super
 16/2D/10/3/22/-11/2/Normal/Special,Super
 17/5D/20/3/26/-15/2/Normal/
 18/5[D]/28/3/26/-10/4/Normal/
@@ -32,4 +32,4 @@
 30/632146S Attack Near/3/////Super/
 31/632146S Attack Far/3///-1//Super/
 32/236D/16/3/20/-4/4/Special/All
-33/236[D]/28/3/20/-4/4/Special/All
+33/236[D]/29/3/20/-4/4/Special/All

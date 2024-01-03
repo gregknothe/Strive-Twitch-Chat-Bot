@@ -1,0 +1,52 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/Mid/5/3/6/+4/+8/0//
+1//c.M/1100/Mid/7/3/12/0/+4/2//
+2//c.H/1400/Mid/8/5/16/-2/+2/4//
+3//c.XX/700/Mid/9/12/16/-3/+1/2//
+4//c.XXX/1000/Mid/12/3/18/-4/0/3//
+5//c.XX6M/1000/Low/12/3/16/-4/+30 SKD/3//
+6//c.XX6H/1000/High/18/3/22/-4/+1/3//
+7//f.L/600/Low/6/4/8/+1/+5/1//
+8//f.M/900/Mid/9/3/18/-6/-2/2//
+9//f.H/400, 900/Mid/8 [22]/5(9)2/24/-6/-5/3//
+10//2L/400/Low/6/3/10/-2/+2/0//
+11//2M/900/Mid/6/3/16/-4/0/2//
+12//2H/1300/Mid/11/23/24/-12/-8/3//
+13//2U/1000/Low/9/37/16/-11/HKD/2//
+14//66L/600/Mid/8/3/10/+2//2//
+15//66M/-/High/22/3/28/-14/+17 SKD/2//
+16//66H/-/Mid/15/4/19/-4/-/2//
+17//j.L/600/"High/Air"/5/Until L/0///1//
+18//j.M/800/"High/Air"/6/6/Until L///2//
+19//j.H/1000/"High/Air [All]"/11/6/Until L///2//
+20//j.U/300*x/"Mid/All"/10/Until L/10 landing///2//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/-/-/-/-/Total 24/-/-/-//Galewing
+1//XU/-/Mid/10/3/16/-2/+7/-//Gale Dash
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L//Mid/17/13/48/-7/-3///L Dancing Storm
+1//236M//Mid/21/23/52/-7/-3///M Dancing Storm
+2//236H//Mid/17/33/48/+3/+7///H Dancing Storm
+3//236X4X//Mid/1/60/38/-11/-7///"L/M Wind Shift"
+4//236X6X//Mid/1/19/34/-7////"L/M Wind Shift"
+5//236X8X//Mid/1/19/32/-5////"L/M Wind Shift"
+6//236H4X//Mid/1/120/38/-1////H Wind Shift
+7//236H6X//Mid/1/19/34/+2////H Wind Shift
+8//236H8X//Mid/1//32/+5////H Wind Shift
+9//623L//Mid/11/18/15/-6////L Winds of Temptation
+10//623M//Mid/11/24/24/-15////M Winds of Temptation
+11//623H//Mid/11/24/24/-1 air////H Winds of Temptation
+12//214L//Mid/14/9/18/-4////L Deathrite Tempest
+13//214M//Mid/20/12/15/-10////M Deathrite Tempest
+14//214H//Mid/16/9/21/-13////H Deathrite Tempest
+15//j.214L//Mid/7/Until L/17/-3////L Voidlight Erasure
+16//j.214M//Mid/18/Until L/17/-3////M Voidlight Erasure
+17//j.214H//Mid/13/21/1 After L/-3////H Voidlight Erasure
+18//22L///29///////L Wind Crest
+19//22M///29///////M Wind Crest
+20//22H///40///////H Wind Crest
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/2500→2000/All/7+5/44/112/-28/HKD///Holy Ray of Purification
+1//214214H///8//10/////Grace of the Radiant
+2//236236U/4500→3500/Mid→All/8+5/7/42/-18/HKD///Terminal Vortex
+3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

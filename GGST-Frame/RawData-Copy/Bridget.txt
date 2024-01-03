@@ -6,11 +6,11 @@
 4//S/40/All/12/4/27/-14/KD +24 [+30]/3/Mid//90%/2000/2000/
 5//5H/38/All/11/5/29/-17/-14/3/Large//90%/2000/1000/
 6//H/40/All/12/4/26/-13/KD +25 [KD +31]/3/Mid//90%/2000/2000/
-7//5D/50/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
-8//5[D]/62/High/28/3/26/-10/KD +36/4/Very Small//100%/1875/1500 [1000]/
+7//5D/50/High/20/3/26/-15/0/2/Mid/none/80%/1125/3000 [1000]/
+8//5[D]/62/High/28/3/26/-10/KD +36/4/Very Small/none/100%/1875/1500 [1000]/
 9//6P/27/All/10/6/20/-12/KD +23/2/Mid/1-3 Upper Body 4-17 Above Knee/90%/1500/1000/
-10//6K/29/All/12/5/13/-4/-1/2/Mid//90%/1500/1000/
-11//6H/45/All/13/9/13/-12/KD +27 [KD +37]/3/Large/13~??F Airborne/90%/2000/1000/
+10//6K/29/All/11/5/13/-4/-1/2/Mid//90%/1500/1000/
+11//6H/45/All/13/9/13/-12/KD +27 [KD +37]/3/Large/13-??F Airborne/90%/2000/1000/
 12//2P/18/All/7/4/9/-3/0/0/Small//80%/500/1500/
 13//2K/18/Low/5/3/11/-2/+1/1/Small//70%/750/1000/
 14//2S/14×2/Low/11/3, 3/20/-9/-6/2/Mid//90%/525×2/1000/
@@ -22,23 +22,23 @@
 20//j.H/34/High/10/4/22/+2 (IAD)/+5 (IAD)/2/Mid//80%/1125/1000/
 21//j.D/16×3/High/15/18/16/+0 (IAD)/KD/2/Mid//80%/375×3/1000/
 22//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
-0//"236S/H"/40/All/15/21/3/-4/-1/2/Very Small//80%/500/1000/Stop and Dash
+0//"236S/H"/40/All/15/21/Total 38/-4/-1/2/Very Small//80%/500/1000/Stop and Dash
 1//"214S/H"/40/All/130/~/Total 30/~/~/2/Very Small//80%/500/1000/Stop and Dash
 2//214K/32/All/20~38/Until Landing/0/+16 (Airborne)/+19 (Airborne)/3/Very Small/5F onwards Airborne/90%/2000/1000/Rolling Movement
-3//623P/16×4/All/9/3333/39/-28/KD +11/2/Large/1~11F Strike/60%/300×4/1000/Starship
+3//623P/16×4/All/9/3333/39/-28/KD +11/2/Large, Very Small×3/1-11F Strike/60%/300×4/1000/Starship
 4//236K/29/All/10/25/9/-20~+4/-17~+4/2/Very Small//80%/1500/1000/Kick Start My Heart
 5//236K P/21/All/7/7/19/-6/KD +35/2/Very Small//80%/500/2000/Brake
-6//236K K/37/All/3/20/29/-35/KD +15/2/Very Small/3~30F Airborne/80%/1500/1000/Shoot
+6//236K K/37/All/3/20/29/-35/KD +15/2/Very Small/3-30F Airborne/80%/1500/1000/Shoot
 7//j.236K/25, 35/All/25/Until Landing, 4/15/-5/KD +30/2/Very Small//80%/700×2/1000/Roger Dive
-8//63214P/90/Ground Throw/27/2/28//HKD +55/4//4~20F Airborne/50%//2500/Rock the Baby
+8//63214P/90/Ground Throw/27/2/28//HKD +55/4//4-20F Airborne/50%//2500/Rock the Baby
 9//j.63214P/90/Air Throw [Ground Throw]/27-37 [or, 7 after landing]/2/Until Landing + 3 [28]//HKD +60 (IAD)/4///50%//2500/Air Rock the Baby
 10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146S/[9, 1]×6, 9, 71/Mid/9+2/45/47/-29/HKD +53/2/Mid//100%/[300, 100]×7/1000×2/Loop the Loop
+0//632146S/[9, 1]×6, 9, 71/Mid/9+2/45/47/-29/HKD +53/2/Mid//100%/[300, 100]×7/1000/Loop the Loop
 1//632146H/15×7/All/9+1/~/~/+16/HKD +74/2/Very Small//100%/100×5/1000/Return of the Killing Machine
 2//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///70/Ground Throw (90000)/2/3/38//HKD +46////50%//1000/Ground Throw
 1///70/Air Throw/2/3/38 or Until Landing+10//HKD +55 (IAD)////50%//1000/Air Throw
-2///30/All/20~31/3/20/+12/+22/4/Mid//90%/2500/3000/Wild Assault
+2///30/All/20~31/3/20/+12/Stagger +12/4/Mid//90%/2500/3000/Wild Assault
 3///50/All/32/3/20/+17/HKD +71/4/Mid//100%/2500/2000/Wild Assault
 4///80//////KD +23/4/////1000/Finish Blow
 5///////Total 22/////////Dash Cancel

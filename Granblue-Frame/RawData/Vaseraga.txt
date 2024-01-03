@@ -1,0 +1,51 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/500/Mid/7/3/5/+3/+7/0//
+1//c.M/1100/Mid/8/3/11/+3/+7/3//
+2//c.H/1900/Mid/15 [35]/6/21/-4/0/4//
+3//c.XX/400/Mid/9/3/15/-3/+1/2//
+4//c.XXX/400/Mid/12/3/18/-4/0/3//
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.L/700/Mid/8/4/10/+1/+5/2//
+8//f.M/900/Mid/11/6/15/-4/0/3//
+9//f.H/1300/Mid/17 [37]/6/30/-15/-11/4//
+10//2L/400/Mid/6/3/6/+2/+6/0//
+11//2M/700/Low/9/4/17/-6/HKD/2//
+12//2H/1100/Mid/13 [33]/6/26/-13/-9/4/H/
+13//2U/900/Low/16/3/24/-12/HKD/3//
+14//66L/-/Mid/-/-/-/-/-/2//
+15//66M/-/High/-/-/-/-/-/2//
+16//66H/-/Mid/-/-/-/-/-/2//
+17//j.L/400/"High/Air"/5/Until L/0///1//
+18//j.M/700/"High/Air"/12/6/Until L///3//
+19//j.H/900/"High/Air"/12/6/Until L///4//
+20//j.U/800/Mid/Until L+2/3/15///3//
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/1000/Mid/21/3/22/-11/+14/3/=Soul Forge: 5~23 Armor/Soul Forge
+1//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//214L/800/All/22/18/Total 51/-3/+1/2//L Instinction
+1//214M/400, 800/Mid, All/12/3/35/-9/KD/3, 2//M Instinction
+2//214H/400, 800/Mid, All/9/3/23/+3/HKD/3, 2//H Instinction
+3//[4]6L/1300/Mid/19/18/15/-8/HKD/4//L Battalions of Fear
+4//[4]6M/1800/Mid/26 [51]/16/17/-8/KD/4/Soul Forge: 5~41 Armor/M Battalions of Fear
+5//[4]6H/1000×2/Mid/26 [76]/12(9)12/17/-4/KD/4/Soul Forge: 5~58 Armor/H Battalions of Fear
+6//632146L/2000/Throw/12/3/39//KD/0, 4//L Great Scythe Grynoth
+7//632146M/2500/Airthrow/9/3/39//KD/0, 4//M Great Scythe Grynoth
+8//632146H/3000/Throw/26/3/39//HKD/0, 4//H Great Scythe Grynoth
+9//22L///22///////L Savage Rampage
+10//22M///22///////M Savage Rampage
+11//22H///15/2(25)2(25)2(25)2//+6/+10///H Savage Rampage
+12//22X > L/1500/Mid/12 [32]/3/21/+1 [+2]/KD/4/Soul Forge: 1~14 Armor/Rising Slash
+13//22X > M/1500/Low/16 [36]/6/29/-10/KD/4/Soul Forge: 1~21 Armor/Sweeping Slash
+14//22X > H/2000/Mid/15 [40]/2/31/-4 [+16]/KD/4/Soul Forge: 1~16 Armor/Crushing Strike
+15//22X > U/2000/Mid/20 [40]/6/30/-11/HKD/4/Soul Forge: 1~25 Armor/Ravaging Stomp
+16//22X > 66/500×4/Mid/16/2(30)2(30)2(30)2(30)////1//March
+17//22X > 44/////Total 18/////Cancel
+18//214U/800/All/22/18/Total 51/-3/+1/2//Ultimate Instinction
+19//[4]6U/800/All/22/18/Total 51/-3/+1/2//Ultimate Battalions of Fear
+20//632146U/800/All/22/18/Total 51/-3/+1/2//Ultimate Great Scythe Grynoth
+21//22U/800/All/22/18/Total 51/-3/+1/2//Ultimate Savage Rampage
+22//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/3900→2600/Mid/8+5/18/40/-26/HKD/4/1~15 All/Bloody Moon
+1//236236U/5000→3500/Mid/8+7/6/52/-27/HKD/4/1~20 Throw, 1~20 Guard All/Aftermath
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

@@ -1,6 +1,6 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
 0/5P/4/3/9/-2/0/Normal/5P,2P,6P,6H,Special,Super
-1/5K/6/4/10/-2/1/Normal/6P,6H,5D,2D,Jump,ForwardDash,Special,Super
+1/5K/6/2/12/-2/1/Normal/6P,6H,5D,2D,Jump,ForwardDash,Special,Super
 2/c.S/7/6/10/3/4/Normal/6P,f.S,2S,5H,2H,6H,5D,2D,Jump,ForwardDash,Special,Super
 3/f.S/9/2(6)2(6)2/16/-4/2/Normal/5H,2H,Special,Super
 4/5H/10/3/19/-5/3/Normal/Special,Super
@@ -29,4 +29,4 @@
 27/632146H/9/4(4)4(4)4(4)4(4)7/49/-37/4/Super/
 28/j.236236H/4/Until L//0/3/jump Super/
 29/236D/16/3/20/-4/4/Special/All
-30/236[D]/28/3/20/-4/4/Special/All
+30/236[D]/29/3/20/-4/4/Special/All

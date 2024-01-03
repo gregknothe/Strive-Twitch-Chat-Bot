@@ -1,42 +1,42 @@
 /Input/Startup/Active/Recovery/On-Block/Level/Type/Cancels
-0/5P/6/4/8/-2//Normal/5P,2P,6P,6K,6H,Special,Super
-1/5K/7/5/9/-2//Normal/6P,6K,6H,5D,2D,Jump,Special,Super
-2/c.S/7/6/10/1//Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
+0/5P/6/4/8/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
+1/5K/7/5/9/-2/1/Normal/6P,6K,6H,5D,2D,Jump,Special,Super
+2/c.S/7/6/10/1/3/Normal/6P,6K,f.S,2S,5H,2H,6H,5D,2D,Jump,Special,Super
 3/f.S/9/3/22/-11/2/Normal/5H,2H,Special,Super
-4/5H/13/4/30/-15//Normal/Special,Super
+4/5H/13/4/30/-15/4/Normal/Special,Super
 5/5D/20/3/26/-15/2/Normal/
-6/5[D]/28/3/26/-10/2/Normal/
-7/2P/5/3/9/-2//Normal/5P,2P,6P,6K,6H,Special,Super
-8/2K/6/3/11/-2//Normal/6P,6K,6H,5D,2D,Special,Super
-9/2S/11/3/21/-10//Normal/5H,2H,Special,Super
-10/2H/18/3(10)3/30/-14//Normal/Special,Super
-11/2D/10/3(3)3/26/-15//Normal/Special,Super
-12/j.P/7/4/10///jump Normal/j.P,Special
-13/j.K/8/4/10///jump Normal/j.D,ForwardAirDash,Jump,Special
-14/j.S/10/2/22///jump Normal/j.H,j.D,ForwardAirDash,Jump,Special
-15/j.H/15/4/25///jump Normal/j.D,ForwardAirDash,Jump,Special
-16/j.D/8/7/25///jump Normal/
-17/6P/11/6/17/-9//Normal/Special,Super
-18/6K/15/4/18/-5//Normal/Special,Super
-19/6H/18/2/36/-19//Normal/Special,Super
-20/"214[P/K/S]"/7/-/-///Special/
-21/"j.214[P/K/S]"/7/-/-///jump Special/
-22/214]P[/12/2/30/-15//Special/
-23/214]K[/12/2/30/-15//Special/
-24/214]S[/12/2/30/-15//Special/
-25/j.214]P[/12/2/Until Landing + 13///jump Special/
-26/j.214]K[/12/2/Until Landing + 13///jump Special/
-27/j.214]S[/12/2/Until Landing + 13///jump Special/
-28/H or D//-/15///Normal/
-29/Mist Finer 66//-/25///Special/
-30/Mist Finer 44//-/25///Special/
-31/Card hit by Mist Finer/17/6//24//Normal/
-32/"236P/K/S"///32 Total///Special/
-33/j.236H/15/2, Until Land/17///jump Special/
-34/236H///38 Total///Special/
-35/236HH//////Special/
-36/214H/18/3/20/-4//Special/
-37/632146H/11/3/60/-44//Super/
-38/236236S/7/15/27/-16//Super/
+6/5[D]/28/3/26/-10/4/Normal/
+7/2P/5/3/9/-2/0/Normal/5P,2P,6P,6K,6H,Special,Super
+8/2K/6/3/11/-2/1/Normal/6P,6K,6H,5D,2D,Special,Super
+9/2S/11/3/21/-10/2/Normal/5H,2H,Special,Super
+10/2H/18/3(10)3/30/-14/4/Normal/Special,Super
+11/2D/10/3(3)3/26/-15/2/Normal/Special,Super
+12/j.P/7/4/10//0/jump Normal/j.P,Special
+13/j.K/8/4/10//1/jump Normal/j.D,ForwardAirDash,Jump,Special
+14/j.S/10/2/22//2/jump Normal/j.H,j.D,ForwardAirDash,Jump,Special
+15/j.H/15/4/25//2/jump Normal/j.D,ForwardAirDash,Jump,Special
+16/j.D/8/7/25//2/jump Normal/
+17/6P/11/6/17/-9/2/Normal/Special,Super
+18/6K/15/4/18/-5/3/Normal/Special,Super
+19/6H/18/2/36/-19/4/Normal/Special,Super
+20/"214[P/K/S]"/7/////Special/
+21/"j.214[P/K/S]"/7/////jump Special/
+22/214]P[/12/2/30/-15/3/Special/
+23/214]K[/12/2/30/-15/3/Special/
+24/214]S[/12/2/30/-15/3/Special/
+25/j.214]P[/12/2/Until Landing+12//3/jump Special/
+26/j.214]K[/12/2/Until Landing+12//3/jump Special/
+27/j.214]S[/12/2/Until Landing+12//3/jump Special/
+28/H or D///15///Normal/
+29/Mist Finer 66///25///Special/
+30/Mist Finer 44///25///Special/
+31/Card hit by Mist Finer/16/6//24//Normal/
+32/"236P/K/S"///Total 32///Special/
+33/j.236H/15/2, Until Card Lands+2/Until Landing+22//2/jump Special/
+34/236H///Total 31+7 Landing///Special/
+35/236HH/3/2, Until Card Lands+2/Until Landing+22//2/Special/
+36/214H/18/3/20/-4/4/Special/
+37/632146H/11/3/60/-44/4/Super/
+38/236236S/7/Until Hit/Total 48/-16/4/Super/
 39/236D/16/3/20/-4/4/Special/All
-40/236[D]/28/3/20/-4/4/Special/All
+40/236[D]/29/3/20/-4/4/Special/All

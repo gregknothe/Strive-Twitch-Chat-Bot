@@ -1,0 +1,53 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/400/Mid/6/3/8/+2/+6/0//
+1//c.M/700/Mid/7/3/12/0/+4/2//
+2//c.H/400+300+300/Mid/11/222/21/-4/0/4//
+3//c.XX/300/Mid/9/3/15/-3/+1/2//
+4//c.XXX/300/Mid/12/3/18/-4/0/3//
+5//c.XX6M/-/Low/-/-/-/-4/-/3//
+6//c.XX6H/-/High/-/-/-/-4/-/3//
+7//f.L/400/Low/8/6/6/+1/+5/1//
+8//f.M/700/Mid/8/9/15/-7/-3/2//
+9//f.H/800/All/15/15/Total 44/-8/-4/2//
+10//2L/400/Low/6/3/9/-1/+3/0//
+11//2M/700/Mid/8/6/12/-3/+1/2//
+12//2H/800/All/11//Total 40/-8/-4/2//
+13//2U/700/Low/13/15/14/-1 to -14/HKD/2//
+14//66L/-/Mid/-/-/-/-/-/2//
+15//66M/-/Low/-/-/-/-/-/2//
+16//66H/-/Mid/-/-/-/-/-/2//
+17//j.L/400/"High/Air"/6/Until L/0///1//
+18//j.M/300×2/"High/Air"/8/3(5)3/Until L///2//
+19//j.H/800/"High/Air"/13/6/Until L///3//
+20//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U///21//Total 21/////Zephyr
+1//j.U///21//Total 21/////Zephyr
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/800/All/12//Total 43/-5/+2/3//L Starry Sky (High)
+1//236M/800/All/12//Total 43/-5/+2/3//M Starry Sky (High)
+2//236H/350×3/All/12//Total 43/+5/HKD/3//H Starry Sky (High)
+3//j.236L/800/All/22//Until L+6///3//Air L Starry Sky (High)
+4//j.236M/800/All/22//Until L+6///3//Air M Starry Sky (High)
+5//j.236H/350×3/All/22//Until L+6//HKD/3//Air H Starry Sky (High)
+6//214L/800/All/13//Total 43/-7/+1/3//L Starry Sky (Low)
+7//214M/800/All/13//Total 43/-7/+1/3//M Starry Sky (Low)
+8//214H/350×3/All/13//Total 43/+3/HKD/3//H Starry Sky (Low)
+9//j.214L/800/All/22//Until L+6/////Air L Starry Sky (Low)
+10//j.214M/800/All/22//Until L+6/////Air M Starry Sky (Low)
+11//j.214H/350×3/All/22//Until L+6//HKD///Air H Starry Sky (Low)
+12//22L/200×5/All/20//Total 38///4//L Aetherial Seal
+13//22M/200×5/All/20//Total 38///4//M Aetherial Seal
+14//22H/{200×5}×2/All/20//Total 32///4//H Aetherial Seal
+15//623L/800, 150×4/Mid, All×4/22+18//23/+18 ~ +22/+30 ~ +33/2, 4×4//L The Great Fall
+16//623M/800, 150×4/Mid, All×4/18+18//17/+24 ~ +27/+34 ~ +38/2, 4×4//M The Great Fall
+17//623H/800, 150×4/Mid, All×4/15+25//20/+21 ~ +24/+31 ~ +35/2, 4×4//H The Great Fall
+18//236U/800/All/12//Total 43/-5/+2/3//Ultimate Starry Sky (High)
+19//j.236U/800/All/12//Total 43/-5/+2/3//Ultimate Aerial Starry Sky (High)
+20//214U/800/All/12//Total 43/-5/+2/3//Ultimate Starry Sky (Low)
+21//j214U/800/All/12//Total 43/-5/+2/3//Ultimate Aerial Starry Sky (Low)
+22//623U/800/All/12//Total 43/-5/+2/3//Ultimate The Great Fall
+23//22U/800/All/12//Total 43/-5/+2/3//Ultimate Aetherial Seal
+24//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/3500→2500/Mid/8+5/9(12)6,4/55/-67/HKD/4//Dense Caress
+1//236236U/4500→3000/All/5+8//Total 108/-29/HKD/4//Rapid Pulverize
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

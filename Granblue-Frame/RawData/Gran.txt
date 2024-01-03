@@ -1,44 +1,44 @@
 /Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
-0//c.L/400/Mid/5/3/6/+2/+6/0//
-1//c.M/700/Mid/6/3/12/0/+4/2//
-2//c.H/1200/Mid/8/4/18/-3/+1/4//
-3//c.XX/350/Mid/9/3/15/-3/+1/2//
-4//c.XXX/350/Mid/12/4/17/-4/0/3//
-5//c.XX6M/-/Low/-/-/-/-4/-/3//
-6//c.XX6H/-/High/-/-/-/-4/-/3//
-7//f.L/400/Mid/6/3/13/-3/+1/1//
-8//f.M/700/Mid/7/3/18/-6/-2/2//
-9//f.H/1000/Mid/9/5/21/-9/-5/3//
-10//2L/400/Low/6/3/6/+2/+6/0//
-11//2M/700/Mid/7/5/9/+1/+5/2//
-12//2H/1000/Mid/10/6/24/-13/-9/3//
-13//2U/700/Low/7/6/21/-12/HKD/2//
-14//66L/-/Mid/-/-/-/-/-/2//
-15//66M/-/Low/-/-/-/-/-/2//
-16//66H/-/Mid/-/-/-/-/-/2//
-17//j.L/400/"High/Air"/5/Until L/0///1//
-18//j.M/550/"High/Air"/6/7/Until L///1//
-19//j.H/800/"High/Air"/7/6/Until L///2//
-20//j.U/700/"High/Air"/12/8/Until L///2//
+0//c.L/600/Mid/5/-/-/+4/+8/0//
+1//c.M/1100/Mid/6/-/-/0/+4/2//
+2//c.H/1600/Mid/8/-/-/-3/+1/4//
+3//c.XX/700/Mid/9/-/-/-3/+1/2//
+4//c.XXX/700/Mid/12/-/-/-4/0/3//
+5//c.XX6M/1000/Low/12/-/-/-4/KD(+30)/3//
+6//c.XX6H/1000/High/18/-/-/-4/+1/3//
+7//f.L/600/Mid/6/-/-/+1/+5/1//
+8//f.M/900/Mid/7/-/-/-6/-2/2//
+9//f.H/1300/Mid/9/-/-/-9/-5/3//
+10//2L/400/Low/6/-/-/-2/+2/0//
+11//2M/900/Mid/7/-/-/+1/+5/2//
+12//2H/1300/Mid/11/-/-/-13/-9/3//
+13//2U/1000/Low/7/-/-/-12/HKD(+43)/2//
+14//66L/600/Mid/-/-/-/+2/+6/2//
+15//66M/1100/Low/12/-/-/-8/KD(+24)/2//
+16//66H/1200/Mid/15/-/-/-8/+10/2//
+17//j.L/600/"High/Air"/5/Until L/0///1//
+18//j.M/700/"High/Air"/6/-/Until L///1//
+19//j.H/1000/"High/Air"/7/-/Until L///2//
+20//j.U/900/"High/Air"/12/-/Until L///2//
 21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
-0//5U/"1000/1200/1400/1600/2000"/Mid/20/9/13/-5//3//Power Raise
+0//5U/"1300/1600/1900/2200/2500"/Mid/20/-/-/-/KD(+30)/3//Power Raise
 1//5[U] > X/////15/////Cancel
 2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
-0//236L/800/All/15//Total 46/-7/-3/2//L Reginleiv
-1//236M/400, 800/Mid, All/13/4/Total 55/-4/0/2//M Reginleiv
-2//236H/350×3/All/15//Total 46/+3/+7/2//H Reginleiv
+0//236L/800/All/14//Total 45/-7/-3/2//L Reginleiv
+1//236M/400, 800/Mid, All/13/4/Total 55/-4/KD(+24)/2//M Reginleiv
+2//236H/400×3/All/14//Total 45/+3/+7/2//H Reginleiv
 3//214L/700/Mid/13/3/17/-5/-1/2//L Overdrive Surge
-4//214L → 214M/500/Mid/13/13/12/-10/KD/2//L Overdrive Surge Followup
-5//214M/1200/Mid/16/13/14/-10 to +2/-2 to +10/3//M Overdrive Surge
-6//214H/1200/Mid/13/13/12/+4 to -8/HKD/3//H Overdrive Surge
-7//623L/700, 300/Mid, All/9/29/30/-22/KD/4, 3//L Rising Sword
-8//623M/700, 300×2/Mid×2, All/9/2(3)2,17/32/-30/KD/4/1~17 All/M Rising Sword
-9//623H/950~1400/Mid×3, All/9/2,3,6(23)2(3)2,2,3,3,9/32/-30/HKD/4/1~19 All/H Rising Sword
-10//236U/800/All/15//Total 46/-7/-3/2//Ultimate Reginleiv
-11//623U/800/All/15//Total 46/-7/-3/2//Ultimate Rising Sword
-12//214U/800/All/15//Total 46/-7/-3/2//Ultimate Overdrive Surge
+4//214L → 214M/500/Mid/13/13/12/-10/KD(+16)/2//L Overdrive Surge Followup
+5//214M/1200/Mid/16/13/14/-10 to +2/-2 to +6/3//M Overdrive Surge
+6//214H/1800/Mid/13/13/12/-8 to +4/KD(+25) to KD(+38)/3//H Overdrive Surge
+7//623L/500×2/Mid, All/6/29/30/-16/KD(+27)/4, 3//L Rising Sword
+8//623M/400×2, 300/Mid×2, All/9/2(3)2,17/32/-30/KD(+15)/4/1~17 All/M Rising Sword
+9//623H/1300~1500/Mid×3, All/11/2,3,6(23)2(3)2,2,3,3,9/32/-30/KD(+27)/4/1~19 All/H Rising Sword
+10//236U/1600/All/11//Total 39/-4/HKD (+52)///Ultimate Reginleiv
+11//623U/700, 300×2, 700/Mid/8//Total 62/-25/HKD (+43)/2/1-?? Full/Ultimate Rising Sword
+12//214U/1200×2/Mid/11//Total 43/-6/HKD (+60)/2//Ultimate Overdrive Surge
 13//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
-0//236236H/3500→2500→2000/Mid/6+5/3(4)9/23/-13/HKD/4//Tempest Blade
-1//236236H236U/3500→2500→2000/Mid/-/3(4)9/23/-13/HKD/4//Eternal Edge
-2//236236U/4500→3500/All/8+5//Total 98/-18/HKD/4//Catastrophe
+0//236236H/1500, 3000/Mid/6+5/3(4)9/23/-13/HKD (+42)/4//Tempest Blade
+1//236236H236U/120×30, 840 [100×30, 700]/Mid/7////HKD +40/4//Eternal Edge
+2//236236U/960×2, 360×2, 3000 [800×5]/All/8+5//Total 99/-18/HKD +45/4//Catastrophe
 3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

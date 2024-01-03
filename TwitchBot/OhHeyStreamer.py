@@ -51,7 +51,7 @@ df = pd.read_csv("MiscData/gameList.csv")
 dfRance = pd.read_csv("MiscData/ranceGameList.csv")
 
 def heyLen():
-    return "There are " + str(len(df["title"])) + " remaining games."
+    return "There are " + str(len(df["title"])) + " (" + format(round(len(df["title"]) / 13400, 4), ".2%") + ")" +" remaining games."
 
 dropValues = []
 def ohHeyStreamer():

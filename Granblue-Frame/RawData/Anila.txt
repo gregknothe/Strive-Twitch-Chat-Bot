@@ -1,0 +1,49 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/meter/name
+0//c.L/600/Mid/5/3/6/+4/+8/0///
+1//c.M/1100/Mid/6/3/14/-2/+2/2///
+2//c.H/1000, 600/Mid/9/22/19/-2/+2/4///
+3//c.XX/200, 150/Mid/9/12/16/-3/+1/2///
+4//c.XXX/1000/Mid/12/3/18/-4/0/3///
+5//c.XX6M/1000/Low/12/-/-/-4/KD +30/3///
+6//c.XX6H/1000/High/18/-/-/-4/+1/3///
+7//f.L/600/Mid/6/3/15/+1/+5/1///
+8//f.M/900/Mid/9/4/17/-6/-2/2///
+9//f.H/1300/Mid/10/9/21/-12/-8/3///
+10//2L/400/Low/6/3/6/-2/+2/0///
+11//2M/900/Mid/7/6/14/-6/-2/2///
+12//2H/1300/Mid/11/6/24/-10/-6/3///
+13//2U/1000/Low/13/6/18/-16/HKD +37/2///
+14//66L/600/Mid/8/3/10/+2/+6/2///
+15//66M/1100/Low/12/4/21/-8/KD +24/2///
+16//66H/1500/Mid/15/8/19/-8/KD +28/2///
+17//j.L/400/"High/Air"/5/Until L/0///1///
+18//j.M/600/"High/Air"/7/9/Until L///2///
+19//j.H/400, 200×2/"High/Air [All]"/9/222/Until L///2///
+20//j.U/800/"High/Air"/11/12/Until L///2///
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/meter/
+0//5U/200*4/Mid/17/1(11)1(12)1(11)1/16/-2/+2///480*4/Ramification
+1//5UU/500/Mid/15//Total 37/-6/KD +20///600/Ramification Followup
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/meter/name
+0//236L/800/Mid/17/Until Hit/Total 52/-7/-3/-//200+720/L Fluff 'Em, Stuff 'Em!
+1//236M/800/Mid/17/Until Hit/Total 52/-7/-3/-//200+720/M Fluff 'Em, Stuff 'Em!
+2//236H/1200, 400*3/Mid/17/Until Hit/Total 52/+2/+6///400+720/H Fluff 'Em, Stuff 'Em!
+3//623L/1000/All/6/6/31/-20/KD +26/-//200+720/L All is Vanity
+4//623M/1100/Mid*/12/6/38/-27/Air Recovery +15/-/1-12 All/200+720/M All is Vanity
+5//623H/1500/Mid/11/6/35/-24/KD +31/-/1-16 All/400+720/H All is Vanity
+6//214L/900/Mid/12/18/20 [15]/-2/Air Recovery +23/-//100+480/L Flock to the Future
+7//214M/1300/Mid/30/24/16 [15]/+2/KD +36/-//100+480/M Flock to the Future
+8//214H/1300/Mid/15/18/26 [15]/-8/KD +26/-//200+480, 120×2/H Flock to the Future
+9//214L~4X/700/All/9/Until Hit/Total 46/-7/+27/-//720/L And Beyond!
+10//214M~4X/1100/All/9/Until Hit/Total 46/-7/KD +31/-//720/M And Beyond!
+11//214H~4X/1100/All/9/Until Hit/Total 43/-4/KD +34/-//720/H And Beyond!
+12//22L/-/-/-/-/19/-/-/-//200/L Over the Fence
+13//22M/-/-/-/-/25/-/-/-//200/M Over the Fence
+14//22H/-/-/-/-/23/-/-/-//400/H Over the Fence
+15//236U/800*3/All/16/Until Hit/Total 65/-3/+1/-//-5000/Ultimate Flock to the Future
+16//623U/1000, 100, 150*6/Mid/8/3/38 [28]/-24/HKD +44/-/1-10 All/-5000/Ultimate All is Vanity
+17//214U/1100*2/All/15/18/43 [15]/-4/HKD +52///-5000/Ultimate Fluff 'Em, Stuff 'Em!
+18//22U/-/-/-/-/20/-////-5000/Ultimate Over the Fence
+19//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/meter/name
+0//236236H/1000, 350*10/Mid/5+9/6/44/-31/HKD +58/4/1-24 All/-10000/Gilded Heaven Strike
+1//236236U/3000, 120×20, 600 [1000, 500×6]/Mid/8+6/10/38/-29/HKD/4/1-23 All/-10000/Fury of the Ram
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/meter/name

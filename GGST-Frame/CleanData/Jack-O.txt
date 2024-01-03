@@ -17,7 +17,7 @@
 15/6H/27/2(9)11/14/-6/4/Normal/Special,Super
 16/2D/10/15/18/-19/2/Normal/Special,Super
 17/5D/20/3/26/-15/2/Normal/
-18/5[D]/28/3/26/-10/2/Normal/
+18/5[D]/28/3/26/-10/4/Normal/
 19/236P/10//Total 25///Special/
 20/236[P]///Total 14///Special/
 21/2P (near Servant)///Total 14///Normal/
@@ -26,14 +26,15 @@
 24/214P/10//Total 19///Special/
 25/214K/12/6/Total 23/15/2/Special/
 26/K while holding Servant/12/6/Total 23/3/2/Normal/
-27/214S/4/34/Total 24/31/1/Special/
+27/214S/4/28/Total 30/25/1/Special/
 28/S while holding Servant/4/28/Total 24/31/1/Normal/
 29/214H/208/19/Total 24//3/Special/
 30/236K/15/4/25/-12/3/Special/
-31/Bounced Servant/6////0/Normal/
-32/Launched Servant/6///-6/0/Normal/
-33/632146P/11/2/58/-41/4/Super/
-34/236236S/3/300/Total 15///Super/
-35/236236H/3/300/Total 15///Super/
-36/236D/20/3/20/7/4/Special/All
-37/236[D]/32/3/20/12/4/Special/All
+31/j.236K/15/4/19/5/3/jump Special/
+32/Bounced Servant/6////0/Normal/
+33/Launched Servant/6///-6/0/Normal/
+34/632146P/11/2/58/-41/4/Super/
+35/236236S/3/300/Total 15///Super/
+36/236236H/3/300/Total 15///Super/
+37/236D/20/3/20/7/4/Special/All
+38/236[D]/32/3/20/12/4/Special/All

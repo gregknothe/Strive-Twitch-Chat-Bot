@@ -5,7 +5,7 @@
 3//f.S/34/All/11/3/19/-8/-5/2/Mid//90%/1500/1000/
 4//5H/25, 25/All/16/3(12)3/18/-2/+1/4/Large//90%/1000×2/1000/
 5//5D/45/High/20/3/26/-15/0/2/Mid//80%/1125/3000 [1000]/
-6//5[D]/56/High/28/4/25/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
+6//5[D]/56/High/28/3/26/-10/KD +36/4/Mid//100%/1875/1500 [1000]/
 7//2P/21/All/5/3/9/-2/+1/0/Small//80%/500/1500/
 8//2K/25/Low/6/3/11/-2/+1/1/Small//70%/750/1000/
 9//2S/32/All/12/6/13/-5/-2/2/Mid//90%/1500/1000/
@@ -22,23 +22,23 @@
 20//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/
 0//236H/35/All/16/6/22/-14/-11/2/Mid//80%/1500/1000/Beak Driver
 1//236H~H/47/All/13/11/9/-3/KD +29/3/Mid//80%/2000/1000/Beak Driver Follow-Up
-2//623S/20, 30/All/9/6(23)4/36/-26/KD +3 [-22]/2/Large, Very Small/1-11 Strike/60%/700×2/1000/Hawk Baker
-3//623S~S/43/All/12/3/33/-19/KD +28/3/Mid/1-14 Strike/60%/2000/2000/Hawk Baker Follow-Up
-4//214S/17, 17/High/21/3, 3/22/-11/-8/2/Mid/6-23 Foot/80%/525×2/1000/Hoof Stomp
+2//623S/20, 30/All/9/6(23)4/36/-26/KD +3 [-22]/2/Large, Very Small/1-11F Strike/60%/700×2/1000/Hawk Baker
+3//623S~S/43/All/12/3/33/-19/KD +28/3/Mid/1-14F Strike/60%/2000/2000/Hawk Baker Follow-Up
+4//214S/17, 17/High/21/3, 3/22/-11/-8/2/Mid/6-23F Foot/80%/525×2/1000/Hoof Stomp
 5//214S~S/41/All/13/3/22/-8/KD +23/3/Mid//80%/2000/1000/Hoof Stomp Follow-Up
-6//236K/33/Low/21/7/15/-8/-5/2/Mid/10-30? Low Profile/80%/1125/1000/Elk Hunt
+6//236K/33/Low/21/7/15/-8/-5/2/Mid/10-30F Low Profile/80%/1125/1000/Elk Hunt
 7//236K~K/41/All (Guard Crush)/13/3/20/+8/KD +33/3/Mid//80%/2000/1000/Elk Hunt Follow-Up
 8//66 after special move//-///Total 24/////////Gazelle Step
 9//63214P//-///Total 49/////////Still Growing
 10//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
-0//632146H/20×2, 50/All/11+5/12/25+32 After Landing/-55/HKD +20/2/Mid/1~18 All/100%/500×3/1000/R.T.L
+0//632146H/20×2, 50/All/11+5/12/25+32 After Landing/-55/HKD +20/2/Mid/1-18F Full/100%/500×3/1000/R.T.L
 1//632146HH/10~100/All/12/8/39+15 After Landing/-43/HKD +20/4/Very Small//100%/2500/0/R.T.L Follow-up
 2//236236P/50/All/9+1/3/38/-22/HKD +53/4/Mid/None/100%/2500/1000/Tyrant Barrel
-3//236236P~]P[/70→90→120/All (Guard Crush)/3/3/39/-12/HKD +19 [CL HKD +56] (OTG -6)/4/Mid/None/100%/2500/0/Tyrant Barrel Follow-up
+3//236236P~]P[/45→65→95/All (Guard Crush)/3/3/39/-12/HKD +19 [CL HKD +56] (OTG -6)/4/Mid/None/100%/2500/0/Tyrant Barrel Follow-up
 4//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80//2/3/38//HKD +53///none/50%//2500/Ground Throw
 1///80//2/3/38 or Until Landing + 10//HKD +54 (IAD)///none/50%//2500/Air Throw
-2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/3000/Wild Assault
-3///50/All/28/3/20/-4/HKD/4/Mid//100%/2500/2000/Wild Assault (Hold)
+2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/4000/Wild Assault
+3///50/All/29/3/20/-4/HKD/4/Mid//100%/2500/3000/Wild Assault (Hold)
 4///////Total 22/////////Dash Cancel
 5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -5,7 +5,7 @@
 3//f.S/38/All/12/3/19/-8/-5/2/Mid//90%/1500/1000/
 4//5H/55/All/13/8/15/-4/-1/4/Large//90%/2500/1000/
 5//2P/24/All/5/4/8/-2/+1/0/Small//80%/500/1500/
-6//2K/28/Low/6/4/10/-2/+1/1/Small/F4~15 Low-profile/70%/750/1000/
+6//2K/28/Low/6/4/10/-2/+1/1/Small/4-15F Low profile/70%/750/1000/
 7//2S/35/All/10/3/18/-7/-4/2/Mid//90%/1500/1000/
 8//2H/60/All/11/13/26/-20/KD +21/4/Large//90%/2500/1000/
 9//j.P/22/High/5/3/12/+2~5 (IAD j.PPP)/+5~8 (IAD j.PPP)/0/Small//80%/375/1000/
@@ -28,17 +28,17 @@
 3//"[4]6S/H~K"/////Total 20/////////Split
 4//[2]8S/40/All→High/6/19/7 (21 OH)/0 (Airborne)/HKD +65 [+3] (Airborne)/2/Mid//80%/1500→1125/2000/S Mr. Dolphin Vertical
 5//[2]8H/45/All→High/11/27/8 (19 OH)/+6 (Airborne)/HKD +84 [+9] (Airborne)/3/Mid//80%/2000→1500/2000/H Mr. Dolphin Vertical
-6//623K/50/Ground Throw/6/2/40//HKD +66///1~6F Throw/50% Forced//2500/Overhead Kiss
-7//214P/50/All/48/6/Total 45/+29/+32/2/Very Small//80%/200/1000/P Arisugawa Sparkle
-8//214K/50/All/48/10/Total 45/+29/+32/2/Very Small//80%/200/1000/K Arisugawa Sparkle
+6//623K/50/Ground Throw/6/2/40//HKD +66///1-6F Throw/50% Forced//2500/Overhead Kiss
+7//214P/50/All/48/6, 10/Total 45/+29/+32/2/Very Small//80%/200/1000/P Arisugawa Sparkle
+8//214K/50/All/48/10, 10/Total 45/+29/+32/2/Very Small//80%/200/1000/K Arisugawa Sparkle
 9//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0//236236S/170/All/10+1//88/-54/HKD +53/4/Very Small//100%/500/1000/Great Yamada Attack
-1//632146H/66, 82/All/6+4/12(22)10/55/-31/HKD +38//Mid/1~21 Full/100%/1200, 500/1000×2/The Wonderful and Dynamic Goshogawara
-2//j.632146H/66, 82/All/6+4/12(22+)10/54////Mid/1~21 Full/100%/1200, 500/1000×2/Air The Wonderful and Dynamic Goshogawara
+1//632146H/66[43], 82/All/6+4/12(22)10/55/-31/HKD +38//Mid/1-21F Full/100%/1200, 500/1000/The Wonderful and Dynamic Goshogawara
+2//j.632146H/66[43], 82/All/6+4/12(22+)10/54////Mid/1-21F Full/100%/1200, 500/1000/Air The Wonderful and Dynamic Goshogawara
 3//Input/Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name
 0///80/Ground Throw/2/3/38//HKD +48////50%//2500/Ground Throw
 1///80/Air Throw/2/3/38 or Until Landing+10//HKD +48 (IAD)////50%//2500/Air Throw
-2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/3000/Wild Assault
-3///50/All/28/3/20/-4/HKD/4/Mid//100%/2500/2000/Wild Assault (Hold)
+2///30/All/16~27/3/20/-4/-1/4/Mid//90%/2500/4000/Wild Assault
+3///50/All/28/3/20/-4/HKD/4/Mid//100%/2500/3000/Wild Assault (Hold)
 4///////Total 22/////////Dash Cancel
 5///Damage/Guard/Startup/Active/Recovery/On-Block/On-Hit/Level/Counter Type/Invuln/Proration/R.I.S.C. Gain/R.I.S.C. Loss/Name

@@ -1,0 +1,48 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/All/5/3/6/+4/+8///
+1//c.M/1100/All/6/3/12/0/+4///
+2//c.H/1600/All/9/5/19/-5/-1///
+3//c.XX/700/All/9/3/15/-3/+1///
+4//c.XXX/700/All/12/3/18/-4/0///
+5//c.XX6M/1000/Low/12/-/-/-4/KD/3//
+6//c.XX6H/1000/High/18/-/-/-4/+1/3//
+7//f.L/600/All/6/5/12/+1/+5///
+8//f.M/300, 600/All/6/23/14/-2/+2///
+9//f.H/800, 500/All/9/2(13)2/18/-3/+2 (forces crouch)///
+10//2L/400/All/5/3/8/-4/0/2//
+11//2M/900/Low/7/3/11/+1/+5///
+12//2H/1300/All/11/6/23/-12/-8///
+13//2U/1000/Low/10/6/20/-11/HKD/2//
+14//66L/600/Mid/8/3/10/+2/+6/2//
+15//66M/1100/Low/18/-/-/+1/+5/2//
+16//66H/1300/Mid/20/7/14/-3 to +4/KD/2//
+17//j.L/600/High/5/Until L/0/////
+18//j.M/700/High/7/6/Until L/////
+19//j.H/1000/High/10/6/Until L/////
+20//j.U/1000/All/23/Until L+1/"18/15"/-5////
+21//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/200800/ALL///Total 136/-2/HKD//3~85 Catch/Give Daddy Some Sugar
+1//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/880/All/15//Total 47/-10/-6///L Goetia
+1//236X~4L/165×3/All/13/9×3/Total 38/+2/+6///L Everyone's A Little Crooked
+2//236X~4M/165×3/All/13/9×3/Total 38/+2/+6///M Everyone's A Little Crooked
+3//236X~4H/110×5/All/27/9×5/Total 40/+12/+16///H Everyone's A Little Crooked
+4//236M/880/All/17//Total 49/-10/-6///M Goetia
+5//236H/440×3/All/15//Total 49/+2/+6///H Goetia
+6//214L/770, 550/All/15/4/21/-5/KD///L Asmodeus
+7//214M/770, 770/All/21/4/19/-4/KD///M Asmodeus
+8//214H/770, 880/All/14/4/19/-8/KD///H Asmodeus
+9//623L/770, 330/All/6/2(3)9/28/-15/KD///L Notoria
+10//623M/1100, 550/All/38/5/10/+2/KD//11~22 All/M Notoria
+11//623H/600, 300, 500/All/11/2(3)9(18)5/24/-11/KD//1~22 All/H Notoria
+12//632146L/2000 [2200]/Throw/34/3/36//HKD///L Vassago
+13//632146M/2500 [2750]/Throw/52/3/36//HKD///M Vassago
+14//632146H/2500 [2750]/Throw/27~82/3/34//HKD///H Vassago
+15//236U/1600 [1760]/All/13//Total 47/+14/HKD///Ulitmate Goetia
+16//623U/2000 [2200]/All/8//Total 47/-11/HKD///Ulitmate Notoria
+17//214U/3000 [3300]/All/13//Total 47/+4/HKD///Ulitmate Asmodeus
+18//632146U/3000 [3300]/Throw/42 (Throw)//Total 47//HKD///Ulitmate Vassago
+19//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/2750→2200/All/8+5/4(18)9/30/-20/HKD//1~16 All/Legemeton
+1//236236U/3960→2640/All/8+5/3(12)3/45/-29/HKD//1~15 All/Anagenesis
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name

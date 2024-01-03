@@ -1,0 +1,60 @@
+/Unnamed: 0/input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//c.L/600/Mid/5///+4/+8/0//
+1//c.M/1100/Mid/6///-3/+1/2//
+2//c.M [d]/1050/Mid/6///-3/+1/2//
+3//c.H/1600/Mid/10///-3/+1/4//
+4//c.H [d]/1550/Mid/10///-3/+1/4//
+5//c.XX/700/Mid/9/12/16/-3/+1/2//
+6//c.XXX/1000/Mid/12/3/18/-4/0/3//
+7//c.XX6M/1000/Low/12/-/-/-4/"+30 SKD/+51 HKD"/3//
+8//c.XX6H/1000/High/18/-/-/-4/+1/3//
+9//f.L/600/Mid/6///+1/+5/1//
+10//f.M/900/Mid/10///-8/-4/2//
+11//f.M [d]/850/Mid/10///-8/-4/2//
+12//f.H/1300/Mid/12///-10/-6/3//
+13//f.H [d]/1250/Mid/12///-10/-6/3//
+14//2L/400/Mid/6///-2/+2/0//
+15//2M/900/Low/7///-6/-2/2//
+16//2M [d]/850/Low/7///-6/-2/2//
+17//2H/1300/Mid/11///-12/-8/3//
+18//2H [d]/1250/Mid/11///-12/-8/3//
+19//2U/1000/Low/11///-12/+43 HKD/2//
+20//2U [d]/950/Low/11///-12/+43 HKD/2//
+21//66L/600/Mid/8/-/-/+2/+6/0//
+22//66M/1100/High/26/-/-/-6/-2/2//
+23//66H/1200/Mid/15/-/-/-4/-/2//
+24//66H [d]//Mid/15/-/-/-4/-///
+25//j.L/600/"High/Air"/5/Until L/0///1//
+26//j.M/700/"High/Air"/7/9/Until L///2//
+27//j.M [d]/650/"High/Air"/8/9/Until L///2//
+28//j.H/1000/"High/Air [All]"/8/-/Until L///2//
+29//j.H [d]/950/"High/Air [All]"/8/-/Until L///2//
+30//j.U/1000/"High/Air"/-/-/Until L///2//
+31//j.U [d]/800/"High/Air"/11/-/Until L///2//
+32//j.4U/1000/"High/Air"/-/-/Until L///2//
+33//j.6U/1000/"High/Air"/-/-/Until L///2//
+34//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/
+0//5U/1300/Mid/18//Total 36/-2/KD///Love's Redemption
+1//5[U]/1600/Mid/36//Total 36/-2/KD///Love's Redemption (Charged)
+2//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236L/800/Mid/19///-2//4//L Fatal Waltz
+1//236M/1700/Mid/52///+86//4//M Fatal Waltz
+2//236H/1100/Mid/18///+4//4//H Fatal Waltz
+3//623L/1200/Mid/14/-/-/-6//4//L Misfortune
+4//623M/1200/Mid/30/-/-/-5//4//M Misfortune
+5//623H/1500/Mid/18/-/-/-17//4/1-?? Armor/H Misfortune
+6//214L/1000/Mid/19/-/-/-2//4//L Ominous Turn
+7//214M/1200/Mid/43/-/-/+12//4//M Ominous Turn
+8//214H/1300/Mid/16/-/-/-5//4//H Ominous Turn
+9//22L/1000/Mid/19/-/-/-2//4//L Death, Reversed
+10//22M/1200/Mid/43/-/-/+12//4//M Death, Reversed
+11//22H/1300/Mid/18/-/-/-3//4//H Death, Reversed
+12//236U/2400/Mid/20/6/17/+80//4//U Fatal Waltz
+13//623U/2000/Mid/12/-/-/-25/HKD/4/1-?? Armor/U Misfortune
+14//214U/2200/Mid/15/-/-/+50//4//U Ominous Turn
+15//22U/2100/Mid/13/-/-/+27//4//U Death, Reversed
+16//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
+0//236236H/4180/All/16///-34/HKD///Klagen Totentanz
+1//214214H//-/9//11/////World of Death and Love
+2//236236U/5016/-/1////HKD//1~?? Catch All/Drowned in an Exquisite and Eternal Adieu
+3//input/damage/guard/startup/active/recovery/onBlock/onHit/level/invuln/name
